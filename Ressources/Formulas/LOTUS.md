@@ -9,15 +9,15 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!tip] Theorem
- Let $X:\Omega\rightarrow G$ be a random variable and $g:G\rightarrow\mathbb{R}$ a function of this variable.
- *1.* Discrete case
- $$
+ >Let $X:\Omega\rightarrow G$ be a random variable and >$g:G\rightarrow\mathbb{R}$ a function of this variable.
+ >*1.* Discrete case
+ >$$
 \mathbb E[f(X)]= \sum_{x \in X(\Omega)} P(X = x)g(x)
-$$
-*2.* Continuous case
- $$
-\mathbb E[f(X)]= \int_{x \in X(\Omega)}f_{X}(x)g(x)dx
-$$
+>$$
+>*2.* Continuous case
+ >$$
+>\mathbb E[f(X)]= \int_{x \in X(\Omega)}f_{X}(x)g(x)dx
+>$$
 ### 2. Proof
 
 >[!info] Proof
