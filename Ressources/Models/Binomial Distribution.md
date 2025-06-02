@@ -20,25 +20,24 @@ $$
 >$$
 >X_{i}\sim\mathrm{Bernoulli}(p)\,\,\,(\mathrm{i.i.d})\Longrightarrow S_{n}:=\sum_{i=1}^nX_{i}\sim\mathcal{B}(n,p)
 >$$
+#### Note :
+The sum $S_n$ of a finite set $X_i,i\in\mathbb{N}$ composed by independent variables following a **[[Bernoulli Distribution]]** is a random variable following a **binomial law**.
 
->[!tldr] **[[Expected Value]]**
+>[!tldr] Characteristics
+>- **[[Expected Value]]**
 >$$
 >X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{E}[X]=np
 >$$
 >Proof :
-
->[!tldr] **[[Variance]]**
+>-  **[[Variance]]**
 >$$
 >X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{V}\mathrm{ar}[X]=np(1-p)
 >$$
 Proof :
-
->[!tldr] **[[Standard Deviation]]**
+>- **[[Standard Deviation]]**
 >$$
 X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 $$
-#### Note :
->The sum $S_n$ of a finite set $X_i,i\in\mathbb{N}$ composed by independent variables following a **[[Bernoulli Distribution]]** is a random variable following a **binomial law**.
 ### 2. Other formulas
 # Application
 ## I. Meaning
