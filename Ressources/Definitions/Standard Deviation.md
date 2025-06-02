@@ -16,10 +16,11 @@ $$
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] S
->$$
->
->$$
+>[!tldr] Inherent Properties
+$$
+- :
+\forall(a,b)\in\mathbb{R}^2,\sigma[aX+b]=|a|\sigma[X]
+$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
