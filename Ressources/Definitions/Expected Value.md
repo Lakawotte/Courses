@@ -51,6 +51,11 @@ Where $g$ is a convex function.
 $$
 \mathbb{E}(X)=\mathbb{E}_{y}(\mathbb{E}_{x}(X|Y))
 $$
+
+>[!tldr] Sum of Variables
+>$S_n:=\sum_{i=1}^nX_{i}$
+>$$
+>\mathbb{E}[S_{n}}
 ### 2. Other formulas
 # Application
 ## I. Meaning
