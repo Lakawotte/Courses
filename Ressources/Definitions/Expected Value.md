@@ -27,7 +27,7 @@ $$
 >$$
 >- :
 $$
-\forall
+\forall(a,b)\in\mathbb{R}^2,\mathbb{E}[aX+b]=a\mathbb{E}[X]+b
 $$
 
 >[!tldr] **[[Independency|Independent]]** Variables
