@@ -17,9 +17,9 @@ $$
 ### 1. Properties
 
 >[!tldr] Sum of **[[Independency|Independent]]** Variables
-$$
-X_{i}\sim\mathrm{Bernoulli}(p)\,\,\,(\mathrm{i.i.d})\Longrightarrow S_{n}:=\sum_{i=1}^nX_{i}\sim\mathcal{B}(n,p)
-$$
+>$$
+>X_{i}\sim\mathrm{Bernoulli}(p)\,\,\,(\mathrm{i.i.d})\Longrightarrow S_{n}:=\sum_{i=1}^nX_{i}\sim\mathcal{B}(n,p)
+>$$
 
 >[!tldr] **[[Expected Value]]**
 >$$
@@ -29,8 +29,8 @@ $$
 
 >[!tldr] **[[Variance]]**
 >$$
-X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{V}\mathrm{ar}[X]=np(1-p)
-$$
+>X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{V}\mathrm{ar}[X]=np(1-p)
+>$$
 Proof :
 
 >[!tldr] **[[Standard Deviation]]**
