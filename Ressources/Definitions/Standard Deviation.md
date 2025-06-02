@@ -16,8 +16,9 @@ $$
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] S
 >$$
+>
 >$$
 ### 2. Other formulas
 # Application

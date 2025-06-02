@@ -37,9 +37,9 @@ $$
 $$
 
 >[!tldr] Sum of Variables
->$S_n:=\sum_{i=1}^nX_{i}$ and 
+>$S_n:=\sum_{i=1}^nX_{i}$ and the variables are [[Independency|indenpendent]] of each other
 >$$
->\mathbb{E}[S_{n}]=\sum_{i=1}^n\mathbb{E}[X_{i}]
+>\mathbb{V}ar[S_{n}]=\sum_{i=1}^n\mathbb{V}ar[X_{i}]
 >$$
 ### 2. Other formulas
 
