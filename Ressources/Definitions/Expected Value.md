@@ -25,6 +25,10 @@ $$
 >$$
 >\mathbb{E}[X]+\mathbb{E}[Y]=\mathbb{E}[X+Y]
 >$$
+>- :
+$$
+\forall
+$$
 
 >[!tldr] **[[Independency|Independent]]** Variables
 >$$
