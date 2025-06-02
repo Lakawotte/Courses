@@ -29,8 +29,11 @@ $$
 
 >[!tldr] **[[Variance]]**
 >$$
-\mathbb{V}\mathrm{ar}[X]=np(1-p)
+X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{V}\mathrm{ar}[X]=np(1-p)
 $$
+Proof :
+
+>[!tldr] **[[Standard Er]]
 #### Note :
 >The sum $S_n$ of a finite set $X_i,i\in\mathbb{N}$ composed by independent variables following a **[[Bernoulli Distribution]]** is a random variable following a **binomial law**.
 ### 2. Other formulas
