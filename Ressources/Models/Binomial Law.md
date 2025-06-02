@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - probability
+  - probability/law
 category: "[[Maths]]"
 ---
 ---
