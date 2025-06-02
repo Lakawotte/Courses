@@ -16,7 +16,8 @@ $$
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Sum of [[Independency|Independent]] v
+>[!tldr] Sum of [[Independency|Independent]] Variables
+>The sum $S_n$ of a finite set $X_i,i\in\mathbb{N}$
 >$$
 >$$
 ### 2. Other formulas
