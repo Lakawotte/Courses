@@ -7,20 +7,16 @@ category: "[[Maths]]"
 ---
 # Formula
 ## I. Statement
-### 1. Expression
 
->[!hint] Formula
->$$
->$$
-### 2. Proof
+>[!hint] Definition
+>
+$$
+$$
 
->[!info] Proof
->$$
->$$
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Sum of [[Independency|Independent]] v
 >$$
 >$$
 ### 2. Other formulas
