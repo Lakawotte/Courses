@@ -35,6 +35,12 @@ $$
 >$$
 \mathbb{V}ar[\sum_{i=1}^nX_{i}]=\sum_{i=1}^n\mathbb{V}ar[X_i]+2\sum_{1\le i\le j\le n}cov(X_i,X_j)
 $$
+
+>[!tldr] Sum of Variables
+>$S_n:=\sum_{i=1}^nX_{i}$ and 
+>$$
+>\mathbb{E}[S_{n}]=\sum_{i=1}^n\mathbb{E}[X_{i}]
+>$$
 ### 2. Other formulas
 
 >[!tldr] Global Variance

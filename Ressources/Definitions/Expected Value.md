@@ -55,7 +55,8 @@ $$
 >[!tldr] Sum of Variables
 >$S_n:=\sum_{i=1}^nX_{i}$
 >$$
->\mathbb{E}[S_{n}}
+>\mathbb{E}[S_{n}]=\sum_{i=1}^n\mathbb{E}[X_{i}]
+>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
