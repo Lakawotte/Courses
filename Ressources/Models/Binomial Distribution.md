@@ -19,7 +19,7 @@ $$
 >[!tldr] Sum of **[[Independency|Independent]]** Variables
 >The sum $S_n$ of a finite set $X_i,i\in\mathbb{N}$ composed by independent variables following a **[[Bernouilli Law]]** is a random variable following a **binomial law** :
 >$$
->X_{i}\sim\mathrm{Bernoulli}(n,p)\
+>X_{i}\sim\mathrm{Bernoulli}(n,p)(\mathrm{i.i.d})\Longrightarrow S_{n}:=\sum_{i=1}^n\sim\mathcal{B}
 >$$
 ### 2. Other formulas
 # Application
