@@ -9,10 +9,11 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->
-$$
-$$
-
+>$$
+>X_{i}\sim\mathrm{Bernoulli}(p)\,\,\,(\mathrm{i.i.d})\Longrightarrow S_{n}:=\sum_{i=1}^nX_{i}\sim\mathcal{B}(n,p)
+>$$
+#### Note :
+The sum $S_n$ of a finite set $X_i,i\in\mathbb{N}$ composed by independent variables following a **[[Bernoulli Distribution]]** is a random variable following a **binomial law**.
 ## II. Extensions
 ### 1. Properties
 
