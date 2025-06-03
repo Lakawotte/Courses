@@ -34,6 +34,6 @@ $$
 # Example
 Consider a deck of $32$ classic cards from which we repeat two draws. These are independent events, the second being independent from the first.
 Consider the following variables :
-
+- $E_1$ : the 
 
 ---
