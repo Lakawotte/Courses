@@ -32,6 +32,6 @@ $$
 ## I. Meaning
 ## II. Use
 # Example
-Consider a 
+Consider a deck of $32$ cards. Drawing a card 
 
 ---
