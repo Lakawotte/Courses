@@ -68,7 +68,7 @@ $$
 
 >[!tldr] Bounded **[[Variance]]**
 >$$
->\forall X\in(0;1),\mathbb{V}ar[X]\le\frac{1}{4}
+>X\sim\mathrm{Bernoulli}(p)\Longrightarrow\mathbb{V}ar[X]\le\frac{1}{4}
 >$$
 >Proof :
 $\mathbb{V}\mathrm{ar}[X]=-p^2-p=0\Longleftrightarrow p=0\,\vee\,p=\frac{1}{4}\Longrightarrow\mathbb{V}\mathrm{ar}[X]\in(0;\frac{1}{4})$
