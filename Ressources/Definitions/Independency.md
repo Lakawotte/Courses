@@ -16,7 +16,8 @@ P((X_{i},X_{j})=(x_{i},x_{j}))=P(X_{i}=x_{i})\times P(X_{j}=x_{j})
 $$
 
 >[!tip] Definition 2 : General Case
->For $n\in\mathbb{N}$, let $\mathcal{E}_i,i\in\{1;n\}$ be $n$ random successive experiments with respective sample spaces $\Omega_i$ whom **[[cartesian product]]** is $\Omega=\Prod_{i=1}^n\Omega_i. If the $n$ random variables $E_i: \Omega \rightarrow\Omega _i$  give the result of the $i$th experiment (with $E=(E_1,E_2,\dots,E_n))
+>For $n\in\mathbb{N}$, let $\mathcal{E}_i,i\in\{1;n\}$ be $n$ random successive experiments with respective sample spaces $\Omega_i$ whom **[[cartesian product]]** is $\Omega=\Prod_{i=1}^n\Omega_i. Let the $n$ random variables $E_i: \Omega \rightarrow\Omega _i$  give the result of the $i$th experiment (with $E=(E_1,E_2,\dots,E_n)).
+>One say that these experiments are **independent** when for all outcome $\omega=(\)
 ## II. Extensions
 ### 1. Properties
 
