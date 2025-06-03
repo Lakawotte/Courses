@@ -32,5 +32,6 @@ $$
 ## I. Meaning
 ## II. Use
 # Example
+Consider a 
 
 ---
