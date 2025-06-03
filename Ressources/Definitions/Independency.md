@@ -17,7 +17,9 @@ $$
 
 >[!tip] Definition 2 : General Case
 >For $n\in\mathbb{N}$, let $\mathcal{E}_i,i\in\{1;n\}$ be $n$ random successive experiments with respective sample spaces $\Omega_i$ whom **[[cartesian product]]** is $\Omega=\Prod_{i=1}^n\Omega_i. Let the $n$ random variables $E_i: \Omega \rightarrow\Omega _i$  give the result of the $i$th experiment (with $E=(E_1,E_2,\dots,E_n)).
->One say that these experiments are **independent** when for all outcome $\omega=(\)
+>One say that these experiments are **independent** when for all outcome $\omega=(\omega_1,\omega2,\dots,\omega_n)$ from $\Omega$
+>$$
+>P(E=\omega)=\prod_{i=1}^nP(E_{i}) 
 ## II. Extensions
 ### 1. Properties
 
