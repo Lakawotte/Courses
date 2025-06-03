@@ -32,6 +32,8 @@ $$
 ## I. Meaning
 ## II. Use
 # Example
-Consider a deck of $32$ classic cards. Drawing a card and then drawing another are two independent experiments.
+Consider a deck of $32$ classic cards from which we repeat two draws. These are independent events, the second being independent from the first.
+Consider the following variables :
+
 
 ---
