@@ -16,7 +16,7 @@ P((X_{i},X_{j})=(x_{i},x_{j}))=P(X_{i}=x_{i})\times P(X_{j}=x_{j})
 $$
 
 >[!tip] Definition 2 : General Case
->For $n\in\mathbb{N}$, let $\mathcal{E}_i,i\in\{1;n\}$ be $n$ random  
+>For $n\in\mathbb{N}$, let $\mathcal{E}_i,i\in\{1;n\}$ be $n$ random successive experiments with respective sample spaces $\Omega_i$ su 
 ## II. Extensions
 ### 1. Properties
 
