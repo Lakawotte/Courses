@@ -32,6 +32,6 @@ $$
 ## I. Meaning
 ## II. Use
 # Example
-Consider a deck of $32$ cards. Drawing a card 
+Consider a deck of $32$ classic cards. Drawing a card and then drawing another are two independent experiments.
 
 ---
