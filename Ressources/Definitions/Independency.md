@@ -47,9 +47,9 @@ The marginal laws of these variables are given :
 | $P(E_2=\omega_2)$ | $\frac{5}{8}$ | $\frac{3}{8}$ |
 Since the two events are independent, the joint law is :
 
-| $\omega$        | ♡             | ♢             | ♠             | ♣             |
-| --------------- | ------------- | ------------- | ------------- | ------------- |
-| $P(E_1=\omega)$ | $\frac{1}{4}$ | $\frac{1}{4}$ | $\frac{1}{4}$ | $\frac{1}{4}$ |
+| $\omega$      | (♡;1)          | (♢;1)          | (♠;1)          | (♣;1)         |
+| ------------- | -------------- | -------------- | -------------- | ------------- |
+| $P(E=\omega)$ | $\frac{3}{32}$ | $\frac{3}{32}$ | $\frac{3}{32}$ | $\frac{1}{4}$ |
 
 
 ---
