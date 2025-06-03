@@ -36,5 +36,11 @@ Consider a deck of $32$ classic cards from which we repeat two draws. These are 
 Consider the following variables :
 - $E_1$ : the suit of the first card
 - $E_2$ the boolean corresponding to "the second card is a figure"
+The marginal laws of these variables are given :
+
+| $\omega_1$       |     |
+| ---------------- | --- |
+| $P(E_1=\omega_1) |     |
+
 
 ---
