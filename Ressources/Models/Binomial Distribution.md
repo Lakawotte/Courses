@@ -14,6 +14,7 @@ category: "[[Maths]]"
 >$$
 #### Note :
 The sum $S_n$ of a finite set $X_i,i\in\mathbb{N}$ composed by independent variables following a **[[Bernoulli Distribution]]** is a random variable following a **binomial law**.
+We say that the random variable $X_{n}$ counts the successes in the independent
 ## II. Extensions
 ### 1. Properties
 
