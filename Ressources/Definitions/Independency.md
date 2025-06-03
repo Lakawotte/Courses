@@ -38,9 +38,12 @@ Consider the following variables :
 - $E_2$ the boolean corresponding to "the second card is a figure"
 The marginal laws of these variables are given :
 
-| $\omega_1$       |     |
-| ---------------- | --- |
-| $P(E_1=\omega_1) |     |
+| $\omega_1$        | ♡             | ♢             | ♠             | ♣             |
+| ----------------- | ------------- | ------------- | ------------- | ------------- |
+| $P(E_1=\omega_1)$ | $\frac{1}{4}$ | $\frac{1}{4}$ | $\frac{1}{4}$ | $\frac{1}{4}$ |
 
+| $\omega_2$        | ♡             | ♢             | ♠             | ♣             |
+| ----------------- | ------------- | ------------- | ------------- | ------------- |
+| $P(E_2=\omega_2)$ | $\frac{1}{4}$ | $\frac{1}{4}$ | $\frac{1}{4}$ | $\frac{1}{4}$ |
 
 ---
