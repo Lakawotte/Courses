@@ -25,7 +25,7 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Characteristics
+>[!tldr] Characteristics 1
 >- **[[Expected Value]]**
 >$$
 >X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{E}[X]=np
@@ -39,6 +39,12 @@ Proof :
 >- **[[Standard Deviation]]**
 >$$
 X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
+$$
+
+>[!tldr] Characteristics 2
+>- **[[Mode]]**
+>$$
+\mathrm{Mode[X]}
 $$
 
 >[!tldr] Symmetry
