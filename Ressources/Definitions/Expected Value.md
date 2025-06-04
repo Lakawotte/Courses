@@ -30,16 +30,17 @@ $$
 >\forall(a,b)\in\mathbb{R}^2,\mathbb{E}[aX+b]=a\mathbb{E}[X]+b
 >$$
 >- Monotony :
->- $$
->- X\leq Y$ *a.s* $\Rightarrow \mathbb{E}(X)\leq \mathbb{E}(Y)
->- $$
+>$$
+>X\leq Y$ *a.s* $\Rightarrow \mathbb{E}(X)\leq \mathbb{E}(Y)
+>$$
 >- Non-degenerativness :
->- $$
->- \mathbb{E}(|X|)=0\Rightarrow X=0
->- $$
+>$$
+>\mathbb{E}(|X|)=0\Rightarrow X=0
+>$$
 >- Positivity :
->- $X\ge 0\Rightarrow\mathbb{E}(X)\ge 0
->- $$
+>$$
+>X\ge 0\Rightarrow\mathbb{E}(X)\ge 0
+>$$
 
 >[!tldr] **[[Independency|Independent]]** Variables
 >$$
