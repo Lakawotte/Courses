@@ -43,7 +43,7 @@ $$
 ### 2. Other formulas
 # Application
 ## I. Meaning
-The formula can be understand by comparing to the *probability mass function* of the **[[Bernoulli Distribution]]**. Indeed, $p^k(1-p)^{n-k}$ is the probability of obtaining k successes in $n$ **[[Independency]] 
+The formula can be understand by comparing to the *probability mass function* of the **[[Bernoulli Distribution]]**. Indeed, $p^k(1-p)^{n-k}$ is the probability of obtaining $k$ successes in $n$ **[[Independency|independent]]** *Beroulli trials*. Since the trials are **[[Independency|independent]]** and inden
 ## II. Use
 # Example
 
