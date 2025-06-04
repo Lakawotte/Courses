@@ -29,6 +29,9 @@ $$
 >$$
 >\forall(a,b)\in\mathbb{R}^2,\mathbb{E}[aX+b]=a\mathbb{E}[X]+b
 >$$
+- It's monotonic : $X\leq Y$ *a.s* $\Rightarrow \mathbb{E}(X)\leq \mathbb{E}(Y)$
+- It's non-degenerative : $\mathbb{E}(|X|)=0\Rightarrow X=0$
+- It's positive : $X\ge 0\Rightarrow\mathbb{E}(X)\ge 0$
 
 >[!tldr] **[[Independency|Independent]]** Variables
 >$$
@@ -65,7 +68,7 @@ The expected value is also called the **expectation** or the **first moment**. W
 
 Simply, the expectation is the mean of the possible values a random variable can take, weighted by their respective probability.
 We say that $X$ is **centered** if its expectation is zero.
-
+## II. Use
 In finance, it's used to anticipate the average value of an investment in a near future. For example, it helps building a portfolio by comparing the different outcomes.
 # Example
 Imagine that you want to invest in some crypto currency and you know these :
