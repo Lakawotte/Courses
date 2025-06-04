@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->an $n$-sized **sample** of a *probability distribution* is a finite set $X
+>an $n$-sized **sample** of a *probability distribution* is a finite set $X_i$ of i.i.d variables from tji
 ## II. Extensions
 ### 1. Properties
 
