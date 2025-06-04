@@ -46,7 +46,7 @@ $$
 f(k,n,p)=f(n-k,n,1-p)
 $$
 Proof :
-
+$f(n-k,n,1-p)=\begin{pmatrix}n\\ n-k\end{pmatrix}p^{n-k}(1-(1-p))^{{n-k}}$
 ### 2. Other formulas
 # Application
 ## I. Meaning
