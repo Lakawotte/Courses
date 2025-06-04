@@ -74,7 +74,7 @@ $$
 $\mathbb{V}\mathrm{ar}[X]=-p^2-p=0\Longleftrightarrow p=0\,\vee\,p=\frac{1}{4}\Longrightarrow\mathbb{V}\mathrm{ar}[X]\in(0;\frac{1}{4})$
 
 >[!tldr] Beroulli Scheme
->
+>We
 ### 2. Other formulas
 # Application
 ## I. Meaning
