@@ -7,6 +7,7 @@ category: "[[Maths]]"
 ---
 # Formula
 ## I. Statement
+### Definition
 
 >[!hint] Definition
 >$$
