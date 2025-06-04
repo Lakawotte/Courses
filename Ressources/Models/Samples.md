@@ -13,7 +13,8 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] **[[Mean]]** of a **sample**
+>Let $F_n$, the **[[Mean|mean]]** of a samp
 >$$
 >$$
 ### 2. Other formulas
