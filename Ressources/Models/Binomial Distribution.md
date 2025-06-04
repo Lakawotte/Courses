@@ -44,8 +44,8 @@ $$
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
 >$$
-\mathrm{Mode[X]}
-$$
+>\mathrm{Mode[X]}=\lfloor(n+1)p \rfloor\
+>$$
 
 >[!tldr] Symmetry
 >$$
