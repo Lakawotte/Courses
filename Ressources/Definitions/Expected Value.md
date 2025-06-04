@@ -26,9 +26,9 @@ $$
 >\mathbb{E}[X]+\mathbb{E}[Y]=\mathbb{E}[X+Y]
 >$$
 >- :
-$$
-\forall(a,b)\in\mathbb{R}^2,\mathbb{E}[aX+b]=a\mathbb{E}[X]+b
-$$
+>$$
+>\forall(a,b)\in\mathbb{R}^2,\mathbb{E}[aX+b]=a\mathbb{E}[X]+b
+>$$
 
 >[!tldr] **[[Independency|Independent]]** Variables
 >$$
@@ -42,15 +42,15 @@ $$
 >Where $\tau_A$ is the [[Kendall's Rank Correlation Coefficient|Kendall's Tau]] and $\rho$ the [[Pearson's Product Moment Correlation Coefficient|Pearson's Rho]].
 
 >[!tldr] Jensen's Inequality
-$$
-\mathbb{E}[{g(X)]}\ge g(\mathbb{E}[X])
-$$
-Where $g$ is a convex function.
+>$$
+>\mathbb{E}[{g(X)]}\ge g(\mathbb{E}[X])
+>$$
+>Where $g$ is a convex function.
 
 > [!tldr] Law of Iterated Expectations
-$$
-\mathbb{E}(X)=\mathbb{E}_{y}(\mathbb{E}_{x}(X|Y))
-$$
+>$$
+>\mathbb{E}(X)=\mathbb{E}_{y}(\mathbb{E}_{x}(X|Y))
+>$$
 
 >[!tldr] Sum of Variables
 >$S_n:=\sum_{i=1}^nX_{i}$
