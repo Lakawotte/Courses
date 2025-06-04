@@ -40,6 +40,9 @@ Proof :
 >$$
 X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 $$
+
+>[!tldr] Symmetric
+>
 ### 2. Other formulas
 # Application
 ## I. Meaning
