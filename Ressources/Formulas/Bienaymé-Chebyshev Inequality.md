@@ -37,7 +37,8 @@ By this proof, one can understand why the bounds are so loose. Indeed the condit
 >\forall k>0,P(|X-\mathbb{E}[X]|\ge k\sigma)\le\frac{1}{k^2}
 >$$
 >Proof :
-
+>Let $k=k\sigma$
+$P(|X-\mathbb{E}[X]|\ge k\sigma)\le \frac{\sigma^2}{(k\sigma)^2}=$
 >[!tldr] Right-tailed version
 >$$
 >\forall k>0,P(|X-\mathbb{E}[X]|\ge k\sigma)\le\frac{1}{1+k^2}
