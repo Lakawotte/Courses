@@ -14,7 +14,7 @@ category: "[[Maths]]"
 ### 1. Properties
 
 >[!tldr] **[[Mean]]** of a **sample**
->Let $F_n$, the **[[Mean|mean]]** of a samp
+>Let $F_n$, the **[[Mean|mean]]** of a sample be $F_n=\frac{1}{n}\sum_ {i=1}^nX_i$.
 >$$
 >$$
 ### 2. Other formulas
