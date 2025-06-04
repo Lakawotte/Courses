@@ -29,8 +29,10 @@ category: "[[Maths]]"
 >$\mathbb{V}ar[F_{n}]=\mathbb{V}ar[\frac{1}{n}\sum_ {i=1}^nX_i]=$
 > -  **[[Standard Deviation]]**
 >$$
-\sigma[F_{n}]=\frac{\sigma}
-$$
+\sigma[F_{n}]=\frac{\sigma[X]}{\sqrt{ n }}
+>$$
+>Proof :
+>$\sigma[F_{n}]=\sigma[\frac{1}{n}\sum_ {i=1}^nX_i]=$
 ### 2. Other formulas
 # Application
 ## I. Meaning
