@@ -23,10 +23,14 @@ category: "[[Maths]]"
 >$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=$
 >- **[[Variance]]**
 >$$
-\mathbb{V}ar[F_{n}]=\frac{\mathbb{V}ar[X]}[n]
+>\mathbb{V}ar[F_{n}]=\frac{\mathbb{V}ar[X]}[n]
+>$$
+>Proof :
+>$\mathbb{V}ar[F_{n}]=\mathbb{V}ar[\frac{1}{n}\sum_ {i=1}^nX_i]=$
+> -  **[[Standard Deviation]]**
+>$$
+\sigma[F_{n}]=\frac{\sigma}
 $$
-Proof :
-$\mathbb
 ### 2. Other formulas
 # Application
 ## I. Meaning
