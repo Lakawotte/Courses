@@ -44,8 +44,10 @@ $$
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
 >$$
->\mathrm{Mode[X]}=\lfloor(n+1)p \rfloor\
+>\mathrm{Mode[X]}=\lfloor(n+1)p\rfloor\vee\lceil(n+1)p\rceil -1
 >$$
+>Proof :
+>
 
 >[!tldr] Symmetry
 >$$
