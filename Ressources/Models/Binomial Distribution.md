@@ -32,7 +32,7 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 >$$
 >Proof :
 >$X\sim\mathrm{Bernoulli}(p)\Longrightarrow\mathbb{E}[X]=p$
->If we sum $n$ times 
+>If we sum $n$ times the same variable we end up having $\mathbb{E}[S_n]
 >-  **[[Variance]]**
 >$$
 >X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{V}\mathrm{ar}[X]=np(1-p)
