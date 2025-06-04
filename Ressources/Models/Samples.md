@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->a **sample
+>an $n$-sized **sample** of a *probability distribution* is a finite set $X
 ## II. Extensions
 ### 1. Properties
 
