@@ -34,6 +34,7 @@ cssclasses:
 >- #analysis
 >- #thermodynamics
 >- #astronomy
+>- #mechanics
 
 
 
