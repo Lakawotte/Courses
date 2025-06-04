@@ -25,13 +25,21 @@ $$
 >$$
 >\mathbb{E}[X]+\mathbb{E}[Y]=\mathbb{E}[X+Y]
 >$$
->- :
+>- Linearity :
 >$$
 >\forall(a,b)\in\mathbb{R}^2,\mathbb{E}[aX+b]=a\mathbb{E}[X]+b
 >$$
-- It's monotonic : $X\leq Y$ *a.s* $\Rightarrow \mathbb{E}(X)\leq \mathbb{E}(Y)$
-- It's non-degenerative : $\mathbb{E}(|X|)=0\Rightarrow X=0$
-- It's positive : $X\ge 0\Rightarrow\mathbb{E}(X)\ge 0$
+>- Monotony :
+>- $$
+>- X\leq Y$ *a.s* $\Rightarrow \mathbb{E}(X)\leq \mathbb{E}(Y)
+>- $$
+>- Non-degenerativness :
+>- $$
+>- \mathbb{E}(|X|)=0\Rightarrow X=0
+>- $$
+>- Positivity :
+>- $X\ge 0\Rightarrow\mathbb{E}(X)\ge 0
+>- $$
 
 >[!tldr] **[[Independency|Independent]]** Variables
 >$$
