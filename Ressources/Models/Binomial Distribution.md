@@ -19,7 +19,7 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 ### Expression
 >[!example] Probability Mass Function
 >$$
->\forall n\in\mathbb{N}^*,\forall p\in[0;1],\forall k\in\left[ \! \left[0;n\right] \! \right], P(X_{n}=k)=\begin{pmatrix}n\\ k\end{pmatrix}p^k(1-p)^{{n-k}}
+>\forall n\in\mathbb{N}^*,\forall p\in[0;1],\forall k\in\left[ \! \left[0;n\right] \! \right], P(X_{n}=k)=f(k,n,p)=\begin{pmatrix}n\\ k\end{pmatrix}p^k(1-p)^{{n-k}}
 >$$
 >Where $\begin{pmatrix}n\\ k\end{pmatrix}=\frac{n!}{(n-k)!k!}$ is the *binomial coefficient*.
 ## II. Extensions
@@ -42,7 +42,11 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 $$
 
 >[!tldr] Symmetric
->
+$$
+f(k,n,p)=f(n-k,n,1-p)
+$$
+Proof :
+
 ### 2. Other formulas
 # Application
 ## I. Meaning
