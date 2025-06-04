@@ -21,7 +21,7 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 >$$
 >\forall n\in\mathbb{N}^*,\forall p\in[0;1],\forall k\in\left[ \! \left[0;n\right] \! \right], P(X_{n}=k)=\begin{pmatrix}n\\ k\end{pmatrix}p^k(1-p)^{{n-k}}
 >$$
->Where $\begin{pmatrix}n\\ k\end{pmatrix}=\frac{n!}{(n-k)!k!}$ is t
+>Where $\begin{pmatrix}n\\ k\end{pmatrix}=\frac{n!}{(n-k)!k!}$ is the *binomial coefficient*.
 ## II. Extensions
 ### 1. Properties
 
