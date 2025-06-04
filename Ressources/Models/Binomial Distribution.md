@@ -43,6 +43,7 @@ $$
 ### 2. Other formulas
 # Application
 ## I. Meaning
+The formula can be understand by comparing to the *probability mass function* of the **[[]]
 ## II. Use
 # Example
 
