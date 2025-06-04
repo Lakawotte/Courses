@@ -66,12 +66,6 @@ The expected value is also called the **expectation** or the **first moment**. W
 Simply, the expectation is the mean of the possible values a random variable can take, weighted by their respective probability.
 We say that $X$ is **centered** if its expectation is zero.
 
-The expectation have some properties :
-- It's linear : $\mathbb{E}(aX+bY)=a\mathbb{E}(X)+b\mathbb{E}(Y)$
-- It's monotonic : $X\leq Y$ *a.s* $\Rightarrow \mathbb{E}(X)\leq \mathbb{E}(Y)$
-- It's non-degenerative : $\mathbb{E}(|X|)=0\Rightarrow X=0$
-- It's positive : $X\ge 0\Rightarrow\mathbb{E}(X)\ge 0$
-## II. Use
 In finance, it's used to anticipate the average value of an investment in a near future. For example, it helps building a portfolio by comparing the different outcomes.
 # Example
 Imagine that you want to invest in some crypto currency and you know these :
