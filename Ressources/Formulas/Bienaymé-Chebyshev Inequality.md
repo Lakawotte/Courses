@@ -14,6 +14,8 @@ category: "[[Maths]]"
 >$$
 >\forall k>0,P(|X-\mathbb{E}[X]|\ge k)\le \frac{\mathbb{V}ar(X)}{k^2}
 >$$
+#### Note :
+Only the case $k\ge 1$ is useful. Indeed if $k\le1
 ### 2. Proof
 
 >[!info] Proof by the law of total probability
