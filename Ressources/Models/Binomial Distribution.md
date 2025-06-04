@@ -19,7 +19,7 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 ### Expression
 >[!example] Probability Mass Function
 >$$
->\forall n\in\mathbb{N}^*,\forall p\in[0;1],\forall k\in, 
+>\forall n\in\mathbb{N}^*,\forall p\in[0;1],\forall k\in, P(X_{n}=k)=
 $$
 ## II. Extensions
 ### 1. Properties
