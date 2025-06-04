@@ -10,10 +10,10 @@ category: "[[Maths]]"
 ### 1. Definitions
 
 >[!hint] Definition 1
->A Bernoulli's trial is a random experiment whom results belongs to a sample space partitioned into two complementary events.
+>A *Bernoulli's trial* is a random experiment whom results belongs to a sample space partitioned into two complementary events.
 
 >[!tip] Definition 2
->In a Bernoulli trial where the probability of success $\mathcal{S}$ is $p$, let S be the random variable defined as the caracteristic function of $\mathcal{S}$ :
+>In a *Bernoulli trial* where the probability of success $\mathcal{S}$ is $p$, let S be the random variable defined as the caracteristic function of $\mathcal{S}$ :
 >- S=1 is $\mathcal{S}$
 >- S=0 is $\bar{\mathcal{S}}$
 >The *distribution* of S is called a **Bernoulli distribution** of parameter $p$ :
@@ -74,7 +74,7 @@ $$
 $\mathbb{V}\mathrm{ar}[X]=-p^2-p=0\Longleftrightarrow p=0\,\vee\,p=\frac{1}{4}\Longrightarrow\mathbb{V}\mathrm{ar}[X]\in(0;\frac{1}{4})$
 
 >[!tldr] Beroulli Scheme
->The successive iteration of identical *Beroulli experiments* is called a *Beroulli scheme*.
+>The successive iteration of identical *Beroulli trials* is called a *Beroulli scheme*.
 ### 2. Other formulas
 # Application
 ## I. Meaning
