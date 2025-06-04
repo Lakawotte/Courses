@@ -31,7 +31,7 @@ $$
 >$$
 >- Monotony :
 >$$
->X\leq Y$ *a.s* $\Rightarrow \mathbb{E}(X)\leq \mathbb{E}(Y)
+>X\leq Y \mathrm{a.s}\Rightarrow \mathbb{E}(X)\leq \mathbb{E}(Y)
 >$$
 >- Non-degenerativness :
 >$$
