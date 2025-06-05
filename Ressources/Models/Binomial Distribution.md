@@ -25,28 +25,12 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 ## II. Extensions
 ### 1. Properties
 
-> [!multi-column]
->
->> [!tldr] Characteristics 1
->> - **[[Expected Value]]**
->> $$X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{E}[X]=np$$
->>
->> - **[[Variance]]**  
->> - **[[Standard Deviation]]**  
->
->>[!info] Proofs
->> - **[[Expected Value]]**  
->>
->> - **[[Variance]]**  
-
-
-
 >[!multi-column]
->>[!tldr] Characteristics 1
->>- **[[Expected Value]]**
->>$$
+>[!tldr] Characteristics 1
+>- **[[Expected Value]]**
+>$$
 X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{E}[X]=np
-$$
+>$$
 >>Proof :
 >>$X\sim\mathrm{Bernoulli}(p)\Longrightarrow\mathbb{E}[X]=p$
 >>If we sum $n$ times the same variable we end up having $\mathbb{E}[S_n]=\sum_{i=1}^n\mathbb{E}[X_{i}]=n\mathbb{E}[X]=np$
