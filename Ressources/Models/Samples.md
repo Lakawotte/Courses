@@ -40,7 +40,7 @@ category: "[[Maths]]"
 >$$
 ##### Example :
 We want to check if a 6-sided die is rigged by throwing it multiple times. We assume that the die is not rigged, and we want to be sure at $95\%$ that the die is fair.
-Then we just need to take $\frac{1}{n\alpha^2}=0.95\Longelft
+Then we just need to take $\frac{1}{n\alpha^2}=0.95\Longleftrightarrow\alpha=\frac{2\sqrt{5}}{\sqrt{n}}$.
 ### 2. Other formulas
 # Application
 ## I. Meaning
