@@ -66,8 +66,11 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>$$
 >>4.
 >>$$
->|m-np|\le\min
+>|m-np|\le\min{p,1-p}
 >>$$
+>>Exept when $p=\frac{1}{2}$ and when $n$ is odd.
+>>5.
+>>$
 >
 >>[!info] Proofs
 >> 
