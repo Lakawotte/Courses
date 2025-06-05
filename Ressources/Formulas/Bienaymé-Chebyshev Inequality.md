@@ -11,12 +11,12 @@ category: "[[Maths]]"
 
 >[!hint] Formula
 >$$
->\forall k>0,P(|X-\mathbb{E}[X]|\ge k)\le \frac{\mathbb{V}ar(X)}{k^2}
+>\forall k>0,P(|X-\mathbb{E}[X]|\ge k)\le \frac{\mathbb{V}ar[X]}{k^2}
 >$$
 ### 2. Proof
 
 >[!info] Proof by the **[[Law of Total Probability|law of total probability]]**
-$$
+>$$
 \begin{split}
 \sigma^2 &=\mathbb{E}[(X-\mathbb{E}[X])]\\
 &=\mathbb{E}[(X-\mathbb{E}[X])|k\sigma\le|X-\mathbb{E}[X]]P(k\sigma\le|X-\mathbb{E}[X])+\mathbb{E}[(X-\mathbb{E}[X])|k\sigma\ge|X-\mathbb{E}[X]]P(k\sigma\ge|X-\mathbb{E}[X])\\
@@ -27,6 +27,7 @@ $$
 >$$
 >Choosing $k=k\sigma$ gives us the original inequality.
 
+#### Note :
 By this proof, one can understand why the bounds are so loose. Indeed the conditional expectation of the event where $|X-\mathbb{E}[X]|\le k\sigma$ is thrown away, and the one remaining is quite poor.
 ## II. Extensions
 ### 1. Properties
@@ -35,7 +36,8 @@ By this proof, one can understand why the bounds are so loose. Indeed the condit
 >$$
 >\forall k>0,P(|X-\mathbb{E}[X]|\ge k\sigma)\le\frac{1}{k^2}
 >$$
->Proof :
+
+>[!info] Proof
 >Let $k=k\sigma$
 $P(|X-\mathbb{E}[X]|\ge k\sigma)\le \frac{\sigma^2}{(k\sigma)^2}=\frac{1}{k^2}$
 #### Note :
