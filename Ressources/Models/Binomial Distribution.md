@@ -25,8 +25,8 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 ## II. Extensions
 ### 1. Properties
 
->[!tip]
->>[!tldr] Characteristics 1
+>[!tip] Characteristics 1
+>>[!tldr] Lemmas
 >>- **[[Expected Value]]**
 >> $$
 X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{E}[X]=np
@@ -39,6 +39,7 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{V}\mathrm{ar}[X]=np(1-p)
 >>$$
 X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>$$
+>
 >>[!info] Proofs
 >> - **[[Expected Value]]**
 >>$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]$
