@@ -17,13 +17,13 @@ category: "[[Maths]]"
 
 >[!info] Proof by the **[[Law of Total Probability|law of total probability]]**
 $$
->\begin{split}
->\sigma^2 &=\mathbb{E}[(X-\mathbb{E}[X])]\\
->&=\mathbb{E}[(X-\mathbb{E}[X])|k\sigma\le|X-\mathbb{E>[X]]P(k\sigma\le|X-\mathbb{E}[X])+\mathbb{E}[(X-\mathbb{E}[X])|k\sigma\ge|X-\mathbb{E}[X]]P(k\sigma\ge|X-\mathbb{E}[X])\\
->&\ge(k\sigma)^2P(k\sigma\le|X-\mathbb{E}[X]|)+0\times P(k\sigma\ge|X-\mathbb{E}[X]|)\\
->&=k^2\sigma^2P(k\sigma\le|X-\mathbb{E}[X]|)\\
->\Longleftrightarrow\frac{1}{k^2}&\ge P(k\sigma\le|X-\mathbb{E}[X]|)\\
->\end{split}
+\begin{split}
+\sigma^2 &=\mathbb{E}[(X-\mathbb{E}[X])]\\
+&=\mathbb{E}[(X-\mathbb{E}[X])|k\sigma\le|X-\mathbb{E}[X]]P(k\sigma\le|X-\mathbb{E}[X])+\mathbb{E}[(X-\mathbb{E}[X])|k\sigma\ge|X-\mathbb{E}[X]]P(k\sigma\ge|X-\mathbb{E}[X])\\
+&\ge(k\sigma)^2P(k\sigma\le|X-\mathbb{E}[X]|)+0\times P(k\sigma\ge|X-\mathbb{E}[X]|)\\
+&=k^2\sigma^2P(k\sigma\le|X-\mathbb{E}[X]|)\\
+\Longleftrightarrow\frac{1}{k^2}&\ge P(k\sigma\le|X-\mathbb{E}[X]|)\\
+\end{split}
 >$$
 >Choosing $k=k\sigma$ gives us the original inequality.
 
