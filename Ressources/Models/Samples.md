@@ -33,6 +33,10 @@ category: "[[Maths]]"
 >$$
 >Proof :
 >$\sigma[F_{n}]=\sigma[\frac{1}{n}\sum_ {i=1}^nX_i]=$
+
+>[!tldr] Concentration Inequality
+>$$
+>P(|F_{n}-\mathbb{E}[X]\ge\alpha\sigma)
 ### 2. Other formulas
 # Application
 ## I. Meaning
