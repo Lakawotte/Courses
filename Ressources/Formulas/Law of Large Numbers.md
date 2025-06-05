@@ -1,14 +1,17 @@
 ---
 aliases: 
-tags: []
+tags:
+  - probability/bounds
 category: "[[Maths]]"
 ---
 ---
 # Definition
 ## I. Statement
 
->[!hint] Definition
+>[!hint] Weak law
+>Let $X_i$ be a sequence of identical random variables **[[Independency|ind]]
 >$$
+>
 >$$
 ## II. Extensions
 ### 1. Properties
