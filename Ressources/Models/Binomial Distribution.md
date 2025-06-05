@@ -48,7 +48,8 @@ $$
 > - **[[Expected Value]]**
 >$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
 > - **[[Variance]]**
->$\math
+>$\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$
+>Les variables sont tirées d'un échant
 >
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
