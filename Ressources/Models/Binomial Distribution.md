@@ -28,27 +28,26 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 >[!tip]
 >>[!tldr] Characteristics 1
 >>- **[[Expected Value]]**
->$$
+>> $$
 X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{E}[X]=np
->$$
+>>$$
 >>-  **[[Variance]]**
 >>$$
 X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{V}\mathrm{ar}[X]=np(1-p)
 >>$$
 >>- **[[Standard Deviation]]**
->$$
+>>$$
 X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
->$$
-
->[!info] Proofs
-> - **[[Expected Value]]**
->$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]$
->The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
->$\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
-> - **[[Variance]]**
->$\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$
->The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
->$\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
+>>$$
+>>[!info] Proofs
+>> - **[[Expected Value]]**
+>>$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]$
+>>The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
+>>$\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
+>> - **[[Variance]]**
+>>$\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$
+>>The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
+>>$\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
 
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
