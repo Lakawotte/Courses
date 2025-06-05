@@ -74,7 +74,7 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >p\in\mathbb{Q}\Longrightarrow!\exists m\in\mathbb{R},\tilde{X}=m
 >>$$
 >>Exept the case $p=\frac{1}{2}$ and $n$ is odd.
->>6. 
+>>6. When $p=\frac{1}{2}$ and when $n$ is odd, any number $m$ in the interval $\frac{1}{2}
 >>$$
 >
 >>$$
