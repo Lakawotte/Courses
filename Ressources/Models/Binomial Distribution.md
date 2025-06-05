@@ -81,13 +81,13 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >> 
 
 >[!tip] Symmetry
->[!tldr] 
->$$
+>>[!tldr] Property
+>>$$
 >f(k,n,p)=f(n-k,n,1-p)
->$$
-
->[!info] Proof
->$f(n-k,n,1-p)=\begin{pmatrix}n\\ n-k\end{pmatrix}(1-p)^{n-k}(1-(1-p))^{{n-(n-k)}}=\begin{pmatrix}n\\ k\end{pmatrix}p^k(1-p)^{{n-k}}=f(k,n,p)$
+>>$$
+>
+>>[!info] Proof
+>>$f(n-k,n,1-p)=\begin{pmatrix}n\\ n-k\end{pmatrix}(1-p)^{n-k}(1-(1-p))^{{n-(n-k)}}=\begin{pmatrix}n\\ k\end{pmatrix}p^k(1-p)^{{n-k}}=f(k,n,p)$
 ### 2. Other formulas
 # Application
 ## I. Meaning
