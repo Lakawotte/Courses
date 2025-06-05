@@ -60,6 +60,10 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>$$
 \mathrm{Mode[X]}=\lfloor(n+1)p\rfloor\vee\lceil(n+1)p\rceil -1
 >>$$
+>>3.
+>>$$
+>\lfloor np \rfloor\le np\lel\lceil  \rceil  
+>>$$
 >
 >>[!info] Proofs
 >> 
