@@ -43,7 +43,7 @@ $\mathbb{V}ar[X]=\mathbb{E}[X^2]-\mathbb{E}[X]^2=np-np^2=np(1-p)$
 >$$
 X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 $$
-	
+
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
 >$$

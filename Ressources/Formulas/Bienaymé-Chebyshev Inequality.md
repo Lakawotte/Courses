@@ -49,11 +49,11 @@ Only the case $k\ge 1$ is useful. Indeed $k<1\Longleftrightarrow\frac{1}{k^2}>1$
 >$$
 
 >[!tldr] Vysochanskij–Petunin inequality
-$$
+>$$
 P(|X-\mu|\ge\sigma k)\le\begin{cases}
 \frac{4}{9k^2},\text{if }k\ge\sqrt{\frac{8}{3}}\\\frac{4}{3k^2}-\frac{1}{3},\text{if }k\le \sqrt{ \frac{8}{3} }\end{cases}
-$$
-Where $X$ is a **[[unimodal distribution]]**.
+>$$
+>Where $X$ is a **[[unimodal distribution]]**.
 ### 2. Other formulas
 # Application
 ## I. Meaning
