@@ -1,8 +1,7 @@
 ---
 aliases: 
 tags:
-  - bound
-  - probability
+  - probability/bounds
 category: "[[Maths]]"
 ---
 ---
