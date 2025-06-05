@@ -36,7 +36,9 @@ category: "[[Maths]]"
 
 >[!tldr] Concentration Inequality
 >$$
->P(|F_{n}-\mathbb{E}[X]\ge\alpha\sigma)
+>P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{n\alpha^2}
+>$$
+
 ### 2. Other formulas
 # Application
 ## I. Meaning
