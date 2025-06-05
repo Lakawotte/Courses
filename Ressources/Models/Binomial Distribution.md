@@ -70,7 +70,9 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>$$
 >>Exept when $p=\frac{1}{2}$ and when $n$ is odd.
 >>5.
->>$
+>>$$
+>p\in\mathbb{Q}\Longrightarrow!\exist
+>>$$
 >
 >>[!info] Proofs
 >> 
