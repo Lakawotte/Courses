@@ -38,7 +38,8 @@ category: "[[Maths]]"
 >$$
 >P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{n\alpha^2}
 >$$
-
+##### Example :
+We want 
 ### 2. Other formulas
 # Application
 ## I. Meaning
