@@ -44,6 +44,10 @@ $\mathbb{V}ar[X]=\mathbb{E}[X^2]-\mathbb{E}[X]^2=np-np^2=np(1-p)$
 X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 $$
 
+>[!info] Proofs
+>- **[[Expected Value]]**
+>$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
+
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
 >$$
