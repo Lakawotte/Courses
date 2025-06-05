@@ -50,26 +50,15 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
 >>$\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
 
->[!tip] Characteristics 1
+>[!tip] Mode
 >>[!tldr] Lemmas
->>
+>>- **[[Mode]]**
+>>$$
+\mathrm{Mode[X]}=\lfloor(n+1)p\rfloor\vee\lceil(n+1)p\rceil -1
+>>$$
 >
 >>[!info] Proofs
->> - **[[Expected Value]]**
->>$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]$
->>The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
->>$\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
->> - **[[Variance]]**
->>$\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$
->>The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
->>$\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
->[!tldr] Characteristics 2
->- **[[Mode]]**
->$$
->\mathrm{Mode[X]}=\lfloor(n+1)p\rfloor\vee\lceil(n+1)p\rceil -1
->$$
->Proof :
->$
+>> 
 
 >[!tldr] Symmetry
 >$$
