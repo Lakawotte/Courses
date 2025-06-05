@@ -42,6 +42,7 @@ category: "[[Maths]]"
 We want to check if a 6-sided die is rigged by throwing it multiple times. We assume that the die is not rigged, and we want to be sure at $95\%$ that the die is fair.
 Then we just need to take $\frac{1}{n\alpha^2}=0.95\Longleftrightarrow\alpha=\frac{2\sqrt{5}}{\sqrt{n}}$.
 For $2000$ throws, the fluctuation interval (at $5\%$) is $[\mu]-\frac{\sigma}{10};\mu+\frac{\sigma}{10}]$ where $\mu=\frac{1}{6}$ and $\sigma=\frac{\sqrt{5}}{6}$.
+If the frequency of $6$s is not in $[0,129;0;204]$ we can conclude that the die is rigged.
 ### 2. Other formulas
 # Application
 ## I. Meaning
