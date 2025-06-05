@@ -52,7 +52,10 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 
 >[!tip] **[[Mode]]**
 >>[!tldr] Lemmas
->>1. 
+>>1.
+>>$$
+>np\in\mathbb{Z}\Longrightarrow 
+>>$$
 >>$$
 \mathrm{Mode[X]}=\lfloor(n+1)p\rfloor\vee\lceil(n+1)p\rceil -1
 >>$$
