@@ -19,8 +19,6 @@ category: "[[Maths]]"
 >$$
 >\mathbb{E}[F_{n}]=\mathbb{E}[X]
 >$$
->Proof :
-
 >- **[[Variance]]**
 >$$
 >\mathbb{V}ar[F_{n}]=\frac{\mathbb{V}ar[X]}{n}
@@ -29,6 +27,9 @@ category: "[[Maths]]"
 >$$
 \sigma[F_{n}]=\frac{\sigma[X]}{\sqrt{ n }}
 >$$
+
+>[!info] Proof
+
 
 >[!tldr] Concentration Inequality
 >$$
