@@ -20,7 +20,7 @@ category: "[[Maths]]"
 >\mathbb{E}[F_{n}]=\mathbb{E}[X]
 >$$
 >Proof :
->$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=$
+>$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
 >- **[[Variance]]**
 >$$
 >\mathbb{V}ar[F_{n}]=\frac{\mathbb{V}ar[X]}{n}
