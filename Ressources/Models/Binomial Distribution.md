@@ -47,8 +47,7 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 >>   $$
 >>   X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>   $$
-
->> [!info] Proofs
+>>[!info] Proofs
 >> - **[[Expected Value]]**  
 >>   $\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]$  
 >>   The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :  
