@@ -45,7 +45,7 @@ For $2000$ throws, the fluctuation interval (at $5\%$) is $[\mu]-\frac{\sigma}{1
 If the frequency of $6$s is not in $[0,129;0;204]$ we can conclude that the die is rigged.
 #### Note :
 This inequality is only theoretical because the bounds are too loose. The result is not precise enough to ensure true effective control.
-In the last example, the random variable follows a **[[Binomial Distribution]]** : $X\sim\mathcal{B}(2000;\frac{1}{6})$. A quick glance at its table and we can
+In the last example, the random variable follows a **[[Binomial Distribution]]** : $X\sim\mathcal{B}(2000;\frac{1}{6})$. A quick glance at its table and one can see that in $95\%$ of cases the $6$s appear between $301$ and $366$ times. To reject the hypothesis we only need
 ### 2. Other formulas
 # Application
 ## I. Meaning
