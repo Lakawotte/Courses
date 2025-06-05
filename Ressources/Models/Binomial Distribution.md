@@ -28,35 +28,16 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 > [!multi-column]
 >
 >> [!tldr] Characteristics 1
->> - **[[Expected Value]]**  
+>> - **[[Expected Value]]**
+>> $$X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{E}[X]=np$$
 >>
 >> - **[[Variance]]**  
 >> - **[[Standard Deviation]]**  
+>
 >>[!info] Proofs
 >> - **[[Expected Value]]**  
->>   $\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]$  
->>   The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :  
->>   $\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
 >>
 >> - **[[Variance]]**  
->>   $\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$  
->>   The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :  
->>   $\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
