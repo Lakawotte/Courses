@@ -44,7 +44,7 @@ Then we just need to take $\frac{1}{n\alpha^2}=0.95\Longleftrightarrow\alpha=\fr
 For $2000$ throws, the fluctuation interval (at $5\%$) is $[\mu]-\frac{\sigma}{10};\mu+\frac{\sigma}{10}]$ where $\mu=\frac{1}{6}$ and $\sigma=\frac{\sqrt{5}}{6}$.
 If the frequency of $6$s is not in $[0,129;0;204]$ we can conclude that the die is rigged.
 #### Note :
-This inequality is only theoretical because the bounds are too loose. 
+This inequality is only theoretical because the bounds are too loose. The result is not precise enought to ensure true effective control.
 ### 2. Other formulas
 # Application
 ## I. Meaning
