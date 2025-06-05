@@ -38,6 +38,8 @@ By this proof, one can understand why the bounds are so loose. Indeed the condit
 >Proof :
 >Let $k=k\sigma$
 $P(|X-\mathbb{E}[X]|\ge k\sigma)\le \frac{\sigma^2}{(k\sigma)^2}=\frac{1}{k^2}$
+#### Note :
+Only the case $k\ge 1$ is useful. Indeed $k<1\Longleftrightarrow\frac{1}{k^2}>1$ and the inequality is trivial since a probability is at most $1$.
 
 >[!tldr] Right-tailed version
 >$$
