@@ -58,9 +58,9 @@ P(|X-\mu|\ge\sigma k)\le\begin{cases}
 ### 2. Other formulas
 # Application
 ## I. Meaning
-The **Chebyshev inequality** tells us how far from the **[[Mean]]**, in either direction, a random variable is by using its **[[Standard Deviation]]**.
+The **Chebyshev inequality** tells us how far from the **[[Mean|mean]]**, in either direction, a random variable is by using its **[[Standard Deviation|standard deviation]]**.
 Since it can be applied to every distribution without knowing as much of it, the inequality gives us a poor bound compared to what we should have if know better about the distribution.
-The approximation of the bounds are still better than the one from the **[[Markov Inequality]]**.
+The approximation of the bounds are still better than the one from the **[[Markov Inequality|Markov inequality]]**.
 We have a table that fits for all types of distributions. We can of course make better approximations if we know more on the context.
 
 | $k$        | Max $\%$ beyond k standard deviations from the mean |
