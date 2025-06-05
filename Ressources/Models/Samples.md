@@ -26,7 +26,7 @@ category: "[[Maths]]"
 >\mathbb{V}ar[F_{n}]=\frac{\mathbb{V}ar[X]}{n}
 >$$
 >Proof :
->$\mathbb{V}ar[F_{n}]=\mathbb{E}[F_{n}^2]-\mathbb{E}[F_{n}]^2=\frac{1}{n^2}\mathbb{E}[S_{n}]-\mathbb{E}[X]^2=\frac{1}{n}(\frac{1}{n}\mathbb{E}[S_{n}^2]-n\mathbb{E}[X]^2)$
+>$\mathbb{V}ar[F_{n}]=\mathbb{E}[F_{n}^2]-\mathbb{E}[F_{n}]^2=\frac{1}{n^2}\mathbb{E}[S_{n}^2]-\mathbb{E}[X]^2=\frac{1}{n}(\frac{1}{n}\mathbb{E}[S_{n}^2]-n\mathbb{E}[X]^2)=\frac{1}{n}(\frac{1}{n}\mathbb{E}[S_{n}^2]-n\mathbb{E}[X]^2)$
 > -  **[[Standard Deviation]]**
 >$$
 \sigma[F_{n}]=\frac{\sigma[X]}{\sqrt{ n }}
