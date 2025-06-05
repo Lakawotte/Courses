@@ -24,6 +24,57 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 >Where $\begin{pmatrix}n\\ k\end{pmatrix}=\frac{n!}{(n-k)!k!}$ is the *binomial coefficient*.
 ## II. Extensions
 ### 1. Properties
+> [!multi-column]
+>
+>> [!tldr] Characteristics 1
+>> - **[[Expected Value]]**  
+>>   $$
+>>   X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{E}[X]=np
+>>   $$  
+>>   Proof :  
+>>   $X\sim\mathrm{Bernoulli}(p)\Longrightarrow\mathbb{E}[X]=p$  
+>>   If we sum $n$ times the same variable we end up having  
+>>   $\mathbb{E}[S_n]=\sum_{i=1}^n\mathbb{E}[X_{i}]=n\mathbb{E}[X]=np$
+>>
+>> - **[[Variance]]**  
+>>   $$
+>>   X\sim\mathcal{B}(n,p)\Longrightarrow\mathbb{V}\mathrm{ar}[X]=np(1-p)
+>>   $$  
+>>   Proof :  
+>>   $\mathbb{V}ar[X]=\mathbb{E}[X^2]-\mathbb{E}[X]^2=np-np^2=np(1-p)$
+>>
+>> - **[[Standard Deviation]]**  
+>>   $$
+>>   X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
+>>   $$
+
+>> [!info] Proofs
+>> - **[[Expected Value]]**  
+>>   $\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]$  
+>>   The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :  
+>>   $\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
+>>
+>> - **[[Variance]]**  
+>>   $\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$  
+>>   The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :  
+>>   $\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 >[!multi-column]
 >>[!tldr] Characteristics 1
