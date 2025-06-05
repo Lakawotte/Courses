@@ -50,9 +50,9 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
 >>$\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
 
->[!tip] Mode
+>[!tip] **[[Mode]]**
 >>[!tldr] Lemmas
->>- **[[Mode]]**
+>>1. 
 >>$$
 \mathrm{Mode[X]}=\lfloor(n+1)p\rfloor\vee\lceil(n+1)p\rceil -1
 >>$$
