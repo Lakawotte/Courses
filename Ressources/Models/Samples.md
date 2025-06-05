@@ -31,8 +31,6 @@ category: "[[Maths]]"
 >$$
 \sigma[F_{n}]=\frac{\sigma[X]}{\sqrt{ n }}
 >$$
->Proof :
->$\sigma[F_{n}]=\sigma[\frac{1}{n}\sum_ {i=1}^nX_i]=$
 
 >[!tldr] Concentration Inequality
 >$$
