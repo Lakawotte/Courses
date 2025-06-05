@@ -49,7 +49,8 @@ $$
 >$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
 > - **[[Variance]]**
 >$\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$
->The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d*
+>The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
+>$\frac{1}{n^2}\mathbb{V}ar{S_n}=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar{X}=\frac{1}{n^2}n\mathbb{V}ar{X}=\frac{\mathbb{V}ar[]}
 >
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
