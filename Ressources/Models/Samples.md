@@ -26,7 +26,7 @@ category: "[[Maths]]"
 >\mathbb{V}ar[F_{n}]=\frac{\mathbb{V}ar[X]}{n}
 >$$
 >Proof :
->$\mathbb{V}ar[F_{n}]=\mathbb{V}ar[\frac{1}{n}\sum_ {i=1}^nX_i]=$
+>$\mathbb{V}ar[F_{n}]=\mathbb{E}[F_{n}^2]-\mathbb{E}[F_{n}]^2=\frac{1}{n^2}\mathbb{S_{n}}$
 > -  **[[Standard Deviation]]**
 >$$
 \sigma[F_{n}]=\frac{\sigma[X]}{\sqrt{ n }}
