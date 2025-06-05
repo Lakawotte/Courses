@@ -50,7 +50,7 @@ $$
 > - **[[Variance]]**
 >$\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$
 >The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
->$\frac{1}{n^2}\mathbb{V}ar{S_n}=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar{X}=\frac{1}{n^2}n\mathbb{V}ar{X}=\frac{\mathbb{V}ar[]}
+>$\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
 >
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
