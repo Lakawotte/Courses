@@ -46,12 +46,14 @@ $$
 
 >[!info] Proofs
 > - **[[Expected Value]]**
->$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
+>$\mathbb{E}[F_{n}]=\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]$
+>The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
+>$\mathbb{E}[\frac{1}{n}\sum_ {i=1}^nX_i]=\frac{1}{n}\mathbb{E}[nX]=\mathbb{E}[X]$
 > - **[[Variance]]**
 >$\mathbb{V}ar[F_n]=\mathbb{V}ar[\frac{S_n}{n}]=\frac{1}{n^2}\mathbb{V}ar{S_n}$
 >The variables are randomly chosen as a **[[Samples|sample]]**, so they are *i.i.d* :
 >$\frac{1}{n^2}\mathbb{V}ar[S_n]=\frac{1}{n^2}\sum_{i=1}^n\mathbb{V}ar[X]=\frac{1}{n^2}n\mathbb{V}ar[X]=\frac{\mathbb{V}ar[X]}{n}$
->
+
 >[!tldr] Characteristics 2
 >- **[[Mode]]**
 >$$
@@ -64,6 +66,7 @@ $$
 >$$
 >f(k,n,p)=f(n-k,n,1-p)
 >$$
+
 >Proof :
 >$f(n-k,n,1-p)=\begin{pmatrix}n\\ n-k\end{pmatrix}(1-p)^{n-k}(1-(1-p))^{{n-(n-k)}}=\begin{pmatrix}n\\ k\end{pmatrix}p^k(1-p)^{{n-k}}=f(k,n,p)$
 ### 2. Other formulas
