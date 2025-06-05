@@ -76,14 +76,12 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>Exept the case $p=\frac{1}{2}$ and $n$ is odd.
 >>6. When $p=\frac{1}{2}$ and when $n$ is odd, any number $m$ in the interval $\frac{1}{2}(n-1)\le m\le\frac{1}{2}(n+1)$ is a median of the **binomial distribution**.
 >>When $p=\frac{1}{2}$ and when $n$ is even, then $m=\frac{n}{2}$ is the only **[[median]]**.
->>$$
->
->>$$
 >
 >>[!info] Proofs
 >> 
 
->[!tldr] Symmetry
+>[!tip] Symmetry
+>[!tldr] 
 >$$
 >f(k,n,p)=f(n-k,n,1-p)
 >$$
