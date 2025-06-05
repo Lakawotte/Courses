@@ -62,7 +62,11 @@ X\sim\mathcal{B}(n,p)\Longrightarrow\sigma[X]=\sqrt{np(1-p)}
 >>$$
 >>3.
 >>$$
->\lfloor np \rfloor\le np\lel\lceil  \rceil  
+>\lfloor np \rfloor\le \tilde{X}\le\lceil np \rceil  
+>>$$
+>>4.
+>>$$
+>|m-np|\le\min
 >>$$
 >
 >>[!info] Proofs
