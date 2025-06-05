@@ -24,6 +24,7 @@ We say that the random variable $X_{n}$ counts the successes in the **[[Independ
 >Where $\begin{pmatrix}n\\ k\end{pmatrix}=\frac{n!}{(n-k)!k!}$ is the *binomial coefficient*.
 ## II. Extensions
 ### 1. Properties
+
 > [!multi-column]
 >
 >> [!tldr] Characteristics 1
