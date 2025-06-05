@@ -39,7 +39,7 @@ category: "[[Maths]]"
 >P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{n\alpha^2}
 >$$
 ##### Example :
-We want 
+We want to check if a 6-sided die is rigged. To do so, we will consider that
 ### 2. Other formulas
 # Application
 ## I. Meaning
