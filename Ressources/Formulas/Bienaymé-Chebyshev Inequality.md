@@ -40,6 +40,10 @@ By this proof, one can understand why the bounds are so loose. Indeed the condit
 >[!tip] Probability-theoric Proof
 >For any event $E$, let $I_E$ by the indicator random variable of $E$, that is, $I_E=1$ if $E$ occurs and $I_E=0$ otherwise. Using this notation, we have $I_{X\ge a}=1$ if the event $X\ge a$ occurs, and $I_{X\ge a}=0 if $X<a$.
 >Then, given $a>0$,
+>$$
+aI_{{X\ge a}}\le X
+$$
+Which is clear if we consider the two possible values of $X\ge a$ : if $X
 ## II. Extensions
 ### 1. Properties
 
