@@ -29,7 +29,7 @@ category: "[[Maths]]"
 
 >[!info] Proof by **[[Markov's Inequality]]**
 >$$
->
+>P(|X-\mathbb{E}[X]|\ge\alpha)\le\frac{\mathbb{E}[\mathbb{E}[X]-X]}
 $$
 #### Note :
 By this proof, one can understand why the bounds are so loose. Indeed the conditional expectation of the event where $|X-\mathbb{E}[X]|\le k\sigma$ is thrown away, and the one remaining is quite poor.
