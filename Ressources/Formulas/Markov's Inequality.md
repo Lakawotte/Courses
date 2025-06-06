@@ -101,7 +101,10 @@ P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
 >
 >>[!info] Probability-theoric Proof
 >>$$
-\forall p>0,\mathbb{E}[|X|^p]&=\int_{X}
+\begin{split}
+\forall p>0,\mathbb{E}[|X|^p]&=\int_{\mathbb{R}}|x|^pf_{X}(x)dx\\
+&\ge\int_{\mathbb{|x|\ge a}}|x|^pf_{X}(x)dx
+\end{split}
 >>$$
 
 >[!tip] Expected value form
