@@ -59,6 +59,11 @@ $$
 \mathbb{E}[{g(X)]}\ge g(\mathbb{E}[X])
 >>$$
 >>Where $g$ is a *convex* function.
+>
+>>[!info] Proof by the definition of **[[Convexity|convexity]]**
+>>$$
+>\forall x_{0}\in
+>>$$
 
 > [!tldr] Law of Iterated Expectations
 >$$
