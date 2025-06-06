@@ -49,9 +49,9 @@ aI_{{X\ge a}}\le X
 >$$
 X\ge a\Longleftrightarrow I_{{X\ge a}}=1\Longleftrightarrow aI_{{X\ge a}}=a\le X
 >$$
->Since $E$ is a monotonically increasing function, taking **[[Expected Value]] of both sides of an inequality cannot reverse it. Therefore
+>Since $\mathbb{E}$ is a monotonically increasing function, taking the **[[Expected Value|expectation]]** of both sides of an inequality cannot reverse it. Therefore
 >$$
-aI_{{X\ge a}}\le X
+\mathbb{E}[aI_{{X\ge a}}]\le\mathbb{E}[X]
 >$$
 ## II. Extensions
 ### 1. Properties
