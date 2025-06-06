@@ -40,7 +40,8 @@ $$
 ### 1. Weak Law
 
 ### 2. Strong Law
-The **strong law** states that the *frequency*
+The **strong law** states that the *frequency* $F_n$ converges *a.s* to the **[[Expected Value|expected value]]**.
+What this means is that, as the number of trials $n$ goes to infinity, the probability that the average of the observations converges to the expected value, is equal to one.
 ## II. Use
 # Example
 
