@@ -42,9 +42,13 @@ By this proof, one can understand why the bounds are so loose. Indeed the condit
 >Then, given $a>0$,
 >$$
 aI_{{X\ge a}}\le X
-$$
-Which is clear if we consider the two possible values of $X\ge a$ :
-$X<a\Longrightarrow I_{X\ge a}=0$
+>$$
+>Which is clear if we consider the two possible values of $X\ge a$ :
+>$$X<a\Longrightarrow I_{X\ge a}=0\Longleftrightarrow aI_{{X\ge a}}=0\le X
+>$$
+>$$
+X\ge a\Longrightarrow I_{{}}
+>$$
 ## II. Extensions
 ### 1. Properties
 
