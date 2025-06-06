@@ -28,6 +28,9 @@ category: "[[Maths]]"
 >Choosing $k=k\sigma$ gives us the original inequality.
 
 >[!info] Proof by **[[Markov's Inequality]]**
+>$$
+>
+$$
 #### Note :
 By this proof, one can understand why the bounds are so loose. Indeed the conditional expectation of the event where $|X-\mathbb{E}[X]|\le k\sigma$ is thrown away, and the one remaining is quite poor.
 ## II. Extensions
