@@ -29,6 +29,7 @@ category: "[[Maths]]"
 >$$
 ## II. Extensions
 ### 1. Properties
+
 >[!tip] Higher moment version
 >>[!tldr] Corrolary
 >>Let $\phi$ be a positive monotonic function :
@@ -72,6 +73,8 @@ While **Markov's inequality** holds with equality for distributions supported on
 The **Markov inequality** is the weakest inequality that tells us the upper bound of a random variable. It is because the bounds are constant, and do not decrease when the number of informations increases since it only requires us to know the **[[Expected Value]]**.
 It gives us the most pessimistic probability of the value being higher than a certain number. This upper bound can be reduced by other inequalities such that the **[[Bienaymé-Chebyshev Inequality]]**.
 Its main use is to get an idea of the **extreme risk**.
+
+One can understand from the original definition that if $\mathbb{E}[X]$ is small and we know $X\ge 0$, then $X$ must be near $0
 ## II. Use
 # Example
 An investor analyzes the daily returns of a stock. $X$ is the loss of the investor over the day.
