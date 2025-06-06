@@ -99,7 +99,10 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
 >>$$
 >
->>[!]
+>>[!info] Probability-theoric Proof
+>>$$
+\forall p>0,\mathbb{E}[|X|^p]&=\int_{X}
+>>$$
 
 >[!tip] Expected value form
 >>[!tldr] Property
