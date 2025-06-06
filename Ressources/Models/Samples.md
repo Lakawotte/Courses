@@ -39,8 +39,9 @@ P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{n\alpha^2}
 >
 >>[!info] Proof using the **[[Bienaymé-Chebyshev Inequality]]**
 >>$$
->>\\begin{split}
-\frac{P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{\alpha^2}}\\
+>>\begin{split}
+P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)&\le\frac{1}{\alpha^2}\\
+P(|F_{n}-\mathbb{E}[F_{n}]|\ge\alpha \sqrt{ n}\sigma)
 \end{split}
 >>$$
 ##### Example :
