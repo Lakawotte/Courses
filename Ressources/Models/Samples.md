@@ -39,10 +39,8 @@ P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{n\alpha^2}
 >
 >>[!info] Proof using the **[[Bienaymé-Chebyshev Inequality]]**
 >>$$
->>\begin{split}
-P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)&\le\frac{1}{\alpha^2}\\
-P(|F_{n}-\mathbb{E}[F_{n}]|\ge\alpha \sqrt{ n}\sigma)
-\end{split}
+P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{\alpha^2}\Longleftrightarrow
+P(|F_{n}-\mathbb{E}[F_{n}]|\ge\alpha \sqrt{n}\sigma[F_{n}])\le\frac{1}{n\alpha^2}
 >>$$
 ##### Example :
 We want to check if a 6-sided die is rigged by throwing it multiple times. We assume that the die is not rigged, and we want to be sure at $95\%$ that the die is fair.
