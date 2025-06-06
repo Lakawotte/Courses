@@ -14,6 +14,8 @@ category: "[[Maths]]"
 >$$
 >\forall n\in\mathbb{N},\forall a>0,P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
 >$$
+#### Warning :
+The random variable $X$ must be positive.
 ### 2. Proof
 
 >[!info] Proof using probability theory
@@ -74,7 +76,7 @@ The **Markov inequality** is the weakest inequality that tells us the upper boun
 It gives us the most pessimistic probability of the value being higher than a certain number. This upper bound can be reduced by other inequalities such that the **[[Bienaymé-Chebyshev Inequality]]**.
 Its main use is to get an idea of the **extreme risk**.
 
-One can understand from the original definition that if $\mathbb{E}[X]$ is small and we know $X\ge 0$, then $X$ must be near $0
+One can understand from the original definition that if $\mathbb{E}[X]$ is small and we know $X\ge 0$, then $X$ must be near $0$ with hight probability.
 ## II. Use
 # Example
 An investor analyzes the daily returns of a stock. $X$ is the loss of the investor over the day.
