@@ -33,6 +33,11 @@ category: "[[Maths]]"
 >>[!tldr] Corrolary
 >>Let $\phi$ be a positive monotonic function :
 >>$$
+P(|X|\ge a)\le\frac{\mathbb{E}[|\phi(|X|)]}{\phi(a)}
+>>$$
+>
+>>[!info] Proof
+>>$$
 \begin{split}
 P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 &\le\frac{\mathbb{E}[|\phi(|X|)]}{\phi(a)}\\
