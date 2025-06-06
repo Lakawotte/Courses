@@ -63,7 +63,10 @@ s(x)=
 >Where $f$ is non-negative and $\epsilon>0$.
 >Then $0\le s(x)\le f(x)$ by the definition of the **[[Lebesgue Integral|Lebesgue integral]]**
 >$$
-\int_{X}f(x)d\mu\ge\int_{X}s(x)d\mu=\epsilon \mu(\{x\in X : f(x)\ge\epsilon\})\Longleftrightarrow\mu(\{x\in X : f(x)\ge\epsilon\})\le\frac{1}{\epsilon}\int_{X}f(x)d\mu
+>\begin{split}
+\int_{X}f(x)d\mu\ge\int_{X}s(x)d\mu &=\epsilon \mu(\{x\in X : f(x)\ge\epsilon\})\\
+\Longleftrightarrow &\mu(\{x\in X : f(x)\ge\epsilon\})&\le\frac{1}{\epsilon}\int_{X}f(x)d\mu\\
+\end{split}
 >$$
 ## II. Extensions
 ### 1. Properties
