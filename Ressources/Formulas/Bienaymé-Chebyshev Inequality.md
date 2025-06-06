@@ -54,8 +54,9 @@ X\ge a\Longleftrightarrow I_{{X\ge a}}=1\Longleftrightarrow aI_{{X\ge a}}=a\le X
 >\begin{split}
 \mathbb{E}[aI_{{X\ge a}}]&\le\mathbb{E}[X]\\
 \Longleftrightarrow a\mathbb{E}[I_{{X\ge a}}]&=a(1\times P(X\ge a)+0\times P(X<a))\\
-=aP(X\ge a)
+&=aP(X\ge a)\\
 &\le\mathbb{E}[X]\\
+\Longleftrightarrow
 \end{split}
 >$$
 ## II. Extensions
