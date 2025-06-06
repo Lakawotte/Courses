@@ -47,7 +47,7 @@ aI_{{X\ge a}}\le X
 >$$X<a\Longrightarrow I_{X\ge a}=0\Longleftrightarrow aI_{{X\ge a}}=0\le X
 >$$
 >$$
-X\ge a\Longrightarrow I_{{}}
+X\ge a\Longleftrightarrow I_{{X\ge a}}=1\Longleftrightarrow aI_{{X\ge a}}=a\le X
 >$$
 ## II. Extensions
 ### 1. Properties
