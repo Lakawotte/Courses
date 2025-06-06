@@ -61,6 +61,7 @@ $$
 >>Where $g$ is a *convex* function.
 >
 >>[!info] Proof by the definition of **[[Convexity|convexity]]**
+>>Let $g :\mathbb{R}\rightarrow\mathbb{R}$ be a convex]]** function 
 >>$$
 >\forall x_{0}\in
 >>$$
