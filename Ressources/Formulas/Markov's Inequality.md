@@ -69,7 +69,12 @@ s(x)=
 \end{split}
 >$$
 
-[!info] Summation Proof
+>[!info] Summation Proof
+>$$
+>\begin{split}
+\mathbb{E}[X]&=\sum_{i=1}^nx_{i}P(X=x_{i})
+\end{split}
+$$
 ## II. Extensions
 ### 1. Properties
 
