@@ -37,7 +37,8 @@ By this proof, one can understand why the bounds are so loose. Indeed the condit
 >$$P(|(X-\mathbb{E}[X])^2|\ge\alpha^2)=P(|X-\mathbb{E}[X]|\ge\alpha)\le\frac{\mathbb{V}ar[X]}{\alpha^2}
 >$$
 
->[!tip] Proof by 
+>[!tip] Probability-theoric Proof
+>For any event $E
 ## II. Extensions
 ### 1. Properties
 
