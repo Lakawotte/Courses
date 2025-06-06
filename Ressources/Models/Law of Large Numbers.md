@@ -26,7 +26,7 @@ category: "[[Maths]]"
 
 >[!tip] Strong Law, a.k.a Kolmogorov Law
 >$$
->\forall t>0,P(\lim_{ n \to \infty }|F_{n}-\mu\le|t)=1
+>\forall t>0,P(\lim_{ n \to \infty }|F_{n}-\mu|\le t)=0
 $$
 ## II. Extensions
 ### 1. Properties
