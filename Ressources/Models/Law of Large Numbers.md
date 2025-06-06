@@ -24,7 +24,10 @@ category: "[[Maths]]"
 \lim_{ n \to \infty }\frac{\mathbb{V}ar[X]}{n\epsilon^2}=0
 >$$
 
->[!hint]
+>[!tip] Strong Law, a.k.a Kolmogorov Law
+>$$
+
+$$
 ## II. Extensions
 ### 1. Properties
 
