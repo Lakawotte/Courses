@@ -53,7 +53,10 @@ X\ge a\Longleftrightarrow I_{{X\ge a}}=1\Longleftrightarrow aI_{{X\ge a}}=a\le X
 
 >[!info] Measure-theoretic Proof
 >Consider the real-valuated function $s$ on $X$ given by :
->s(x)=\begin{cases}
+>$$
+s(x)=\begin{cases}\epsilon,\text{if} f(x)\ge\epsilon\\
+
+>$$
 ## II. Extensions
 ### 1. Properties
 
