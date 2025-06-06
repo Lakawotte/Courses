@@ -95,7 +95,7 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 >
 >>[!info] Proof
 >>$$
->P[|X|\ge k]\le \frac{\mathbb{E}[X]}{k}\Longleftrightarrow P[|X|\ge k\mathbb{E}(X)]\le \frac{\mathbb{E}[X]}{k\mathbb{E}[X]}
+>P[|X|\ge k]\le \frac{\mathbb{E}[X]}{k}\Longleftrightarrow P[|X|\ge k\mathbb{E}(X)]\le \frac{\mathbb{E}[X]}{k\mathbb{E}[X]}=\frac{1}{k}
 >>$$
 
 >[!tldr] Uniformy randomized form
@@ -103,7 +103,6 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 >\forall a>0,P(X\ge Ua)\le\frac{\mathbb{E}[X]}{a}
 >$$
 >Where $U$ is a **[[unformly randomized variable]]** on $[0;1]$ which is **[[Independency|independent]]** from $X$.
-
 #### Note :
 Since $U$ is almost surely smaller than one, this bound is strictly stronger than Markov's inequality.
 Remarkably, $U$ cannot be replaced by any constant smaller than one, meaning that deterministic improvements to Markov's inequality cannot exist in general.
