@@ -31,8 +31,9 @@ $$
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Kolmogorov's Strong Law
 >$$
+\sum_{k=1}^\infty\frac{1}{k^2}\mathbb{V}ar[X_{k}]<\infty
 >$$
 ### 2. Other formulas
 # Application
