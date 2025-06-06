@@ -77,7 +77,7 @@ We have a table that fits for all types of distributions. We can of course make 
 ## II. Use
 # Example
 
-An analyst is interrested about the returns of a given portfolio :
+An analyst is interested about the returns of a given portfolio :
 	the average return is $0.5\%$
 	 the volatility is about $1.5\%$ a day
 He wants to know the probability that the returns are not comprized in $-2.5\%$ and $3.5\%$ :
