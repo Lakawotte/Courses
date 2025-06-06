@@ -29,6 +29,16 @@ category: "[[Maths]]"
 >$$
 ## II. Extensions
 ### 1. Properties
+>[!tip] Higher moment version
+>>[!tldr] Corrolary
+>>Let $\phi$ be a positive monotonic function :
+>>$$
+\begin{split}
+P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
+&\le\frac{\mathbb{E}[|\phi(|X|)]}{\phi(a)}\\
+\end{split}
+>>$$
+>>According to the **Markov Inequality**.
 
 >[!tldr] Extended version
 >$$
