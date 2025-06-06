@@ -68,6 +68,8 @@ s(x)=
 \Longleftrightarrow\mu(\{x\in X : f(x)\ge\epsilon\})&\le\frac{1}{\epsilon}\int_{X}f(x)d\mu\\
 \end{split}
 >$$
+
+[!info] Summation Proof
 ## II. Extensions
 ### 1. Properties
 
