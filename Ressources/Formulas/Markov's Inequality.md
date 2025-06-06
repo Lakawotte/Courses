@@ -68,13 +68,6 @@ s(x)=
 \Longleftrightarrow\mu(\{x\in X : f(x)\ge\epsilon\})&\le\frac{1}{\epsilon}\int_{X}f(x)d\mu\\
 \end{split}
 >$$
-
->[!info] Summation Proof
->$$
->\begin{split}
-\mathbb{E}[X]&=\sum_{i=1}^nx_{i}P(X=x_{i})=\sum_{x_{i}<a}x_{i}P(X=x_{i})+\sum_{x_{i}\ge a}x_{i}P(X=x_{i})
-\end{split}
-$$
 ## II. Extensions
 ### 1. Properties
 
