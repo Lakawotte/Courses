@@ -94,7 +94,7 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 >>$$
 >
 >> [!info] Proof
->> Let $f_{n}:\mathbb{R}\rightarrow\mathbb{R}$ such that $f_n(x)=x^n$. By the **extended version** we have
+>> Let $f_{n}:\mathbb{R}\rightarrow\mathbb{R}$ such that $\forall n\in\mathbb{N}^*,f_n(x)=x^n$. Then $f_n$ is positive and monotonicBy the **extended version** we have
 
 >[!tip] Expected value form
 >>[!tldr] Property
