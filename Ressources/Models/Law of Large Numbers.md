@@ -44,7 +44,7 @@ $$
 # Application
 ## I. Meaning
 ### 1. Weak Law
-
+The **weak law** states that for any nonzero margin specified, no matter how small, with a sufficiently large **[[Sample|sample]]** there will be a very high probability that the average of the observations will be close to the [[Expected Value|expec]]**expected value; that is, within the margin.
 ### 2. Strong Law
 The **strong law** states that the *frequency* $F_n$ converges *a.s* to the **[[Expected Value|expected value]]**.
 What this means is that, as the number of trials $n$ goes to infinity, the probability that the average of the observations converges to the expected value, is equal to one.
