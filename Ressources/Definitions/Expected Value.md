@@ -75,7 +75,8 @@ g(X)&\ge g'(\mathbb{E}[X])(X-\mathbb{E}[X])+g(\mathbb{E}[X])\\
 \end{split}
 >>$$
 #### Note :
-When $g$ is **[[Concavity|concave]]**, $\mathbb{E}[{g(X)]}\le g(\mathbb{E}[X])$
+When $g$ is **[[Concavity|concave]]**, $\mathbb{E}[{g(X)]}\le g(\mathbb{E}[X])$.
+
 > [!tldr] Law of Iterated Expectations
 >$$
 >\mathbb{E}(X)=\mathbb{E}_{y}(\mathbb{E}_{x}(X|Y))
