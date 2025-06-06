@@ -19,6 +19,11 @@ category: "[[Maths]]"
 >$$
 >
 $$
+
+>[!info] Proof by the **[[Bienaymé-Chebyshev Inequality]]**
+>$$
+\forall\epsilon>0,P(F_{n})
+$$
 ## II. Extensions
 ### 1. Properties
 
