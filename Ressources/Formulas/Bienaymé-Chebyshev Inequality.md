@@ -29,8 +29,10 @@ category: "[[Maths]]"
 
 >[!info] Proof by **[[Markov's Inequality]]**
 >$$
->P(|(X-\mathbb{E}[X])^2|\ge\alpha)\le\frac{\mathbb{E}[(\mathbb{E}[X]-X)^2]}{\alpha}=\frac{\mathb{V}ar[X]}{\alpha}
+>P(|(X-\mathbb{E}[X])^2|\ge\alpha)\le\frac{\mathbb{E}[(\mathbb{E}[X]-X)^2]}{\alpha}=\frac{\mathbb{V}ar[X]}{\alpha}
 $$
+Let $\alpha=\alpha^2$
+$P(|(X-\mathbb{E}[X])^2|\ge\alpha^2)$
 #### Note :
 By this proof, one can understand why the bounds are so loose. Indeed the conditional expectation of the event where $|X-\mathbb{E}[X]|\le k\sigma$ is thrown away, and the one remaining is quite poor.
 ## II. Extensions
