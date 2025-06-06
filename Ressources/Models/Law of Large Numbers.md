@@ -34,8 +34,9 @@ $$
 >[!tldr] Kolmogorov's Strong Law
 >If the summands are independent but not identically distributed, then
 >$$
-\\lim_{ n \to \infty } F_{n}-\mathbb{E}[f_{n}]=0\text{a.s}
-$$
+\\lim_{ n \to \infty } F_{n}-\mathbb{E}[f_{n}]=0\,\,\,\,\,\,\text{a.s}
+>$$
+>Provided that each $X_k$ has a finite *second moment* and
 >$$
 \sum_{k=1}^\infty\frac{1}{k^2}\mathbb{V}ar[X_{k}]<\infty
 >$$
