@@ -71,7 +71,7 @@ s(x)=
 ## II. Extensions
 ### 1. Properties
 
->[!tip] Higher moment version
+>[!tip] Extended Version
 >>[!tldr] Corrolary
 >>Let $\phi$ be a positive monotonic function :
 >>$$
@@ -86,6 +86,8 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 \end{split}
 >>$$
 >>According to the **Markov Inequality**.
+
+>[!]
 
 >[!tip] Expected value form
 >>[!tldr] Property
