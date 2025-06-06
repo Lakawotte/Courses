@@ -69,8 +69,9 @@ $$
 >>$$
 >>\begin{split}
 g(X)&\ge g'(\mathbb{E}[X])(X-\mathbb{E}[X])+g(\mathbb{E}[X])\\
-&\ge \mathbb{E}[g'(\mathbb{E}[X])(X-\mathbb{E}[X])+g(\mathbb{E}[X])]\\
-\ge 
+=\mathbb{E}[g'(\mathbb{E}[X])(X-\mathbb{E}[X])+g(\mathbb{E}[X])]\\
+=g(\mathbb{E}[X])+g'(\mathbb{E}[X])(\mathbb{E}[X]-\mathbb{E}[X])\\
+=g(\mathbb{E}[X])\\
 \end{split}
 >>$$
 
