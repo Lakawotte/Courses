@@ -28,7 +28,7 @@ category: "[[Maths]]"
 >\end{split}
 >$$
 
->[!tip] Probability-theoric Proof 2
+>[!info] Probability-theoric Proof 2
 >For any event $E$, let $I_E$ by the indicator random variable of $E$, that is, $I_E=1$ if $E$ occurs and $I_E=0$ otherwise. Using this notation, we have $I_{X\ge a}=1$ if the event $X\ge a$ occurs, and $I_{X\ge a}=0$ if $X<a$.
 >Then, given $a>0$,
 >$$
@@ -50,6 +50,8 @@ X\ge a\Longleftrightarrow I_{{X\ge a}}=1\Longleftrightarrow aI_{{X\ge a}}=a\le X
 \Longleftrightarrow P(X\ge a)\le\frac{\mathbb{E}[X]}{a}
 \end{split}
 >$$
+
+>[!info]
 ## II. Extensions
 ### 1. Properties
 
