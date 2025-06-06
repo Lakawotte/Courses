@@ -93,6 +93,8 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 >\forall n\in\mathbb{N},\forall a>0,P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
 >>$$
 >
+>> [!info] Proof
+>> By the **extended version** we have
 
 >[!tip] Expected value form
 >>[!tldr] Property
