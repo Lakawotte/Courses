@@ -61,6 +61,10 @@ s(x)=
 \end{cases}
 >$$
 >Where $f$ is non-negative.
+>Then $0\le s(x)\le f(x)$ by the definition of the **[[Lebesgue Integral|Lebesgue integral]]**
+>$$
+\int_{X}
+>$$
 ## II. Extensions
 ### 1. Properties
 
