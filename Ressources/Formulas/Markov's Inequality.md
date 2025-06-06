@@ -95,7 +95,7 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 >
 >>[!info] Proof
 >>$$
->a
+>P[|X|\ge k]\le \frac{\mathbb{E}[X]}{k}\Longleftrightarrow P[|X|\ge k\mathbb{E}(X)]\le \frac{\mathbb{E}[X]}{k\mathbb{E}[X]}
 >>$$
 
 >[!tldr] Uniformy randomized form
