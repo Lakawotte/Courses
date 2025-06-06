@@ -37,6 +37,10 @@ $$
 ### 2. Other formulas
 # Application
 ## I. Meaning
+### 1. Weak Law
+
+### 2. Strong Law
+The **strong law** states that the *frequency*
 ## II. Use
 # Example
 
