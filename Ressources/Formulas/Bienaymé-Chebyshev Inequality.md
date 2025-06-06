@@ -43,7 +43,8 @@ By this proof, one can understand why the bounds are so loose. Indeed the condit
 >$$
 aI_{{X\ge a}}\le X
 $$
-Which is clear if we consider the two possible values of $X\ge a$ : if $X
+Which is clear if we consider the two possible values of $X\ge a$ :
+$X<a\Longrightarrow I_{X\ge a}=0$
 ## II. Extensions
 ### 1. Properties
 
