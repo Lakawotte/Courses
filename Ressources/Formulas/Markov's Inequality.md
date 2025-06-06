@@ -14,8 +14,6 @@ category: "[[Maths]]"
 >$$
 >\forall n\in\mathbb{N},\forall a>0,P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
 >$$
-#### Warning :
-The random variable $X$ must be positive.
 ### 2. Proof
 
 >[!info] Proof using probability theory
