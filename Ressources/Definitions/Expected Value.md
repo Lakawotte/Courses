@@ -65,9 +65,12 @@ $$
 >>$$
 >\forall(x_{0},x)\in\mathbb{R}^2,g(x)\ge g'(x_{0})(x-x_{0})+g(x_0)
 >>$$
->>Chosing $x=X$ and $x_0=\mathbb{E[X]$ gives us :
+>>Chosing $x=X$ and $x_0=\mathbb{E[X]}$ gives us :
 >>$$
-
+>>\begin{split}
+g(X)&\ge g'(\mathbb{E}[X])(X-\mathbb{E}[X])+g(\mathbb{E}[X])\\
+g(X)&\ge 
+\end{split}
 >>$$
 
 > [!tldr] Law of Iterated Expectations
