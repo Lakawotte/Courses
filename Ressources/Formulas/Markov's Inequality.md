@@ -47,7 +47,7 @@ X\ge a\Longleftrightarrow I_{{X\ge a}}=1\Longleftrightarrow aI_{{X\ge a}}=a\le X
 \Longleftrightarrow a\mathbb{E}[I_{{X\ge a}}]&=a(1\times P(X\ge a)+0\times P(X<a))\\
 &=aP(X\ge a)\\
 &\le\mathbb{E}[X]\\
-\Longleftrightarrow
+\Longleftrightarrow P(X\ge a)\le\frac{\mathbb{E}[X]}{a}
 \end{split}
 >$$
 ## II. Extensions
