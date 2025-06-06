@@ -20,7 +20,9 @@ category: "[[Maths]]"
 \forall\epsilon>0,P(F_{n}-\mu\ge\epsilon)\le\frac{\mathbb{V}ar[X]}{n\epsilon^2}
 >$$
 >Under the assumption that $\mathbb{V}ar[X]$ is finite, we have :
->$\lim_{ n \to \infty }$
+>$$
+\lim_{ n \to \infty }\frac{\mathbb{V}ar[X]}{n\epsilon^2}=0
+>$$
 
 ## II. Extensions
 ### 1. Properties
