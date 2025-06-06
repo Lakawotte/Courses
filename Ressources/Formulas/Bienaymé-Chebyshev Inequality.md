@@ -38,7 +38,7 @@ By this proof, one can understand why the bounds are so loose. Indeed the condit
 >$$
 
 >[!tip] Probability-theoric Proof
->For any event $E
+>For any event $E$, let $I_E$ by the indicator random variable of $E$, that is, $I_E=1$ if $E$ occurs and $I_E=0$ otherwise. Using this notation, we have $I_
 ## II. Extensions
 ### 1. Properties
 
