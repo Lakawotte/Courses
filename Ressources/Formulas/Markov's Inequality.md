@@ -93,11 +93,13 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 >\forall n\in\mathbb{N},\forall a>0,P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
 >>$$
 >
->> [!info] Proof
+>> [!info] Proof using the **extended version**
 >> Let $f_{n}:\mathbb{R}\rightarrow\mathbb{R}$ such that $\forall n\in\mathbb{N}^*,f_n(x)=x^n$. Then $f_n$ is positive and monotonic for $X>0$. By the **extended version** we have 
 >> $$
 P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
 >>$$
+>
+>>[!]
 
 >[!tip] Expected value form
 >>[!tldr] Property
