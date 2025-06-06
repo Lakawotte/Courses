@@ -65,7 +65,7 @@ s(x)=
 >$$
 >\begin{split}
 \int_{X}f(x)d\mu\ge\int_{X}s(x)d\mu &=\epsilon \mu(\{x\in X : f(x)\ge\epsilon\})\\
-\Longleftrightarrow &\mu(\{x\in X : f(x)\ge\epsilon\})&\le\frac{1}{\epsilon}\int_{X}f(x)d\mu\\
+\Longleftrightarrow\mu(\{x\in X : f(x)\ge\epsilon\})&\le\frac{1}{\epsilon}\int_{X}f(x)d\mu\\
 \end{split}
 >$$
 ## II. Extensions
