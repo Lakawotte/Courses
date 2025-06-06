@@ -41,7 +41,7 @@ P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{n\alpha^2}
 >>$$
 \forall a>0,P(|F_{n}-\mathbb{E}[F_{n}]|\ge\alpha)\le\frac{\mathbb{V}ar[F_{n}]}{\alpha^2}\Longleftrightarrow P(|F_{n}-\mathbb{E}[X]|\ge\alpha)\le\frac{\mathbb{V}ar[X]}{n\alpha^2}
 >>$$
->>$\alpha=\sigma\alpha\Longrightarrow
+>>$\alpha=\sigma\alpha\Longleftrightarrow P(|F_{n}-\mathbb{E}[X]|\ge\alpha\sigma)\le\frac{1}{n\alpha^2}$
 ##### Example :
 We want to check if a 6-sided die is rigged by throwing it multiple times. We assume that the die is not rigged, and we want to be sure at $95\%$ that the die is fair.
 Then we just need to take $\frac{1}{n\alpha^2}=0.95\Longleftrightarrow\alpha=\frac{2\sqrt{5}}{\sqrt{n}}$.
