@@ -44,7 +44,7 @@ The **strong law** states that the *frequency* $F_n$ converges *a.s* to the **[[
 What this means is that, as the number of trials $n$ goes to infinity, the probability that the average of the observations converges to the expected value, is equal to one.
 It is called the **strong law** because random variables which converge strongly (*a.s*) are guaranteed to converge weakly (in probability).
 #### Note :
-However the weak law is known to hold in certain conditions where the strong law does not hold and then the convergence is only weak (in probability).
+However the **weak law** is known to hold in certain conditions where the **strong law** does not hold and then the convergence is only weak (in probability).
 ## II. Use
 # Example
 
