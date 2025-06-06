@@ -17,8 +17,6 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof using probability theory
->First, we will prove the first-moment version, then we will use the extended version.
->*1.*
 >$$
 >\begin{split}
 >\mathbb{E}[X]&\ge 0\\
@@ -29,15 +27,6 @@ category: "[[Maths]]"
 >\Longleftrightarrow \frac{\mathbb{E}[X]}{a}&\ge P(X\ge a)\\
 >\end{split}
 >$$
->*2.*
->Let $\phi$ be a positive monotonic function :
-$$
-\begin{split}
-P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
-&\le\frac{\mathbb{E}[|\phi(|X|)]}{\phi(a)}\\
-\end{split}
-$$
-According to the **Markov Inequality**.
 ## II. Extensions
 ### 1. Properties
 
