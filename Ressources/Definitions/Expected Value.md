@@ -61,9 +61,9 @@ $$
 >>Where $g$ is a *convex* function.
 >
 >>[!info] Proof by the definition of **[[Convexity|convexity]]**
->>Let $g :\mathbb{R}\rightarrow\mathbb{R}$ be a **[[Convexity|convex]]** function such that $g(X)$ is *integrable*.
+>>Let $g :\mathbb{R}\rightarrow\mathbb{R}$ be a $\mathcal{C}^1$ **[[Convexity|convex]]** function such that $g(X)$ is *integrable*.
 >>$$
->\forall(x_{0},x)\in\mathbb{R}^2,g(x)\ge g()
+>\forall(x_{0},x)\in\mathbb{R}^2,g(x)\ge g'(x_{0})(x-x_{0})+g(x_0)
 >>$$
 
 > [!tldr] Law of Iterated Expectations
