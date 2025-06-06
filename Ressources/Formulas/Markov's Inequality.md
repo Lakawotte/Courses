@@ -12,7 +12,7 @@ category: "[[Maths]]"
 
 >[!hint] Formula
 >$$
->\forall n\in\mathbb{N},\forall a>0,P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
+\forall a>0,P(|X|\ge a)\le\frac{\mathbb{E}(|X|)}{a}
 >$$
 ### 2. Proofs
 
