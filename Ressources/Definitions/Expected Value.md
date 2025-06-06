@@ -61,9 +61,9 @@ $$
 >>Where $g$ is a *convex* function.
 >
 >>[!info] Proof by the definition of **[[Convexity|convexity]]**
->>Let $g :\mathbb{R}\rightarrow\mathbb{R}$ be a convex]]** function 
+>>Let $g :\mathbb{R}\rightarrow\mathbb{R}$ be a **[[Convexity|convex]]** function such that $g(X)$ is *integrable*.
 >>$$
->\forall x_{0}\in
+>\forall(x_{0},x)\in\mathbb{R}^2,g(x)\ge g()
 >>$$
 
 > [!tldr] Law of Iterated Expectations
