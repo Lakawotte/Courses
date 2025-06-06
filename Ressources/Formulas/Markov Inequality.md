@@ -45,16 +45,11 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 >>$$
 >>According to the **Markov Inequality**.
 
->[!tldr] Extended version
->$$
->P(X\ge a)\le\frac{\mathbb{E}[g(X)]}{g(a)}
->$$
->Where $g$ is a positive monotonic function.
-
->[!tldr] Expected value form
->$$
+>[!tip] Expected value form
+>>[!tldr] Property
+>>$$
 >\forall k>0,P[|X|\ge k\mathbb{E}(X)]\le \frac{1}{k}
->$$
+>>$$
 
 >[!tldr] Uniformy randomized form
 >$$
