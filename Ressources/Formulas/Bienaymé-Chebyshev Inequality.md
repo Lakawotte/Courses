@@ -13,7 +13,7 @@ category: "[[Maths]]"
 >$$
 >\forall k>0,P(|X-\mathbb{E}[X]|\ge k)\le \frac{\mathbb{V}ar[X]}{k^2}
 >$$
-### 2. Proof
+### 2. Proofs
 
 >[!info] Proof by the **[[Law of Total Probability|law of total probability]]**
 >$$
@@ -27,6 +27,7 @@ category: "[[Maths]]"
 >$$
 >Choosing $k=k\sigma$ gives us the original inequality.
 
+>[!info] Proof by **[[Markov's Inequality]]**
 #### Note :
 By this proof, one can understand why the bounds are so loose. Indeed the conditional expectation of the event where $|X-\mathbb{E}[X]|\le k\sigma$ is thrown away, and the one remaining is quite poor.
 ## II. Extensions
@@ -60,7 +61,7 @@ P(|X-\mu|\ge\sigma k)\le\begin{cases}
 ## I. Meaning
 The **Chebyshev inequality** tells us how far from the **[[Mean|mean]]**, in either direction, a random variable is by using its **[[Standard Deviation|standard deviation]]**.
 Since it can be applied to every distribution without knowing as much of it, the inequality gives us a poor bound compared to what we should have if know better about the distribution.
-The approximation of the bounds are still better than the one from the **[[Markov Inequality|Markov inequality]]**.
+The approximation of the bounds are still better than the one from the **[[Markov's Inequality|Markov inequality]]**.
 We have a table that fits for all types of distributions. We can of course make better approximations if we know more on the context.
 
 | $k$        | Max $\%$ beyond k standard deviations from the mean |
