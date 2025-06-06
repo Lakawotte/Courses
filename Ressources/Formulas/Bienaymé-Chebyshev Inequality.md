@@ -26,6 +26,8 @@ category: "[[Maths]]"
 \end{split}
 >$$
 >Choosing $k=k\sigma$ gives us the original inequality.
+#### Note :
+By this proof, one can understand why the bounds are so loose. Indeed the conditional expectation of the event where $|X-\mathbb{E}[X]|\le k\sigma$ is thrown away, and the one remaining is quite poor.
 
 >[!info] Proof by **[[Markov's Inequality]]**
 >$$
@@ -34,8 +36,8 @@ category: "[[Maths]]"
 >Let $\alpha=\alpha^2$
 >$$P(|(X-\mathbb{E}[X])^2|\ge\alpha^2)=P(|X-\mathbb{E}[X]|\ge\alpha)\le\frac{\mathbb{V}ar[X]}{\alpha^2}
 >$$
-#### Note :
-By this proof, one can understand why the bounds are so loose. Indeed the conditional expectation of the event where $|X-\mathbb{E}[X]|\le k\sigma$ is thrown away, and the one remaining is quite poor.
+
+>[!tip] Proof by 
 ## II. Extensions
 ### 1. Properties
 
