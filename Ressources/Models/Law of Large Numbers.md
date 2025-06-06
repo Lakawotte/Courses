@@ -32,6 +32,10 @@ $$
 ### 1. Properties
 
 >[!tldr] Kolmogorov's Strong Law
+>If the summands are independent but not identically distributed, then
+>$$
+\\lim_{ n \to \infty } F_{n}-\mathbb{E}[f_{n}]=0\text{a.s}
+$$
 >$$
 \sum_{k=1}^\infty\frac{1}{k^2}\mathbb{V}ar[X_{k}]<\infty
 >$$
