@@ -87,7 +87,12 @@ P(|X|\ge a)&=P(\phi|X|\ge\phi(a))\\
 >>$$
 >>According to the **Markov Inequality**.
 
->[!]
+>[!tip] Higher moment version
+>>[!tldr] Corrolary
+>>$$
+>\forall n\in\mathbb{N},\forall a>0,P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
+>>$$
+>
 
 >[!tip] Expected value form
 >>[!tldr] Property
