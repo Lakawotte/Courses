@@ -69,7 +69,8 @@ $$
 >>$$
 >>\begin{split}
 g(X)&\ge g'(\mathbb{E}[X])(X-\mathbb{E}[X])+g(\mathbb{E}[X])\\
-g(X)&\ge 
+&\ge \mathbb{E}[g'(\mathbb{E}[X])(X-\mathbb{E}[X])+g(\mathbb{E}[X])]\\
+\ge 
 \end{split}
 >>$$
 
