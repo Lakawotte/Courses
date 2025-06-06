@@ -60,10 +60,10 @@ s(x)=
 0,\text{if} f(x)<\epsilon\\
 \end{cases}
 >$$
->Where $f$ is non-negative.
+>Where $f$ is non-negative and $\epsilon>0$.
 >Then $0\le s(x)\le f(x)$ by the definition of the **[[Lebesgue Integral|Lebesgue integral]]**
 >$$
-\int_{X}f(x)d\mu\ge\int_{X}s(x)d\mu=\epsilon \mu(\{x\in X : f(x)\ge\epsilon\})
+\int_{X}f(x)d\mu\ge\int_{X}s(x)d\mu=\epsilon \mu(\{x\in X : f(x)\ge\epsilon\})\Longleftrightarrow\mu(\{x\in X : f(x)\ge\epsilon\})\le\frac{1}{\epsilon}\int_{X}f(x)d\mu
 >$$
 ## II. Extensions
 ### 1. Properties
