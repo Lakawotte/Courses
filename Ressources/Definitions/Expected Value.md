@@ -53,11 +53,12 @@ $$
 >$$
 >Where $\tau_A$ is the [[Kendall's Rank Correlation Coefficient|Kendall's Tau]] and $\rho$ the [[Pearson's Product Moment Correlation Coefficient|Pearson's Rho]].
 
->[!tldr] Jensen's Inequality
->$$
->\mathbb{E}[{g(X)]}\ge g(\mathbb{E}[X])
->$$
->Where $g$ is a convex function.
+>[!tip] Jensen's Inequality
+>>[!tldr] Theorem
+>>$$
+\mathbb{E}[{g(X)]}\ge g(\mathbb{E}[X])
+>>$$
+>>Where $g$ is a *convex* function.
 
 > [!tldr] Law of Iterated Expectations
 >$$
