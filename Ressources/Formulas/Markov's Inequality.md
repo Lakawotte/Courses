@@ -14,9 +14,9 @@ category: "[[Maths]]"
 >$$
 >\forall n\in\mathbb{N},\forall a>0,P(|X|\ge a)\le\frac{\mathbb{E}(|X|^n)}{a^n}
 >$$
-### 2. Proof
+### 2. Proofs
 
->[!info] Proof using probability theory
+>[!info] Probability-theoric Proof 1
 >$$
 >\begin{split}
 >\mathbb{E}[X]&\ge 0\\
@@ -26,6 +26,29 @@ category: "[[Maths]]"
 >&=aP(X\ge a)\\
 >\Longleftrightarrow \frac{\mathbb{E}[X]}{a}&\ge P(X\ge a)\\
 >\end{split}
+>$$
+
+>[!tip] Probability-theoric Proof 2
+>For any event $E$, let $I_E$ by the indicator random variable of $E$, that is, $I_E=1$ if $E$ occurs and $I_E=0$ otherwise. Using this notation, we have $I_{X\ge a}=1$ if the event $X\ge a$ occurs, and $I_{X\ge a}=0$ if $X<a$.
+>Then, given $a>0$,
+>$$
+aI_{{X\ge a}}\le X
+>$$
+>Which is clear if we consider the two possible values of $X\ge a$ :
+>$$X<a\Longrightarrow I_{X\ge a}=0\Longleftrightarrow aI_{{X\ge a}}=0\le X
+>$$
+>$$
+X\ge a\Longleftrightarrow I_{{X\ge a}}=1\Longleftrightarrow aI_{{X\ge a}}=a\le X
+>$$
+>Since $\mathbb{E}$ is a monotonically increasing function, taking the **[[Expected Value|expectation]]** of both sides of an inequality cannot reverse it. Therefore
+>$$
+>\begin{split}
+\mathbb{E}[aI_{{X\ge a}}]&\le\mathbb{E}[X]\\
+\Longleftrightarrow a\mathbb{E}[I_{{X\ge a}}]&=a(1\times P(X\ge a)+0\times P(X<a))\\
+&=aP(X\ge a)\\
+&\le\mathbb{E}[X]\\
+\Longleftrightarrow
+\end{split}
 >$$
 ## II. Extensions
 ### 1. Properties
