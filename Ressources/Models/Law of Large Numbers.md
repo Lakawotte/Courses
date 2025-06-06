@@ -17,12 +17,7 @@ category: "[[Maths]]"
 
 >[!info] Proof using the **[[Samples|concentration inequality]]**
 >$$
->
-$$
-
->[!info] Proof by the **[[Bienaymé-Chebyshev Inequality]]**
->$$
-\forall\epsilon>0,P(F_{n})
+\forall\epsilon>0,P(F_{n}-\mu\ge\epsilon)\le\frac{\mathbb{}}
 $$
 ## II. Extensions
 ### 1. Properties
