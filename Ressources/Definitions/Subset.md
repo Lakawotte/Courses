@@ -25,7 +25,7 @@ category: "[[Maths]]"
 >>[!info] Proof
 >>Lets proove by inference on $n\in\mathbb{N}$ the proposition $P_n:\text{card}(\mathcal{E})=n\Longrightarrow\text{card}(P(\mathcal{E}))=2^{\text{card}(\mathcal{E})}$.
 >>- Initialization ($n=0$) : $\mathcal{E}=\varnothing\Longrightarrow\text{card}(\mathcal{E})=1=2^0$
->>- Heredity (n+1) : suppose $P_n$ true established for all $\mathcal{E}$ of **[[Cardinality|cardinality]]** $n$. Let $
+>>- Heredity (n+1) : suppose $P_n$ true established for all $\mathcal{E}$ of **[[Cardinality|cardinality]]** $n$. Let $\mathcal{E}$ be a **[[Set|set]]** of **[[Cardinality|cardinality]]** $n+1$ :
 >>$$
 a
 >>$$
