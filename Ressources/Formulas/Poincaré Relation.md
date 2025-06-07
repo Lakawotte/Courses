@@ -9,8 +9,8 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
->Let $A$ and $B$ be two subsets of a finite set $\mathcal{E}$.
+>[!hint] Theorem (Poincaré Sieve)
+>Let $A_{i}$ subsets of a finite set $\mathcal{E}$.
 >$$
 >$$
 ### 2. Proof
