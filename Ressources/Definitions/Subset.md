@@ -37,9 +37,10 @@ category: "[[Maths]]"
 >>3. Conclusion :
 >>$$
  \left.\begin{matrix}
- P_{n}\\
-\forall\\
+ P_{0}\\
+\forall n\in\mathbb{N},P_{n}\Longrightarrow P_{N+1}\\
 \end{matrix}\right\}
+\Longrightarrow\forall n\in\mathbb{N}
 $$
 ### 2. Other formulas
 # Application
