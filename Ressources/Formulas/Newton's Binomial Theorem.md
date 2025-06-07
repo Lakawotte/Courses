@@ -37,6 +37,9 @@ $$
 S_{n}=1+\frac{7}{3}x+\frac{7\times 6}{9\times 2!}x^2+\frac{7\times 6\times 5}{27\times 3!}x^3+\dots+\frac{1}{2187}x^7=2187
 $$
 $$
-S_{n}=(\frac{x}{3})^0+\frac{7}{1!}(\frac{x}{3})^1+\frac{7\times }
+\begin{}
+
+\end{}
+S_{n}=(\frac{x}{3})^0+\frac{7}{1!}(\frac{x}{3})^1+\frac{7\times 6}{2!}(\frac{x}{3})^2+\frac{7\times 6\times 5}{3!}(\frac{x}{3})^3+\dots+(\frac{x}{3})^7
 $$
 ---
