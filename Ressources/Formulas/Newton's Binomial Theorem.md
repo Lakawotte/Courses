@@ -32,8 +32,11 @@ category: "[[Maths]]"
 ## I. Meaning
 ## II. Use
 # Example
-We want to compute $S_n$ 
+We want to compute $S_n$ so we can identify the $x$ value.
 $$
-S_{n}=1+\frac{1}{3}x+\frac{7\times 6}{9\times 2!}x^2+\frac{7\times 6\times 5}{27\times 3!}x^3+\dots+\frac{1}{2187}x^7=2187
+S_{n}=1+\frac{7}{3}x+\frac{7\times 6}{9\times 2!}x^2+\frac{7\times 6\times 5}{27\times 3!}x^3+\dots+\frac{1}{2187}x^7=2187
+$$
+$$
+S_{n}=\frac{x}{3}^0+
 $$
 ---
