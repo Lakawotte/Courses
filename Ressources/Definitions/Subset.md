@@ -29,9 +29,12 @@ category: "[[Maths]]"
 >>-  $(e_{i})_{1\le i\le n+1}=\mathcal{E}$
 >>- $(e_{i})_{1\le i\le n}=\mathcal{E}'$
 >>$$
-\text{\cal{P}}(\mathcal{E})=\{A\subset\mathcal{E}'\}\coprod\{ A\cup \{ e_{n+1}\},A\subset\mathcal{E}'\}
-\Longrightarrow\text{card}\text{\cal{P}}(\mathcal{E})=2^n+2^n=2{{n=1}}
+\begin{split}
+\text{\cal{P}}(\mathcal{E})&=\{A\subset\mathcal{E}'\}\coprod\{ A\cup \{ e_{n+1}\},A\subset\mathcal{E}'\}\\
+\Longrightarrow\text{card}\text{\cal{P}}(\mathcal{E})&=2^n+2^n=2{{n=1}}\\
+\end{split}
 >>$$
+>>3. 
 ### 2. Other formulas
 # Application
 ## I. Meaning
