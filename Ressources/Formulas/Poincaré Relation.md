@@ -10,8 +10,9 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Theorem (Poincaré Sieve)
->Let $A_{i}$ subsets of a finite set $\mathcal{E}$.
+>Let $A_{i}$ be a family of subsets of a finite set $\mathcal{E}$.
 >$$
+>\text{card}\bigcap
 >$$
 ### 2. Proof
 
