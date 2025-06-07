@@ -33,6 +33,6 @@ category: "[[Maths]]"
 ## II. Use
 # Example
 $$
-1+\frac{1}{3}
+1+\frac{1}{3}x+\frac{7\times 6}{9\times 2!}x^2+\frac{7\times 6\times 5}{27\times 3!}x^3+\dots
 $$
 ---
