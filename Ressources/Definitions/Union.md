@@ -27,7 +27,10 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
 
 >[!tldr] Disjoint Union
->We note $A\coprod B$ the **disjoint union** of 
+>We note $A\coprod B$ the **disjoint union** of two **[[Subset|subsets]]** having an empty **[[Intersection|intersection]]**.
+>$$
+A=
+$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
