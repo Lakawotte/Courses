@@ -24,7 +24,7 @@ category: "[[Maths]]"
 
 >[!tldr] **[[Cardinality]]** of a **cross product**
 >$$
-ca^{\mathcal{E}\ti}
+\text{card}(\mathcal{E}\times\mathcal{F})=\text{card}(\mathcal{E})\times \text{card}(\mathcal{F})
 >$$
 ### 2. Other formulas
 # Application
