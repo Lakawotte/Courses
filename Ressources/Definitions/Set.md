@@ -43,6 +43,8 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
 \bar{A\cup B}=\bar{A}\cap\bar{B}
 >$$
+
+>[!tldr] Disjoint Union
 ### 2. Other formulas
 # Application
 ## I. Meaning
