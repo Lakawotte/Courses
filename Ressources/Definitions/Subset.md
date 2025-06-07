@@ -44,7 +44,7 @@ category: "[[Maths]]"
 $$
 >
 >>[!info] Proof using Truth Tables
->>Let $(e_{i})_{1\le i\le n}=\mathcal{E}$.  For all **[[Subset|subset]]** of $\mathcal{E}$, there 
+>>Let $(e_{i})_{1\le i\le n}=\mathcal{E}$.  For all **[[Subset|subset]]** of $\mathcal{E}$, there is a unique **[[P-tuple|n-tuple]] $(b_{i})_{1\le i\le n}$ 
 ### 2. Other formulas
 # Application
 ## I. Meaning
