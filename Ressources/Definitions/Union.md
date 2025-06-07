@@ -25,6 +25,9 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
 \bar{A\cup B}=\bar{A}\cap\bar{B}
 >$$
+
+>[!tldr] Disjoint Union
+>We note $A\coprod B$ the **disjoint union** of 
 ### 2. Other formulas
 # Application
 ## I. Meaning
