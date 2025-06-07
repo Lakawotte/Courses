@@ -16,8 +16,9 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] **[[Cardinality]]** of a **subset**
 >$$
+\text{card}(P(\mathcal{E}))=2{{\text{card}(\mathcal{E})}}
 >$$
 ### 2. Other formulas
 # Application
