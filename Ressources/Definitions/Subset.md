@@ -47,7 +47,7 @@ $$
 >>Let $(e_{i})_{1\le i\le n}=\mathcal{E}$.  For all **[[Subset|subset]]** of $\mathcal{E}$, there is a unique **[[P-tuple|n-tuple]]** $(b_{i})_{1\le i\le n}$ of elements from $\{ 0;1 \}$ such that
 >>- $e_{i}\in\ A\Longrightarrow b_i=1$
 >>- $b_i=0$ else
->>More precisely, if the number of 
+>>More precisely, the number of **[[Subset|subsets]]** from $\mathcal{E}$ is the number of **[[P-tuple|n-tuples]]** of elements of $
 ### 2. Other formulas
 # Application
 ## I. Meaning
