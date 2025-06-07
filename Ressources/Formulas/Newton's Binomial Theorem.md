@@ -41,10 +41,10 @@ $$
 S_{n}&=\left( \frac{x}{3} \right)^0+\frac{7}{1!}\left( \frac{x}{3} \right)^1+\frac{7\times 6}{2!}\left( \frac{x}{3} \right)^2+\frac{7\times 6\times 5}{3!}\left( \frac{x}{3} \right)^3+\dots+\left( \frac{x}{3} \right)^7\\
 &=C_{7}^01^7\left( \frac{x}{3} \right)^0+1^6C_{7}^1\left( \frac{x}{3} \right)^1+1^5C_{7}^2\left( \frac{x}{3} \right)^2+C_{7}^31^4\left( \frac{x}{3} \right)^3+\dots+C_{7}^71^0\left( \frac{x}{3} \right)^7\\
 &=\sum_{i=0}^7C_{i}^71^{7-i}(\frac{x}{3})^i\\
-&=(1+x)^7
+&=(1+\frac{x}{3})^7
 \end{split}
 $$
 $$
-(1+x)^7=2187
+(1+\frac{x}{3})^7=2187\Longleftrightarrow x=3\sqrt[7]{ 2187 }
 $$
 ---
