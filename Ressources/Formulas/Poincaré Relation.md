@@ -14,7 +14,8 @@ category: "[[Maths]]"
 >$$
 \begin{split}
 \text{card}(\bigcup_{i=1}^nA_{i})&=\sum_{i=1}^n\text{card}(A_{i})-\sum_{1\le i_{1}\le i_{2}\le n}\text{card}(A_{i_{1}}\cap A_{i_{2}})\\
-&+\sum_{1\le i_{1}\le i_{2}\le i_{3}}\le n}
+&+\sum_{1\le i_{1}\le i_{2}\le i_{3}\le n}\text{card}(A_{i_{1}}\cap A_{i_{2}}\cap A_{i_{3}})+\dots\\
+&+(-1)^{k+1}
 \end{split}
 >$$
 ### 2. Proof
