@@ -29,6 +29,12 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 
 >[!tldr] Karnaugh Representation
 >
+
+|           | $A$ | $\bar{A}$ |
+| --------- | --- | --------- |
+| $B$       |     |           |
+| $\bar{B}$ |     |           |
+
 ### 2. Other formulas
 # Application
 ## I. Meaning
