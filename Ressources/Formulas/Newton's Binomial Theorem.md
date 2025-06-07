@@ -32,7 +32,8 @@ category: "[[Maths]]"
 ## I. Meaning
 ## II. Use
 # Example
+We want to compute $S_n$ 
 $$
-1+\frac{1}{3}x+\frac{7\times 6}{9\times 2!}x^2+\frac{7\times 6\times 5}{27\times 3!}x^3+\dots
+S_{n}=1+\frac{1}{3}x+\frac{7\times 6}{9\times 2!}x^2+\frac{7\times 6\times 5}{27\times 3!}x^3+\dots+\frac{1}{2187}x^7=2187
 $$
 ---
