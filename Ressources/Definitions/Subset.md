@@ -1,7 +1,10 @@
 ---
-aliases: 
-tags: 
-category:
+aliases:
+  - subset
+  - subsets
+tags:
+  - sets
+category: "[[Maths]]"
 ---
 ---
 # Definition
