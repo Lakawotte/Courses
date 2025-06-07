@@ -23,8 +23,10 @@ category: "[[Maths]]"
 >>$$
 >
 >>[!info] Proof
+>>Lets proove by inference on $n\in\mathbb{N}$ the proposition $P_n:"\textcard}(\mathbb{E})
 >>$$
-
+a
+>>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
