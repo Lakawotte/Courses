@@ -11,9 +11,10 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Formula
->Here $\mathbb{}
+>Here $\mathbb{K}$ is either $\mathbb{R}$ or $\mathbb{C}$.
 >$$
-\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}$$
+\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{i=0}^na^i
+>$$
 ### 2. Proof
 
 >[!info] Proof
