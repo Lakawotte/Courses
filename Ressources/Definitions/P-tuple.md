@@ -9,8 +9,9 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $\mathcal{E}$ be finite set and $p>0$. A **p-tuple** or **p-element list** of elements from $\mathcal{E}$ is an ordered list of elements from $\mathcal{E}$ not necesseraly distincts. The set of the **p-tuples** of $\mathcal{E}$ is the **[[Cartesian Product|cartesian product]]** 
+>Let $\mathcal{E}$ be finite set and $p>0$. A **p-tuple** or **p-element list** of elements from $\mathcal{E}$ is an ordered list of elements from $\mathcal{E}$ not necesseraly distincts. The set of the **p-tuples** of $\mathcal{E}$ is the **[[Cartesian Product|cartesian product]]** of $p$ copies of $\mathcal{E}$, which is denoted $\mathcal{E}^p$
 >$$
+>\mathcal{E}^p=\{(e_{i})_{1\le i\le p}}
 >$$
 ## II. Extensions
 ### 1. Properties
