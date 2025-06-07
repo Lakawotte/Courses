@@ -27,8 +27,10 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Subset
+>If $A_i$ is a subset of $\mathcal{E}$
 >$$
+\text{card}(\mathcal{E})=\sum_{i=1}^n
 >$$
 ### 2. Other formulas
 # Application
