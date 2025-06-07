@@ -27,10 +27,9 @@ category: "[[Maths]]"
 In a pentagon, let denote $\text{card}(\mathcal{E}_{n})$ the number of points of the $n$th pentagon :
 $$
 \begin{split}
-\text{card}(\mathcal{E}_{n})\\
-&=\text{card}(\mathcal{E}_{1})+\sum_{i=2}^n\text{card}(\mathcal{E}_{i})-\text{card}(\mathcal{E}_{i-1})\\
+\text{card}(\mathcal{E}_{n})&=\text{card}(\mathcal{E}_{1})+\sum_{i=2}^n\text{card}(\mathcal{E}_{i})-\text{card}(\mathcal{E}_{i-1})\\
 &=1+\sum_{i=2}^n 5i-5\\
-&=\frac{5}{2}(n-1)
+&=\frac{5}{2}n(n-1)+1\\
 \end{split}
 $$
 
