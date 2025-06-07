@@ -28,7 +28,7 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
 
 >[!tldr] Complementary
->Let $\ma
+>Let $\mathcal{E}$ be a finite **set**. The complementary of a **[[Subset|subset]]** $A$ from $\mathcal{E}$ is the **set** of elements that are not in $A$. 
 
 >[!tldr] Karnaugh Representation
 >|           | $A$            | $\bar{A}$            |
