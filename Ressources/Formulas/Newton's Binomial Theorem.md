@@ -38,8 +38,9 @@ S_{n}=1+\frac{7}{3}x+\frac{7\times 6}{9\times 2!}x^2+\frac{7\times 6\times 5}{27
 $$
 $$
 \begin{split}
-S_{n}&=(\frac{x}{3})^0+\frac{7}{1!}(\frac{x}{3})^1+\frac{7\times 6}{2!}(\frac{x}{3})^2+\frac{7\times 6\times 5}{3!}(\frac{x}{3})^3+\dots+(\frac{x}{3})^7\\
-&=C_{7}^01^7(\frac{x}{3})^0+1^6C_{7}^1(\frac{x}{3})^1+1^5C_{7}^2(\frac{x}{3})^2+C_{7}^31^4(\frac{x}{3})^3
+S_{n}&=\left( \frac{x}{3} \right)^0+\frac{7}{1!}\left( \frac{x}{3} \right)^1+\frac{7\times 6}{2!}\left( \frac{x}{3} \right)^2+\frac{7\times 6\times 5}{3!}\left( \frac{x}{3} \right)^3+\dots+\left( \frac{x}{3} \right)^7\\
+&=C_{7}^01^7\left( \frac{x}{3} \right)^0+1^6C_{7}^1\left( \frac{x}{3} \right)^1+1^5C_{7}^2\left( \frac{x}{3} \right)^2+C_{7}^31^4\left( \frac{x}{3} \right)^3+\dots+C_{7}^71^0\left( \frac{x}{3} \right)^7\\
+&=\sum_{i=0}^7C_{i}^71
 \end{split}
 $$
 ---
