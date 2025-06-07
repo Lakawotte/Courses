@@ -17,9 +17,11 @@ category: "[[Maths]]"
 >$$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof by Induction
 >$$
 >$$
+#### Note :
+
 ## II. Extensions
 ### 1. Properties
 
