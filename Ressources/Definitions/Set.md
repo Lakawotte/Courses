@@ -26,6 +26,9 @@ A\cap B=\{e\in\mathcal{E},e\in A\vee e\in B\}
 >$$
 A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
+
+>[!tldr] Karnaugh Representation
+>
 ### 2. Other formulas
 # Application
 ## I. Meaning
