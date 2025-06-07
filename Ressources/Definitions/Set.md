@@ -34,8 +34,9 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 | $\bar{B}$ | $A\cap\bar{B}$ | $\bar{A}\cap\bar{B}$ |
 
 >[!tldr] Morgan Rule
->
-
+>$$
+\bar{A\cup B}=\bar{A}\cap\bar{B}
+>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
