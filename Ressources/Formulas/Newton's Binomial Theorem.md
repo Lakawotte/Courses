@@ -23,13 +23,16 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] 
+>[!tldr] Difference
 >$$
+\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a-b)^n=\sum_{i=0}^nC_{n}^ra^i(-b)^{n-i}
 >$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
 ## II. Use
 # Example
-
+$$
+1+\frac{1}{3}
+$$
 ---
