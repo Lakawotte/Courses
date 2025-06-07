@@ -30,12 +30,13 @@ category: "[[Maths]]"
 >[!tldr] Subset
 >If $A_i$ is a subset of $\mathcal{E}$
 >$$
-\text{card}(\mathcal{E})=\sum_{i=1}^n
+\text{card}(\mathcal{E})=\sum_{i=1}^n\text{card}(A_{i})
 >$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
 ## II. Use
+This formula can also be interpreted in terms of #probabilty, by substituing
 # Example
 
 ---
