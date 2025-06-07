@@ -21,7 +21,8 @@ category: "[[Maths]]"
 >$$
 >$$
 #### Note :
-
+To get an idea of a proof, one can follow this intuition :
+To find the developped form, we chose $a$ or $b$ in each term and we multiply them
 ## II. Extensions
 ### 1. Properties
 
