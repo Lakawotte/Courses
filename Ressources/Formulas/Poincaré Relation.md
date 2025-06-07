@@ -10,6 +10,7 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Formula
+>Let $A$ and $B$ be two subsets of a finite set $\mathcal{E}$.
 >$$
 >$$
 ### 2. Proof
