@@ -27,6 +27,9 @@ A\cap B=\{e\in\mathcal{E},e\in A\vee e\in B\}
 A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
 
+>[!tldr] Complementary
+>Let $\ma
+
 >[!tldr] Karnaugh Representation
 >|           | $A$            | $\bar{A}$            |
 | --------- | -------------- | -------------------- |
