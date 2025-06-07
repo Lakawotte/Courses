@@ -14,11 +14,6 @@ category: "[[Maths]]"
 >The number of elements of a finite set $\mathcal{E}$ is called **cardinality** of this set and is written $\text{card}(\mathcal{E})$, $|\mathcal{E}|$ or $\#\mathcal{E}$. 
 ## II. Extensions
 ### 1. Properties
-
->[!tldr] **Cardinality** of a **[[p-tplue]]
->$$
->\text{card}(\mathcal{E}^p)=\text{card}(\mathcal{E})^p
->$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
