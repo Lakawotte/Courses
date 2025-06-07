@@ -16,19 +16,11 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
-
-
 >[!tldr] Complementary
 >Let $\mathcal{E}$ be a finite **set**. The complementary of a **[[Subset|subset]]** $A$ from $\mathcal{E}$ is the **set** of elements that are not in $A$.
 >$$
 \bar{A}=\{e\in\mathcal{E},e\notin A\}
 >$$
-
->[!tldr] Karnaugh Representation
->|           | $A$            | $\bar{A}$            |
-| --------- | -------------- | -------------------- |
-| $B$       | $A\cap B$      | $\bar{A}\cap B$      |
-| $\bar{B}$ | $A\cap\bar{B}$ | $\bar{A}\cap\bar{B}$ |
 
 >[!tldr] Morgan Rule
 >$$

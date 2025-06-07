@@ -8,15 +8,22 @@ category:
 ## I. Statement
 
 >[!hint] Definition
->- Union of $A$ and $B$ the set made of elements from $\mathcal{E}$ which are either in $A$ and in $B$
+>Let $A$ and $B$ be two **[[Subset|subsets]]** of a finite **[[Set|set]]** $\mathcal{E}$. We call **union** of $A$ and $B$ the set made of elements from $\mathcal{E}$ which are either in $A$ and in $B$
 >$$
 A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Karnaugh Representation
+>|           | $A$            | $\bar{A}$            |
+| --------- | -------------- | -------------------- |
+| $B$       | $A\cap B$      | $\bar{A}\cap B$      |
+| $\bar{B}$ | $A\cap\bar{B}$ | $\bar{A}\cap\bar{B}$ |
+
+>[!tldr] Morgan Rule
 >$$
+\bar{A\cup B}=\bar{A}\cap\bar{B}
 >$$
 ### 2. Other formulas
 # Application
