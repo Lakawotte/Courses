@@ -12,7 +12,7 @@ category: "[[Maths]]"
 >[!hint] Theorem (Poincaré Sieve)
 >Let $A_{i}$ be a family of subsets of a finite set $\mathcal{E}$.
 >$$
->\text{card}\bigcap
+>\text{card}(\bigcup_{i=1}^nA_{i})=\sum_{i=1}^n\text{card}(A_{i})-\sum
 >$$
 ### 2. Proof
 
