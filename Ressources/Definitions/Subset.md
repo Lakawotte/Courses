@@ -24,8 +24,8 @@ category: "[[Maths]]"
 >
 >>[!info] Proof
 >>Lets proove by inference on $n\in\mathbb{N}$ the proposition $P_n:\text{card}(\mathcal{E})=n\Longrightarrow\text{card}(P(\mathcal{E}))=2^{\text{card}(\mathcal{E})}$.
->>Initialization ($n=0$) : $\mathcal{E}=\varnothing
-```
+>>Initialization ($n=0$) : $\mathcal{E}=\varnothing\Longrightarrow\text{card}(\mathcal{E})=1=2^0$
+>>Heredity (n+1) : suppo
 >>$$
 a
 >>$$
