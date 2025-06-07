@@ -28,12 +28,13 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
 
 >[!tldr] Karnaugh Representation
->
+>|           | $A$            | $\bar{A}$            |
+| --------- | -------------- | -------------------- |
+| $B$       | $A\cap B$      | $\bar{A}\cap B$      |
+| $\bar{B}$ | $A\cap\bar{B}$ | $\bar{A}\cap\bar{B}$ |
 
-|           | $A$ | $\bar{A}$ |
-| --------- | --- | --------- |
-| $B$       |     |           |
-| $\bar{B}$ |     |           |
+>[!tldr] Morgan Rule
+>
 
 ### 2. Other formulas
 # Application
