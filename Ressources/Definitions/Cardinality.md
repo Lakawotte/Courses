@@ -26,7 +26,10 @@ category: "[[Maths]]"
 ## I. Pentagon
 In a pentagon, let denote $\text{card}(\mathcal{E}_{n})$ the number of points of the $n$th pentagon :
 $$
-
+\begin{split}
+\text{card}(\mathcal{E}_{n})\\
+&=\text{card}(\mathcal{E}_{1})+\sum_{i=2}^n\text{card}(\mathcal{E}_{i})-\text{card}(\mathcal{E}_{i-1})
+\end{split}
 $$
 
 ---
