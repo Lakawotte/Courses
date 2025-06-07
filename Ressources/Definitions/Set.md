@@ -16,9 +16,8 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
->$$
->$$
+>[!tldr] Union and Intersection
+Let $A$ and $B$ be two **subsets** of a finite **set** $\mathcal{E}$
 ### 2. Other formulas
 # Application
 ## I. Meaning
