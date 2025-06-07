@@ -43,7 +43,8 @@ category: "[[Maths]]"
 \Longrightarrow\forall n\in\mathbb{N},P_{n}
 $$
 >
->>[!info] Proof using 
+>>[!info] Proof using Truh Tables
+>>Let $(e_{i})_{1\le i\le n}=\mathcal{E}$.  For all **[[Subs]]
 ### 2. Other formulas
 # Application
 ## I. Meaning
