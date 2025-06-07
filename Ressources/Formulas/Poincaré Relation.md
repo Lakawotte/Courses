@@ -10,7 +10,7 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Theorem (Poincaré Sieve)
->Let $A_{i}$ be a family of **[[Set|subsets]]** of a finite set $\mathcal{E}$.
+>Let $A_{i}$ be a family of **[[Set|subsets]]** of a finite **[[Set|set]]** $\mathcal{E}$.
 >$$
 \begin{split}
 \text{card}(\bigcup_{i=1}^nA_{i})&=\sum_{i=1}^n\text{card}(A_{i})-\sum_{1\le i_{1}<i_{2}\le n}\text{card}(A_{i_{1}}\cap A_{i_{2}})\\
@@ -28,7 +28,7 @@ category: "[[Maths]]"
 ### 1. Properties
 
 >[!tldr] Subset
->If $A_i$ is a subset of $\mathcal{E}$
+>If $A_i$ is a **[[Set|subset]]** of $\mathcal{E}$
 >$$
 \text{card}(\mathcal{E})=\sum_{i=1}^n\text{card}(A_{i})
 >$$
@@ -36,7 +36,7 @@ category: "[[Maths]]"
 # Application
 ## I. Meaning
 ## II. Use
-This formula can also be interpreted in terms of #probabilty, by replacing subsets by events and $\text{card}$ by $P$.
+This formula can also be interpreted in terms of #probabilty, by replacing **[[Set|subset]]** by events and $\text{card}$ by $P$.
 # Example
 
 ---
