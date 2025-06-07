@@ -34,7 +34,13 @@ category: "[[Maths]]"
 \Longrightarrow\text{card}\text{\cal{P}}(\mathcal{E})&=2^n+2^n=2{{n=1}}\\
 \end{split}
 >>$$
->>3. 
+>>3. Conclusion :
+>>$$
+ \left.\begin{matrix}
+ P_{n}\\
+\forall\\
+\end{matrix}\right\}
+$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
