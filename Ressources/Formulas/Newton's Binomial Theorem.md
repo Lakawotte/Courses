@@ -23,7 +23,7 @@ category: "[[Maths]]"
 #### Note :
 To get an idea of a proof, one can follow this intuition :
 To find the developped form, we chose $a$ or $b$ in each term and we multiply them together. Since we have $n$ factors, we chose between $a$ or $b$ $n$ times : taking $r$ $a$s let us with $n-r$ $b$s. We then get $a^rb^{n-r}$.
-The coefficient of this term is the number of ways to take $b$ $n$ times. The numb
+The coefficient of this term is the number of ways to take $b$ $n$ times. The number of apparatitions of $a^rb^{n-r}$ in the development of $(a+b)^n$ is equal to the number of ways of taking $r$ factors among $n$
 ## II. Extensions
 ### 1. Properties
 
