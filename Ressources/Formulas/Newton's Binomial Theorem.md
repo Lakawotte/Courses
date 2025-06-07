@@ -45,6 +45,6 @@ S_{n}&=\left( \frac{x}{3} \right)^0+\frac{7}{1!}\left( \frac{x}{3} \right)^1+\fr
 \end{split}
 $$
 $$
-(1+\frac{x}{3})^7=2187\Longleftrightarrow x=3\sqrt[7]{ 2187 }
+(1+\frac{x}{3})^7=2187\Longleftrightarrow x=3\sqrt[7]{ 2187 }-1=6
 $$
 ---
