@@ -15,7 +15,7 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] **Cardinality** of $\mathcal{E}^p$
+>[!tldr] **Cardinality** of a **[[p-tplue]]
 >$$
 >\text{card}(\mathcal{E}^p)=\text{card}(\mathcal{E})^p
 >$$
