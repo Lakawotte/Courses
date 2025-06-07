@@ -24,6 +24,9 @@ category: "[[Maths]]"
 ## II. Use
 # Example
 ## I. Pentagon
-In a pentagon, let denote 
+In a pentagon, let denote $\text{card}(\mathcal{E}_{n})$ the number of points of the $n$th pentagon :
+$$
+
+$$
 
 ---
