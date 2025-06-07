@@ -16,10 +16,15 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] **[[Cardinality]]** of a **subset**
->$$
-\text{card}(P(\mathcal{E}))=2{{\text{card}(\mathcal{E})}}
->$$
+>[!tip] **[[Cardinality]]** of a **subset**
+>>[!tldr] Property
+>>$$
+\text{card}(P(\mathcal{E}))=2^{\text{card}(\mathcal{E})}
+>>$$
+>
+>>[!info] Proof
+>>$$
+
 ### 2. Other formulas
 # Application
 ## I. Meaning
