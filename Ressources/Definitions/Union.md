@@ -29,7 +29,8 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >[!tldr] Disjoint Union
 >We note $A\coprod B$ the **disjoint union** of two **[[Subset|subsets]]** having an empty **[[Intersection|intersection]]**.
 >$$
-A=
+A=(A\cap B)\coprod(A\cap \bar{B})\\
+B=(A\cap B)\coprod(\bar{A}\cap B)
 $$
 ### 2. Other formulas
 # Application
