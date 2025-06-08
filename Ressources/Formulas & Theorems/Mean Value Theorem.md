@@ -12,7 +12,7 @@ category: "[[Maths]]"
 >[!hint] Formula
 >Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$. Then,
 >$$
-\exists c\in]a;b[,f(b)-f(a)=f'(c)(b-a)
+\exists c\in]a;b[,f'(c)=\frac{f(b)f(a)}{b-a}
 >$$
 ### 2. Proof
 
@@ -47,7 +47,7 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 # Application
 ## I. Meaning
 Geometrically, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
-This is a generalization of **[[Rolle's Theorem|Rolle's theorem]]**, in which the 
+This is a generalization of **[[Rolle's Theorem|Rolle's theorem]]**, in which the right-hand side is $0$.
 
 If a car had its mean speed at $110\text{mph}$, there is a time when its instantaneous speed was $110\text{mph}$.
 ## II. Use
