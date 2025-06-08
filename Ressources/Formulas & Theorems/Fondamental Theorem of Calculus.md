@@ -30,7 +30,9 @@ f'=g'\Longrightarrow\exists c\in\mathbb{R},f=g+c
 >>[!info] Proof
 >>Let $F=f-g$, then $F'=0$. By an extension of the **[[Mean Value Theorem|mean value theorem]]**, $F$ must be a constant.
 
->[!tldr] 
+> [!tip] Antiderivative
+>>[!tldr] Theorem
+>If $F$ is an antiderivative of $f$
 ### 2. Other formulas
 # Application
 ## I. Meaning
