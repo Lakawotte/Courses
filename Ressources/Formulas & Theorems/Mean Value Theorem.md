@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
+>[!hint] Mean Value Theorem, a.k.a Rolle's Lemma
 >Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$. Then,
 >$$
 \exists c\in]a;b[,f'(c)=\frac{f(b)-f(a)}{b-a}
