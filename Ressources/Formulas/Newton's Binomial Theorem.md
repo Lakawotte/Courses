@@ -28,7 +28,7 @@ category: "[[Maths]]"
 &=a\sum_{r=0}^nC_{n}^ra^rb^{n-r}+b\sum_{r=0}^nC_{n}^ra^rb^{n-r}\\
 &=\sum_{r=0}^nC_{n}^ra^{r+1}b^{n-r}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
 &=\sum_{r=1}^{n+1}C_{n}^{r-1}a^{r}b^{n-r-1}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
-&=\sum_{r=1}^{n}C_{n}^{r-1}a^{r}b^{n-r-1}+C_{n}^na^n+\sum_{r=1}^nC_{n}^ra^rb^{n-r+1}+\\
+&=\sum_{r=1}^{n}C_{n}^{r-1}a^{r}b^{n-r-1}+C_{n}^na^{n+1}+\sum_{r=1}^nC_{n}^ra^rb^{n-r+1}+C_{n}^0b^{n+1}\\
 \end{split}
 >$$
 #### Note :
