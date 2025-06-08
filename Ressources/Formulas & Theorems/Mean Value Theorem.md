@@ -53,6 +53,10 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 f'(c)=\frac{f(b)-f(a)}{b-a}=0
 >>$$
 >>Thus for all $(a,b)\in I,f(b)-f(a)=0\Longleftrightarrow f(b)=f(a)$. The function $f$ is by so constant.
+
+>[!tip] Increasing or Decreasing Functions
+>>[!tldr] Theorem
+>>Let 
 # Application
 ## I. Meaning
 Geometrically, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
