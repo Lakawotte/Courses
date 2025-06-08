@@ -25,7 +25,8 @@ category: "[[Maths]]"
 >\begin{split}
 (a+b)^{n+1}=(a+b)(a+b)^n\\
 &=\sum_{i=0}^nC_{n}^ra^ib^{n-i}\\
-&=a\sum_{i=0}^nC_{n}^ra^ib^{n-i}
+&=a\sum_{i=0}^nC_{n}^ra^ib^{n-i}+b\sum_{i=0}^nC_{n}^ra^ib^{n-i}\\
+&=
 \end{split}
 >$$
 #### Note :
