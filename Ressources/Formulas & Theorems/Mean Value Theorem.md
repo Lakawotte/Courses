@@ -58,9 +58,9 @@ f'(c)=\frac{f(b)-f(a)}{b-a}=0
 >>[!tldr] Theorem
 >>Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ $\mathcal{C}^1$ on $]a;b[$.
 >>$$
-\forall x\in]a;b[,f'(x)>0\Longleftrightarrow f(a)<f(b)
+\forall x\in]a;b[,f'(x)>0\Longrightarrow f(a)<f(b)
 >>$$
->>Respectively $f'(x)<0\Longleftrightarrow f(a)>f(b)$.
+>>Respectively $f'(x)<0\Longrightarrow f(a)>f(b)$.
 >
 >>[!info] Proof
 >>Suppose that $f'(x)>0$ for all $x\in]a;b[$. By the **mean value theorem**
