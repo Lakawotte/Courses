@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: []
+tags:
+  - analysis/differentiation
 category: "[[Maths]]"
 ---
 ---
@@ -8,7 +9,8 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
+>[!hint] Theorem
+>Let 
 >$$
 >$$
 ### 2. Proof
