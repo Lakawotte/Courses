@@ -29,7 +29,9 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 >$$
 >\begin{split}
 \exists c\in]a;b[,g'(c)&=0\\
-\Longrightarrow
+&=f'(x)-u'(x)\\
+&=
+\Longrightarrow \\
 \end{split}
 >$$
 ## II. Extensions
