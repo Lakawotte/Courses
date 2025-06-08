@@ -56,7 +56,7 @@ f'(c)=\frac{f(b)-f(a)}{b-a}=0
 
 >[!tip] Increasing or Decreasing Functions
 >>[!tldr] Theorem
->>Let 
+>>Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ $\mathcal{C}^1$ on $]a;b[$.
 # Application
 ## I. Meaning
 Geometrically, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
