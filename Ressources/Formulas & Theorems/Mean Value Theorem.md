@@ -63,7 +63,10 @@ f'(c)=\frac{f(b)-f(a)}{b-a}=0
 >>Respectively $f'(x)<0\Longleftrightarrow f(a)>f(b)$.
 >
 >>[!info] Proof
->>Let $(a,b)\in\mathbb{R}^2$ Suppose that $f'(x)>0$ for all $x\in]a;b[$.
+>>We have $(a,b)\in\mathbb{R}^2$ with $a<b$. Suppose that $f'(x)>0$ for all $x\in]a;b[$. By the **mean value theorem**
+>>$$
+f(b)-f(a)=f'(c)
+>>$$
 # Application
 ## I. Meaning
 Geometrically, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
