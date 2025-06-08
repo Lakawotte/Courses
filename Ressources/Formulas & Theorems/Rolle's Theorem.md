@@ -17,6 +17,7 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof
+>If $f$ is $0$ everywhere, then we 
 >$$
 >$$
 ## II. Extensions
@@ -28,7 +29,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
-This theorem is a foundation of real analysis, since it is used to prove the main theorems about **[[Taylor's Series|Taylor's se]]
+This theorem is a foundation of real analysis, since it is used to prove the main theorems about **[[Taylor's Series|Taylor's series]]**.
 ## II. Use
 # Example
 
