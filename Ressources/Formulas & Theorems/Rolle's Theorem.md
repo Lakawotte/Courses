@@ -26,15 +26,6 @@ category: "[[Maths]]"
 >$$
 >$$
 ### 2. Other formulas
->[!tip] Constant Functions
->>[!tldr] Theorem
->>Let $f$ be a $\mathcal{D}^1$ function in an arbitrary interval $I$.
->>$$
-\forall x\in I,f'(x)=0\Longleftrightarrow\exists\delta\in\mathbb{R},f(x)=\delta
->>$$
->
->>[!info] Proof
->>Let $g(x)=f(x)-f(a)-\frac{f(b)-f(a)}{b-a)}(x-a)$. Then $g(a)
 # Application
 ## I. Meaning
 ## II. Use

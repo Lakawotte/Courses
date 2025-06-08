@@ -39,6 +39,15 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 
 
 ### 2. Other formulas
+
+>[!tip] Constant Functions
+>>[!tldr] Theorem
+>>Let $f$ be a $\mathcal{D}^1$ function in an arbitrary interval $I$.
+>>$$
+\forall x\in I,f'(x)=0\Longleftrightarrow\exists\delta\in\mathbb{R},f(x)=\delta
+>>$$
+>
+>>[!info] Proof
 # Application
 ## I. Meaning
 Geometrically, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
