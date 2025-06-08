@@ -16,9 +16,9 @@ category: "[[Maths]]"
 >$$
 ### 2. Proof
 
->[!info] Proof
->Let $u(x)=\frac{f(b)f(a)}{b-a}(x-a)+f(a)$. Then we chose $g(x)=f(x)-u(x)$.
->
+>[!info] Proof by **[[Rolle's Theorem]]**
+>Let $u(x)=\frac{f(b)f(a)}{b-a}(x-a)+f(a)$. We chose $g(x)=f(x)-u(x)$.
+>Then $g$ is **[[Continuity|continuous]]** on $[a;b]$ since it is the diffe
 >$$
 >$$
 ## II. Extensions
