@@ -37,8 +37,6 @@ The coefficient of this term is the number of ways to take $b$ $n$ times. The nu
 &=\sum_{r=0}^{n+1}C_{n+1}^ra^rb^{n-r}\\
 \end{split}
 >$$
-
->[!info] Combinatorial Proof
 ## II. Extensions
 ### 1. Properties
 
