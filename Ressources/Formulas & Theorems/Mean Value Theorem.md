@@ -65,7 +65,7 @@ f'(c)=\frac{f(b)-f(a)}{b-a}=0
 >>[!info] Proof
 >>Suppose that $f'(x)>0$ for all $x\in]a;b[$. By the **mean value theorem**
 >>$$
-a<b\Longrightarrow f(b)-f(a)=f'(c)(b-a)>0
+a<b\Longrightarrow f(b)-f(a)=f'(c)(b-a)>0\Longrightarrow f(a)<f(b)
 >>$$
 # Application
 ## I. Meaning
