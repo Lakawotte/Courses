@@ -20,8 +20,9 @@ category: "[[Maths]]"
 >[!info] Proof by Induction
 >We will proove by induction on $n\in\mathbb{N}$ the proposition $P_n:\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{i=0}^nC_{n}^ra^ib^{n-i}$.
 >1. Intialization ($n=0$) : $(a+b)^0=1=C_0^0a^0b^0$
->2. Heredity ($n+1$) : suppose $P_n$ established for 
+>2. Heredity ($n+1$) : suppose $P_n$ established for all $n$. Thus
 >$$
+(a+b)^{n+1}=(a+b)(a+b)^n=(a+b)
 >$$
 #### Note :
 To get an idea of a proof, one can follow this intuition :
