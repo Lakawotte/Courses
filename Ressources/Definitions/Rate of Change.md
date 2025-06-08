@@ -9,9 +9,8 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition : Absolute Change
->Let $f
->$$
->$$
+>Let $f:[a;b]\rightarrow\mathbb{R}$ a function and $x_0,x_1$ two distincs elements of $[a;b]$.
+>We name **absolute change** the dif
 ## II. Extensions
 ### 1. Properties
 
