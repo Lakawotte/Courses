@@ -48,7 +48,11 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 >>$$
 >
 >>[!info] Proof
->>By the **mean value theorem**, we have 
+>>By the **mean value theorem**, we have a constant $c$ on $[a;b]$ that satisfies
+>>$$
+f'(c)=\frac{f(b)-f(a)}{b-a}=0
+>>$$
+>>Thus for all 
 # Application
 ## I. Meaning
 Geometrically, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
