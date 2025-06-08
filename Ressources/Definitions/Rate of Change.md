@@ -1,13 +1,14 @@
 ---
 aliases: 
-tags: 
-category:
+tags:
+  - analysis/differentiation
+category: "[[Maths]]"
 ---
 ---
 # Definition
 ## I. Statement
 
->[!hint] Definition
+>[!hint] Definition : 
 >$$
 >$$
 ## II. Extensions
