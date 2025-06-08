@@ -21,7 +21,7 @@ category: "[[Maths]]"
 ### 1. Corollaries
 
 >[!tldr] Difference of Derivatives
->Let $f$ and $^g$ be two functions 
+>Let $f$ and $g$ be two $\mathcalfunctions from $\mathbb{R}$ to $\mathbb{R}$ such that $f'=g'$.
 >$$
 >$$
 ### 2. Other formulas
