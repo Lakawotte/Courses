@@ -15,7 +15,7 @@ category: "[[Maths]]"
 >$$
 \forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{r=0}^nC_{n}^ra^rb^{n-r}
 >$$
-### 2. Proof
+### 2. Proofs
 
 >[!info] Proof by Induction
 >We will proove by induction on $n\in\mathbb{N}$ the proposition $P_n:\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{r=0}^nC_{n}^ra^rb^{n-r}$.
@@ -27,6 +27,7 @@ category: "[[Maths]]"
 &=\sum_{r=0}^nC_{n}^ra^rb^{n-r}\\
 &=a\sum_{r=0}^nC_{n}^ra^rb^{n-r}+b\sum_{r=0}^nC_{n}^ra^rb^{n-r}\\
 &=\sum_{r=0}^nC_{n}^ra^{r+1}b^{n-r}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
+&=\sum_{r=1}^{n+1}C_{n}^{r-1}a^{r+1}b^{n-i}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
 &=\sum_{r=1}^{n+1}C_{n}^{r-1}a^{r+1}b^{n-i}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
 \end{split}
 >$$
