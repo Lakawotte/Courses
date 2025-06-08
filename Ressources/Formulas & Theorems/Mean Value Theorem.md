@@ -38,7 +38,8 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 ### 1. Properties
 
 >[!tip] Constant Functions
->>[!tldr] 
+>>[!tldr] Theorem
+>>Let $f\in
 >$$
 >$$
 ### 2. Other formulas
