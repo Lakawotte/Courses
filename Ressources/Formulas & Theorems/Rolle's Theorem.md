@@ -22,7 +22,7 @@ category: "[[Maths]]"
 >$$
 f(c)<0\Longrightarrow c\neq a\,\,\wedge\,\,c\neq b\Longrightarrow c\in]a;b[
 >$$
->By the property of the extremum, $f'(c)=0
+>By the property of the extremum, $f'(c)=0$.
 ## II. Extensions
 ### 1. Properties
 
