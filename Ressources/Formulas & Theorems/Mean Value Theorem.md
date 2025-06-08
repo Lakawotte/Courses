@@ -78,7 +78,7 @@ If a car had its mean speed at $110\text{mph}$, there is a time when its instant
 # Example
 We want to show that
 $$
-\forall(a,b)\in\mathbb{R_{+}}^2,a<b,
+\forall(a,b)\in\mathbb{R_{+}}^2,a<b,\frac{b-a}{3\sqrt[3]{b}}\le\sqrt[3]{b}-\sqrt{ a }
 $$
 
 ---
