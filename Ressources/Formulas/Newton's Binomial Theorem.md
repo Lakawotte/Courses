@@ -29,13 +29,12 @@ category: "[[Maths]]"
 &=\sum_{r=0}^nC_{n}^ra^{r+1}b^{n-r}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
 &=\sum_{r=1}^{n+1}C_{n}^{r-1}a^{r}b^{n-r-1}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
 &=\sum_{r=1}^{n}C_{n}^{r-1}a^{r}b^{n-r-1}+C_{n}^na^{n+1}+\sum_{r=1}^nC_{n}^ra^rb^{n-r+1}+C_{n}^0b^{n+1}\\
-&=\sum_{r=1}^n(C_{n}^{r-1}+C_{n}^r)a^rb^{n-r}+a^{}
+&=\sum_{r=1}^n(C_{n}^{r-1}+C_{n}^r)a^rb^{n-r}+a^{n+1}+b^{n+1}\\
+&=\sum_{r=0}^{n+1}C_{n+1}^ra^rb^{n-r}\\
 \end{split}
 >$$
-#### Note :
-To get an idea of a proof, one can follow this intuition :
-To find the developed form, we chose $a$ or $b$ in each term and we multiply them together. Since we have $n$ factors, we chose between $a$ or $b$ $n$ times : taking $r$ $a$s let us with $n-r$ $b$s. We then get $a^rb^{n-r}$.
-The coefficient of this term is the number of ways to take $b$ $n$ times. The number of apparitions of $a^rb^{n-r}$ in the development of $(a+b)^n$ is equal to the number of ways of taking $r$ factors among $n$ since the order don't matters. The coefficient of those terms is then the **[[Binomial Coefficient|binomial coefficient]]** $C_n^r$.
+
+>[!info] 
 ## II. Extensions
 ### 1. Properties
 
