@@ -23,7 +23,7 @@ category: "[[Maths]]"
 >[!tldr] Difference of Derivatives
 >Let $f$ and $g$ be two $\mathcal{D}^1$ functions from $\mathbb{R}$ to $\mathbb{R}$.
 >$$
-f'=g'\Longrightarrow\exists c\in\mathbb
+f'=g'\Longrightarrow\exists c\in\mathbb{R},f=g+c
 >$$
 ### 2. Other formulas
 # Application
