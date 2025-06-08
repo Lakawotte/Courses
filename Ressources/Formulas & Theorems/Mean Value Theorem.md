@@ -26,7 +26,12 @@ g(a)=f(a)-u(a)=0
 g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 >$$
 >$g$ is verifying the properties of **[[Rolle's Theorem|Rolle]]** :
->
+>$$
+>\begin{split}
+\exists c\in]a;b[,g'(c)&=0\\
+\Longleftrightarrow
+\end{split}
+>$$
 ## II. Extensions
 ### 1. Properties
 
