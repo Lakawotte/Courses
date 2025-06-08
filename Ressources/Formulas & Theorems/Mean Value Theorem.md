@@ -63,9 +63,9 @@ f'(c)=\frac{f(b)-f(a)}{b-a}=0
 >>Respectively $f'(x)<0\Longleftrightarrow f(a)>f(b)$.
 >
 >>[!info] Proof
->>We have $(a,b)\in\mathbb{R}^2$ with $a<b$. Suppose that $f'(x)>0$ for all $x\in]a;b[$. By the **mean value theorem**
+>>Suppose that $f'(x)>0$ for all $x\in]a;b[$. By the **mean value theorem**
 >>$$
-f(b)-f(a)=f'(c)
+a<b\Longrightarrow f(b)-f(a)=f'(c)(b-a)>0
 >>$$
 # Application
 ## I. Meaning
