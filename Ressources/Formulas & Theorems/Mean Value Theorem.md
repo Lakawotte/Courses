@@ -84,6 +84,6 @@ Let $f$ be the function such that $\forall x\in\mathbb{R_+^*},f(x)=\sqrt[3]{x}$.
 $$
 f'(x)=\frac{d}{dx}(x^{\frac{1}{3}})=\frac{1}{3}x^{-\frac{2}{3}}=\frac{1}{3\sqrt[3]{x^2}}
 $$
-By the **mean value theorem**, there is a $c$ such that $f(b)-f(a)=f'(c)(b-a)$, we just need to 
+By the **mean value theorem**, there is a $c$ such that $f(b)-f(a)=f'(c)(b-a)$, we just need to bound $f'(c)$ :
 
 ---
