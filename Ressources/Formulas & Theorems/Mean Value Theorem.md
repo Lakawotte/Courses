@@ -18,8 +18,9 @@ category: "[[Maths]]"
 
 >[!info] Proof by **[[Rolle's Theorem]]**
 >Let $u(x)=\frac{f(b)f(a)}{b-a}(x-a)+f(a)$. We chose $g(x)=f(x)-u(x)$.
->Then $g$ is **[[Continuity|continuous]]** on $[a;b]$ since it is the diffe
+>Then $g$ is **[[Continuity|continuous]]** on $[a;b]$ since it is the difference of two **[[Continuity|continuous]]** functions. It is also **[[Differentiability|differentiable]]** on $]a;b[$ by the same process.
 >$$
+g(a)=f(a)-u
 >$$
 ## II. Extensions
 ### 1. Properties
