@@ -39,8 +39,9 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 
 >[!tip] Constant Functions
 >>[!tldr] Theorem
->>Let $f\in
+>>Let $f$ be a $\mathcal{D}^1$ function in an arbitrary interval $I$.
 >$$
+>f'(x)=0
 >$$
 ### 2. Other formulas
 # Application
