@@ -18,7 +18,7 @@ category: "[[Maths]]"
 
 >[!info] Proof
 >If $f$ is $0$ everywhere, then we can take any $c$ such that $f'(c)=0$.
->Suppose now that at least one value of $f$ is non-zero. Since $f$ is **[[Continuity|continuous]]** on $[a;b]$, it reaches its extremum 
+>Suppose now that at least one value of $f$ is non-zero. Since $f$ is **[[Continuity|continuous]]** on $[a;b]$, it reaches its extremum at some point $c\in[a;b]$. But 
 ## II. Extensions
 ### 1. Properties
 
