@@ -21,8 +21,9 @@ category: "[[Maths]]"
 ### 1. Corollaries
 
 >[!tldr] Difference of Derivatives
->Let $f$ and $g$ be two $\mathcalfunctions from $\mathbb{R}$ to $\mathbb{R}$ such that $f'=g'$.
+>Let $f$ and $g$ be two $\mathcal{D}^1$ functions from $\mathbb{R}$ to $\mathbb{R}$.
 >$$
+f'=g'\Longrightarrow\exists c\in\mathbb
 >$$
 ### 2. Other formulas
 # Application
