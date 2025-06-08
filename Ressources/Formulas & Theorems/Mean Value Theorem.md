@@ -17,7 +17,8 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof
->Let $u(x)=\frac{f(b)f(a)}{b-a}(x-a)+f(a)
+>Let $u(x)=\frac{f(b)f(a)}{b-a}(x-a)+f(a)$. Then we chose $g(x)=f(x)-u(x)$.
+>
 >$$
 >$$
 ## II. Extensions
