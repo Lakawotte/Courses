@@ -28,7 +28,7 @@ f'=g'\Longrightarrow\exists c\in\mathbb{R},f=g+c
 >>$$
 >
 >>[!info] Proof
->>Let $F=f-g$, then $F'=0$. By the theorem found 
+>>Let $F=f-g$, then $F'=0$. By the the
 ### 2. Other formulas
 # Application
 ## I. Meaning
