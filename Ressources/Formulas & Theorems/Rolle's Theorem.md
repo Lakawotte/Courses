@@ -28,6 +28,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
+This theorem is a foundation of real analysis, since it is used to prove the main theorems about **[[Taylor's Series|Taylor's se]]
 ## II. Use
 # Example
 
