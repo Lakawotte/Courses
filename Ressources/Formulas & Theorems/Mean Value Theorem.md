@@ -85,5 +85,8 @@ $$
 f'(x)=\frac{d}{dx}(x^{\frac{1}{3}})=\frac{1}{3}x^{-\frac{2}{3}}=\frac{1}{3\sqrt[3]{x^2}}
 $$
 By the **mean value theorem**, there is a $c$ such that $f(b)-f(a)=f'(c)(b-a)$, we just need to bound $f'(c)$ :
+$$
+\forall x\in[a;b],0<a^2\le x^2\le b^2\Longrightarrow
+$$
 
 ---
