@@ -34,7 +34,7 @@ category: "[[Maths]]"
 >>$$
 >
 >>[!info] Proof
->>
+>>Let $g(x)=f(x)-f(a)
 # Application
 ## I. Meaning
 ## II. Use
