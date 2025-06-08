@@ -30,8 +30,8 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 >\begin{split}
 \exists c\in]a;b[,g'(c)&=0\\
 &=f'(c)-u'(c)\\
-&=f'(x)-\frac{f(b)f(a)}{b-a}
-\Longrightarrow \\
+&=f'(c)-\frac{f(b)f(a)}{b-a}\\
+\Longrightarrow f'(c)&=\frac{f(b)f(a)}{b-a}\\
 \end{split}
 >$$
 ## II. Extensions
