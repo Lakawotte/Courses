@@ -87,8 +87,9 @@ $$
 By the **mean value theorem**, there is a $c$ such that $f(b)-f(a)=f'(c)(b-a)$, we just need to bound $f'(c)$ :
 $$
 \begin{split}
-\forall x\in[a;b],0&<a^2\le x^2\le b^2\\
-\Longleftrightarrow&0<\sqrt[3]{a^2}\le\sqrt[3]{x^2}\le\sqrt[3]{b^2}\\\Longleftrightarrow\frac{1}{3\sqrt[3]{b^2}}\le f'(x)\le\frac{1}{3\sqrt[3]{a^2}}
+\forall x\in[a;b],0<a^2\le x^2\le b^2\\
+\Longleftrightarrow&0<\sqrt[3]{a^2}\le\sqrt[3]{x^2}\le\sqrt[3]{b^2}\\
+\Longleftrightarrow&\frac{1}{3\sqrt[3]{b^2}}\le f'(x)\le\frac{1}{3\sqrt[3]{a^2}}
 \end{split}
 $$
 
