@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition : Absolute Change
->Let $f:[a;b]\rightarrow\mathbb{R}$ a function and $x_1>x_0$ two distincts elements of $[a;b]$.
+>Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ be a function and $x_1>x_0$ two distincts elements of $[a;b]$.
 >We name **absolute change** between $x_0$ and $x_1$ the difference $f(x_1)-f(x_0)$.
 
 >[!hint] Definition : Relative Change

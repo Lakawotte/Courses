@@ -12,6 +12,7 @@ category: "[[Maths]]"
 >[!hint] Formula
 >Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$
 >$$
+\exists c\in]a;b[,f(b)-f(a)=f'(c)
 >$$
 ### 2. Proof
 
