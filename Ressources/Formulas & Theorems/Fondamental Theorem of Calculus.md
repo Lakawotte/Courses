@@ -20,11 +20,18 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Corollaries
 
->[!tldr] Difference of Derivatives
->Let $f$ and $g$ be two $\mathcal{D}^1$ functions from $\mathbb{R}$ to $\mathbb{R}$.
->$$
+>[!tip] Difference of Derivatives
+>>[!tldr] Theorem
+>>Let $f$ and $g$ be two $\mathcal{D}^1$ functions from $\mathbb{R}$ to $\mathbb{R}$.
+>>$$
 f'=g'\Longrightarrow\exists c\in\mathbb{R},f=g+c
->$$
+>>$$
+>
+>>[!info] Proof
+>>Let $F=
+>>$$
+
+>>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
