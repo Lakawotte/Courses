@@ -12,6 +12,7 @@ category: "[[Maths]]"
 >[!hint] Theorem
 >Let $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$ such that $f(a)=f(b)$.
 >$$
+\exists c\in]a;b[,f'(c)=0
 >$$
 ### 2. Proof
 
