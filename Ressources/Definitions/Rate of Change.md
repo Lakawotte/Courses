@@ -8,7 +8,7 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!hint] Definition : 
+>[!hint] Definition : Absolute Change
 >$$
 >$$
 ## II. Extensions
