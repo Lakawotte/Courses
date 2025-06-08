@@ -13,21 +13,21 @@ category: "[[Maths]]"
 >[!hint] Formula
 >Here $\mathbb{K}$ is either $\mathbb{R}$ or $\mathbb{C}$.
 >$$
-\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{i=0}^nC_{n}^ra^ib^{n-i}
+\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{r=0}^nC_{n}^ra^rb^{n-r}
 >$$
 ### 2. Proof
 
 >[!info] Proof by Induction
->We will proove by induction on $n\in\mathbb{N}$ the proposition $P_n:\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{i=0}^nC_{n}^ra^ib^{n-i}$.
+>We will proove by induction on $n\in\mathbb{N}$ the proposition $P_n:\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{r=0}^nC_{n}^ra^rb^{n-r}$.
 >1. Intialization ($n=0$) : $(a+b)^0=1=C_0^0a^0b^0$
 >2. Heredity ($n+1$) : suppose $P_n$ established for all $n$. Thus
 >$$
 >\begin{split}
 (a+b)^{n+1}=(a+b)(a+b)^n\\
-&=\sum_{i=0}^nC_{n}^ra^ib^{n-i}\\
+&=\sum_{r=0}^nC_{n}^ra^rb^{n-ir\\
 &=a\sum_{i=0}^nC_{n}^ra^ib^{n-i}+b\sum_{i=0}^nC_{n}^ra^ib^{n-i}\\
 &=\sum_{i=0}^nC_{n}^ra^{i+1}b^{n-i}+\sum_{i=0}^nC_{n}^ra^ib^{n-i+1}\\
-&=\sum_{i=1}^{n+1}C_{n}^{}ra^{i+1}b^{n-i}+\sum_{i=0}^nC_{n}^ra^ib^{n-i+1}\\
+&=\sum_{i=1}^{n+1}C_{n}^{i-1}a^{i+1}b^{n-i}+\sum_{i=0}^nC_{n}^ra^ib^{n-i+1}\\
 \end{split}
 >$$
 #### Note :
