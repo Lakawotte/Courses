@@ -18,7 +18,10 @@ category: "[[Maths]]"
 
 >[!info] Proof
 >If $f$ is $0$ everywhere, then we can take any $c$ such that $f'(c)=0$.
->Suppose now that at least one value of $f$ is non-zero. Since $f$ is **[[Continuity|continuous]]** on $[a;b]$, it reaches its extremum at some point $c\in[a;b]$. This extremum is either stricly negative nor positive, so $c\neq a\,\,\wedge\,\,c\neq b$
+>Suppose now that at least one value of $f$ is non-zero. Since $f$ is **[[Continuity|continuous]]** on $[a;b]$, it reaches its minimum (resp. maximum) at some point $c\in[a;b]$ :
+>$$
+f(c)<0\Longrightarrow c\neq a\,\,\wedge\,\,c\neq b\Longrightarrow
+>$$This extremum is either stricly negative nor positive, so $$
 ## II. Extensions
 ### 1. Properties
 
