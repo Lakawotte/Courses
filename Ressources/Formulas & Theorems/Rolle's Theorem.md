@@ -18,8 +18,7 @@ category: "[[Maths]]"
 
 >[!info] Proof
 >If $f$ is $0$ everywhere, then we can take any $c$ such that $f'(c)=0$.
->$$
->$$
+>Suppose now that at least one value of 
 ## II. Extensions
 ### 1. Properties
 
