@@ -18,7 +18,8 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof by Induction
->We will proove by induction on $n\in\mathbb{N}$ the proposition $P_n:\forall(a,b)\in\mathbb{R},\forall
+>We will proove by induction on $n\in\mathbb{N}$ the proposition $P_n:\forall n\in\mathbb{N},\forall(a,b)\in\mathbb{K}^2,(a+b)^n=\sum_{i=0}^nC_{n}^ra^ib^{n-i}$.
+>1. Intialization ($n=0$) : $(a+b)^0=1=
 >$$
 >$$
 #### Note :
