@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - analysis/differentiation
+  - calculus/differentiation
 category: "[[Maths]]"
 ---
 ---

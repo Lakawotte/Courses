@@ -31,7 +31,7 @@ cssclasses:
 >- #error
 >- #return
 >- #physics
->- #analysis
+>- #calculus
 >- #thermodynamics
 >- #astronomy
 >- #mechanics

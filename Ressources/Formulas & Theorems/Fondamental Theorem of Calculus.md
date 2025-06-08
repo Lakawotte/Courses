@@ -1,7 +1,8 @@
 ---
 aliases: 
-tags: 
-category:
+tags:
+  - calculus
+category: "[[Maths]]"
 ---
 ---
 # Formula
@@ -17,7 +18,7 @@ category:
 >$$
 >$$
 ## II. Extensions
-### 1. Properties
+### 1. Corollaries
 
 >[!tldr]
 >$$
