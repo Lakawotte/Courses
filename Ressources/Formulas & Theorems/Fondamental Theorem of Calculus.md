@@ -22,7 +22,7 @@ category: "[[Maths]]"
 
 >[!tip] Difference of Derivatives
 >>[!tldr] Theorem
->>Let $f$ and $g$ be two $\mathcal{D}^1$ functions from $\mathbb{R}$ to $\mathbb{R}$.
+>>Let $f$ and $g$ be two $\mathcal{D}^1$ functions from $I$ to $\mathbb{R}$.
 >>$$
 f'=g'\Longrightarrow\exists c\in\mathbb{R},f=g+c
 >>$$
@@ -32,7 +32,7 @@ f'=g'\Longrightarrow\exists c\in\mathbb{R},f=g+c
 
 > [!tip] Antiderivative
 >>[!tldr] Theorem
->If $F$ is an antiderivative of $f$
+>If $F$ is an antiderivative of $f$ on an interval $I$, then all the antiderivatives are given by $F+c$ where $c$ is describing $\mathbb{R}$.
 ### 2. Other formulas
 # Application
 ## I. Meaning
