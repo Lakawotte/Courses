@@ -12,7 +12,7 @@ category: "[[Maths]]"
 >[!hint] Formula
 >Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$. Then,
 >$$
-\exists c\in]a;b[,f'(c)=\frac{f(b)f(a)}{b-a}
+\exists c\in]a;b[,f'(c)=\frac{f(b)-f(a)}{b-a}
 >$$
 ### 2. Proof
 
@@ -44,10 +44,11 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 >>[!tldr] Theorem
 >>Let $f$ be a $\mathcal{D}^1$ function in an arbitrary interval $I$.
 >>$$
-\forall x\in I,f'(x)=0\Longleftrightarrow\exists\delta\in\mathbb{R},f(x)=\delta
+\forall x\in I,f'(x)=0\Longrightarrow\exists\delta\in\mathbb{R},f(x)=\delta
 >>$$
 >
 >>[!info] Proof
+>>By the **mean value theorem**, we have 
 # Application
 ## I. Meaning
 Geometrically, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
