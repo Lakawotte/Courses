@@ -92,6 +92,12 @@ $$
 \Longleftrightarrow&\frac{1}{3\sqrt[3]{b^2}}\le f'(x)\le\frac{1}{3\sqrt[3]{a^2}}\\
 \end{split}
 $$
-Thus $f'(c)$ is bounded by \frac{1}{3\sqrt[3]{b^2}}$
+Thus $f'(c)$ is bounded by $\frac{1}{3\sqrt[3]{b^2}}$ and $\frac{1}{3\sqrt[3]{a^2}}$ :
+$$
+\begin{split}
+&\frac{b-a}{3\sqrt[3]{b^2}}\le(b-a)f'(x)\le\frac{b-a}{3\sqrt[3]{a^2}}\\
+\Longleftrightarrow&
+\end{split}
+$$
 
 ---
