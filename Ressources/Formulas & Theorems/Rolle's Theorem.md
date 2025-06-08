@@ -10,7 +10,7 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Theorem
->Let $f:a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function 
+>Let $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$ such that $f(a)=f(b)$.
 >$$
 >$$
 ### 2. Proof
