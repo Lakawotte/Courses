@@ -10,7 +10,7 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Formula
->Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$
+>Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$. Then,
 >$$
 \exists c\in]a;b[,f(b)-f(a)=f'(c)(b-a)
 >$$
@@ -29,7 +29,7 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 >$$
 >\begin{split}
 \exists c\in]a;b[,g'(c)&=0\\
-\Longleftrightarrow
+\Longrightarrow
 \end{split}
 >$$
 ## II. Extensions
