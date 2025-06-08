@@ -82,7 +82,8 @@ $$
 $$
 Let $f$ be the function such that $\forall x\in\mathbb{R_+^*},f(x)=\sqrt[3]{x}$. Then $f$ is differentiable as a reference function and we have
 $$
-f'(x)=\frac{d}{dx}(x^{\frac{1}{3}})=\frac_{1}
+f'(x)=\frac{d}{dx}(x^{\frac{1}{3}})=\frac{1}{3}x^{-\frac{2}{3}}=\frac{1}{3\sqrt[3]{x^2}}
 $$
+By the 
 
 ---
