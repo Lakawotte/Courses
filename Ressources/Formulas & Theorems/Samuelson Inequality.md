@@ -14,7 +14,7 @@ $$
 \max_{i}\{|x_{i}−\bar{x}∣\}\le\sqrt{n−1}⋅\sigma
 $$
 #### Warning :
-This formula only holds if the **[[Mean]]** and the **[[Standard Deviation]]** are **[[Bias]]**. This is, we need the standard deviation to be **[[Bias|biaised]]** for its sample.
+This formula only holds if the **[[Mean]]** and the **[[Standard Deviation]]** are **[[Bias|uncorrected]]**. This is, we need the standard deviation to be **[[Bias|biaised]]** for its sample.
 Indeed, this formula only cares about the value of the **samples**, not the hole population.
 ### 2. Proof
 

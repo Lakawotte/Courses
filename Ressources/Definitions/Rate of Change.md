@@ -9,6 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition : Absolute Change
+>Let $f
 >$$
 >$$
 ## II. Extensions
