@@ -78,8 +78,8 @@ If a car had its mean speed at $110\text{mph}$, there is a time when its instant
 # Example
 We want to show that
 $$
-\forall(a,b)\in\mathbb{R_{+}}^2,a<b,\frac{b-a}{3\sqrt[3]{b^2}}\le\sqrt[3]{b}-\sqrt[3]{ a }\le\frac{b-a}{3\sqrt[3]{a^2}}
+\forall(a,b)\in\mathbb{R_{+}^*}^2,a<b,\frac{b-a}{3\sqrt[3]{b^2}}\le\sqrt[3]{b}-\sqrt[3]{ a }\le\frac{b-a}{3\sqrt[3]{a^2}}
 $$
-Let $f$ be the function such that $\forall x\in\mathbb{R_+^*}f(x)
+Let $f$ be the function such that $\forall x\in\mathbb{R_+^*},f(x)=\sqrt[3]{x}$. Then $f$ is differentiable 
 
 ---
