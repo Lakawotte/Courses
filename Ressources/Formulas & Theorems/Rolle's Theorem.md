@@ -17,7 +17,7 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof
->If $f$ is $0$ everywhere, then we 
+>If $f$ is $0$ everywhere, then we can take any $c$ such that $f'(c)=0$.
 >$$
 >$$
 ## II. Extensions
