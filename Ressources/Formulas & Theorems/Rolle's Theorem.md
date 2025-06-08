@@ -10,7 +10,7 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Theorem
->Let 
+>Let $f:a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function 
 >$$
 >$$
 ### 2. Proof
