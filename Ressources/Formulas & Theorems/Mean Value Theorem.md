@@ -76,5 +76,9 @@ This is, if a function is **[[Differentiability|differentiable]]** we can expres
 If a car had its mean speed at $110\text{mph}$, there is a time when its instantaneous speed was $110\text{mph}$.
 ## II. Use
 # Example
+We want to show that
+$$
+\forall(a,b)\in\mathbb{R_{+}}^2,a<b,
+$$
 
 ---
