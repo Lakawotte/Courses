@@ -30,7 +30,7 @@ category: "[[Maths]]"
 ## I. Meaning
 Geometricly, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
 
-If a car is 
+If a car has its mean speed at $110\text{mph}$,
 ## II. Use
 # Example
 
