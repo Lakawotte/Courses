@@ -25,7 +25,8 @@ g(a)=f(a)-u(a)=0
 >$$
 g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 >$$
->$g$ is verifying the 
+>$g$ is verifying the properties of **[[Rolle's Theorem|Rolle]]** :
+>
 ## II. Extensions
 ### 1. Properties
 
