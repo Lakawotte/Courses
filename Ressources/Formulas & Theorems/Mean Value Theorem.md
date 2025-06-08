@@ -57,6 +57,7 @@ f'(c)=\frac{f(b)-f(a)}{b-a}=0
 ## I. Meaning
 Geometrically, the slope of the line between $(x_0;f(x_0))$ and $(x_1;f(x_1))$ is parallel to the tangent of the curve at a certain point $c$.
 This is a generalization of **[[Rolle's Theorem|Rolle's theorem]]**, in which the right-hand side is $0$.
+This is, if a function is **[[Differentiability|differentiable]]
 
 If a car had its mean speed at $110\text{mph}$, there is a time when its instantaneous speed was $110\text{mph}$.
 ## II. Use
