@@ -26,6 +26,8 @@ category: "[[Maths]]"
 >$$
 >$$
 ### 2. Other formulas
+>[!tip] Theorem
+>Let 
 # Application
 ## I. Meaning
 ## II. Use
