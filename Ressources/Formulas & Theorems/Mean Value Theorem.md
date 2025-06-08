@@ -9,10 +9,9 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Theorem
->Let  $(a,b)\in\mathbb{R}^2$ and  $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$ such that $f(a)=f(b)$.
+>[!hint] Formula
+>Let $(a,b)\in\mathbb{R}^2$ and $f:[a;b]\rightarrow\mathbb{R}$ a **[[Continuity|continuous]]** function **[[Differentiability|differentiable]]** on $]a;b[$
 >$$
-\exists c\in]a;b[,f'(c)=0
 >$$
 ### 2. Proof
 
