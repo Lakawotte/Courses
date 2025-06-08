@@ -20,7 +20,8 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Corollaries
 
->[!tldr]
+>[!tldr] Difference of Derivatives
+>Let $f$ and $^g$ be two functions 
 >$$
 >$$
 ### 2. Other formulas
