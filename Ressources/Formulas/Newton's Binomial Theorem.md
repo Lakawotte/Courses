@@ -18,7 +18,7 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof by Induction
->We will proove by induction on $n\in\mathbb{N}$ 
+>We will proove by induction on $n\in\mathbb{N}$ the proposition $P_n:\forall(a,b)\in\mathbb{R},\forall
 >$$
 >$$
 #### Note :
