@@ -34,7 +34,7 @@ category: "[[Maths]]"
 >>$$
 >
 >>[!info] Proof
->>Let $g(x)=f(x)-f(a)
+>>Let $g(x)=f(x)-f(a)-\frac{f(b)-f(a)}{b-a)}(x-a)$. Then $g(a)
 # Application
 ## I. Meaning
 ## II. Use
