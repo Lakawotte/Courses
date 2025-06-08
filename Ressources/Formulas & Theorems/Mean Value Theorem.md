@@ -41,7 +41,7 @@ g(b)=f(b)-u(b)=f(b)-(f(a))-(f(b)-f(a))=0
 >>[!tldr] Theorem
 >>Let $f$ be a $\mathcal{D}^1$ function in an arbitrary interval $I$.
 >$$
->f'(x)=0
+>\forall x\in I,f'(x)=0\Longleftrightarrow\exists\delta\in\mathbb{R},f(x)=\delta
 >$$
 ### 2. Other formulas
 # Application
