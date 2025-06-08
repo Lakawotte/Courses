@@ -24,7 +24,7 @@ category: "[[Maths]]"
 >$$
 >\begin{split}
 (a+b)^{n+1}&=(a+b)(a+b)^n\\
-&=\sum_{r=0}^nC_{n}^ra^rb^{n-r}\\
+&=(a+b)\sum_{r=0}^nC_{n}^ra^rb^{n-r}\\
 &=a\sum_{r=0}^nC_{n}^ra^rb^{n-r}+b\sum_{r=0}^nC_{n}^ra^rb^{n-r}\\
 &=\sum_{r=0}^nC_{n}^ra^{r+1}b^{n-r}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
 &=\sum_{r=1}^{n+1}C_{n}^{r-1}a^{r+1}b^{n-i}+\sum_{r=0}^nC_{n}^ra^rb^{n-r+1}\\
