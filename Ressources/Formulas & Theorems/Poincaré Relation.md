@@ -36,7 +36,7 @@ category: "[[Maths]]"
 # Application
 ## I. Meaning
 ## II. Use
-This formula can also be interpreted in terms of #probabilty, by replacing **[[Set|subset]]** by events and $\text{card}$ by $P$.
+This formula can also be interpreted in terms of #probability, by replacing **[[Set|subset]]** by events and $\text{card}$ by $P$.
 # Example
 
 ---

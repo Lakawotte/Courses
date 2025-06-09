@@ -1,8 +1,8 @@
 ---
 aliases: 
 tags:
-  - probabilty
   - statistics
+  - probability
 category: "[[Maths]]"
 ---
 ---
