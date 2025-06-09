@@ -28,7 +28,11 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>- $f(a_1)=0$ : thus the theorem is proved for $c=a_1$.
 >>- $f(a_1)<0$ : in this case consider the interval $I_1=]a_1,b[$
 >>- $f(a_1)>0$ : in this case consider the interval $I_1=]a,a_{1}[$
->>Starting with the open interva
+>>Starting with the open interval $I_0=]a,b[$, we get another interval $I_1\subset I_0$ with length half of the original :
+>>$$
+|I_{1}=\frac{1}{2}I_{0}
+>>$$
+>>
 ### 3. Proof
 
 >[!info] Proof
