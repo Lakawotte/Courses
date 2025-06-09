@@ -14,9 +14,11 @@ category: "[[Maths]]"
 >$$
 a<b\Longrightarrow\forall k\in[f(a),f(b)],\exists x_{0}\in[a,b],f(x_{0})=k
 >$$
-### 2. Corrolaries
+### 2. Corollaries
 
 >[!tip] Bolzano's Theorem
+>>[!tldr] Theorem
+>>If a function has values of opposite sign inside an
 ### 3. Proof
 
 >[!info] Proof
