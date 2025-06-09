@@ -33,10 +33,7 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 |I_{1}|=\frac{1}{2}|I_{0}|
 >>$$
 >>Repeat the procedure to the interval $I_n$ to get $I_{n+1}$. We can thus define a succession of open intervals $I_n$ such that $I_{n+1}\subset I_n,|I_{n+1}|=(frac{1}{2})^n|I_{n}|$, where $I_n=]a_n,b_n[$ and $f(a_n)<0<f(b_n)$.
->>The succession
->>$$
-c_{2n}=a_{n},c_{2n+1}=b_{n}
->>$$
+>>The succession $c_{2n}=a_{n},c_{2n+1}=b_{n}$ is **[[Chauchy Sequence|Cauchy]]** by construction since $m<n
 ### 3. Proof
 
 >[!info] Proof
