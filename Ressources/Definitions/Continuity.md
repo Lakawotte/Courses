@@ -23,9 +23,9 @@ category: "[[Maths]]"
 >>If a function $f: D_{f}\rightarrow\mathbb{R}$ is defined at $x_0\in D_{f}$ and has a limit at $x_0$, then this limit is $f(x_0)$.
 >
 >>[!info] Proof
->>Suppose that the limit $l$ exists. Then for all $\epsilon>0$, there is a centered interval $I$ at $x_0$ such that $|f(x)-l|<\esiplon$.
+>>Suppose that the limit $l$ exists. Then for all $\epsilon>0$, there is a centered interval $I$ at $x_0$ such that
 >>$$
-a
+\forall x\in D_{f}\cap I,|f(x)-l|<\epsilon$
 >>$$
 #### Note :
 This is another definition of **continuity**.
