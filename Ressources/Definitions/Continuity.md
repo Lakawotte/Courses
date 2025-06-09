@@ -69,7 +69,9 @@ This is another definition of **continuity**.
 >>6. $f\circ g$ is continuous on $D_g\cap g^{-1}(D_f)$
 >
 >>[!info] Proofs
->>7. 
+>>1.
+>>2.
+>>
 
 >[!tip] Unicity
 >>[!tldr] Lemma
