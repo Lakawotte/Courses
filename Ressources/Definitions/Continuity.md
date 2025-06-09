@@ -10,7 +10,8 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!hint] WeiDefinition
+>[!hint] Weierstrass-Jordan Definition
+>Let $f:I\rightarrow\mathbb{R}$
 >$$
 >$$
 ## II. Extensions
