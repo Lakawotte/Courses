@@ -15,6 +15,11 @@ category: "[[Maths]]"
 >$$
 \forall\epsilon>0,\exists \eta>0,\forall x\in D_{f},|x-a|<\eta\Longrightarrow|f(x)-f(a)|<\epsilon
 >$$
+
+>[!tip] Definition in terms of Sequences
+>$$
+\forall
+>$$
 ## II. Extensions
 ### 1. Theorems
 
