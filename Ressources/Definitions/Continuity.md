@@ -20,7 +20,7 @@ category: "[[Maths]]"
 
 >[!tip] Limit at a point
 >>[!tldr] Theorem
->>If a func
+>>If a function $f: I\rightarrow\mathbb{R}$ is defined at $x_0\in I$ and has a limit at $x_0$, then this limit is $f(x_0)$.
 >>$$
 a
 >>$$
