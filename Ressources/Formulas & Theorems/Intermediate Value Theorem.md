@@ -41,7 +41,11 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>$f$ is continuous on $[a,b]$ so $x_n\rightarrow x\Longrightarrow f(x_n)\rightarrow f(x)$
 >>By construction $f(a_n)<0$ and $f(b_n)>0$ :
 >>$$
-\lim_{ n \to \infty } f(a_{n})=
+\lim_{ n \to \infty } f(a_{n})=f(\lim_{ n \to \infty }a_{n})=f(c)\le 0
+>>$$
+>> and
+>>$$
+\lim_{ n \to \infty } f(b_{n})=f(\lim_{ n \to \infty }b_{n})=f(c)\ge 0
 >>$$
 ### 3. Proof
 
