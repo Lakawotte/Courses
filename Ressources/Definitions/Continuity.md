@@ -25,8 +25,9 @@ category: "[[Maths]]"
 >>[!info] Proof
 >>Suppose that the limit $l$ exists. Then for all $\epsilon>0$, there is a centered interval $I$ at $x_0$ such that
 >>$$
-\forall x\in D_{f}\cap I,|f(x)-l|<\epsilon$
+\forall x\in D_{f}\cap I,|f(x)-l|<\epsilon
 >>$$
+>>But $x_0$ is also in $D_f\cap I$, so $|f(x_0)-l|<\epsilon$ and thus $l=f(x_0)
 #### Note :
 This is another definition of **continuity**.
 ### 2. Properties
