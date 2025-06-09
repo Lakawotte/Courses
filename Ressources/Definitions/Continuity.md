@@ -18,7 +18,7 @@ category: "[[Maths]]"
 
 >[!tip] Definition in terms of Sequences
 >$$
-\forall
+\forall(x_{n})_{n\in\mathbb{N}}\subset D_{f} :\lim_{ n \to \infty }x_{n}=c\Longrightarrow\lim_{ n \to \infty }  
 >$$
 ## II. Extensions
 ### 1. Theorems
