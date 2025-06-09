@@ -18,7 +18,7 @@ category: "[[Maths]]"
 
 >[!tip] Definition in terms of Sequences
 >$$
-\forall(x_{n})_{n\in\mathbb{N}}\subset D_{f} :\lim_{ n \to \infty }x_{n}=c\Longrightarrow\lim_{ n \to \infty }  
+\forall(x_{n})_{n\in\mathbb{N}}\subset D_{f} :\lim_{ n \to \infty }x_{n}=c\Longrightarrow\lim_{ n \to \infty }f(x_{n})=f(c)  
 >$$
 ## II. Extensions
 ### 1. Theorems
@@ -72,6 +72,8 @@ a
 ## I. Meaning
 Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line.
 **Continuity** is a local notion, since a function is **continuous** on a given interval if it is **continuous** at all the points of this interval. This happens when there is no "jumps", i.e the values taken by the $f$ stay in an arbitrary small neighborhood of $f(x_0)$ when we get closer of $x_0$.
+
+The sequence definition gives us an insight about computing 
 ## II. Use
 # Example
 
