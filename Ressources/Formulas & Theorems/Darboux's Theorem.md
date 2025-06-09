@@ -28,12 +28,26 @@ a<b\Longrightarrow\forall k\in[f'(a),f'(b)],\exists x_{0}\in[a,b],f'(x_{0})=k
 [a,b]\rightarrow\mathbb{R}\\
 x\mapsto
 \begin{cases}
-f'(a)\,\,\text{if}\,\,x=a\\ \\
+f'(b)\,\,\text{if}\,\,x=a\\ \\
 \frac{f(x)-f(a)}{x-a}\,\,\text{else}\\
 \end{cases}\\
 \end{array}
 \right.
 >$$
+>$$
+\phi_{b} :
+\left|
+\begin{array}{l}
+[a,b]\rightarrow\mathbb{R}\\
+x\mapsto
+\begin{cases}
+f'(a)\,\,\text{if}\,\,x=b\\ \\
+\frac{f(x)-f(b)}{x-b}\,\,\text{else}\\
+\end{cases}\\
+\end{array}
+\right.
+>$$
+>By the 
 # Application
 ## I. Meaning
 
