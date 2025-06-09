@@ -37,7 +37,8 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>$$
 \forall(m,n)\in\mathbb{N}^2,m>n\Longrightarrow |c_{m}-c_{n}|<2^{n/n}|I_{0}|
 >>$$
->>$c_n$ is therefore convergent and $c_n\rightarrowc\in]a,b[$, and since $a_n$ and $b_n$ are sub-successions, they converge to the same limit.
+>>$c_n$ is therefore convergent and $c_n\rightarrowc\in[a,b]$, and since $a_n$ and $b_n$ are sub-successions, they converge to the same limit.
+>>$f$ is continuous on $[a,b]$ so $x_n\rightarrow x\Longrightarrow f(x_n)\rightarrow f(x)
 ### 3. Proof
 
 >[!info] Proof
