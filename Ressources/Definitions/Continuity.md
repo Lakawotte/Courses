@@ -58,6 +58,18 @@ This is another definition of **continuity**.
 >>$$
 ### 2. Properties
 
+>[!tip] Rules
+>>[!tldr] Properties
+>>Here $f$ and $g$ are two functions continuous on 
+>>$$
+a
+>>$$
+>
+>>[!info] Proof
+>>$$
+a
+>>$$
+
 >[!tip] Unicity
 >>[!tldr] Lemma
 >>$$
