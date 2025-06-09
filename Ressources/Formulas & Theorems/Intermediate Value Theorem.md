@@ -23,7 +23,7 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>$$
 >
 >>[!info] Proof
->>
+>>Consider the closed interval $[a,b]$ 
 ### 3. Proof
 
 >[!info] Proof
