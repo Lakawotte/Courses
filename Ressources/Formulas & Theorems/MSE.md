@@ -1,8 +1,7 @@
 ---
 aliases: 
 tags:
-  - variables
-  - error
+  - statistics/error
 category: "[[Maths]]"
 ---
 ---
