@@ -52,6 +52,7 @@ f'(a)\,\,\text{if}\,\,x=b\\ \\
 >$$
 f'(a)<k<f'(b)\Longrightarrow\exists l\in]a,b[,(k=\phi_{a}(l)\vee k=\phi_{b}(l))
 >$$
+>For example 
 
 
 # Application
