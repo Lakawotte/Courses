@@ -37,9 +37,9 @@ This is another definition of **continuity**.
 >>If $f$ is **[[Differentiability|differentiable]]** at $x_{0}$, then $f$ is **[[Continuity|continuous]]** at $x_{0}$.
 >
 >>[!info] Proof
->>Let $f$ be a function defined on 
+>>Let $f$ be a function defined on an open interval $]x_0-h;x_0+h[$, **[[Differentiability|differentiable]]** at $x_0$.
 >>$$
-a
+\forall\epsilon>0,
 >>$$
 ### 2. Properties
 
