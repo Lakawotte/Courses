@@ -50,7 +50,7 @@ f'(a)\,\,\text{if}\,\,x=b\\ \\
 >By the **[[Intermediate Value Theorem|intermediate value theorem]]**, both $\phi_{a}([a,b])$ and $\phi_b
 >([a,b])$ are intervals containing $\frac{f(b)-f(a)}{b-a}=\phi_a(b)=\phi_b(a)$. Their **[[Union|union]]** is also an interval containing $\phi_a(a)=f'(a)$ and $\phi_b(b)=f'(b)$.
 >$$
-f'(a)
+f'(a)<k<f'(b)\Longrightarrow\exists l\in]a,b[,(k=\phi_{a}(l)\vee k=\phi_{b}(l))
 >$$
 
 
