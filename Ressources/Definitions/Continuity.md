@@ -13,10 +13,10 @@ category: "[[Maths]]"
 >[!hint] Weierstrass-Jordan Definition
 >Let $f:I\rightarrow\mathbb{R}$ be a function where $I$ is an arbitrary interval. We say that $f$ is **continuous on $a$** if $f$ has the limit $f(a)$ at the point $a$.
 >$$
-\forall\epsilon>0,\exists \eta>0,\forall x\in I,|x-a|<
+\forall\epsilon>0,\exists \eta>0,\forall x\in I,|x-a|<\eta\Longrightarrow|f(x)-f(a)|<\epsilon
 >$$
 ## II. Extensions
-### 1. Properties
+### 1. Theorems
 
 >[!tldr]
 >$$
@@ -24,6 +24,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
+Roughly stpeaking,
 ## II. Use
 # Example
 
