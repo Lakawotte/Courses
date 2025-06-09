@@ -33,6 +33,7 @@ This is another definition of **continuity**.
 
 >[!tip] **[[Differentiability]]** implies **Continuity**
 >>[!tldr] Theorem
+>>Let $f$ be a function definied on $I\subset\mathbb{R}$
 >>$$
 a
 >>$$
