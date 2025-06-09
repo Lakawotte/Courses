@@ -41,8 +41,12 @@ This is another definition of **continuity**.
 >>$$
 \begin{split}
 \forall\epsilon>0,\exists 0<\eta_{1}<h,\forall x\in D_{f},|x-x_{0}|<\eta_{1}&\Longrightarrow|\frac{f(x)-f(x_{0})}{x-x_{0}}-f'(x_{0})|<\epsilon
-|x-x_{0}|<\eta_{1}&\Longrightarrow|f(x)-f(x_{0})|<
+|x-x_{0}|<\eta_{1}&\Longrightarrow|f(x)-f(x_{0})|<(|f'(x_{0})+\epsilon)|x-x_{0}|
 \end{split}
+>>$$
+>>Finally
+>>$$
+\eta=\min
 >>$$
 ### 2. Properties
 
