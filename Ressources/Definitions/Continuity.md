@@ -18,8 +18,9 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Theorems
 
->[!tip] Unicity
->>[!tldr] Lemma
+>[!tip] Limit at a point
+>>[!tldr] Theorem
+>>If a func
 >>$$
 a
 >>$$
