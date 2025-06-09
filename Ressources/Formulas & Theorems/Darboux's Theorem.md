@@ -22,7 +22,14 @@ a<b\Longrightarrow\forall k\in[f'(a),f'(b)],\exists x_{0}\in[a,b],f'(x_{0})=k
 >[!info] Proof using the **[[Intermediate Value Theorem|intermediate value theorem]]** and the **[[Mean Value Theorem]]**
 >Let $\phi_a$ and $\phi_b$ be two functions such that
 >$$
->
+>\phi_{a} :
+\left|
+\begin{array}{l}
+a,b \\
+y = 2t - 4 \\
+z = t
+\end{array}
+\right.
 >$$
 # Application
 ## I. Meaning
