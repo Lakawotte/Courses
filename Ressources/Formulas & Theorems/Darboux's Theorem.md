@@ -22,13 +22,6 @@ a<b\Longrightarrow\forall k\in[f'(a),f'(b)],\exists x_{0}\in[a,b],f'(x_{0})=k
 >[!info] Proof
 >$$
 >$$
-## II. Extensions
-### 1. Properties
-
->[!tldr]
->$$
->$$
-### 2. Other formulas
 # Application
 ## I. Meaning
 
