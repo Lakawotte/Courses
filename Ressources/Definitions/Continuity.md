@@ -10,7 +10,7 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!hint] Definition : 
+>[!hint] WeiDefinition
 >$$
 >$$
 ## II. Extensions
