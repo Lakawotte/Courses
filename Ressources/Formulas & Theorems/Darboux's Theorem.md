@@ -33,8 +33,8 @@ a<b\Longrightarrow\forall k\in[f'(a),f'(b)],\exists x_{0}\in[a,b],f'(x_{0})=k
 ## I. Meaning
 
 **Darboux's theorem** is extending the **[[Intermediate Value Theorem|intermediate value theorem]]** to functions not necessarely **[[Continuity|continuous]]**, but only **[[Differentiability|derivatives]]** of real-valuated ones.
-
-At the $XIX$ century
+### 2. History
+At the $19$th century, mathematicians thought that the **[[Intermediate Value Theorem|intermediate value theorem]]** was a caracterisation of **[[Continuity|continuity]]**, i.e that if 
 ## II. Use
 # Example
 
