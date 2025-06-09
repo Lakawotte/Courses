@@ -13,7 +13,10 @@ category: "[[Maths]]"
 Let $I\in\mathbb{R}$ and $f:I\rightarrow\mathbb{R}$ **[[Differentiability|differentiable]]**. Then $f'(I)$ is an interval.
 
 >[!tip] Theorem : **[[Intermediate Value Theorem]]**
->
+>Let $f$ be a **[[Differentiability|differentiable]]** function on $I\subset\mathbb{R}$ and two reals $(a,b)\in I$.
+>$$
+a<b\Longrightarrow\forall k\in[f(a),f(b)],\exists x_{0}\in[a,b],f(x_{0})=k
+>$$
 ### 2. Proof
 
 >[!info] Proof
