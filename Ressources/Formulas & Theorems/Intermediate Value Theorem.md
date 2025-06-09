@@ -30,9 +30,9 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>- $f(a_1)>0$ : in this case consider the interval $I_1=]a,a_{1}[$
 >>Starting with the open interval $I_0=]a,b[$, we get another interval $I_1\subset I_0$ with length half of the original :
 >>$$
-|I_{1}=\frac{1}{2}I_{0}
+|I_{1}|=\frac{1}{2}|I_{0}|
 >>$$
->>
+>>Repeat the procedure to the interval $I_n$ to get $I_{n+1}$. We can thus define a succession of open intervals $I_n$ such h
 ### 3. Proof
 
 >[!info] Proof
