@@ -23,7 +23,7 @@ category: "[[Maths]]"
 >>If a function $f: I\rightarrow\mathbb{R}$ is defined at $x_0\in I$ and has a limit at $x_0$, then this limit is $f(x_0)$.
 >
 >>[!info] Proof
->>Suppose that the limit exists
+>>Suppose that the limit $l$ exists. Then for all $\epsilon>0$, there is a centered interval at $x_0$ such that $|f(x)-l|<\esiplon$.
 >>$$
 a
 >>$$
