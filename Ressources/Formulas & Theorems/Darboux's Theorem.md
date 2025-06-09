@@ -47,7 +47,8 @@ f'(a)\,\,\text{if}\,\,x=b\\ \\
 \end{array}
 \right.
 >$$
->By the 
+>By the **[[Intermediate Value Theorem|intermediate value theorem]]**, both $\phi_{a}([a,b])$ and $\phi_b
+([a,b])$ are intervals contain
 # Application
 ## I. Meaning
 
