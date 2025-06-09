@@ -18,10 +18,28 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Theorems
 
->[!tldr]
->$$
->$$
-### 2. Other formulas
+>[!tip] Unicity
+>>[!tldr] Lemma
+>>$$
+a
+>>$$
+>
+>>[!info] Proof
+>>$$
+a
+>>$$
+### 2. Properties
+
+>[!tip] Unicity
+>>[!tldr] Lemma
+>>$$
+a
+>>$$
+>
+>>[!info] Proof
+>>$$
+a
+>>$$
 # Application
 ## I. Meaning
 Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line. This is, an function is called **continuous everywhere** if its domain is $\mathbb{R}$ and it is **continuous** at all the points of its domain.
