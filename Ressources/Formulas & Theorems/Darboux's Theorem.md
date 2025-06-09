@@ -48,8 +48,8 @@ f'(a)\,\,\text{if}\,\,x=b\\ \\
 \right.
 >$$
 >By the **[[Intermediate Value Theorem|intermediate value theorem]]**, both $\phi_{a}([a,b])$ and $\phi_b
-([a,b])$ are intervals containing $\frac{f(b)-f(a)}{b-a}=\phi_a(b)=\phi_b(a)$.
-# Application
+([a,b])$ are intervals containing $\frac{f(b)-f(a)}{b-a}=\phi_a(b)=\phi_b(a)$. Their **[[Union|union]]** is also an interval containing $\phi_a
+(a)=f'(a)$ and \phi_b(b) Application
 ## I. Meaning
 
 **Darboux's theorem** is extending the **[[Intermediate Value Theorem|intermediate value theorem]]** to functions not necessarely **[[Continuity|continuous]]**, but only **[[Differentiability|derivatives]]** of real-valuated ones.
