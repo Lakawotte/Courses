@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - correlation
+  - statistics/correlation
 category: "[[Finance]]"
 ---
 ---

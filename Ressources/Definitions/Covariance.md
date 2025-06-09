@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - correlation
+  - probability
 category: "[[Maths]]"
 ---
 

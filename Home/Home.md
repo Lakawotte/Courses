@@ -30,7 +30,6 @@ cssclasses:
 >- #utility
 >- #error
 >- #return
->- #physics
 >- #calculus
 >- #thermodynamics
 >- #astronomy

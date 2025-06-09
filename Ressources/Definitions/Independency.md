@@ -2,7 +2,6 @@
 aliases: 
 tags:
   - probability
-  - correlation
 category:
 ---
 ---
