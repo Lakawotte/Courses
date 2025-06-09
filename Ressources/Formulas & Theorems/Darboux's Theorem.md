@@ -10,7 +10,10 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Theorem : Intervals
-Let $I\in\mathbb{R}$ and $f:I\rightarrow\mathbb{R}$ **[[Differentiability|differentiable]]**. Then 
+Let $I\in\mathbb{R}$ and $f:I\rightarrow\mathbb{R}$ **[[Differentiability|differentiable]]**. Then $f'(I)$ is an interval.
+
+>[!tip] Theorem : **[[Intermediate Value Theorem]]**
+>
 ### 2. Proof
 
 >[!info] Proof
