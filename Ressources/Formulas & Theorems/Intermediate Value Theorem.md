@@ -47,7 +47,7 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>$$
 \lim_{ n \to \infty } f(b_{n})=f(\lim_{ n \to \infty }b_{n})=f(c)\ge 0
 >>$$
->>By the definition of continuity. So there exists $c\in[a,b]$ such that $0\le f(c)\le 0\Longlef
+>>By the definition of continuity. So there exists $c\in[a,b]$ such that $0\le f(c)\le 0\Longrightarrow f(c)=0$. Because neither $a$ or $b$ equal $0$, $c\in]a,b[$.
 ### 3. Proof
 
 >[!info] Proof
