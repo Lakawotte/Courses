@@ -65,7 +65,7 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 ## I. Meaning
 ## II. Use
 #### Warning :
-The contrary is 
+The contrary is fasle. As shown by **[[Darboux's Theorem|Darboux]]**, this property can not be adopted as a definition of **[[Continuity|continuity]]**.
 # Example
 
 ---
