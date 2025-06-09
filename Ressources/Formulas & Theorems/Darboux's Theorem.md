@@ -48,7 +48,7 @@ f'(a)\,\,\text{if}\,\,x=b\\ \\
 \right.
 >$$
 >By the **[[Intermediate Value Theorem|intermediate value theorem]]**, both $\phi_{a}([a,b])$ and $\phi_b
-([a,b])$ are intervals contain
+([a,b])$ are intervals containing $\frac{f(b)-f(a)}{b-a}=\phi_a(b)=\phi_b(a)$.
 # Application
 ## I. Meaning
 
