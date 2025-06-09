@@ -22,8 +22,9 @@ a<b\Longrightarrow\forall k\in[f(a),f(b)],\exists x_{0}\in[a,b],f(x_{0})=k
 f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>$$
 >
->>[!info] Proof
->>Consider the closed interval $[a,b]$ and a continuous real-valuated function $f$. Here we will let $f(a)<0$ and $f(b)>0$ 
+>>[!info] Proof by Dichotomy
+>>Consider the closed interval $[a,b]$ and a continuous real-valuated function $f$. Here we will let $f(a)<0$ and $f(b)>0$, to prove the other case we need to take $-f$.
+>>Let $a_1=\frac{a+b}{2}
 ### 3. Proof
 
 >[!info] Proof
