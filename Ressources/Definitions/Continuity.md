@@ -70,6 +70,9 @@ This is another definition of **continuity**.
 >
 >>[!info] Proofs
 >>1.
+>>$$
+a
+>>$$
 >>2.
 >>
 
