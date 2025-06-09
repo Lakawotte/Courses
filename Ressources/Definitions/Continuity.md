@@ -40,13 +40,13 @@ This is another definition of **continuity**.
 >>Let $f$ be a function defined on an open interval $]x_0-h;x_0+h[$, **[[Differentiability|differentiable]]** at $x_0$.
 >>$$
 \begin{split}
-\forall\epsilon>0,\exists 0<\eta_{1}<h,\forall x\in D_{f},|x-x_{0}|<\eta_{1}&\Longrightarrow|\frac{f(x)-f(x_{0})}{x-x_{0}}-f'(x_{0})|<\epsilon
-|x-x_{0}|<\eta_{1}&\Longrightarrow|f(x)-f(x_{0})|<(|f'(x_{0})+\epsilon)|x-x_{0}|
+\forall\epsilon>0,\exists 0<\eta_{1}<h,\forall x\in D_{f},|x-x_{0}|<\eta_{1}&\Longrightarrow|\frac{f(x)-f(x_{0})}{x-x_{0}}-f'(x_{0})|<\epsilon\\
+|x-x_{0}|<\eta_{1}&\Longrightarrow|f(x)-f(x_{0})|<(|f'(x_{0})+\epsilon)|x-x_{0}|\\
 \end{split}
 >>$$
 >>Finally for $\eta=\min(\eta_{1},|f'(x_{0})+\epsilon)$
 >>$$
-|x-x_{0}|<\eta\Longrightarrow|f(x)-f(x_{0})
+|x-x_{0}|<\eta\Longrightarrow|f(x)-f(x_{0})|<\epsilon
 >>$$
 ### 2. Properties
 
