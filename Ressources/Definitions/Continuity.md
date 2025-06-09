@@ -27,7 +27,7 @@ category: "[[Maths]]"
 >>$$
 \forall x\in D_{f}\cap I,|f(x)-l|<\epsilon
 >>$$
->>But $x_0$ is also in $D_f\cap I$, so $|f(x_0)-l|<\epsilon$ and thus $l=f(x_0)
+>>But $x_0$ is also in $D_f\cap I$, so $|f(x_0)-l|<\epsilon$ and thus $l=f(x_0)$.
 #### Note :
 This is another definition of **continuity**.
 ### 2. Properties
@@ -44,7 +44,7 @@ a
 >>$$
 # Application
 ## I. Meaning
-Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line. This is, an function is called **continuous everywhere** if its domain is $\mathbb{R}$ and it is **continuous** at all the points of its domain.
+Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line. 
 ## II. Use
 # Example
 
