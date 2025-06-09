@@ -24,7 +24,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
-Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line. This is, 
+Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line. This is, an function is called **continuous everywhere** if its domain is $\mathbb{R}$ and it is **continuous** 
 ## II. Use
 # Example
 
