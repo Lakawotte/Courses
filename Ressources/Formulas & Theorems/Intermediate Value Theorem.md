@@ -32,7 +32,7 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>$$
 |I_{1}|=\frac{1}{2}|I_{0}|
 >>$$
->>Repeat the procedure to the interval $I_n$ to get $I_{n+1}$. We can thus define a succession of open intervals $I_n$ such h
+>>Repeat the procedure to the interval $I_n$ to get $I_{n+1}$. We can thus define a succession of open intervals $I_n$ such that $I_{n+1}\subset I_n,|I_{n+1}|=(frac{1}{2})^n|I_{n}|
 ### 3. Proof
 
 >[!info] Proof
