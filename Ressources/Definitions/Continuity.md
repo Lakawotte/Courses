@@ -11,7 +11,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Weierstrass-Jordan Definition
->Let $f:I\rightarrow\mathbb{R}$ be a function where $I$ is an arbitrary interval. We say that $f$ is **continuous on $a$** if $f$ has the limit $f(a)$ at the point $a$.
+>Let $f:I\rightarrow\mathbb{R}$ be a function where $I$ is an arbitrary interval which is not a unique point. We say that $f$ is **continuous on $a$** if $f$ has the limit $f(a)$ at the point $a$.
 >$$
 \forall\epsilon>0,\exists \eta>0,\forall x\in I,|x-a|<\eta\Longrightarrow|f(x)-f(a)|<\epsilon
 >$$
