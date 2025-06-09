@@ -37,7 +37,7 @@ a<b\Longrightarrow\forall k\in[f'(a),f'(b)],\exists x_{0}\in[a,b],f'(x_{0})=k
 At the $19$th century, mathematicians thought that the **[[Intermediate Value Theorem|intermediate value theorem]]** was a caracterisation of **[[Continuity|continuity]]**, i.e that if a functions satisfies the properties of the **[[Intermediate Value Theorem|theorem]]**, then it was **[[Continuity|continuous]]**.
 Darboux put an end to this conviction by on one hand constructing functions with derivatives that are **[[Continuity|discontinuous]]** everywhere, and on the other hand proving his theorem which states that all derivatives are verifying the **[[Intermediate Value Theorem|intermediate value theorem]]**.
 ## II. Use
-This theorem can be used to demonstrate that a given function does not admit an **[[Antiderivative|antiderivative]]
+This theorem can be used to demonstrate that a given function does not admit an **[[Antiderivative|antiderivative]]**, by showing that on a particular interval the function does not satisfies the **[[Intermediate Value Theorem|intermediate value theorem]]**.
 # Example
 
 ---
