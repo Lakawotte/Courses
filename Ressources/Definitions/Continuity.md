@@ -44,9 +44,9 @@ This is another definition of **continuity**.
 |x-x_{0}|<\eta_{1}&\Longrightarrow|f(x)-f(x_{0})|<(|f'(x_{0})+\epsilon)|x-x_{0}|
 \end{split}
 >>$$
->>Finally
+>>Finally for $\eta=\min(\eta_{1},|f'(x_{0})+\epsilon)$
 >>$$
-\eta=\min
+|x-x_{0}|<\eta\Longrightarrow|f(x)-f(x_{0})
 >>$$
 ### 2. Properties
 
