@@ -52,9 +52,7 @@ f'(a)\,\,\text{if}\,\,x=b\\ \\
 >$$
 f'(a)<k<f'(b)\Longrightarrow\exists l\in]a,b[,(k=\phi_{a}(l)\vee k=\phi_{b}(l))
 >$$
->For example if $k=\phi_a(l)=\frac{f(l)-f(a)}{l-a}$, the **[[Mean Value Theorem|mean value theorem]]** proves the existence of $c\in
-
-
+>For example if $k=\phi_a(l)=\frac{f(l)-f(a)}{l-a}$, the **[[Mean Value Theorem|mean value theorem]]** proves the existence of $c\in]a,l[\subset[a,b]$ such that $f'(c)=k$.
 # Application
 ## I. Meaning
 
