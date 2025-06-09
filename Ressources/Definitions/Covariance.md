@@ -1,7 +1,6 @@
 ---
 aliases: 
 tags:
-  - variables
   - correlation
 category: "[[Maths]]"
 ---

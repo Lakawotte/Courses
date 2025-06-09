@@ -1,7 +1,6 @@
 ---
 aliases: 
-tags:
-  - variables
+tags: []
 category: "[[Maths]]"
 ---
 ---
