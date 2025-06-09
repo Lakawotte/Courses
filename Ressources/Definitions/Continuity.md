@@ -44,7 +44,8 @@ a
 >>$$
 # Application
 ## I. Meaning
-Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line. 
+Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line.
+**Continuity** is a local notion, since a function is **continuous** on a given interval if it is **continuous** at all the points
 ## II. Use
 # Example
 
