@@ -49,10 +49,10 @@ This is another definition of **continuity**.
 >>$$
 \begin{split}
 |x-x_{0}|<\eta_{1}&\Longrightarrow|\frac{f(x)-f(x_{0})}{x-x_{0}}-f'(x_{0})|<\epsilon\\
-|x-x_{0}|<\eta_{1}&\Longrightarrow|f(x)-f(x_{0})|<(|f'(x_{0})+\epsilon)|x-x_{0}|\\
+|x-x_{0}|<\eta_{1}&\Longrightarrow|f(x)-f(x_{0})|<(|f'(x_{0})|+\epsilon)|x-x_{0}|\\
 \end{split}
 >>$$
->>Finally for $\eta=\min(\eta_{1},|f'(x_{0})+\epsilon)$
+>>Finally for $\eta=\min(\eta_{1},|f'(x_{0})|+\epsilon)$
 >>$$
 |x-x_{0}|<\eta\Longrightarrow|f(x)-f(x_{0})|<\epsilon
 >>$$
