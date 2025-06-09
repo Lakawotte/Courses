@@ -30,6 +30,17 @@ category: "[[Maths]]"
 >>But $x_0$ is also in $D_f\cap I$, so $|f(x_0)-l|<\epsilon$ and thus $l=f(x_0)$.
 #### Note :
 This is another definition of **continuity**.
+
+>[!tip] **[[Differentiability]]** implies **Continuity**
+>>[!tldr] Theorem
+>>$$
+a
+>>$$
+>
+>>[!info] Proof
+>>$$
+a
+>>$$
 ### 2. Properties
 
 >[!tip] Unicity
