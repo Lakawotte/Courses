@@ -12,7 +12,7 @@ category: "[[Maths]]"
 >[!hint] Formula
 >Let $f$ be a **[[Continuity|continuous]]** function on $I\subset\mathbb{R}$ and two reals $(a,b)\in I$.
 >$$
-
+a<b\Longrightarrow\forall k\exists k\in
 >$$
 ### 2. Proof
 
