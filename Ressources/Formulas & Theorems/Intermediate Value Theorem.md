@@ -64,6 +64,8 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 # Application
 ## I. Meaning
 ## II. Use
+#### Warning :
+The contrary is 
 # Example
 
 ---
