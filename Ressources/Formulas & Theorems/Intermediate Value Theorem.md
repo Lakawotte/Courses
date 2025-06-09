@@ -28,7 +28,7 @@ f(a)\times f(b)<0\Longrightarrow\exists c\in]a,b[,f(c)=0
 >>- $f(a_1)=0$ : thus the theorem is proved for $c=a_1$.
 >>- $f(a_1)<0$ : in this case consider the interval $I_1=]a_1,b[$
 >>- $f(a_1)>0$ : in this case consider the interval $I_1=]a,a_{1}[$
->>
+>>Starting with the open interva
 ### 3. Proof
 
 >[!info] Proof
