@@ -45,7 +45,7 @@ a
 # Application
 ## I. Meaning
 Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line.
-**Continuity** is a local notion, since a function is **continuous** on a given interval if it is **continuous** at all the points
+**Continuity** is a local notion, since a function is **continuous** on a given interval if it is **continuous** at all the points of this interval. This happens when there is no "jumps", i.e the values taken by the $f$ stay
 ## II. Use
 # Example
 
