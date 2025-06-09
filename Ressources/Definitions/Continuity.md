@@ -65,6 +65,7 @@ This is another definition of **continuity**.
 >>2. $\text{id}$ is continuous.
 >>3. $f+g$ is continuous on $D_f\cap D_g$.
 >>4. $f\times g$ is continuous on $D_f\cap D_g$.
+>>5. $\frac{1}{f}$ is continuous on $D_f\{x|f(x)=0}$.
 >>$$
 a
 >>$$
