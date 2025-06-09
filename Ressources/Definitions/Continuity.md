@@ -73,7 +73,7 @@ a
 Roughly speaking, at function is said to be **continuous** on its domain when one can plot its graph with a single line.
 **Continuity** is a local notion, since a function is **continuous** on a given interval if it is **continuous** at all the points of this interval. This happens when there is no "jumps", i.e the values taken by the $f$ stay in an arbitrary small neighborhood of $f(x_0)$ when we get closer of $x_0$.
 
-The sequence definition gives us an algorithmic approach. Indeed, one can compute sequences 
+The sequence definition gives us an algorithmic approach. Indeed, one can compute sequences that tend to a finite value on the graph of a function, e.g the sequence $exp(1/n)$ which converges to $exp(0)=1$.
 ## II. Use
 # Example
 
