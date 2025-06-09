@@ -66,15 +66,10 @@ This is another definition of **continuity**.
 >>3. $f+g$ is continuous on $D_f\cap D_g$.
 >>4. $f\times g$ is continuous on $D_f\cap D_g$.
 >>5. $\frac{1}{f}$ is continuous on $D_f\,\textbackslash\,\{x\,|\,f(x)=0\}$.
->>6. $f\circ g$ is continuous on $D_g
->>$$
-a
->>$$
+>>6. $f\circ g$ is continuous on $D_g\cap g^{-1}(D_f)$
 >
->>[!info] Proof
->>$$
-a
->>$$
+>>[!info] Proofs
+>>7. 
 
 >[!tip] Unicity
 >>[!tldr] Lemma
