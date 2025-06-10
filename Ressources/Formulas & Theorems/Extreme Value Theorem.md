@@ -9,7 +9,8 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
+>[!hint] Theorem
+>Let, for any pair of reals $(a,b)$, $f:[a,b]\rightarrow\mathbb{R}$ **[[Continuity|continuous]]**. Then $f$ 
 >$$
 >$$
 ### 2. Proof
