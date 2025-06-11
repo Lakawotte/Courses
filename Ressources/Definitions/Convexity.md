@@ -28,6 +28,7 @@ category: "[[Maths]]"
 If $f''(x)<0$, the function is **concave**.
 
 >[!tip] Epigraph
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. $f$ is **convex** on $I$
 
 #### Note :
 
@@ -40,7 +41,7 @@ If $f''(x)<0$, the function is **concave**.
 ### 2. Other formulas
 # Application
 ## I. Meaning
-A function is called **convex** when its epigraph lies above the line segments connecting any two points on its graph.
+A function is called **convex** when its epigraph lies above the line segments connecting any two points on its curve.
 ## II. Use
 # Example
 
