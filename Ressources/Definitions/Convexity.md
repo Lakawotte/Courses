@@ -34,8 +34,6 @@ If $f''(x)<0$, the function is **concave**.
 >$$
 #### Note :
 $f$ is **concave** otherwise.
-### 3. Mix
-
 >[!tip] Epigraph
 >Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. A **[[Subset|subset]]** $E$ of the plane $\mathbb{R}^2$ is **convex** if
 >$$
@@ -43,9 +41,8 @@ $f$ is **concave** otherwise.
 >$$
 >One can also say that $f$ is **convex** if its epigraph $E(f)$ is **convex** , where
 >$$
-E(f)=\{(x,y)\in\mathbb{R}\}
+E(f)=\{(x,y)\in\mathbb{R}^2,x\in I,y\ge f(x)\}
 >$$
-
 ## II. Extensions
 ### 1. Properties
 
