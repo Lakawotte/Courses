@@ -41,7 +41,10 @@ $f$ is **concave** otherwise.
 >$$
 \forall(A,B)\in E^2,[AB]\in E
 >$$
->One can also say that 
+>One can also say that $f$ is **convex** if its epigraph $E(f)$ is **convex** , where
+>$$
+E(f)=\{(x,y)\in\mathbb{R}\}
+>$$
 
 ## II. Extensions
 ### 1. Properties
