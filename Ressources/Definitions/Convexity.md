@@ -28,7 +28,10 @@ category: "[[Maths]]"
 If $f''(x)<0$, the function is **concave**.
 
 >[!tip] Epigraph
->Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. $f$ is **convex** on $I$
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. $f$ is **convex** on $I$ if and only if
+>$$
+\forall(x,y)\in I^2, \forall\lambda\in[0,1],f(\lambda x+(1-\lambda y))
+>$$
 
 #### Note :
 
