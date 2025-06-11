@@ -14,13 +14,15 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Series Development
+>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated smooth function.
 >$$
+\forall x\in
 >$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
-**Differentiability** is a local notion, non-ponctual and non-global.
+**Differentiability** is a local notion, non-punctual and non-global.
 ## II. Use
 # Example
 
