@@ -16,9 +16,11 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof using **[[Bolzano-Weierstrass Theorem]]**
->Suppose that $f$ hasn't
+>Suppose that $f$ hasn't any upper bound :
 >$$
+>\forall A>0,\exists x\in[a,b],f(x)>A
 >$$
+>Let $n\ge 1$
 ## II. Extensions
 ### 1. Properties
 
