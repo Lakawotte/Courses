@@ -22,6 +22,7 @@ a<b\Longrightarrow\forall k\in]f(a),f(b)[,\exists x_{0}\in[a,b],f(x_{0})=k
 >$$
 >\forall(a,b)\in I^2,g(a)<0<g(b)\Longrightarrow\forall u\in]f(a),f(b)[,\exists c\in[a,b],g(c)=0
 >$$
+>We define the set $S=\{x\in[a,b]|g(x)\le 0\}$ ()
 ## II. Extensions
 ### 1. Properties
 
