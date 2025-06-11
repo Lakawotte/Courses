@@ -16,7 +16,7 @@ category: "[[Maths]]"
 >$$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof using
 >$$
 >$$
 ## II. Extensions
@@ -28,6 +28,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
+This theorem shows that the image of a segment by a **[[Continuity|continuous]]** function is also an interval.
 ## II. Use
 # Example
 
