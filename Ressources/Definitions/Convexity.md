@@ -27,7 +27,10 @@ category: "[[Maths]]"
 #### Note :
 If $f''(x)<0$, the function is **concave**.
 
->[!tip] 
+>[!tip] Epigraph
+
+#### Note :
+
 ## II. Extensions
 ### 1. Properties
 
@@ -37,6 +40,7 @@ If $f''(x)<0$, the function is **concave**.
 ### 2. Other formulas
 # Application
 ## I. Meaning
+A function is called **convex** when its epigraph lies above the line segments connecting any two points on its graph.
 ## II. Use
 # Example
 
