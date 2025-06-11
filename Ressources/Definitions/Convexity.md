@@ -51,7 +51,10 @@ E(f)=\{(x,y)\in\mathbb{R}^2,x\in I,y\ge f(x)\}
 >Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. $f$ is called **concave** on an interval if $-f$ is **convex** on the same interval.
 
 >[!tldr] Tangent Inequality
->Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a **convexfunction.
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a **convex** function. Then its epigraph $E(f)$ is above all the tangents of $\mathcal{C}_f$ :
+>$$
+\forall x\in I,
+>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
