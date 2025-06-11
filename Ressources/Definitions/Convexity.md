@@ -20,12 +20,15 @@ category: "[[Maths]]"
 ### 2. Function Convexity
 
 >[!tip] **[[Derivative]]**
->Let $I\in\mathbb{R}$ be an arbitrary interval and $f:I\to\mathbb{R}$ a $\mathcal{D}^2$ function. Then $f$ is convex on $[a,b]\subset I$ if and only if
+>Let $I\in\mathbb{R}$ be an arbitrary interval and $f:I\to\mathbb{R}$ a $\mathcal{D}^2$ function. Then $f$ is **convex** on $[a,b]\subset I$ if and only if
 >$$
 \forall x\in]a,b[, f''(x)>0
 >$$
-#### Note :
-If $f''(x)<0$, the function is **concave**.
+>The other way around, $f$ is **concave** on $[a,b]\subset I$ if and only if
+>$$
+\forall x\in]a,b[, f''(x)<0
+>$$
+
 
 >[!tip] Chords
 >Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. $f$ is **convex** on $I$ if and only if
