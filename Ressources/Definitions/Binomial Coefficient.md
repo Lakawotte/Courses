@@ -34,7 +34,7 @@ We often write $C_{k}^n$ to denote the **binomial coefficient** in its use as a 
 >[!tip] Sum
 >>[!tldr] Property
 >>$$
-a
+\forall n\in\mathbb{N},\sum_{i=0}^n\binom
 >>$$
 >
 >>[!info] Proof
