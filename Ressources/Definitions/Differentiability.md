@@ -59,7 +59,10 @@ The second proposition is nothing but a substitution.
 
 >[!tip] Tangent
 >>[!tldr] Definition
->>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a **differentiable** real-valuated function and $x_0\n I$. T
+>>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a **differentiable** real-valuated function and $a\in I$. Then the tangent at the curve on any given point is given by
+>>$$
+T_{a}(x)=f'(a)(x-a)+f(a)
+>>$$
 # Application
 ## I. Meaning
 **Differentiability** is a local notion, non-punctual and non-global : the function only needs to be described on a **[[Neighborhood|neighborhood]]** of $x_0$.
