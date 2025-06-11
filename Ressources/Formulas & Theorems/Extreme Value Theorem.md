@@ -33,7 +33,8 @@ f\,\,\text{continuous on}\,\,l\Longrightarrow\lim_{ n \to \infty } f(x_{\phi(n)}
 >$$
 \forall\epsilon>0,\exists x\in[a,b],M-\epsilon\le f(x)\le M
 >$$
->Let $n\ge 1$. There exists $x_n\in:[a,b]$ such that $M-\frac{1}{n}\le f(x_n)\le M. By the **[[Squeeze Theorem|squeeze theorem]]
+>Let $n\ge 1$. There exists $x_n\in:[a,b]$ such that $M-\frac{1}{n}\le f(x_n)\le M. By the **[[Squeeze Theorem|squeeze theorem]]**, $f(x_n)\xrightarrow[]{n\to +\infty}M$.
+>Furthermore, the **[[Bolzano-Weierstrass Theorem]]** states tha
 ## II. Extensions
 ### 1. Properties
 
