@@ -70,6 +70,8 @@ f'_l(x_{0})=\lim_{ x \to x_{0}^-}\frac{f(x)-f(x_{0})}{x-x_{0}}=\lim_{ h \to 0^-}
 >>$$
 f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>$$
+>
+>[!info] Proof
 ### 2. Other formulas
 
 >[!tip] Tangent
