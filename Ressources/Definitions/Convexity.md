@@ -34,6 +34,7 @@ If $f''(x)<0$, the function is **concave**.
 >$$
 #### Note :
 $f$ is **concave** otherwise.
+
 >[!tip] Epigraph
 >Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. A **[[Subset|subset]]** $E$ of the plane $\mathbb{R}^2$ is **convex** if
 >$$
@@ -46,9 +47,8 @@ E(f)=\{(x,y)\in\mathbb{R}^2,x\in I,y\ge f(x)\}
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
->$$
->$$
+>[!tldr] Concavity
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. $f$ is called **concave** on an interval if $-f$ is **convex** on the same interval.
 ### 2. Other formulas
 # Application
 ## I. Meaning
