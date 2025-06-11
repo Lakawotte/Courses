@@ -10,7 +10,10 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Theorem
->Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a function.
+>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a **[[Continuity|continuous]]** function.
+>$$
+\mathrm{Im}(f)\subset\mathbb{R}
+>$$
 ### 2. Proof
 
 >[!info] Proof
