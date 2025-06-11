@@ -32,8 +32,7 @@ If $f''(x)<0$, the function is **concave**.
 >$$
 \forall(x,y)\in I^2, \forall\lambda\in[0,1],f(\lambda x+(1-\lambda y))\le\lambda f(x)+(1-\lambda)f(y)
 >$$
-#### Note :
-$f$ is **concave** otherwise.
+>$f$ is **concave** otherwise.
 
 >[!tip] Epigraph
 >Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. A **[[Subset|subset]]** $E$ of the plane $\mathbb{R}^2$ is **convex** if
@@ -53,8 +52,10 @@ E(f)=\{(x,y)\in\mathbb{R}^2,x\in I,y\ge f(x)\}
 >[!tldr] Tangent Inequality
 >Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a **convex** function. Then its epigraph $E(f)$ is above all the tangents of $\mathcal{C}_f$ :
 >$$
-\forall x\in I,
+\forall x\in I,\forall a\in I, f(x)\ge f'(a)(x-a)+f(a)
 >$$
+#### Note :
+
 ### 2. Other formulas
 # Application
 ## I. Meaning
