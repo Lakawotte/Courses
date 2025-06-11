@@ -22,13 +22,14 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tip] Inclusion Chain
+>[!tldr] Inclusion Chain
 >$$
 \dots\mathcal{C}^n(I)\subset\mathcal{D}^n(I)\subset\dots\subset\mathcal{C}^1(I)\subset\mathcal{D}^1(I)\subset\mathcal{C}^0(I)\subset\mathcal{D}^0(I)
 >$$
-
 #### Note :
 The proof is obvious since **[[Differentiability|differentiation]]** implies **[[Continuity|continuity]]**.
+
+>[!t]
 ### 2. Other formulas
 # Application
 ## I. Meaning
