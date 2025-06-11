@@ -17,6 +17,7 @@ a<b\Longrightarrow\forall k\in[f(a),f(b)],\exists x_{0}\in[a,b],f(x_{0})=k
 ### 2. Proof
 
 >[!info] Proof
+>We will only proove 
 >$$
 >$$
 ## II. Extensions
