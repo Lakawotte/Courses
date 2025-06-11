@@ -27,6 +27,7 @@ category: "[[Maths]]"
 >$$
 f\,\,\text{continuous on}\,\,l\Longrightarrow\lim_{ n \to \infty } f(x_{\phi(n)})=f(l)
 >$$
+>But $f(x_{\phi(n)})$ is derived from $x_{\phi(n)}$ which tends to $+\infty$
 ## II. Extensions
 ### 1. Properties
 
