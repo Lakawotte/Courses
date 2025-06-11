@@ -20,7 +20,7 @@ category: "[[Maths]]"
 ### 2. Function Convexity
 
 >[!tip] Definition
->Let $I\in\mathbb{R}$ be an arbitrary interval and $
+>Let $I\in\mathbb{R}$ be an arbitrary interval and $f:I\to\mathbb{R}$ a $\mathcal{D}^2$ function. Then $f$ is convex if and only if 
 ## II. Extensions
 ### 1. Properties
 
