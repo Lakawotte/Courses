@@ -14,9 +14,11 @@ category: "[[Maths]]"
 >f^{(n+1)}=(f^{(n)})'
 >$$
 >A function is said to be a $\mathcal{D}^n$-class function on $I$ if it is $n$ times **[[Differentiability|differentiable]]** on $I$.
+>We write $\mathcal{D}^n(I)$ the **[[Set|set]]** of functions that are $\mathcal{D}^n$ on $I$.
 
 >[!hint] Definition : **$\mathcal{C}^n$**
 >A function is said to be a $\mathcal{C}^n$-class function on $I$ if it is $n$ times **[[Differentiability|differentiable]]** on $I$, and $f^{(n)}$ is **[[Continuity|continuous]]**.
+>>We write $\mathcal{C}^n(I)$ the **[[Set|set]]** of functions that are $\mathcal{D}^n$ on $I$.
 ## II. Extensions
 ### 1. Properties
 
