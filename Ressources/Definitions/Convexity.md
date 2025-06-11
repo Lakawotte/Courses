@@ -36,7 +36,8 @@ If $f''(x)<0$, the function is **concave**.
 $f$ is **concave** otherwise.
 ### 3. Mix
 
->[!tip] Definition
+>[!tip] Epigraph
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. A **[[Subset|subset]]** $E$ of the plane $\mathbb{R}^2$ is **convex** if, for all $(A,B)\in E^2$, the segment 
 
 ## II. Extensions
 ### 1. Properties
