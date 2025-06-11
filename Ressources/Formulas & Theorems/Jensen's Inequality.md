@@ -10,8 +10,9 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Theorem
->Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. Let $(\lambda_1,\lambda_2,\dots\lambda_n)\in\mathbb{R}_{+}$
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. Let $(\lambda_1,\lambda_2,\dots\lambda_n)\in\mathbb{R}_{+}^n$ be scalars such that $\sum_{i=1}^n\lambda_i=1$. Then,
 >$$
+\forall(x_{1},x_{2},\f)
 >$$
 ### 2. Proof
 
