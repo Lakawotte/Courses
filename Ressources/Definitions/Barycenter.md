@@ -23,7 +23,7 @@ We write $G=\mathrm{bar}\{(A,\alpha);(B,\beta)\}$
 >$$
 \sum_{\mu=1}^n\alpha_\mu\vec{GA}_\mu=\vec{0}
 >$$
-### 2. Proof
+### 3. Proof
 
 >[!info] Proof
 >$$
