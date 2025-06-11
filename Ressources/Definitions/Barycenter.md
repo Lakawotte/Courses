@@ -16,6 +16,10 @@ category: "[[Maths]]"
 >$$
 #### Note :
 We write $G=\mathrm{bar}\{(A,\alpha);(B,\beta)\}$
+### 2. Generalization
+
+>[!tip]
+>Let $E$ be an **[[Affine Space|affine space]]**
 ### 2. Proof
 
 >[!info] Proof
