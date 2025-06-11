@@ -21,7 +21,7 @@ category: "[[Maths]]"
 >$$
 >\forall A>0,\exists x\in[a,b],f(x)>A
 >$$
->Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n$. It immediately follows that $f(x_n)\goesto\infty$.
+>Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n$. It immediately follows that $f(x_n)\goesto +\infty$.
 ## II. Extensions
 ### 1. Properties
 
