@@ -17,7 +17,7 @@ category: "[[Maths]]"
 >[!tldr] Series Development
 >Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated smooth function.
 >$$
-\forall x\in
+\forall x\in I, 
 >$$
 ### 2. Other formulas
 # Application
