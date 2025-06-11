@@ -16,7 +16,8 @@ a<b\Longrightarrow\forall k\in]f(a),f(b)[,\exists x_{0}\in[a,b],f(x_{0})=k
 >$$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof using **[[Image of an Interval]]**
+>From the theorem stating that the **[[Image of an Interval|image of an interval by a continuous function is also an interval]]**
 >
 ## II. Extensions
 ### 1. Properties
