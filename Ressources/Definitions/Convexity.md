@@ -46,11 +46,11 @@ category: "[[Maths]]"
 >$$
 E(f)=\{(x,y)\in\mathbb{R}^2,x\in I,y\ge f(x)\}
 >$$
-## II. Extensions
-### 1. Properties
 
 >[!tldr] Concavity
 >Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. $f$ is called **concave** on an interval if $-f$ is **convex** on the same interval.
+## II. Extensions
+### 1. Properties
 
 >[!tldr] Tangent Inequality
 >Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a **convex** function. Then its epigraph $E(f)$ is above all the tangents of $\mathcal{C}_f$ :

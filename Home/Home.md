@@ -28,7 +28,6 @@ cssclasses:
 >- #probability
 >- #market
 >- #utility
->- #error
 >- #return
 >- #calculus
 >- #thermodynamics

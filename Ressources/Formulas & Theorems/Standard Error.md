@@ -1,7 +1,6 @@
 ---
 aliases: 
-tags:
-  - error
+tags: []
 category: "[[Maths]]"
 ---
 ---
