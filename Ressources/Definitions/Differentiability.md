@@ -26,9 +26,9 @@ f'(x)=\lim_{ x \to x_{0} } \frac{f(x)-f(x_{0})}{x-x_{0}}
 >>$$
 \forall x\in I\cap V,f(x)=f'(x_{0})(x-x_{0})+f(x_{0})+(x-x_{0})\epsilon(x) 
 >>$$
->>One can also characterize the **derivative** $f'(x_0)$ by using the second definition using the **[[Rate of Change|rate of change]]**. Here $f$ is **differentiable** if and only if there exists $\epsilon_{0}$ defined on a **[[Neighborhood|neighborhood]]** $V$ of $0$, where $\epsilon_{0}(x)\xrightarrow[]{x\to 0}0$, such that
+>>One can also characterize the **derivative** $f'(x_0)$ by using the second definition using the **[[Rate of Change|rate of change]]**. Here $f$ is **differentiable** if and only if there exists $\epsilon_{0}$ defined on a **[[Neighborhood|neighborhood]]** $V$ of $0$, where $\epsilon_{0}(x)\xrightarrow[]{x\to 0}0$, and for all $h\in V$ \forall x_{0}+h\in I,$ such that
 >>$$
-\forall h\in V,\forall x_{0}+h\in I,f(x_{0}+h)=hf'(x_{0})+f(x_{0})+h\epsilon_{0}(x) 
+f(x_{0}+h)=hf'(x_{0})+f(x_{0})+h\epsilon_{0}(h) 
 >>$$
 >
 >>[!info] Proof
