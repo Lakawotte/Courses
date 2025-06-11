@@ -26,7 +26,7 @@ f'(x)=\lim_{ x \to x_{0} } \frac{f(x)-f(x_{0})}{x-x_{0}}
 >>$$
 \forall x\in I\cap V,f(x)=f'(x_{0})(x-x_{0})+f(x_{0})+(x-x_{0})\epsilon(x) 
 >>$$
->>One can also 
+>>One can also characterize the **derivative** $f'(x_0)$ by using the second definition using the **[[Rate of Change|rate of change]]**. Here $f$ is **differentiable** if and only if the
 >
 >>[!info] Proof
 
