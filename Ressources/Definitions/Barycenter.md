@@ -10,7 +10,7 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Definition
->We call **barycenter** of two points $A$ and $B$ of the plane
+>We call **barycenter** of two points $A$ and $B$ of the plane affected by weight coefficients $\alpha$ and $\beta$ ($\alpha+\beta\neq 0$) as the unique point $G$ satist
 >$$
 >$$
 ### 2. Proof
