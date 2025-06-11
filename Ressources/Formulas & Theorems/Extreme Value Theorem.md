@@ -29,7 +29,7 @@ f\,\,\text{continuous on}\,\,l\Longrightarrow\lim_{ n \to \infty } f(x_{\phi(n)}
 >$$
 >But $f(x_{\phi(n)})$ is derived from $x_{\phi(n)}$ which tends to $+\infty$. This is a contradiction, so $f$ has an upper bound.
 >*2.* $f$ is reaching its upper bound
->The **[[Set|set]]** $f([a,b])$ is 
+>The **[[Set|set]]** $f([a,b])$ is an upper-bounded **[[Subset|subset]]** of $\mathbb{R}$, hence it admits a **[[Supremium|supremum]]
 ## II. Extensions
 ### 1. Properties
 
