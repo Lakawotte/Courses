@@ -19,13 +19,15 @@ category: "[[Maths]]"
 >$C\subset E$ is **convex** if and only if it contains all the **[[Barycenter|barycenters]]** of the **[[Vector|vectors]]** from $E$ with positive coefficients.
 ### 2. Function Convexity
 
->[!tip] Derivative
+>[!tip] **[[Derivative]]**
 >Let $I\in\mathbb{R}$ be an arbitrary interval and $f:I\to\mathbb{R}$ a $\mathcal{D}^2$ function. Then $f$ is convex on $[a,b]\subset I$ if and only if
 >$$
 \forall x\in]a,b[, f''(x)>0
 >$$
 #### Note :
 If $f''(x)<0$, the function is **concave**.
+
+>[!tip] 
 ## II. Extensions
 ### 1. Properties
 
