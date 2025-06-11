@@ -9,11 +9,14 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. **[[Set]]** Convexity
 
->[!hint] Definition
+>[!hint] General Definition
 >Let $E$ be a **[[Set|set]]** and $C\subset E$ a **[[Subset|subset]]** of $E$. $C$ is **convex** if
 >$$
 \forall(u,v)\in C^2,\forall t\in[0,1],tu+(1-t)v\in C
 >$$
+
+>[!tip] **[[Barycenter]]**
+>$C\subset E$ is **convex** if
 ### 2. Function Convexity
 ## II. Extensions
 ### 1. Properties
