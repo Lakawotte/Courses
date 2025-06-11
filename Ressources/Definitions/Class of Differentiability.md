@@ -9,11 +9,11 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated function. We say that $f$ is $n$ times **[[Differentiability|differentiable]]** and we write $f^{(n)}$. It is a definition by induction, since
+>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated function. We say that $f$ is $n$ times **[[Differentiability|differentiable]]** on an arbitrary interval $I$ and we write $f^{(n)}$. It is a definition by induction, since
 >$$
 >f^{(n+1)}=(f^{(n)})'
 >$$
->A function is said to be a $\mathcal{C}^n$-class function on an a if it is $n$ times **[[Differentiability|differentiable]]**, and 
+>A function is said to be a $\mathcal{C}^n$-class function on $I^$ if it is $n$ times **[[Differentiability|differentiable]]** on $I$, and $f^{(n)}$ is **[[Continuity|continuous]]**.
 ## II. Extensions
 ### 1. Properties
 
