@@ -10,8 +10,9 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Definition
->We call **barycenter** of two points $A$ and $B$ of the plane affected by weight coefficients $\alpha$ and $\beta$ ($\alpha+\beta\neq 0$) as the unique point $G$ satist
+>We call **barycenter** of two points $A$ and $B$ of the plane affected by weight coefficients $\alpha$ and $\beta$ ($\alpha+\beta\neq 0$) as the unique point $G$ satisfying the **[[Vector|vectorial]]** relation
 >$$
+\alpha\vec{GA}+\beta
 >$$
 ### 2. Proof
 
