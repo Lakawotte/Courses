@@ -9,20 +9,17 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
+>[!hint] Theorem
 >Let $f$ be a **[[Continuity|continuous]]** function on $I\subset\mathbb{R}$ and two reals $(a,b)\in I$.
 >$$
 a<b\Longrightarrow\forall k\in]f(a),f(b)[,\exists x_{0}\in[a,b],f(x_{0})=k
 >$$
+
+>[!tip] Theorem :
 ### 2. Proof
 
 >[!info] Proof
->We will only prove the case $f(a)<u<f(b)$ since the case $f(a)>u>f(b)$ is very similar.
->Let $g=f-u$. We then want to prove
->$$
->\forall(a,b)\in I^2,g(a)<0<g(b)\Longrightarrow\forall u\in]f(a),f(b)[,\exists c\in[a,b],g(c)=0
->$$
->We define the set $S=\{x\in[a,b]|g(x)\le 0\}$ ($S$ is not empty since $g(a)<0$). Moreover, since $S\subseteq[a,b]$, we know that $S$ is bounded and non-empty, so by **[[Completeness|completeness]]** the **[[Supremum|supremum]]** $c=\sup(S)$ exists.
+>
 ## II. Extensions
 ### 1. Properties
 
