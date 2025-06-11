@@ -22,7 +22,7 @@ a<b\Longrightarrow\forall k\in]f(a),f(b)[,\exists x_{0}\in[a,b],f(x_{0})=k
 >$$
 >\forall(a,b)\in I^2,g(a)<0<g(b)\Longrightarrow\forall u\in]f(a),f(b)[,\exists c\in[a,b],g(c)=0
 >$$
->We define the set $S=\{x\in[a,b]|g(x)\le 0\}$ ($S$ is not empty since $g(a)<0$). Moreover, since $S\subseteq[a,b]$, we know that $S$ is bounded and non-empty, so by **[[]]
+>We define the set $S=\{x\in[a,b]|g(x)\le 0\}$ ($S$ is not empty since $g(a)<0$). Moreover, since $S\subseteq[a,b]$, we know that $S$ is bounded and non-empty, so by **[[Completeness|completeness]]** the **[[]]
 ## II. Extensions
 ### 1. Properties
 
