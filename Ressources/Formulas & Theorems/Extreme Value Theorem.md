@@ -20,7 +20,7 @@ category: "[[Maths]]"
 >$$
 >\forall A>0,\exists x\in[a,b],f(x)>A
 >$$
->Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n
+>Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n. 
 ## II. Extensions
 ### 1. Properties
 
