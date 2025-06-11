@@ -24,7 +24,7 @@ category: "[[Maths]]"
 
 >[!tip] Inclusion Chain
 >$$
-\dots\mathcal{C}^n(I)\subset\mathcal{D}^n(I)\subset
+\dots\mathcal{C}^n(I)\subset\mathcal{D}^n(I)\subset\dots\subset\mathcal{C}^1(I)\subset\mathcal{D}^1(I)\subset\mathcal{C}^0(I)\subset\mathcal{D}^0(I)
 >$$
 ### 2. Other formulas
 # Application
