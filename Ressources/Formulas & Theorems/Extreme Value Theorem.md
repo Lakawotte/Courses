@@ -16,7 +16,7 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof using **[[Bolzano-Weierstrass Theorem]]**
->Suppose that $f$
+>Suppose that $f$ hasn't
 >$$
 >$$
 ## II. Extensions
