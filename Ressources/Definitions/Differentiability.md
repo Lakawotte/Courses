@@ -13,12 +13,12 @@ category: "[[Maths]]"
 >$f$ is **differentiable** if and only if its **[[Rate of Change|rate of change]]** has a finite limit at $x_0$.
 >In this case, we define the **derivative** of $f$ as follows :
 >$$
-f'(x)=\lim_{ x \to x_{0} } \frac{x-x_{0}}
+f'(x)=\lim_{ x \to x_{0} } \frac{f(x)-f(x_{0})}{x-x_{0}}
 >$$
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Series Development
+>[!tldr] Series Development at 
 >Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated smooth function.
 >$$
 \forall x\in I, 
