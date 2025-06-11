@@ -19,7 +19,7 @@ category: "[[Maths]]"
 >[!info] Proof using
 >From the definition of an interval one needs to show that
 >$$
-\forall(y_{1},y_{2})\in\mathrm{Im}(f),
+\forall(y_{1},y_{2})\in\mathrm{Im}(f),\forall\lambda\in\mathbb{R},y_{1}\le\lambda\le y_{2} \Longrightarrow\lambda\in \mathrm{Im}(f)
 >$$
 ## II. Extensions
 ### 1. Properties
