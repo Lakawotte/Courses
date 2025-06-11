@@ -16,11 +16,12 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof using **[[Bolzano-Weierstrass Theorem]]**
+>*1.* $f$ has an upper bound
 >Suppose that $f$ hasn't any upper bound :
 >$$
 >\forall A>0,\exists x\in[a,b],f(x)>A
 >$$
->Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n. 
+>Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n$.
 ## II. Extensions
 ### 1. Properties
 
