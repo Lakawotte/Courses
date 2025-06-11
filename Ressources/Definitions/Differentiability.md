@@ -59,7 +59,8 @@ The second proposition is nothing but a substitution.
 >[!tip] **Right-Derivative** and **Left-Derivative**
 >>[!tldr] Theorem
 >>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated function.
->>$f$ is **right-differentiable** if the right
+>>$f$ is **right-differentiable** if the right limit of the **[[Rate of Change|rate of change]]** exists. It is **left-differentiable** if the left limit exists.
+>>
 ### 2. Other formulas
 
 >[!tip] Tangent
