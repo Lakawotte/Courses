@@ -16,12 +16,12 @@ category: "[[Maths]]"
 >$$
 ### 2. Proof
 
->[!info] Proof using
+>[!info] Proof using metrics
 >From the definition of an interval one needs to show that
 >$$
 \forall(y_{1},y_{2})\in\mathrm{Im}(f)^2,\forall\lambda\in\mathbb{R},y_{1}\le\lambda\le y_{2} \Longrightarrow\lambda\in \mathrm{Im}(f)
 >$$
->Suppose $(y_{1},y_{2})\in\mathrm{Im}(f)^2$ and $y_{1}\le\lambda\le y_{2}$. Consider $S$ and $T$, the subsets of $I$ such that $I=S
+>Suppose $(y_{1},y_{2})\in\mathrm{Im}(f)^2$ and $y_{1}\le\lambda\le y_{2}$. Consider $S$ and $T$, the subsets of $I$ such that $I=S\cap T$ :
 >$$
 S=\{x\in I:f(x)\le\lambda\}
 >$$
@@ -29,6 +29,7 @@ S=\{x\in I:f(x)\le\lambda\}
 T=\{x\in I:f(x)\ge\lambda\}
 >$$
 >As $y_1\in S$ and $y_2\in T$ it follows that both subsets are non-empty.
+>
 ## II. Extensions
 ### 1. Properties
 
