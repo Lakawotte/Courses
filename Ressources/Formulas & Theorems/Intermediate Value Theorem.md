@@ -17,7 +17,7 @@ a<b\Longrightarrow\forall k\in[f(a),f(b)],\exists x_{0}\in[a,b],f(x_{0})=k
 ### 2. Proof
 
 >[!info] Proof
->We will only proove 
+>We will only prove the case $f(a)<u<f(b)$ since the case $f(a)>u>f(b)$ is very similar.
 >$$
 >$$
 ## II. Extensions
