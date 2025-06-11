@@ -35,11 +35,13 @@ f(x_{0}+h)=hf'(x_{0})+f(x_{0})+h\epsilon_{0}(h)
 #### Note :
 The second proposition is nothing but a substitution.
 ### 2. Other formulas
+
+>[!]
 # Application
 ## I. Meaning
 **Differentiability** is a local notion, non-punctual and non-global : the function only needs to be described on a **[[Neighborhood|neighborhood]]** of $x_0$.
 
-Geometricaly, the **derivative** is the slope of the tangent of the curve at a given point. It can be computed as a limit of the chords between $x_0$ and 
+Geometricaly, the **derivative** is the slope of the tangent of the curve at a given point. It can be computed as a limit of the chords between $f(x_0)$ and any $f(x)$.
 ## II. Use
 # Example
 
