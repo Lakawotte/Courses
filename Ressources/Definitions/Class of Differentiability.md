@@ -22,7 +22,7 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tip] 
 >$$
 >$$
 ### 2. Other formulas
