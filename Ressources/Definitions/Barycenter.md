@@ -14,6 +14,8 @@ category: "[[Maths]]"
 >$$
 \alpha\vec{GA}+\beta\vec{GB}=0
 >$$
+#### Note :
+We write $G=\mathrm{bar}\{(A,\alpha);(B,\beta)\}$
 ### 2. Proof
 
 >[!info] Proof
