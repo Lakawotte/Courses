@@ -17,7 +17,8 @@ a<b\Longrightarrow\forall k\in]f(a),f(b)[,\exists x_{0}\in[a,b],f(x_{0})=k
 ### 2. Proof
 
 >[!info] Proof using **[[Image of an Interval]]**
->From the theorem of the **[[Image of an Interval|image of an interval by a continuous function]]**, the image of $]a,b[$ is 
+>From the theorem of the **[[Image of an Interval|image of an interval by a continuous function]]**, the image of $]a,b[$ under $f$ is also a real interval, not necessarily open.
+>Thus if $k$ lies between $f(a)$ and $f(b)$, it might be tha
 >
 ## II. Extensions
 ### 1. Properties
