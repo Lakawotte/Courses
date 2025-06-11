@@ -19,7 +19,7 @@ We write $G=\mathrm{bar}\{(A,\alpha);(B,\beta)\}$
 ### 2. Generalization
 
 >[!tip]
->Let $E$ be an **[[Affine Space|affine space]]** and $K$ a **field*
+>Let $E$ be an **[[Affine Space|affine space]]** and $K$ a **[[Field|field]]** such that $K\subset E$. Let $(A_1,A_2,\dots A_n)$ be points from $E$ and $(\alp)
 ### 2. Proof
 
 >[!info] Proof
