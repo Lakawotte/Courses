@@ -20,7 +20,11 @@ category: "[[Maths]]"
 ### 2. Function Convexity
 
 >[!tip] Definition
->Let $I\in\mathbb{R}$ be an arbitrary interval and $f:I\to\mathbb{R}$ a $\mathcal{D}^2$ function. Then $f$ is convex if and only if 
+>Let $I\in\mathbb{R}$ be an arbitrary interval and $f:I\to\mathbb{R}$ a $\mathcal{D}^2$ function. Then $f$ is convex on $[a,b]\subset I$ if and only if
+>$$
+\forall x\in]a,b[, f''(x)>0
+>$$
+>
 ## II. Extensions
 ### 1. Properties
 
