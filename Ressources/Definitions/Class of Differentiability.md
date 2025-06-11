@@ -22,8 +22,9 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tip] 
+>[!tip] Inclusion Chain
 >$$
+\dots\mathcal{C}^n(I)\subset\mathcal{D}^n(I)\subset
 >$$
 ### 2. Other formulas
 # Application
