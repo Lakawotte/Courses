@@ -18,8 +18,8 @@ f'(x)=\lim_{ x \to x_{0} } \frac{f(x)-f(x_{0})}{x-x_{0}}
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Series Development at 
->Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated smooth function.
+>[!tldr] Series Development at $o(1)$
+>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated smooth function. $f$ is **differentiable** if and only if there exists $\epsilon$ defined on a [[Neighborhood|neighbor]]
 >$$
 \forall x\in I, 
 >$$
