@@ -21,8 +21,8 @@ category: "[[Maths]]"
 >>We write $\mathcal{C}^n(I)$ the **[[Set|set]]** of functions that are $\mathcal{C}^n$ on $I$.
 
 >[!hint] Definition : **$\mathcal{C}^\infty$**
->A function is said to be a $\mathcal{C}^\infty$-class function on $I$ if it is $\mathcal{C}^n$ for any $n\in\mathbb{N}$.
->>We write $\mathcal{C}^n(I)$ the **[[Set|set]]** of functions that are $\mathcal{C}^n$ on $I$.
+>A function is said to be a $\mathcal{C}^\infty$-class function on $I$ if it is $\mathcal{C}^n$ for any $n\in\mathbb{N}$. This is, when $f$ is infinitely **[[Differentiability|differentiable]]**.
+>>We write $\mathcal{C}^\infty(I)$ the **[[Set|set]]** of functions that are $\mathcal{C}^\infty$ on $I$.
 ## II. Extensions
 ### 1. Properties
 
