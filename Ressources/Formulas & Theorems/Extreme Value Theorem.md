@@ -51,6 +51,7 @@ f\,\,\text{continuous on}\,\,l\Longrightarrow\lim_{ n \to \infty } f(x_{\phi(n)}
 # Application
 ## I. Meaning
 ## II. Use
+By combining this theorem with the **[[Mean Value Theorem|mean value theorem]]**, one can show that the image by a **[[Continuity|continuous]]** function of a segment is a segment.
 # Example
 
 ---
