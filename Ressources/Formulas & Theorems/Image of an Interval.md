@@ -21,7 +21,13 @@ category: "[[Maths]]"
 >$$
 \forall(y_{1},y_{2})\in\mathrm{Im}(f)^2,\forall\lambda\in\mathbb{R},y_{1}\le\lambda\le y_{2} \Longrightarrow\lambda\in \mathrm{Im}(f)
 >$$
->Suppose $(y_{1},y_{2})\in\mathrm{Im}(f)^2$ and 
+>Suppose $(y_{1},y_{2})\in\mathrm{Im}(f)^2$ and $y_{1}\le\lambda\le y_{2}$. Consider the subsets of $I$ :
+>$$
+S=\{x\in I:f(x)\le\lambda\}
+>$$
+>>$$
+T=\{x\in I:f(x)\ge\lambda\}
+>$$
 ## II. Extensions
 ### 1. Properties
 
