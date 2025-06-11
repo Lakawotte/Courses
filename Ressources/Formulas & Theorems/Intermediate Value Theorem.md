@@ -20,7 +20,7 @@ a<b\Longrightarrow\forall k\in[f(a),f(b)],\exists x_{0}\in[a,b],f(x_{0})=k
 >We will only prove the case $f(a)<u<f(b)$ since the case $f(a)>u>f(b)$ is very similar.
 >Let $g=f-u$. We then want to prove
 >$$
->\forall(a,b)\in\mathbb{R}^2,g(a)<0<g(b)\Longrightarrow\exits c\in[a,b],g(c)=0
+>\forall(a,b)\in I^2,g(a)<0<g(b)\Longrightarrow\exists c\in[a,b],g(c)=0
 >$$
 ## II. Extensions
 ### 1. Properties
