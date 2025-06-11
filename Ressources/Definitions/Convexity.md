@@ -67,6 +67,7 @@ E(f)=\{(x,y)\in\mathbb{R}^2,x\in I,y\ge f(x)\}
 ## I. Meaning
 A function is called **convex** when its epigraph lies above the line segments connecting any two points on its curve.
 ## II. Use
+Convexity if often used in 
 # Example
 
 ---
