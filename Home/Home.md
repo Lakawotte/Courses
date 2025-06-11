@@ -33,6 +33,9 @@ cssclasses:
 >- #thermodynamics
 >- #astronomy
 >- #mechanics
+>- #statistics
+>- #algebra 
+>- #combinatorics
 
 
 
