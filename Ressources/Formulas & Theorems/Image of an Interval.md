@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:
+  - calculus
 category: "[[Maths]]"
 ---
 ---
@@ -8,9 +9,8 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
->$$
->$$
+>[!hint] Theorem
+>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a function.
 ### 2. Proof
 
 >[!info] Proof
