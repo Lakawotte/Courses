@@ -19,6 +19,10 @@ category: "[[Maths]]"
 >[!hint] Definition : **$\mathcal{C}^n$**
 >A function is said to be a $\mathcal{C}^n$-class function on $I$ if it is $n$ times **[[Differentiability|differentiable]]** on $I$, and $f^{(n)}$ is **[[Continuity|continuous]]**.
 >>We write $\mathcal{C}^n(I)$ the **[[Set|set]]** of functions that are $\mathcal{C}^n$ on $I$.
+
+>[!hint] Definition : **$\mathcal{C}^\infty$**
+>A function is said to be a $\mathcal{C}^\infty$-class function on $I$ if it is $\mathcal{C}^n$ for any $n\in\mathbb{N}$.
+>>We write $\mathcal{C}^n(I)$ the **[[Set|set]]** of functions that are $\mathcal{C}^n$ on $I$.
 ## II. Extensions
 ### 1. Properties
 
