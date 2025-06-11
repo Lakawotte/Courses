@@ -10,9 +10,9 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Theorem
->Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. Let $(\lambda_1,\lambda_2,\dots\lambda_n)\in\mathbb{R}_{+}^n$ be scalars such that $\sum_{i=1}^n\lambda_i=1$. Then,
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a **[[Convexity|convex]]** function. Let $(\lambda_1,\lambda_2,\dots\lambda_n)\in\mathbb{R}_{+}^n$ be scalars such that $\sum_{i=1}^n\lambda_i=1$. Then,
 >$$
-\forall(x_{1},x_{2},\dots,x_{n})\in I^n,\sum_{i=I}^n\lambda_{i}x_{i}\in I\wedge f(\sum_{i=I}^n\lambda_{i}x_{i})\le 
+\forall(x_{1},x_{2},\dots,x_{n})\in I^n,\sum_{i=I}^n\lambda_{i}x_{i}\in I\wedge f(\sum_{i=I}^n\lambda_{i}x_{i})\le\sum_{i=I}^n\lambda_{i}f(x_{i})
 >$$
 ### 2. Proof
 
@@ -29,6 +29,7 @@ category: "[[Maths]]"
 # Application
 ## I. Meaning
 ## II. Use
+This property of **[[Convexity|cxonvex]]
 # Example
 
 ---
