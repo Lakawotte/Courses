@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-category:
+category: "[[Maths]]"
 ---
 ---
 # Formula
