@@ -12,7 +12,7 @@ category: "[[Maths]]"
 >[!hint] Definition
 >Let $E$ be a **[[Set|set]]** and $C\subset E$ a **[[Subset|subset]]** of $E$. $C$ is **convex** if
 >$$
-\forall(u,v)\in C_{2}2
+\forall(u,v)\in C^2,\forall t\in[0,1],tu+(1-t)v\in C
 >$$
 ### 2. Function Convexity
 ## II. Extensions
