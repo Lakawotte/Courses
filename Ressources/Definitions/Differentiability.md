@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $I\subse t$$f$ be a 
+>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mùathbb{R}$ a 
 >$$
 >$$
 ## II. Extensions
