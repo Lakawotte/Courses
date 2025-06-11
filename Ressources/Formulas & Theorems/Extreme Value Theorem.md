@@ -31,8 +31,9 @@ f\,\,\text{continuous on}\,\,l\Longrightarrow\lim_{ n \to \infty } f(x_{\phi(n)}
 >*2.* $f$ is reaching its upper bound
 >The **[[Set|set]]** $f([a,b])$ is an upper-bounded **[[Subset|subset]]** of $\mathbb{R}$, hence it admits a **[[Supremium|supremum]]** $M$ :
 >$$
-\forall\epsilon>0,\exists x\in[a,b],M-
+\forall\epsilon>0,\exists x\in[a,b],M-\epsilon\le f(x)\le M
 >$$
+>Let $n\ge 1$. There exists $x_n\in:[a,b]$ such that $M-\frac{1}
 ## II. Extensions
 ### 1. Properties
 
