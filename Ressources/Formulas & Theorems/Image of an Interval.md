@@ -17,7 +17,9 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!info] Proof using
+>From the definition of an interval one needs to show that
 >$$
+\forall(y_{1},y_{2})\in\mathrm{Im}(f),
 >$$
 ## II. Extensions
 ### 1. Properties
