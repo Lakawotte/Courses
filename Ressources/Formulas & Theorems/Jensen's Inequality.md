@@ -29,7 +29,7 @@ category: "[[Maths]]"
 # Application
 ## I. Meaning
 ## II. Use
-This property of **[[Convexity|cxonvex]]
+This property of **[[Convexity|convex]]** functions is often used in finance. 
 # Example
 
 ---
