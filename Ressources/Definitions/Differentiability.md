@@ -20,6 +20,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
+**Differentiability** is a local notion, non-ponctual and non-global.
 ## II. Use
 # Example
 
