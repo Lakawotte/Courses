@@ -23,7 +23,10 @@ category: "[[Maths]]"
 >$$
 >Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n$. It immediately follows that $f(x_n)\xrightarrow[]{n\to +\infty}+\infty$.
 >By **[[Bolzano-Weierstrass Theorem|Bolzano-Weierstrass]]**, there exists $l\in[a,b]$ and $\phi:\mathbb{N}\to\mathbb{N}$ strictly increasing such that $x_{\phi(n)}$ is converging to $l$.
->By the caracterization of **[[Continuity|continuity]]** in terms of sequences, 
+>By the caracterization of **[[Continuity|continuity]]** in terms of sequences,
+>$$
+f
+>$$
 ## II. Extensions
 ### 1. Properties
 
