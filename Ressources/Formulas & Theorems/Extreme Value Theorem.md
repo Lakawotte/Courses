@@ -25,7 +25,7 @@ category: "[[Maths]]"
 >By **[[Bolzano-Weierstrass Theorem|Bolzano-Weierstrass]]**, there exists $l\in[a,b]$ and $\phi:\mathbb{N}\to\mathbb{N}$ strictly increasing such that $x_{\phi(n)}$ is converging to $l$.
 >By the caracterization of **[[Continuity|continuity]]** in terms of sequences,
 >$$
-f
+f\,\,\text{continuous on}\,\,l\Longrightarrow\lim_{ n \to \infty } f(x_{\phi(n)})=f(l)
 >$$
 ## II. Extensions
 ### 1. Properties
