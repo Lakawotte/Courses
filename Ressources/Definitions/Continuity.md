@@ -39,7 +39,7 @@ This is another definition of **continuity**.
 >[!tip] **[[Differentiability]]** implies **Continuity**
 >>[!tldr] Theorem
 >>Let $f$ be a function defined on $I\subset\mathbb{R}$ and $x_0\in I$.
->>If $f$ is **[[Differentiability|differentiable]]** at $x_{0}$, then $f$ is **[[Continuity|continuous]]** at $x_{0}$.
+>>If $f$ is **[[Differentiability|differentiable]]** at $x_{0}$, then $f$ is **continuous** at $x_{0}$.
 >
 >>[!info] Proof
 >>Let $f$ be a function defined on an open interval $]x_0-h;x_0+h[$, **[[Differentiability|differentiable]]** at $x_0$.

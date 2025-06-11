@@ -34,6 +34,27 @@ f(x_{0}+h)=hf'(x_{0})+f(x_{0})+h\epsilon_{0}(h)
 >>[!info] Proof
 #### Note :
 The second proposition is nothing but a substitution.
+
+>[!tip] **Differentiability** implies **[[Continuity]]**
+>>[!tldr] Theorem
+>>Let $f$ be a function defined on $I\subset\mathbb{R}$ and $x_0\in I$.
+>>If $f$ is **differentiable** at $x_{0}$, then $f$ is **[[Continuity|continuous]]** at $x_{0}$.
+>
+>>[!info] Proof
+>>Let $f$ be a function defined on an open interval $]x_0-h;x_0+h[$, **differentiable** at $x_0$.
+>>$$
+\forall\epsilon>0,\exists 0<\eta_{1}<h,\forall x\in D_{f},
+>>$$
+>>$$
+\begin{split}
+|x-x_{0}|<\eta_{1}&\Longrightarrow|\frac{f(x)-f(x_{0})}{x-x_{0}}-f'(x_{0})|<\epsilon\\
+|x-x_{0}|<\eta_{1}&\Longrightarrow|f(x)-f(x_{0})|<(|f'(x_{0})|+\epsilon)|x-x_{0}|\\
+\end{split}
+>>$$
+>>Finally for $\eta=\min(\eta_{1},|f'(x_{0})|+\epsilon)$
+>>$$
+|x-x_{0}|<\eta\Longrightarrow|f(x)-f(x_{0})|<\epsilon
+>>$$
 ### 2. Other formulas
 
 >[!tip] Tangent
