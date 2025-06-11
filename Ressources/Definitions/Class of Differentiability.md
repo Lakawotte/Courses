@@ -8,13 +8,14 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!tip] Definition : $
-
->[!hint] Definition : **$\mathcal{C}^n$**
+>[!tip] Definition : **$\mathcal{D}^n$**
 >Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated function. We say that $f$ is $n$ times **[[Differentiability|differentiable]]** on an arbitrary interval $I$ and we write $f^{(n)}$. It is a definition by induction, since
 >$$
 >f^{(n+1)}=(f^{(n)})'
 >$$
+>A function is said to be a $\mathcal{D}^n$-class function on $I$ if it is $n$ times **[[Differentiability|differentiable]]** on $I$.
+
+>[!hint] Definition : **$\mathcal{C}^n$**
 >A function is said to be a $\mathcal{C}^n$-class function on $I$ if it is $n$ times **[[Differentiability|differentiable]]** on $I$, and $f^{(n)}$ is **[[Continuity|continuous]]**.
 ## II. Extensions
 ### 1. Properties
