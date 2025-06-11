@@ -57,7 +57,10 @@ E(f)=\{(x,y)\in\mathbb{R}^2,x\in I,y\ge f(x)\}
 >$$
 \forall x\in I,\forall a\in I, f(x)\ge f'(a)(x-a)+f(a)
 >$$
-#### Note :
+>If $f$ is **concave**, it satisfies the property
+>$$
+\forall x\in I,\forall a\in I, f(x)\le f'(a)(x-a)+f(a)
+>$$
 
 ### 2. Other formulas
 # Application
