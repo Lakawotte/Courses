@@ -8,8 +8,8 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!hint] Definition
->Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mùathbb{R}$ a 
+>[!hint] Definition : 
+>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated function. 
 >$$
 >$$
 ## II. Extensions
