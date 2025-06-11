@@ -37,7 +37,11 @@ $f$ is **concave** otherwise.
 ### 3. Mix
 
 >[!tip] Epigraph
->Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. A **[[Subset|subset]]** $E$ of the plane $\mathbb{R}^2$ is **convex** if, for all $(A,B)\in E^2$, the segment 
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. A **[[Subset|subset]]** $E$ of the plane $\mathbb{R}^2$ is **convex** if
+>$$
+\forall(A,B)\in E^2,[AB]\in E
+>$$
+>One can also say that 
 
 ## II. Extensions
 ### 1. Properties
