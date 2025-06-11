@@ -24,7 +24,8 @@ category: "[[Maths]]"
 >$$
 \forall x\in]a,b[, f''(x)>0
 >$$
->
+#### Note :
+If $f''(x)<0$, the function is **concave**.
 ## II. Extensions
 ### 1. Properties
 
