@@ -60,7 +60,10 @@ The second proposition is nothing but a substitution.
 >>[!tldr] Theorem
 >>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated function.
 >>$f$ is **right-differentiable** if the right limit of the **[[Rate of Change|rate of change]]** exists. It is **left-differentiable** if the left limit exists.
->>
+>>$$
+f'_d(x_{0})=\lim_{ x \to x_{0}^+}\frac{f(x)-f(x_{0})}{x-x_{0}}=\lim_{ h \to 0 }  
+>>$$
+>
 ### 2. Other formulas
 
 >[!tip] Tangent
