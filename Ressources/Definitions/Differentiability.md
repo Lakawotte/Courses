@@ -36,7 +36,8 @@ f(x_{0}+h)=hf'(x_{0})+f(x_{0})+h\epsilon_{0}(h)
 The second proposition is nothing but a substitution.
 ### 2. Other formulas
 
->[!]
+>[!tip] Tangent
+>>[!tldr] Definition
 # Application
 ## I. Meaning
 **Differentiability** is a local notion, non-punctual and non-global : the function only needs to be described on a **[[Neighborhood|neighborhood]]** of $x_0$.
