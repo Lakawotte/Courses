@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:
+  - calculus/vectors
 category: "[[Maths]]"
 ---
 ---
@@ -8,7 +9,8 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
+>[!hint] Definition
+>We call **barycenter** of two points $A$ and $B$ of the plane
 >$$
 >$$
 ### 2. Proof
