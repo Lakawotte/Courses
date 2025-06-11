@@ -29,7 +29,7 @@ S=\{x\in I:f(x)\le\lambda\}
 T=\{x\in I:f(x)\ge\lambda\}
 >$$
 >As $y_1\in S$ and $y_2\in T$ it follows that both subsets are non-empty.
->
+>Using metrics, we know that a point in one **[[Subset|subset]]** is at zero distance from the other.
 ## II. Extensions
 ### 1. Properties
 
