@@ -19,7 +19,7 @@ We write $G=\mathrm{bar}\{(A,\alpha);(B,\beta)\}$
 ### 2. Generalization
 
 >[!tip]
->Let $E$ be an **[[Affine Space|affine space]]** and $K$ 
+>Let $E$ be an **[[Affine Space|affine space]]** and $K$ a **field*
 ### 2. Proof
 
 >[!info] Proof
