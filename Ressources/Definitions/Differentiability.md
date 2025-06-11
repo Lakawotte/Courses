@@ -66,7 +66,10 @@ f'_r(x_{0})=\lim_{ x \to x_{0}^+}\frac{f(x)-f(x_{0})}{x-x_{0}}=\lim_{ h \to 0^+ 
 >>$$
 f'_l(x_{0})=\lim_{ x \to x_{0}^-}\frac{f(x)-f(x_{0})}{x-x_{0}}=\lim_{ h \to 0^-}\frac{f(x_{0}+h)-f(x_{0})}{h}
 >>$$
->>Then let $x_0\in I,x\neq\sup(I)\wedge x\neq\inf(I)$. $f$ is **differentiable** if and only if $f
+>>Then let $x_0\in I,x\neq\sup(I)\wedge x\neq\inf(I)$. $f$ is **differentiable** if and only if $f_r$ and f_l$ exists and are defined and $f'_{r}(x_0)=f'_l(x_0)$. Hence
+>>$$
+f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
+>>$$
 ### 2. Other formulas
 
 >[!tip] Tangent
