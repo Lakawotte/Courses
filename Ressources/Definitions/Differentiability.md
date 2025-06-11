@@ -55,6 +55,8 @@ The second proposition is nothing but a substitution.
 >>$$
 |x-x_{0}|<\eta\Longrightarrow|f(x)-f(x_{0})|<\epsilon
 >>$$
+
+>[!tip] **Right-Deriv
 ### 2. Other formulas
 
 >[!tip] Tangent
