@@ -22,7 +22,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
-**Differentiability** is a local notion, non-punctual and non-global.
+**Differentiability** is a local notion, non-punctual and non-global : the function only needs to be described on a **[[Neigboh]]
 ## II. Use
 # Example
 
