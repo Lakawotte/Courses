@@ -16,7 +16,7 @@ category: "[[Maths]]"
 >$$
 
 >[!tip] **[[Barycenter]]**
->$C\subset E$ is **convex** if
+>$C\subset E$ is **convex** if and only if it contains all the **[[Barycenter|barycenters]]** of the **[[Vector|vectors]]** from $E$ with positive coefficients.
 ### 2. Function Convexity
 ## II. Extensions
 ### 1. Properties
