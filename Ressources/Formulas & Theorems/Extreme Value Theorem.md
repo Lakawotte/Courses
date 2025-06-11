@@ -21,7 +21,8 @@ category: "[[Maths]]"
 >$$
 >\forall A>0,\exists x\in[a,b],f(x)>A
 >$$
->Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n$. It immediately follows that $f(x_n)\xrightarrow[]{n\to +\infty}+\in fty$.
+>Let $n\ge 1$. There exists $x_n\in[a,b]$ such that $f(x_n)>n$. It immediately follows that $f(x_n)\xrightarrow[]{n\to +\infty}+\infty$.
+>By **[[Bolzano-Weierstrass Theorem|Bolzano-Weierstrass]]**, there exists 
 ## II. Extensions
 ### 1. Properties
 
