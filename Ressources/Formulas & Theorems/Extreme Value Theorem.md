@@ -39,6 +39,7 @@ f\,\,\text{continuous on}\,\,l\Longrightarrow\lim_{ n \to \infty } f(x_{\phi(n)}
 >$$
 f\,\,\text{continuous on}\,\,l\Longrightarrow\lim_{ n \to \infty } f(x_{\phi(n)})=f(l)
 >$$
+>But $f(x_{\phi(n)})$ is derived from $x_{\phi(n)}$ which tends to $M$. So $f(l)=M$ : $f$ reaches its upper bound $M$ at $x=l$.
 ## II. Extensions
 ### 1. Properties
 
