@@ -86,7 +86,11 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>[!info] Proofs
 >>-
 >>$$
-(\lambda f)'(x)=\lim_{ h \to 0}\frac{\lambda f(x+h)-\lambda f(x)}{h}=\lambda\frac 
+(\lambda f)'(x)=\lim_{ h \to 0}\frac{\lambda f(x+h)-\lambda f(x)}{h}=\lambda \lim_{ h \to 0} \frac{f(x+h)-f(x)}{h}=\lambda f'(x)
+>>$$
+>>-
+>>$$
+(f+)
 >>$$
 ### 3. Other formulas
 
