@@ -32,8 +32,6 @@ category: "[[Maths]]"
 >$$
 #### Note :
 The proof is obvious since **[[Differentiability|differentiation]]** implies **[[Continuity|continuity]]**.
-
->[!t]
 ### 2. Other formulas
 # Application
 ## I. Meaning
