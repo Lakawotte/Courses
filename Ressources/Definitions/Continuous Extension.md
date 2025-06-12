@@ -8,7 +8,8 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!hint] **[[Class of Differentiability|]]** 
+>[!hint] Theorem of $\mathcal{C}^n$ **[[Class of Differentiability|Class]]** by Extension
+>Let $I$ be an interval and $x_0\in I$.
 >$$
 >$$
 ## II. Extensions
