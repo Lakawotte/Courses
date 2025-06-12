@@ -169,7 +169,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>Let $I$ and $J$ be two intervals, and $f:I\to J$ a **[[Continuity|continuous]]** function. Let $t_0\in I$ and $x_0=f(t_0)$. Then
 >>- If $f$ is **differentiable** at $t_0$ and $f'(t_0)\neq 0$, then $f^{-1}$ is **differentiable** at $x_0$ and
 >>$$
-f^{-1}{'}(x_{0})=\frac{1}{f'(x_{0})}=\frac{1}{(f' \circ f^{-1})(x_0)}
+(f^{-1})'(x_{0})=\frac{1}{f'(t_{0})}=\frac{1}{(f' \circ f^{-1})(x_0)}
 >>$$
 >>- If $f$ is **differentiable** at $t_0$ and $f'(t_0)=0$, then $f^{-1}$ is not **differentiable** at $x_0$.
 >
