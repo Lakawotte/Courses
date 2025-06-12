@@ -185,7 +185,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >
 >>[!info] Proof
 
-
+>[!tip] Leibnitz Formula
+>>[!tldr] Theorem
+>>If $f$ and $g$ are $n$ times **differentiable** at $x_0$, also is $f\times g$ and 
 
 ### 3. Other formulas
 
