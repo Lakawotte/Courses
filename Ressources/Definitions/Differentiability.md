@@ -129,6 +129,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 \frac{f'(x)g(x)-f(x)g'(x)}{g^2(x)}\\
 \end{split}
 >>$$
+
+>[!tip] Generalizations
+>>[!tldr] 
 ### 3. Other formulas
 
 >[!tip] Tangent
