@@ -74,7 +74,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>[!info] Proof
 ### 2. Rules of Derivation
 
->[!tip] 
+>[!tip] Elementary Rules
+>>[!tldr] Propositions
+>>- 
 ### 3. Other formulas
 
 >[!tip] Tangent
