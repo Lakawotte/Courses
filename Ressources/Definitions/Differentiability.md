@@ -197,7 +197,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 
 >[!tip] Composition of $n$ times **Differentiable**
 >>[!tldr] Proposition
->>Let $I$ and $J$ two intervals, and $f:I\to J$, $g:J\to\mathbb{R}$ two functions. Let $x_0\in I$.
+>>Let $I$ and $J$ two intervals, and $f:I\to J$, $g:J\to\mathbb{R}$ two functions. Let $x_0\in I$ and $n\in\mathbb{N}$. If $f$ is $n$ times **differentiable** at $x_0$ and $g$ is $n$ times **differentiable** at $f(x_0)$, then $
 ### 3. Other formulas
 
 >[!tip] Tangent
