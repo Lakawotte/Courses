@@ -181,7 +181,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>- If $f$ is $n$ times **differentiable** at $x_0$, also is $\lambda f$  and $(\lambda f)^{(n)}(x_{0})=\lambda f^{(n)}(x_0)$.
 >>- If $f$ and $g$ are $n$ times **differentiable** at $x_0$, also is $f+g$ and $(f+g)^{(n)}(x_0)=f^{(n)}(x_0)+g^{(n)}(x_0)$.
 >>- If $f$ and $g$ are $n$ times **differentiable** at $x_0$ with $g$ non zero at $x_0$, also is $\frac{f}{g}$.
->>Furthermore, if $f$ and $g$
+>>Furthermore, if both $f^{(n)}$ and $g^{(n)}$ are continuous at $x_0$, also is $(\frac{f}{g})^{(n)}$.
+>
+>>[!info] Proof
 
 
 
