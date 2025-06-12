@@ -27,6 +27,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
+Under some conditions, the **[[Differentiability|differentiability]]** at a point 
 ## II. Use
 # Example
 
