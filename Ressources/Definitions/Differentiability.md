@@ -130,7 +130,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 \end{split}
 >>$$
 
->[!tip] $n$ terms Product
+>[!tip] $n$ Terms Product
 >>[!tldr] Proposition
 >>Let $I\subset\mathbb{R}$ be an interval, $f_{1},f_{2}\dots,f_{n}:I\to\mathbb{R}$ and $x_0\in I$. If the $f_{1},f_{2}\dots,f_{n}$ are **differentiable**, their product too and
 >>$$
