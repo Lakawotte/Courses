@@ -147,6 +147,19 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 0\,\,\text{else}\\
 \end{cases}
 >>$$
+
+>[!tip] Iterated Composition
+>>Proposition
+>>Let $f_1,f_23
+
+
+
+
+
+
+
+
+
 ### 3. Other formulas
 
 >[!tip] Tangent
