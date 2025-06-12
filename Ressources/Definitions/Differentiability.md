@@ -175,7 +175,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >
 >>[!info] Proof using the **[[Lemma of Continuity of the Reciprocal]]**
 
-
+>[!tip] In
 
 
 
