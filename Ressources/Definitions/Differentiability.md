@@ -143,7 +143,8 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>$$
 \forall x\in\mathbb{R},f^{(k)}(x)=
 \begin{cases}
-\frac{n!}{(n-k)!}
+\frac{n!}{(n-k)!}x^{n-k}\,\,\text{if}\,\,k\le n\\ \\
+0\,\,\text{else}\\
 \end{cases}
 >>$$
 ### 3. Other formulas
