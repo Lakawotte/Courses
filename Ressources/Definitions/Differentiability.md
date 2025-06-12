@@ -137,7 +137,12 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 (f_{1}\times\dots\times f_{n})'(x_{0})=\sum_{i=1}^nf'_{i}(x_{0})\prod_{i\in[\![1,n]\!]\textbackslash\{x_{0}\}}f(x_{0})
 >>$$
 
->[!tip] Power 
+>[!tip] $n$th Power Derivative
+>>[!tldr] Proposition
+>>Let $f:x\mapsto x^n$ and $k\in\mathbb{N}$ :
+>>$$
+>
+>>
 ### 3. Other formulas
 
 >[!tip] Tangent
