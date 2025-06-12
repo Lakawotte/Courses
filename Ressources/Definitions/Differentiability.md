@@ -81,6 +81,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>-  If both $f$ and $g$ are **differentiable** on $x$, then also is $f+g$ and $(f+g)'(x)=f'(x)+g'(x)$
 >>- If both $f$ and $g$ are **differentiable** on $x$, then also is $f\times g$ and $(f\times g)'(x)=f'(x)g()+f(x)g'(x)$
 >>- If $g$ is **differentiable** on $x$, then also is $\frac{1}{g}$ and $(\frac{1}{g})'(x)=-\frac{g'(x)}{g^2(x)}$
+>>- If both $f$ and $g$ are **differentiable** on $x$, then also is $\frac{f}{g}$ and $(\frac{f}{g})'(x)=\frac{f'(x)g(x)-f(x)g'(x)}{g^2(x)}$
 ### 3. Other formulas
 
 >[!tip] Tangent
