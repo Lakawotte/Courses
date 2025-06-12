@@ -11,11 +11,12 @@ category: "[[Maths]]"
 
 >[!tip] Theorem of **Continuous Extension**
 >Let $f$ be a real-valuated function defined on $]a,b]$ (resp. $[a,b[$) which has a limit $l$ on $a$ (resp. $b$).
->There is a unique function **[[Continuity|continuous]]** on $[a,b]$ and coinciding with $f$ on $]a,b]$ (resp. $[a,b[$). It sati
+>There is a unique function $g$ **[[Continuity|continuous]]** on $[a,b]$ and coinciding with $f$ on $]a,b]$ (resp. $[a,b[$). It satisfies $g(a)=l$ (resp. $g(b)=l$).
+>$g$ is called **continuous extension** of $f$ on $[a,b]$.
 
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof by the 
 ## II. Extensions
 ### 1. Theorems
 
