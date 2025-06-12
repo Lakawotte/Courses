@@ -16,7 +16,7 @@ category: "[[Maths]]"
 
 ### 2. Proof
 
->[!info] Proof by the 
+>[!info] Proof by the Unicity of the Limit
 ## II. Extensions
 ### 1. Theorems
 
