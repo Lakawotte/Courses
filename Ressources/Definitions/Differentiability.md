@@ -190,9 +190,10 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>Let $I\subset\mathbb{R}$ be an interval, $f$ and $g$ two functions from $I$ to $\mathbb{R}$ and $x_0\in I$. Let $n\in\mathbb{N}^*$.
 >>If $f$ and $g$ are $n$ times **differentiable** at $x_0$, also is $f\times g$ :
 >>$$
-(f\times g)^{(n)}
+(f\times g)^{(n)}(x_{0})=\sum_{k=0}^n\binom{n}{k}f^{(k)}(x_{0})g^{(n-k)}(x_{0})
 >>$$
-
+>
+>>[!info] Proof
 ### 3. Other formulas
 
 >[!tip] Tangent
