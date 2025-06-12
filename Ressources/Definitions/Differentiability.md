@@ -134,7 +134,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>[!tldr] Proposition
 >>Let $I\subset\mathbb{R}$ be an interval, $f_{1},f_{2}\dots,f_{n}:I\to\mathbb{R}$ and $x_0\in I$. If the $f_{1},f_{2}\dots,f_{n}$ are **differentiable**, their product too and
 >>$$
-(f_{1}\times\dotsf_{n})
+(f_{1}\times\dots\times f_{n})'(x_{0})=\sum_{i=1}^nf'_{i}(x_{0})\prod_{i=1}
 >>$$
 ### 3. Other formulas
 
