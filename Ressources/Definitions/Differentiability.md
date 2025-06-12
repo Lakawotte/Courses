@@ -130,8 +130,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 \end{split}
 >>$$
 
->[!tip] Generalizations
->>[!tldr] 
+>[!tip] $n$ terms Product
+>>[!tldr] Proposition
+>>Let $f_{1},f_{2}\dots,f_{n}$
 ### 3. Other formulas
 
 >[!tip] Tangent
