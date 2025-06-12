@@ -90,7 +90,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>$$
 >>-
 >>$$
-(f+)
+(f+g)'(x)=\lim_{ h \to 0}\frac{f(x+h)+g(x+h)-f(x)-g(x)}{h}=\lim_{ h \to 0}\frac{f(x+h)-f(x)}{h}+\frac{g(x+h)-g(x)}{h}
 >>$$
 ### 3. Other formulas
 
