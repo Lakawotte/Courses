@@ -23,7 +23,7 @@ category: "[[Maths]]"
 # Application
 ## I. Meaning
 ## II. Use
-The theorem of of $\mathcal{C}^n$ **[[Class of Differentiability|class]]** by **extension** is generally used for functions defi
+The theorem of of $\mathcal{C}^n$ **[[Class of Differentiability|class]]** by **extension** is generally used for functions defined on $I$. The hypothesis about the limit of the $0$-
 # Example
 
 ---
