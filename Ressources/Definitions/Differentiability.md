@@ -86,11 +86,15 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>[!info] Proofs
 >>-
 >>$$
-(\lambda f)'(x)=\lim_{ h \to 0}\frac{\lambda f(x+h)-\lambda f(x)}{h}=\lambda \lim_{ h \to 0} \frac{f(x+h)-f(x)}{h}=\lambda f'(x)
+>>\begin{split}
+(\lambda f)'(x)&=\lim_{ h \to 0}\frac{\lambda f(x+h)-\lambda f(x)}{h}\\
+&=\lambda \lim_{ h \to 0} \frac{f(x+h)-f(x)}{h}\\
+&=\lambda f'(x)
+\end{split}
 >>$$
 >>-
 >>$$
-(f+g)'(x)=\lim_{ h \to 0}\frac{f(x+h)+g(x+h)-f(x)-g(x)}{h}=\lim_{ h \to 0}\frac{f(x+h)-f(x)}{h}+\frac{g(x+h)-g(x)}{h}
+(f+g)'(x)=\lim_{ h \to 0}\frac{f(x+h)+g(x+h)-f(x)-g(x)}{h}=\lim_{ h \to 0}\frac{f(x+h)-f(x)}{h}+\frac{g(x+h)-g(x)}{h}=f'(x)+g'(x)
 >>$$
 ### 3. Other formulas
 
