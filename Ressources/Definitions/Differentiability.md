@@ -122,8 +122,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>Because $g$ is **[[Continuity|continuous]]** since it is **differentiable**.
 >>-
 >>$$
->>
-(\frac{f(x)}{g(x)})'(x)&=
+>>\begin{split}
+(\frac{f(x)}{g(x)})'(x)&=\lim_{ h \to 0}\frac{\frac{f(x+h)}{g(x+)}}
+\end{split}
 >>$$
 ### 3. Other formulas
 
