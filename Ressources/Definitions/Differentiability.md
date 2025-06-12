@@ -76,6 +76,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 
 >[!tip] Elementary Rules
 >>[!tldr] Propositions
+>>Let $f$ and $g$ be two real-valuated functions and $\lambda\in\mathbb{R}$.
 >>- 
 ### 3. Other formulas
 
