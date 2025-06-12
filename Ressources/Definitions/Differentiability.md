@@ -96,7 +96,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>$$
 >>\begin{split}
 (f+g)'(x)&=\lim_{ h \to 0}\frac{f(x+h)+g(x+h)-f(x)-g(x)}{h}\\
-&=\lim_{ h \to 0}\frac{f(x+h)-f(x)}{h}+\frac{g(x+h)-g(x)}{h}\\
+&=\lim_{ h \to 0}\frac{f(x+h)-f(x)}{h}+\lim_{ h \to 0}\frac{g(x+h)-g(x)}{h}\\
 &=f'(x)+g'(x)\\
 \end{split}
 >>$$
@@ -105,8 +105,13 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 \begin{split}
 (f\times g)'(x)&=\lim_{ h \to 0}\frac{f(x+h)g(x+h)-f(x)g(x)}{h}\\
 &=\lim_{ h \to 0}\frac{f(x+h)g(x+h)-f(x)g(x)+f(x+h)g(x)-f(x+h)g(x)}{h}\\
-&=\lim_{ h \to 0}f(x+h)\frac{g(x+h)-g(x)}{h}+g(x)\frac{f(x+h)-f(x)}{h}
+&=\lim_{ h \to 0}f(x+h)\frac{g(x+h)-g(x)}{h}+\lim_{ h \to 0}g(x)\frac{f(x+h)-f(x)}{h}\\
+&=f(x)g'(x)+g(x)f'(x)\\
 \end{split}
+>>$$
+>>-
+>>$$
+(\frac{1}{})
 >>$$
 ### 3. Other formulas
 
