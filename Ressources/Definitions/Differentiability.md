@@ -195,7 +195,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >
 >>[!info] Proof
 
->[!tip] Composition of 
+>[!tip] Composition of $n$ times **Diffentialbe
 ### 3. Other formulas
 
 >[!tip] Tangent
