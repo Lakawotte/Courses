@@ -141,8 +141,11 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>[!tldr] Proposition
 >>Let $f:x\mapsto x^n$ and $k\in\mathbb{N}$ :
 >>$$
->
->>
+\forall x\in\mathbb{R},f^{(k)}(x)=
+\begin{cases}
+\frac{n!}{(n-k)!}
+\end{cases}
+>>$$
 ### 3. Other formulas
 
 >[!tip] Tangent
