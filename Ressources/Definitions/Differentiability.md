@@ -178,8 +178,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >[!tip] Inference of Elementary Rules
 >>[!tldr] Proposition
 >>Let $I\subset\mathbb{R}$ be an interval, $f$ and $g$ two functions from $I$ to $\mathbb{R}$ and $x_0\in I$. Let $n\in\mathbb{N}^*$ and $(a,b)\in\mathbb{R}^2$.
->>- If $f$ is $n$ times **differentiable** at $x_0$, also is $\lambda f$  and $(\lambda f)^n(x_{0})=\lambda f^{(n)}(x_0)$.
->>- If $f$ and $g$ are $n$ times **differentiable** a
+>>- If $f$ is $n$ times **differentiable** at $x_0$, also is $\lambda f$  and $(\lambda f)^{(n)}(x_{0})=\lambda f^{(n)}(x_0)$.
+>>- If $f$ and $g$ are $n$ times **differentiable** at $x_0$, also is $f+g$ and $(f+g)^{(n)}(x_0)=f^{(n)}(x_0)+g^{(n)}(x_0)$.
+>>- 
 
 
 
