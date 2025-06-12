@@ -59,7 +59,7 @@ f'(a)<k<f'(b)\Longrightarrow\exists l\in]a,b[,(k=\phi_{a}(l)\vee k=\phi_{b}(l))
 **Darboux's theorem** is extending the **[[Intermediate Value Theorem|intermediate value theorem]]** to functions not necessarely **[[Continuity|continuous]]**, but only **[[Differentiability|derivatives]]** of real-valuated ones.
 This is, even if **[[Differentiability|derivatives]]** are not **[[Continuity|continuous]]** functions, they can satisfy some of their properties.
 ### 2. History
-At the $19$th century, mathematicians thought that the **[[Intermediate Value Theorem|intermediate value theorem]]** was a caracterisation of **[[Continuity|continuity]]**, i.e that if a functions satisfies the properties of the **[[Intermediate Value Theorem|theorem]]**, then it was **[[Continuity|continuous]]**.
+At the $19$th century, mathematicians thought that the **[[Intermediate Value Theorem|intermediate value theorem]]** was a caracterization of **[[Continuity|continuity]]**, i.e that if a functions satisfies the properties of the **[[Intermediate Value Theorem|theorem]]**, then it was **[[Continuity|continuous]]**.
 Darboux put an end to this conviction by on one hand constructing functions with derivatives that are **[[Continuity|discontinuous]]** everywhere, and on the other hand proving his theorem which states that all  **[[Differentiability|derivatives]]** are verifying the **[[Intermediate Value Theorem|intermediate value theorem]]**.
 ## II. Use
 This theorem can be used to demonstrate that a given function does not admit an **[[Antiderivative|antiderivative]]**, by showing that on a particular interval the function does not satisfies the **[[Intermediate Value Theorem|intermediate value theorem]]**.
