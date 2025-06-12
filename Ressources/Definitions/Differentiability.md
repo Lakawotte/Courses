@@ -150,7 +150,10 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 
 >[!tip] Iterated Composition
 >>Proposition
->>Let $f_1,f_2\dots f_n$ be functions **differentiable** respectively in $x_1,x_2=f(x_1),\dots,x_n=f_n
+>>Let $f_1,f_2\dots f_n$ be functions **differentiable** respectively in $x_1,x_2=f(x_1),\dots,x_n=f_{n-1}\circ f_1(x_1)$. Then $f_n\circ\dots f_1$ is **differentiable** at $x_1$ and
+>>$$
+>
+>>$$
 
 
 
