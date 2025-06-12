@@ -166,7 +166,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 
 >[!tip] **Derivative** of the **[[Reciprocal Function|reciprocal]]**
 >>[!tldr] Proposition
->>Let $I$ and $J$ be two intervals, and $f:I\to J$ a **[[Continuity|continuous]]** function
+>>Let $I$ and $J$ be two intervals, and $f:I\to J$ a **[[Continuity|continuous]]** function.
 
 
 
