@@ -150,7 +150,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 
 >[!tip] Composition
 >>[!tldr] Proposition
->>
+>>Let $I\subset\mathbb{R}$ and $J\subset\mathbb{R}$ be two open intervals such that 
 
 >[!tip] Iterated Composition
 >>[!tldr] Proposition
