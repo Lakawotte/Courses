@@ -109,6 +109,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 &=f(x)g'(x)+g(x)f'(x)\\
 \end{split}
 >>$$
+>>Because $g$ is **[[Continuity|continuous]]** since it is **differentiable**.
 >>-
 >>$$
 >>\begin{split}
@@ -118,7 +119,12 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 &=\frac{g'(x)}{g^2(x)}\\
 \end{split}
 >>$$
->>Because $g$ is **[[Continuity|continuous]]
+>>Because $g$ is **[[Continuity|continuous]]** since it is **differentiable**.
+>>-
+>>$$
+>>
+(\frac{f(x)}{g(x)})'(x)&=
+>>$$
 ### 3. Other formulas
 
 >[!tip] Tangent
