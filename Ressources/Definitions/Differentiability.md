@@ -197,7 +197,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 
 >[!tip] Composition of $n$ times **Differentiable**
 >>[!tldr] Proposition
->>
+>>Let $I$ and $J$ two intervals
 ### 3. Other formulas
 
 >[!tip] Tangent
