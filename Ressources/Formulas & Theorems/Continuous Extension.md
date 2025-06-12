@@ -11,6 +11,7 @@ category: "[[Maths]]"
 
 >[!tip] Theorem of **Continuous Extension**
 >Let $f$ be a real-valuated function defined on $]a,b]$ (resp. $[a,b[$) which has a limit $l$ on $a$ (resp. $b$).
+>There is a unique function **[[Continuity|continuous]]** on $[a,b]$ and 
 
 ### 2. Proof
 
