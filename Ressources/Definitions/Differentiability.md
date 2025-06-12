@@ -76,8 +76,8 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 
 >[!tip] Elementary Rules
 >>[!tldr] Propositions
->>Let $f$ and $g$ be two real-valuated functions and $\lambda\in\mathbb{R}$.
->>- 
+>>Let $f$ and $g$ be two real-valuated functions, $\lambda\in\mathbb{R}$ and $x\in D_{f}\cap D_{g}$.
+>>- If $f$ is **differentiable** on $x$, then 
 ### 3. Other formulas
 
 >[!tip] Tangent
