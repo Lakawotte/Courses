@@ -103,7 +103,8 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>-
 >>$$
 \begin{split}
-(f\times g)'(x)&=
+(f\times g)'(x)&=\frac{f(x+h)g(x+h)-f(x)g(x)}{h}\\
+&=\frac{f(x+h)g(x+h)-f(x)g(x)+f(x+h)g(x)-f(x+h)g(x)}{h}\\
 \end{split}
 >>$$
 ### 3. Other formulas
