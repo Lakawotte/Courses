@@ -111,7 +111,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>$$
 >>-
 >>$$
-(\frac{1}{})
+>>\begin{split}
+(\frac{1}{g})'(x)&=\lim_{ h \to 0}\frac{\frac{1}{g(x+h)}-\frac{1}{g(x)}}{h}
+\end{split}
 >>$$
 ### 3. Other formulas
 
