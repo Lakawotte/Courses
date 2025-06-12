@@ -8,7 +8,7 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!hint] Definition
+>[!hint] **[[Class of Differentiability|]]** 
 >$$
 >$$
 ## II. Extensions
