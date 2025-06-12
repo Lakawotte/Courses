@@ -171,7 +171,9 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>$$
 f^{-1}'(x_{0})=\frac{1}{f'(x_{0})}=\frac{1}{(f'\circ f^{-1})(x_{0})}
 >>$$
->>- If $f$ is **differentiable** at $t_0$ and $f'(t_0)=0$, then $f^{-1}$ is not **differentiable** at $x_0$
+>>- If $f$ is **differentiable** at $t_0$ and $f'(t_0)=0$, then $f^{-1}$ is not **differentiable** at $x_0$.
+>
+>>[!info] Proof using the **[[Lemma of Continuity of the Reciprocal]]**
 
 
 
