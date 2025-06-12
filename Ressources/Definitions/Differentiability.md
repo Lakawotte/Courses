@@ -132,7 +132,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 
 >[!tip] $n$ terms Product
 >>[!tldr] Proposition
->>Let $f_{1},f_{2}\dots,f_{n}$
+>>Let $I\subset\mathbb{R}$ be an interval, $f_{1},f_{2}\dots,f_{n}:I\to\mathbb{R}$ and $x_0\in I$. 
 ### 3. Other formulas
 
 >[!tip] Tangent
