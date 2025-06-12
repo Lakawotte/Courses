@@ -23,7 +23,7 @@ category: "[[Maths]]"
 # Application
 ## I. Meaning
 ## II. Use
-The theorem of of $\mathcal{C}^n$ **[[Class of Differentiability|class]]** by **extension** is generally used for functions defined on $I$. The hypothesis about the limit of the $0$-degree **[[Differentiability|derivative]]** is then replaced with the hypothesis about the **[[Continuity|continuity]]** to ensure that 
+The theorem of of $\mathcal{C}^n$ **[[Class of Differentiability|class]]** by **extension** is generally used for functions defined on $I$. The hypothesis about the limit of the $0$-degree **[[Differentiability|derivative]]** is then replaced with the hypothesis about the **[[Continuity|continuity]]** to ensure that the function defined on $I$ is indeed the **continuous extension** of the function defined on $I\textat which one apply the 
 # Example
 
 ---
