@@ -11,7 +11,7 @@ category: "[[Maths]]"
 
 >[!hint] Theorem
 >Let $I\subset\mathbb{R}$ and $a\in I$. Let $f:I\to\mathbb{R}$ be **[[Continuity|continuous]]** on $I$ and **[[Differentiability|differentiable]]** on $I\textbackslash\{x_0\}$ :
->- If $f'$ has a limit $l$ 
+>- If $f'\xrightarrow[]{x\to a}l$
 ### 2. Proof
 
 >[!info] Proof
