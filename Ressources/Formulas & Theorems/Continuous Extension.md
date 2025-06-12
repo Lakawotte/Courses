@@ -9,6 +9,8 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
+>[!tip] Theorem of **Continuous Extension**
+>Let $f$ be a function defined
 
 ### 2. Proof
 
