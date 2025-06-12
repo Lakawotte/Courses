@@ -124,8 +124,8 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>$$
 >>\begin{split}
 (\frac{f(x)}{g(x)})'(x)&=(f(x)\times\frac{1}{g(x)})'(x)\\
-&=f(x)\frac{1}{g'(x)}+\frac{1}{g(x)}f'(x)\\
-&=-\frac{f(x)g'(x)}{g^2(x)}+\frac
+&=f(x)(\frac{1}{g})'(x)+\frac{1}{g(x)}f'(x)\\
+&=-\frac{f(x)g'(x)}{g^2(x)}+\frac{f'(x)}{g(x)}
 \end{split}
 >>$$
 ### 3. Other formulas
