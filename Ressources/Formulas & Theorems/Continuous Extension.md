@@ -9,22 +9,21 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Theorem of $\mathcal{C}^n$ **[[Class of Differentiability|Class]]** by **Extension**
->Let $I$ be an interval and $x_0\in I$. Let $f$ be a $\mathcal{C}^n$ **[[Class of Differentiability|class]]** function on $I\textbackslash\{x_0\}$. If for all $k\in[\![0,n]\!]$, $f^{(k)}$ has a finite limit on $x_0$, then $f$ can be **extended** on $I$ by a function $\tilde{f}$ which is $\mathcal{C}^n$ on $I$ :
->$$
-\forall k\in[\![0,n]\!],\tilde{f}^{(k)}(x_{0})=\lim_{ x \to x_{0}}f^{(k)}(x) 
->$$
+
 ### 2. Proof
 
 >[!info] Proof
-
-###
 ## II. Extensions
-### 1. Properties
+### 1. Theorems
 
->[!tldr]
->$$
->$$
+>[!tip] Theorem of $\mathcal{C}^n$ **[[Class of Differentiability|Class]]** by **Extension**
+>>[!tldr] Theorem
+>>Let $I$ be an interval and $x_0\in I$. Let $f$ be a $\mathcal{C}^n$ **[[Class of Differentiability|class]]** function on $I\textbackslash\{x_0\}$. If for all $k\in[\![0,n]\!]$, $f^{(k)}$ has a finite limit on $x_0$, then $f$ can be **extended** on $I$ by a function $\tilde{f}$ which is $\mathcal{C}^n$ on $I$ :
+>>$$
+\forall k\in[\![0,n]\!],\tilde{f}^{(k)}(x_{0})=\lim_{ x \to x_{0}}f^{(k)}(x) 
+>>$$
+>
+>>[!info] Proof
 ### 2. Other formulas
 # Application
 ## I. Meaning
