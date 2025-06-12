@@ -152,6 +152,8 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 >>[!tldr] Proposition
 >>Let $I\subset\mathbb{R}$ and $J\subset\mathbb{R}$ be two open intervals, $f:I\to J$ and $g:J\to\mathbb{R}$. Let $x\in I$. If $f$ is **differentiable** at $x$ and $g$ is **differentiable** at $y=f(x)$, then $g\circ f$ is **differentiable** at $x$ :
 >>$$
+(g\circ f)'(x)=f'(x)g'(y)=f'(x)(g'\circ f)(x)
+>>$$
 
 >[!tip] Iterated Composition
 >>[!tldr] Proposition
