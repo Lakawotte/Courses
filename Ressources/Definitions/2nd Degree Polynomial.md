@@ -15,7 +15,7 @@ category: "[[Maths]]"
 
 >[!tip] Theorem of the **Canonical Form**
 >>[!hint] Theorem
->>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and >$(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
+>>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
 >>$$
 f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\alpha)^2+\beta
 >>$$
@@ -30,6 +30,11 @@ f(x)&=ax^2+bx+c\\
 &=a(x-(-\frac{b}{2a}))+\frac{4ac-b^2}{4a}\\
 \end{split}
 >>$$
+
+>[!tip] Expression of the Roots
+>>[!tldr] Theorem
+>>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its rooo
+>>
 
 >[!tip] Extremum
 >>[!tldr] Theorem
