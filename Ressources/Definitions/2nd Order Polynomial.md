@@ -33,7 +33,7 @@ f(x)&=ax^2+bx+c\\
 
 >[!tip] Expression of the Roots
 >>[!tldr] Theorem
->>Here $\mathbb{Let $f\in\mathbb{K}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\Delta=b^2-4ac$. Then
+>>Here $\mathbb{K}=\mathbb{R}$ or $\mathbb{C}$. Let $f\in\mathbb{K}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{K}^*\times\mathbb{K}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\Delta=b^2-4ac$. Then
 >>- If $\Delta>0$, 
 >>$$
 x_{1},x_{2}=\frac{-b\pm\sqrt{\Delta}}{2a}
