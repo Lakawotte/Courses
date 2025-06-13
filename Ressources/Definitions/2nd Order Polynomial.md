@@ -33,7 +33,7 @@ f(x)&=ax^2+bx+c\\
 
 >[!tip] Expression of the Roots
 >>[!tldr] Theorem
->>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\Delta=b^2-4ac$. Then
+>>Here $\mathbb{Let $f\in\mathbb{K}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\Delta=b^2-4ac$. Then
 >>- If $\Delta>0$, 
 >>$$
 x_{1},x_{2}=\frac{-b\pm\sqrt{\Delta}}{2a}
@@ -101,7 +101,8 @@ x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>$$
 >
 >>[!info] Proof by the Expression of the Roots
->>This expression is derived fr
+>>This expression is derived from the original formula :
+>>
 #### Note :
 Remember that the roots are preserved when dividing by any $a\neq 0$. This is, this formula works for any **2nd order polynomial** by having $c'=\frac{c}{a}$.
 ### 2. Properties
