@@ -17,8 +17,12 @@ f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\
 >$$
 ### 2. Proof
 
->[!info] Proof by 
+>[!info] Proof
 >$$
+>\begin{split}
+f(x)&=ax^2+bx+c\\
+a(x^2+\frac{b}{a}x)+c
+\end{split}
 >$$
 ## II. Extensions
 ### 1. Properties
