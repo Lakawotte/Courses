@@ -13,7 +13,7 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Results
 
->[!tip] Theorem of the **Canonical Form**
+>[!tip] **Canonical Form**
 >>[!hint] Theorem
 >>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
 >>$$
