@@ -39,7 +39,7 @@ x_{1},x_{2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 >>$$
 >
 >>[!info] Proof
->>
+>>We know by the 
 
 >[!tip] Extremum
 >>[!tldr] Theorem
