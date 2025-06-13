@@ -9,6 +9,10 @@ category: "[[Maths]]"
 # Formula
 ## I. Statement
 
+
+## II. Extensions
+### 1. Results
+
 >[!tip] Theorem of the **Canonical Form**
 >>[!hint] Theorem
 >>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and >$(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
@@ -26,8 +30,6 @@ f(x)&=ax^2+bx+c\\
 &=a(x-(-\frac{b}{2a}))+\frac{4ac-b^2}{4a}\\
 \end{split}
 >>$$
-## II. Extensions
-### 1. Properties
 
 >[!tip] Extremum
 >>[!tldr] Theorem
