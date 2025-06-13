@@ -84,7 +84,7 @@ x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>$$
 >
 >>[!info] Geometrical Proof
->>Since a **2nd order polynomial** is symmetrical 
+>>Since the graph of a **2nd order polynomial** is symmetric about the line $x=\alpha$, one can see that the distance $d$ between the roots and $\alpha$ can be expressed as
 ### 2. Properties
 
 >[!tip] Extremum
