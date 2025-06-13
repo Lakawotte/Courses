@@ -84,7 +84,7 @@ x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>$$
 >
 >>[!info] Geometrical Proof
->>Since a **2nd order polynomial** is s
+>>Since a **2nd order polynomial** is symmetrical 
 ### 2. Properties
 
 >[!tip] Extremum
