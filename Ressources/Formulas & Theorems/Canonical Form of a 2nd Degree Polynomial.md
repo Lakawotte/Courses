@@ -13,7 +13,7 @@ category: "[[Maths]]"
 >[!hint] Formula
 >Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial.
 >$$
-\forall f\in\mathbb{R}_2[X],\
+\forall f\in\mathbb{R}_2[X],\forall\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\alpha)
 >$$
 ### 2. Proof
 
