@@ -91,7 +91,10 @@ x_{1}=\alpha-d
 >>$$
 x_{2}=\alpha+d
 >>$$
->>By the relation between the coefficients and the roots, we 
+>>By the relation between the coefficients and the roots, we have
+>>$$
+c=x_{1}x_{2}=(\alpha-d)(\alpha+d)=\alpha^2-d^2\Longleftrightarrow d=\\sqrt{\alpha^2-c}
+>>$$
 ### 2. Properties
 
 >[!tip] Extremum
