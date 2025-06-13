@@ -54,12 +54,18 @@ f(x)&=0\\
 \Longleftrightarrow a((x-(-\frac{b}{2a}))^2-\frac{\Delta}{4a^2})&=0\\
 \Longleftrightarrow a(x-(-\frac{b}{2a})-\frac{\sqrt{\Delta}}{2a})(x-(-\frac{b}{2a})+\frac{\sqrt{\Delta}}{2a})\\
 \Longleftrightarrow
-\\begin{cases}
+\begin{cases}
+x=-\frac{b}{2a}+\frac{\sqrt{\Delta}}{2a}=0\\ \\
+\text{or}\\ \\
+x=-\frac{b}{2a}-\frac{\sqrt{\Delta}}{2a}\\
+\end{cases}\\
+\begin{cases}
 x=-\frac{b}{2a}+\frac{\sqrt{\Delta}}{2a}\\ \\
 \text{or}\\ \\
 x=-\frac{b}{2a}-\frac{\sqrt{\Delta}}{2a}\\
 \end{cases}
 \end{split}
+$$
 #### Note :
 It is more common to define $\delta\in\mathbb{C}$ such that $\delta^2=\Delta$. Indeed the general formula is the same on $\mathbb{R}$ than on $\mathbb{C}$ :
 $$
