@@ -99,8 +99,11 @@ c=x_{1}x_{2}=(\alpha-d)(\alpha+d)=\alpha^2-d^2\Longleftrightarrow d=\sqrt{\alpha
 >>$$
 x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>$$
+>
+>>[!info] Proof by the Expression of the Roots
+>>
 #### Note :
-Remember that the roots are preserved when dividing by any $a\neq 0$. This is, this formula works for any **2nd order polynomial**
+Remember that the roots are preserved when dividing by any $a\neq 0$. This is, this formula works for any **2nd order polynomial** by having $c'=\frac{c}{a}$.
 ### 2. Properties
 
 >[!tip] Extremum
