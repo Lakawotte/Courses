@@ -32,7 +32,7 @@ f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\
 >>$$
 >
 >>[!info] Proof by **[[Differentiability|differentiation]]**
->>The extremum is the point whose
+>>The extremum is the point whose abscissa satisfies $f'(\alpha)=0$
 #### Note :
 It is indeed the same $\alpha$ than in the **canonical form**.
 ### 2. Other formulas
