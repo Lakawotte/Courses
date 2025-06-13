@@ -59,7 +59,7 @@ f(x)&=ax^2+bx+c\\
 >>By disjunction, we will first consider the case $\Delta>0$ :
 >>$$
 \begin{split}
-f(x)&=a((x-(-\frac{b}{2a}))-\frac{\sqrt{\Delta}}{2a})((x-(-\frac{b}{2a}))+\frac{\sqrt{\Delta}}{2a})\\
+f(x)&=a(x-(-\frac{b}{2a})-\frac{\sqrt{\Delta}}{2a})(x-(-\frac{b}{2a})+\frac{\sqrt{\Delta}}{2a})\\
 &=a(x-\frac{-b-\sqrt{\Delta}}{2a})(x-\frac{-b+\sqrt{\Delta}}{2a})
 \end{split}
 >>$$
@@ -67,8 +67,8 @@ f(x)&=a((x-(-\frac{b}{2a}))-\frac{\sqrt{\Delta}}{2a})((x-(-\frac{b}{2a}))+\frac{
 >>Secondly when $\Delta<0$ :
 >>$$
 \begin{split}
-f(x)&=a((x-(-\frac{b}{2a}))-\frac{\sqrt{ b^2-4ac}}{2a})((x-(-\frac{b}{2a}))+\frac{\sqrt{ b^2-4ac}}{2a})\\
-&=a(x-\frac{-b-\sqrt{b^2-4ac}}{2a})(x-\frac{-b+\sqrt{b^2-4ac}}{2a})
+f(x)&=a(x-(-\frac{b}{2a})-i\frac{\sqrt{ b^2-4ac}}{2a})(x-(-\frac{b}{2a})+i\frac{\sqrt{ b^2-4ac}}{2a})\\
+&=a(x-\frac{-b-i\sqrt{\Delta}}{2a})(x-\frac{-b+i\sqrt{\Delta}}{2a})
 \end{split}
 >>$$
 
