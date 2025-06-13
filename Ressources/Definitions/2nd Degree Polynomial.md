@@ -40,6 +40,13 @@ x_{1},x_{2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 >
 >>[!info] Proof
 >>We know by the **canonical form** that $f(x)=a(x-\alpha)^2+\beta$ :
+>>$$
+>>\begin{split}
+f(x)&=ax^2+bx+c\\
+&=a(x-(-\frac{b}{2a}))+\frac{4ac-b^2}{4a}\\
+&=a(x-(-\frac{b}{2a})+\frac{4ac-b^2}{4a^2})\\
+\end{split}
+>>$$
 
 >[!tip] Extremum
 >>[!tldr] Theorem
