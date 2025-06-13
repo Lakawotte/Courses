@@ -71,6 +71,8 @@ f(x)&=a(x-(-\frac{b}{2a})-i\frac{\sqrt{ b^2-4ac}}{2a})(x-(-\frac{b}{2a})+i\frac{
 &=a(x-\frac{-b-i\sqrt{\Delta}}{2a})(x-\frac{-b+i\sqrt{\Delta}}{2a})
 \end{split}
 >>$$
+#### Note :
+It is more common to define $\delta\in\mathbb{C}$ such that $\delta^2=\Delta$. Indeed the general formula is 
 
 >[!tip] Extremum
 >>[!tldr] Theorem
