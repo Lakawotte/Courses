@@ -76,7 +76,10 @@ It is more common to define $\delta\in\mathbb{C}$ such that $\delta^2=\Delta$. I
 $$
 \forall z\in\mathbb{C},\forall(a,b,c)\in\mathbb{C}^*\times\mathbb{C}^2, az^2+bz+c=0\Longleftrightarrow z=\frac{-b\pm\delta}{2a}
 $$
-
+>[!tip] Other expression of the Roots
+>>[!tldr] Theorem
+>>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\alpha=-\frac{b}
+### 2. Properties
 >[!tip] Extremum
 >>[!tldr] Theorem
 >>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
