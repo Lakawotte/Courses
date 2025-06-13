@@ -39,7 +39,7 @@ x_{1},x_{2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 >>$$
 >
 >>[!info] Proof
->>We know by the 
+>>We know by the **canonical form** that $f(x)=a(x-\alpha)^2+\beta$ :
 
 >[!tip] Extremum
 >>[!tldr] Theorem
