@@ -26,13 +26,19 @@ f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\
 >[!tip] Extremum
 >>[!tldr] Theorem
 >>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
->>Then the extremum of the function is given by
+>>Then the unique extremum of the function is given by
 >>$$
 \alpha=-\frac{b}{2a}
 >>$$
 >
 >>[!info] Proof by **[[Differentiability|differentiation]]**
->>The extremum is the point whose abscissa satisfies $f'(\alpha)=0$
+>>The extremum is the point whose abscissa satisfies $f'(\alpha)=0$ :
+>>$$
+>>\begin{split}
+f'(x)&=0\\
+\Longleftrightarrow 
+\end{split}
+>>$$
 #### Note :
 It is indeed the same $\alpha$ than in the **canonical form**.
 ### 2. Other formulas
