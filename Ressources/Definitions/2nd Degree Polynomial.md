@@ -52,15 +52,15 @@ x_{1},x_{2}=\frac{-b\pm i\sqrt{\Delta}}{2a}
 >>$$
 >>\begin{split}
 f(x)&=ax^2+bx+c\\
-&=a(x-(-\frac{b}{2a}))+\frac{4ac-b^2}{4a}\\
-&=a(x-(-\frac{b}{2a})-\frac{b^2-4ac}{4a^2})\\
+&=a(x-(-\frac{b}{2a}))+\frac{-\Delta}{4a}\\
+&=a(x-(-\frac{b}{2a})-\frac{\Delta}{4a^2})\\
 \end{split}
 >>$$
 >>By disjunction, we will first consider the case $\Delta>0$ :
 >>$$
 \begin{split}
-f(x)&=a((x-(-\frac{b}{2a}))-\frac{\sqrt{ b^2-4ac}}{2a})((x-(-\frac{b}{2a}))+\frac{\sqrt{ b^2-4ac}}{2a})\\
-&=a(x-\frac{-b-\sqrt{b^2-4ac}}{2a})(x-\frac{-b+\sqrt{b^2-4ac}}{2a})
+f(x)&=a((x-(-\frac{b}{2a}))-\frac{\sqrt{\Delta}}{2a})((x-(-\frac{b}{2a}))+\frac{\sqrt{\Delta}}{2a})\\
+&=a(x-\frac{-b-\sqrt{\Delta}}{2a})(x-\frac{-b+\sqrt{\Delta}}{2a})
 \end{split}
 >>$$
 >>By the product of two terms, only one of them needs to be $0$ to ensure $f(x)=0$, so we have the real roots.
