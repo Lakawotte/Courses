@@ -31,7 +31,8 @@ f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\
 \alpha=-\frac{b}{2a}
 >>$$
 >
->>[!] Proof
+>>[!info] Proof by **[[Differentiability|differentiation]]**
+>>The extremum is the point whose
 #### Note :
 It is indeed the same $\alpha$ than in the **canonical form**.
 ### 2. Other formulas
