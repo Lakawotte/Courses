@@ -11,10 +11,11 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Formula
->Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial.
+>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
 >$$
-\forall f\in\mathbb{R}_2[X],\forall(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2,f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\alpha)
+f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\alpha)^2+\beta
 >$$
+>Here $
 ### 2. Proof
 
 >[!info] Proof
