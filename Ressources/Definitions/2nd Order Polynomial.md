@@ -99,6 +99,8 @@ c=x_{1}x_{2}=(\alpha-d)(\alpha+d)=\alpha^2-d^2\Longleftrightarrow d=\sqrt{\alpha
 >>$$
 x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>$$
+#### Note :
+Remember that the roots are preserved when dividing by any $a\neq 0$. This is, this formula works for any **2nd order polynomial**
 ### 2. Properties
 
 >[!tip] Extremum
