@@ -9,21 +9,22 @@ category: "[[Maths]]"
 # Formula
 ## I. Statement
 
->[!hint] Theorem of the **Canonical Form**
->Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
->$$
+>[!tip] Theorem of the **Canonical Form**
+>>[!hint] Theorem
+>>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and >$(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
+>>$$
 f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\alpha)^2+\beta
+>>$$
+>>[!info] Proof
 >$$
-
->[!info] Proof
->$$
->\begin{split}
+>>\begin{split}
 f(x)&=ax^2+bx+c\\
 &=a(x^2+\frac{b}{a}x)+c\\
 &=a(x^2+\frac{b}{a}x+\frac{b^2}{4a^2}-\frac{b^2}{4a^2})+c\\
-&=a(x+\frac{b}{2a})^2
+&=a(x+\frac{b}{2a})^2-\frac{b^2}{4a}+c\\
+&=a(x-\frac)
 \end{split}
->$$
+>>$$
 ## II. Extensions
 ### 1. Properties
 
