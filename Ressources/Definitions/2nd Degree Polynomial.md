@@ -27,7 +27,7 @@ f(x)&=ax^2+bx+c\\
 &=a(x^2+\frac{b}{a}x)+c\\
 &=a(x^2+\frac{b}{a}x+\frac{b^2}{4a^2}-\frac{b^2}{4a^2})+c\\
 &=a(x+\frac{b}{2a})^2-\frac{b^2}{4a}+c\\
-&=a(x-(-\frac{b}{2a}))+\frac{4ac-b^2}{4a}\\
+&=a(x-(-\frac{b}{2a}))^2+\frac{4ac-b^2}{4a}\\
 \end{split}
 >>$$
 
@@ -52,8 +52,8 @@ x_{1},x_{2}=\frac{-b\pm i\sqrt{\Delta}}{2a}
 >>$$
 >>\begin{split}
 f(x)&=ax^2+bx+c\\
-&=a(x-(-\frac{b}{2a}))+\frac{-\Delta}{4a}\\
-&=a(x-(-\frac{b}{2a})-\frac{\Delta}{4a^2})\\
+&=a(x-(-\frac{b}{2a}))^2+\frac{4ac-b^2}{4a}\\
+&=a(x-(-\frac{b}{2a})^2-\frac{\Delta}{4a^2})\\
 \end{split}
 >>$$
 >>By disjunction, we will first consider the case $\Delta>0$ :
