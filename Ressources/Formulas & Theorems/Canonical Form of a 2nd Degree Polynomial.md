@@ -36,7 +36,8 @@ f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\
 >>$$
 >>\begin{split}
 f'(x)&=0\\
-\Longleftrightarrow 
+\Longleftrightarrow 2ax+b&=0\\
+\Longleftrightarrow x&=-\frac{b}{2a}\\
 \end{split}
 >>$$
 #### Note :
