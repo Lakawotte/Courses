@@ -49,7 +49,7 @@ f(x)&=ax^2+bx+c\\
 &=a(x-\frac{-b-\sqrt{b^2-4ac}}{2a})(x-\frac{-b+\sqrt{b^2-4ac}}{2a})
 \end{split}
 >>$$
->>By the product of two terms, only one of them need
+>>By the product of two terms, only one of them needs to be $0$ to ensure $f(x)=0$, so we have the roots.
 
 >[!tip] Extremum
 >>[!tldr] Theorem
