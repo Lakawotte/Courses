@@ -47,6 +47,13 @@ f(x)&=ax^2+bx+c\\
 &=a((x-(-\frac{b}{2a}))^2-\frac{\Delta}{4a^2})\\
 \end{split}
 >>$$
+>>Now we need to find the roots :
+>>$$
+>>\begin{split}
+f(x)&=0\\
+\Longleftrightarrow a((x-(-\frac{b}{2a}))^2-\frac{\Delta}{4a^2})&=0\\
+
+\end{split}
 #### Note :
 It is more common to define $\delta\in\mathbb{C}$ such that $\delta^2=\Delta$. Indeed the general formula is the same on $\mathbb{R}$ than on $\mathbb{C}$ :
 $$
