@@ -51,17 +51,17 @@ f(x)&=ax^2+bx+c\\
 >>$$
 >>\begin{split}
 f(x)&=0\\
-\Longleftrightarrow a((x-(-\frac{b}{2a}))^2-\frac{\Delta}{4a^2})&=0\\
-\Longleftrightarrow a(x-(-\frac{b}{2a})-\frac{\sqrt{\Delta}}{2a})(x-(-\frac{b}{2a})+\frac{\sqrt{\Delta}}{2a})&=0\\
-\Longleftrightarrow
+\Longleftrightarrow &a((x-(-\frac{b}{2a}))^2-\frac{\Delta}{4a^2})=0\\
+\Longleftrightarrow &a(x-(-\frac{b}{2a})-\frac{\sqrt{\Delta}}{2a})(x-(-\frac{b}{2a})+\frac{\sqrt{\Delta}}{2a})=0\\
+\Longleftrightarrow &
 \begin{cases}
 x=-\frac{b}{2a}+\frac{\sqrt{\Delta}}{2a}\\ \\
 \text{or}\\ \\
 x=-\frac{b}{2a}-\frac{\sqrt{\Delta}}{2a}\\
 \end{cases}\\
-\Longleftrightarrow
+\Longleftrightarrow &
 \begin{cases}
-x=\frac{-b-\sqrt{ \Delta }}{2a}\\
+x=\frac{-b-\sqrt{ \Delta }}{2a}\\ \\
 \text{or}\\ \\
 x=\frac{-b+\sqrt{ \Delta }}{2a}\\
 \end{cases}
