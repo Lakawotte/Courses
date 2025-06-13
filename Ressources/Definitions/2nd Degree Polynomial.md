@@ -83,7 +83,8 @@ $$
 x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>$$
 >
->>[!info] P
+>>[!info] Geometrical Proof
+>>One can 
 ### 2. Properties
 >[!tip] Extremum
 >>[!tldr] Theorem
