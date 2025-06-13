@@ -37,7 +37,6 @@ f(x)&=ax^2+bx+c\\
 >>$$
 x_{1},x_{2}=\frac{-b\pm\sqrt{\Delta}}{2a}
 >>$$
->>Furthermore, if $\Delta\ge 0$, ()
 >
 >>[!info] Proof
 >>We know by the **canonical form** that $f(x)=a(x-\alpha)^2+\beta$ :
@@ -46,21 +45,6 @@ x_{1},x_{2}=\frac{-b\pm\sqrt{\Delta}}{2a}
 f(x)&=ax^2+bx+c\\
 &=a(x-(-\frac{b}{2a}))^2+\frac{4ac-b^2}{4a}\\
 &=a((x-(-\frac{b}{2a}))^2-\frac{\Delta}{4a^2})\\
-\end{split}
->>$$
->>By disjunction, we will first consider the case $\Delta>0$ :
->>$$
-\begin{split}
-f(x)&=a(x-(-\frac{b}{2a})-\frac{\sqrt{\Delta}}{2a})(x-(-\frac{b}{2a})+\frac{\sqrt{\Delta}}{2a})\\
-&=a(x-\frac{-b-\sqrt{\Delta}}{2a})(x-\frac{-b+\sqrt{\Delta}}{2a})
-\end{split}
->>$$
->>By the product of two terms, only one of them needs to be $0$ to ensure $f(x)=0$, so we have the real roots.
->>Secondly when $\Delta<0$ :
->>$$
-\begin{split}
-f(x)&=a(x-(-\frac{b}{2a})-i\frac{\sqrt{ b^2-4ac}}{2a})(x-(-\frac{b}{2a})+i\frac{\sqrt{ b^2-4ac}}{2a})\\
-&=a(x-\frac{-b-i\sqrt{\Delta}}{2a})(x-\frac{-b+i\sqrt{\Delta}}{2a})
 \end{split}
 >>$$
 #### Note :
