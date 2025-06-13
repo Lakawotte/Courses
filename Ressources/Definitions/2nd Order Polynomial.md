@@ -87,9 +87,11 @@ x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>Since the graph of a **2nd order polynomial** is symmetric about the line $x=\alpha$, one can see that the distance $d$ between the roots and $\alpha$ can be expressed as
 >>$$
 x_{1}=\alpha-d
-$$
-$$x_{2}-\alpha
 >>$$
+>>$$
+x_{2}=\alpha+d
+>>$$
+>>By the relation between the coefficients and the roots, we 
 ### 2. Properties
 
 >[!tip] Extremum
