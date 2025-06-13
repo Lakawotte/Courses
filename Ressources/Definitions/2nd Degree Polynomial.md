@@ -78,10 +78,12 @@ $$
 $$
 >[!tip] Roots of a Monic 2nd Order Polynomial
 >>[!tldr] Theorem
->>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R\}*\times\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\alpha=-\frac{b}{2a}$ the abscissa of its extremum. Then
+>>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial, with $a=1$ and $(b,c)\in\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\alpha=-\frac{b}{2a}$ the abscissa of its extremum. Then
 >>$$
-x_{1},x_{2}=\alpha
+x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>$$
+>
+>>[!info] P
 ### 2. Properties
 >[!tip] Extremum
 >>[!tldr] Theorem
