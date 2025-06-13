@@ -101,7 +101,7 @@ x_{1},x_{2}=\alpha\pm\sqrt{\alpha^2-c}
 >>$$
 >
 >>[!info] Proof by the Expression of the Roots
->>
+>>This expression is derived fr
 #### Note :
 Remember that the roots are preserved when dividing by any $a\neq 0$. This is, this formula works for any **2nd order polynomial** by having $c'=\frac{c}{a}$.
 ### 2. Properties
