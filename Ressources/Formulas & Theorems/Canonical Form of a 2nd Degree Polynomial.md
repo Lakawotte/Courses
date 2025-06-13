@@ -23,14 +23,17 @@ f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Extremum
->Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
->Then the extremum of the function is given by
->$$
+>[!tip] Extremum
+>>[!tldr] Theorem
+>>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
+>>Then the extremum of the function is given by
+>>$$
 \alpha=-\frac{b}{2a}
->$$
+>>$$
+>
+>>[!] Proof
 #### Note :
-It is indeed the same $\alpha$ than in the 
+It is indeed the same $\alpha$ than in the **canonical form**.
 ### 2. Other formulas
 # Application
 ## I. Meaning
