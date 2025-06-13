@@ -15,14 +15,15 @@ category: "[[Maths]]"
 >>$$
 f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\alpha)^2+\beta
 >>$$
+>
 >>[!info] Proof
->$$
+>>$$
 >>\begin{split}
 f(x)&=ax^2+bx+c\\
 &=a(x^2+\frac{b}{a}x)+c\\
 &=a(x^2+\frac{b}{a}x+\frac{b^2}{4a^2}-\frac{b^2}{4a^2})+c\\
 &=a(x+\frac{b}{2a})^2-\frac{b^2}{4a}+c\\
-&=a(x-\frac)
+&=a(x-(-\frac{b}{2a}))+\frac{4ac-b^2}{4a}\\
 \end{split}
 >>$$
 ## II. Extensions
