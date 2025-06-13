@@ -78,14 +78,17 @@ $$
 $$
 >[!tip] Other expression of the Roots
 >>[!tldr] Theorem
->>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\alpha=-\frac{b}{2a}$ the abscissa of its extremum.
+>>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients. Let $x_1,x_2$ be its roots and $\alpha=-\frac{b}{2a}$ the abscissa of its extremum. Then
+>>$$
+f(x)=0\Longleftrightarrow
+>>$$
 ### 2. Properties
 >[!tip] Extremum
 >>[!tldr] Theorem
 >>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial and $(a,b,c)\in\mathbb{R}^*\times\mathbb{R}^2$ its coefficients.
->>Then the unique extremum of the function is given by
+>>Then the unique extremum of the function has its abscissa given by
 >>$$
-\beta=f(\alpha)=f(-\frac{b}{2a})
+x_{\beta}=\alpha=-\frac{b}{2a}
 >>$$
 >
 >>[!info] Proof by **[[Differentiability|differentiation]]**
