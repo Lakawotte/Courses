@@ -45,6 +45,7 @@ x_{1},x_{2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 f(x)&=ax^2+bx+c\\
 &=a(x-(-\frac{b}{2a}))+\frac{4ac-b^2}{4a}\\
 &=a(x-(-\frac{b}{2a})+\frac{4ac-b^2}{4a^2})\\
+&=a((x-(-\frac{b}{2a}))-\frac{}{})
 \end{split}
 >>$$
 
