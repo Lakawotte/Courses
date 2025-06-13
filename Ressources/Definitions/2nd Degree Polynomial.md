@@ -81,7 +81,7 @@ f(x)&=a(x-(-\frac{b}{2a})-i\frac{\sqrt{ b^2-4ac}}{2a})(x-(-\frac{b}{2a})+i\frac{
 >>$$
 >
 >>[!info] Proof by **[[Differentiability|differentiation]]**
->>The extremum is the point whose abscissa satisfies $f'(\alpha)=0$ :
+>>The extremum is the point whose abscissa satisfies $f'(\alpha)=0$. Since $f$ is a polynomial, it is of **[[Class of Differentiability|class]]** $\mathcal{C}^n$ :
 >>$$
 >>\begin{split}
 f'(x)&=0\\
