@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - canonical form
 tags:
   - algebra/polynomials
 category: "[[Maths]]"
@@ -10,7 +11,9 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!hint] Formula
+>Let $f\in\mathbb{R}_2[X]$ be a 2nd order polynomial.
 >$$
+\forall f\in\mathbb{R}_2[X],\
 >$$
 ### 2. Proof
 
