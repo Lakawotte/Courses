@@ -17,7 +17,7 @@ f(x)=ax^2+bx+c\Longleftrightarrow\exists(\alpha,\beta)\in\mathbb{R}^2,f(x)=a(x-\
 >$$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof by 
 >$$
 >$$
 ## II. Extensions
