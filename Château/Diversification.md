@@ -7,7 +7,7 @@
 
 --------------------------------------------------------------------------
 # 1. Theory
-The **diversification** is how spread are the positions of an investor. Mathematically, we can compute how diverse our investments need to be. By the **Bienaymé's formula**, we have :
+
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
 >>If all the variables share the same variance $\sigma^2$ and are **[[Equicorrelation|equicorrelated]]**,
