@@ -27,7 +27,7 @@
 >>$$
 >>Indeed since $\sigma^2$ and $\rho$ are constants, **[[Pearson's Product Moment Correlation Coefficient|Pearson's coefficient]]** is also constant and thus for all $(i,j)\in\mathbb{N}^2$, $\mathrm{Cov}[X_i,X_j]=\rho\sigma^2$. Then we only counted the terms in both sums.
 ### I.1 Uncorrelated markets
-If the markets are **uncorrelated**, $\rho=0$ and then $\mathbb{V}ar(\bar{X})=\frac{\sigma^2}{n}$. It follows that the [[Variance]] of the mean decreases when $n$ increases. More precisely, we can bound this variance :
+If the markets are **uncorrelated**, $\rho=0$ and then $\mathbb{V}ar(\bar{X})=\frac{\sigma^2}{n}$. It follows that the **[[variance]]** of the mean decreases when $n$ increases. More precisely, we can bound this variance :
 $$
 \frac{\sigma^2}{n}(2-n)\le\mathbb{V}ar(\bar{X}))\le\sigma^2
 $$
@@ -36,7 +36,7 @@ If we instead choose a number $k\in[0,1]$ so that $\mathbb{V}ar(\bar{X})\le k$, 
 $$
 n\ge\frac{\sigma^2-\rho}{k-\rho}
 $$
-So, for $\rho=0$, n is greater or equal than $\frac{\sigma^2}{k}$.
+So, for $\rho=0$, $n$ is greater or equal than $\frac{\sigma^2}{k}$.
 ### I.2 Other cases
 If the correlation between the markets is absolute, $\rho=1$ which leads to $\mathbb{V}ar(\bar{X})=\sigma^2$. That is, the [[Variance]] of the samples mean is the variance of one of them. In this case, all the variables are evolving the exact same way, so additional information is no longer effective.
 When the [[Correlation]] is not $0$ or $1$, we are left with the original formula. Here, we can see that the variance of the mean increases as the average correlation does. In fact, additional highly-correlated information will tend to increase the [[Variance]] of the mean of the informations, so we shall need **uncorrelated** informations to reduce the mean $\rho$ and increase the number $n$ of values, which will end up decreasing the variance. Moreover, the formula leads to :
