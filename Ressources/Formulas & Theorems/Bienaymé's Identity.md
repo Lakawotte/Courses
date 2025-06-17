@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:
+  - probability
 category: "[[Maths]]"
 ---
 ---
@@ -10,6 +11,7 @@ category: "[[Maths]]"
 
 >[!hint] Formula
 >$$
+>\mathbb{V}ar(\sum_{i=1}^nX_{i})
 >$$
 ### 2. Proof
 
