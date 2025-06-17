@@ -20,11 +20,12 @@ The **diversification** is how spread are the positions of an investor. Mathemat
 >>$$
 >>\begin{split}
 >\mathbb{V}ar[\bar{X}]&=\frac{1}{n^2}(\sum_{i=1}^n\mathbb{V}ar[X_{i}]+2\sum_{1\le i<j\le n}\mathrm{Corr}[X_{i},X_{j}])\\
->&=\frac{1}{n^2}(\sum_{i=1}^n\mathbb{V}ar[X_{i}]+2\sum_{1\le i<j\le n}\mathrm{Corr}[X_{i},X_{j}])\\
+>&=\frac{1}{n^2}(\sum_{i=1}^n\mathbb\sigma^2+2\sum_{1\le i<j\le n}\rho\sigma^2)\\
 >&=\frac{1}{n^2}(n\sigma^2+2\frac{(n-1)n\rho\sigma^2}{2})\\
 >&=\frac{\sigma^2}{n}(1+(n-1)\rho)\\
 >\end{split}
 >>$$
+>>Indeed since $\sigma^2$ and $\rho$ are constants, 
 ### I.1 Uncorrelated markets
 If the markets are **uncorrelated**, $\rho=0$ and then $\mathbb{V}ar(\bar{X})=\frac{\sigma^2}{n}$. It follows that the [[Variance]] of the mean decreases when $n$ increases. More precisely, we can bound this variance :
 $$
