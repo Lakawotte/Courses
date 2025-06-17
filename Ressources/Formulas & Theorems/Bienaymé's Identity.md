@@ -34,7 +34,8 @@ This is simply another way of counting in a table. **[[Covariance]]**, when comp
 | $X_{1}$ | $\mathrm{Cov}[X_{1},X_1]$ | $\mathrm{Cov}[X,1,X_2]$   | $\dots$ |
 | $X_2$   | $\mathrm{Cov}[_{2},X_1]$  | $\mathrm{Cov}[X_{2},X_2]$ | $\dots$ |
 | $\dots$ | $\dots$                   | $\dots$                   | $\dots$ |
-We can thus reduce this table since for all $(i,j)\in\mathbb{N}^2$, $\mathrm{Cov}[X_i,X_j]=\mathbb{V}ar[X_1]
+We can thus reduce this table since for all $(i,j)\in\mathbb{N}^2$, $i=j$ implies that $\mathrm{Cov}[X_i,X_j]=\mathbb{V}ar[X_i]$.
+Hence Bienaymé 
 ## II. Use
 # Example
 
