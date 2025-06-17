@@ -45,13 +45,14 @@ When the **[[Correlation|correlation]]** is not $0$ or $1$, we are left with the
 $$
 \lim_{ n \to \infty }\mathbb{V}ar(\bar{X})=\rho 
 $$
-If the variables are **standardized**.
+If the variables are **[[Standardized Random Variable|standardized]]**.
 ### I.3 Standard deviation
-The [[Standard Deviation]] of the mean is given by :
+The **[[Standard Deviation|standard deviation]]** of the mean is given by :
+
 $$
 \sigma(\bar{X})=\sigma\sqrt{\frac{1+(n-1)\rho}{n}}
 $$
-It follows the same rule as the [[Variance]] : the least correlated the values are, the more the number of values will make the standard deviation of the mean smaller. The other way around, when $\rho$ tends to $1$, $\sigma(\bar{X})$ tends to $\sigma$.
+It follows the same rule as the **[[Variance|variance]]** : the least correlated the values are, the more the number of values will make the standard deviation of the mean smaller. The other way around, when $\rho$ tends to $1$, $\sigma(\bar{X})$ tends to $\sigma$.
 # 2. Interpretation
 ### I.1 Anticorrelation
 If we invest in largely **anticorrelated** markets, we will end up satisfying the conditions to get a low [[Variance]] of the mean and then don't lose that much money : when one market in regressing, one other is increasing.
