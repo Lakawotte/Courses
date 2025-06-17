@@ -11,7 +11,7 @@ category: "[[Maths]]"
 
 >[!hint] Formula
 >$$
->\mathbb{V}ar(\sum_{i=1}^nX_{i})
+>\mathbb{V}ar[\sum_{i=1}^nX_{i}]=\sum_{i=1}^n\mathbb{V}ar[X_{i}]+2\sum_{1\le i<j\le n}\mathrm{Cov}[X_{i},X_{j}]
 >$$
 ### 2. Proof
 
@@ -27,6 +27,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
+This is simply another way of counting in a table. **[[Covariance]]**
 ## II. Use
 # Example
 
