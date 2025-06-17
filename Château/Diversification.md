@@ -16,6 +16,7 @@ The **diversification** is how spread are the positions of an investor. Mathemat
 >>$$
 >
 >>[!info] Proof
+>>Let $X$ be a random variable such that for all $i\in\mathbb{N}$, $\mathbb{V}ar[X_i]=\sigma^2$ and $\Corr(X_i,X_j)=\rho
 >>$$
 >
 >>$$
