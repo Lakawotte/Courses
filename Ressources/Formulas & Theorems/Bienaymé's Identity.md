@@ -29,9 +29,9 @@ category: "[[Maths]]"
 ## I. Meaning
 This is simply another way of counting in a table. **[[Covariance]]**, when computed in its form of double sum, can be seen as pairing two variables in a double-entry table as follows :
 
-|     | $Y$ |
-| --- | --- |
-| $X$ |     |
+|         | $X_{1}$            |
+| ------- | ------------------ |
+| $X_{1}$ | $\mathrm{Cov}[X,1] |
 
 ## II. Use
 # Example
