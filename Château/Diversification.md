@@ -8,10 +8,12 @@
 --------------------------------------------------------------------------
 # 1. Theory
 The **diversification** is how spread are the positions of an investor. Mathematically, we can compute how diverse our investments need to be. By the **Bienaymé's formula**, we have :
-$$
+>[!tip] Diversification
+>>[!tldr] Corrolary of the **[[Bienaymé Formula]]**
+>>$$
 \mathbb{V}ar(\bar{X}))=\frac{\sigma^2}{n}(1+(n-1)\rho)
-$$
-This formula stands only if all the variables share the same variance $\sigma^2$ and are [[Equicorrelation|equicorrelated]].
+\gg$$
+This formula stands only if all the variables share the same variance $\sigma^2$ and are **[[Equicorrelation|equicorrelated]]**.
 ### I.1 Uncorrelated markets
 If the markets are **uncorrelated**, $\rho=0$ and then $\mathbb{V}ar(\bar{X})=\frac{\sigma^2}{n}$. It follows that the [[Variance]] of the mean decreases when $n$ increases. More precisely, we can bound this variance :
 $$
