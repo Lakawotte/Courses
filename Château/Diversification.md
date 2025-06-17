@@ -38,7 +38,8 @@ n\ge\frac{\sigma^2-\rho}{k-\rho}
 $$
 So, for $\rho=0$, $n$ is greater or equal than $\frac{\sigma^2}{k}$.
 ### I.2 Other cases
-If the correlation between the markets is absolute, $\rho=1$ which leads to $\mathbb{V}ar(\bar{X})=\sigma^2$. That is, the [[Variance]] of the samples mean is the variance of one of them. In this case, all the variables are evolving the exact same way, so additional information is no longer effective.
+If the correlation between the markets is absolute, $\rho=1$ which leads to $\mathbb{V}ar(\bar{X})=\sigma^2$. That is, the **[[Variance|variance]]** of the samples mean is the variance of one of them. In this case, all the variables are evolving the exact same way, so additional information is no longer effective.
+
 When the [[Correlation]] is not $0$ or $1$, we are left with the original formula. Here, we can see that the variance of the mean increases as the average correlation does. In fact, additional highly-correlated information will tend to increase the [[Variance]] of the mean of the informations, so we shall need **uncorrelated** informations to reduce the mean $\rho$ and increase the number $n$ of values, which will end up decreasing the variance. Moreover, the formula leads to :
 $$
 \lim_{ n \to \infty }\mathbb{V}ar(\bar{X})=\rho 
