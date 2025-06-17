@@ -29,13 +29,12 @@ category: "[[Maths]]"
 ## I. Meaning
 This is simply another way of counting in a table. **[[Covariance]]**, when computed in its form of double sum, can be seen as pairing two variables in a double-entry table as follows :
 
-|         | $X_{1}$                 | $X_2$                   | $\dots$ |
-| ------- | ----------------------- | ----------------------- | ------- |
-| $X_{1}$ | $\mathrm{Cov}[X,1,X_1]$ | $\mathrm{Cov}[X,1,X_1]$ | $\dots$ |
-| $X_2$   | $\mathrm{Cov}[X,1,X_1]$ | $\mathrm{Cov}[X,1,X_1]$ | $\dots$ |
-| $X_3$   | $\mathrm{Cov}[X,1,X_1]$ | $\mathrm{Cov}[X,1,X_1]$ | $\dots$ |
-| $\dots$ | $\dots$                 | $\dots$                 | $\dots$ |
-
+|         | $X_{1}$                   | $X_2$                     | $\dots$ |
+| ------- | ------------------------- | ------------------------- | ------- |
+| $X_{1}$ | $\mathrm{Cov}[X_{1},X_1]$ | $\mathrm{Cov}[X,1,X_2]$   | $\dots$ |
+| $X_2$   | $\mathrm{Cov}[_{2},X_1]$  | $\mathrm{Cov}[X_{2},X_2]$ | $\dots$ |
+| $\dots$ | $\dots$                   | $\dots$                   | $\dots$ |
+We can thus
 ## II. Use
 # Example
 
