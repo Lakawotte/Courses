@@ -24,18 +24,18 @@ As the most of the formulas treating of number of data, we tend to divide by $n-
 
 >[!tldr] Inherent Properties
 >- Commutativity
-$$
+>$$
 cov(X,Y)=cov(Y,X)
-$$
+>$$
 >-
-$$
+>$$
 \forall(a,b,c,d)\in\mathbb{R}^4,cov(aX+b,cY+d)=a\times c\times cov(X,Y)
-$$
+>$$
 
 >[!tldr] **[[Independency]]**
-$$
+>$$
 X,Y\text{ indenpendents}\Longrightarrow cov(X,Y)=0
-$$
+>$$
 #### Note :
 The reciprocal is false.
 ### 2. Other formulas
