@@ -27,7 +27,12 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
-This is simply another way of counting in a table. **[[Covariance]]**, when computed in its form of double sum, can be seen as pairing two variables 
+This is simply another way of counting in a table. **[[Covariance]]**, when computed in its form of double sum, can be seen as pairing two variables in a double-entry table as follows :
+
+|     | $Y$ |
+| --- | --- |
+| $X$ |     |
+
 ## II. Use
 # Example
 
