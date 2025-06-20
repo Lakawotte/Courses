@@ -66,7 +66,7 @@ Let $X$ and $Y$ be two assets with respective **[[Return|return]]** $x$ and $y$.
 $$
 \begin{split}
 \mathbb{V}ar[qx+(1-q)y]&=\mathbb{V}ar[qx]+\mathbb{V}ar[(1-q)y]\\
-&=p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2
+&=q^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2
 \end{split}
 $$
 To determine the value of $q$ that minimize the **[[Variance|variance]]** of the portfolio, we can **[[Differentiability|differentiate]]** the **[[Variance|variance]]** to find the **[[Minimum|minimum]]** (since it is a **[[2nd Order Polynomial]]** in terms of $q$):
