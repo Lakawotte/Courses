@@ -100,6 +100,7 @@ $$
 $$
 
 In conclusion, this value of the portfolio **[[Variance|variance]]** is smaller than it would be if the portfolio wasn't **diversified**.
+### 2. 
 
 
 
