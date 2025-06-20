@@ -125,7 +125,7 @@ If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are 
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
->>If all the variables share the same variance $\sigma^2$ and are **[[Equicorrelation|equicorrelated]]**,
+>>If all the variables share the same variance $\sigma^2$ and are **[[Equicorrelation|equicorrelated]]** with $\math\mathrm{}$,
 >>$$
 \mathbb{V}ar(\bar{X}))=\frac{\sigma^2}{n}(1+(n-1)\rho)
 >>$$
