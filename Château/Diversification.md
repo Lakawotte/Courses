@@ -78,7 +78,7 @@ $$
 \Longleftrightarrow q=\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}
 \end{split}
 $$
-Furthermore, we can show that this value is strictly between $0$ and $1$, since $\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}=\frac{1}{1+(\frac{\sigma_{x}}{\sigma_{y}})^2}$. Indeed, by the rules of limits, $\forall x\in\mathbb{R}_{+}^*, \frac{1}{1+x^2}\in]0;1[$ since .
+Furthermore, we can show that this value is strictly between $0$ and $1$, since $\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}=\frac{1}{1+(\frac{\sigma_{x}}{\sigma_{y}})^2}$. Indeed, by the rules of limits, $\forall x\in\mathbb{R}_{+}^*, \frac{1}{1+x^2}\in]0;1[$ since $\frac{\sigma_{x}}{\sigma_{y}}$ is nonzero.
 
 Then, we plug this value of $q$ in our original expression of the **[[Variance|variance]]** :
 
@@ -99,7 +99,7 @@ $$
 \frac{ab}{a+b}-a=\frac{ab-a(a+b)}{a+b}=-\frac{a^2}{a+b}\le 0
 $$
 
-This value of the portfolio **[[Variance|variance]]** is smaller than it would be if the portfolio wasn't **diversified**.
+In conclusion, this value of the portfolio **[[Variance|variance]]** is smaller than it would be if the portfolio wasn't **diversified**.
 
 
 
