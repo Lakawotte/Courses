@@ -81,8 +81,9 @@ $$
 Furthermore, we can show that this value is strictly between $0$ and $1$ :
 
 $$
-\
+\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}=\frac{1}{1+(\frac{\sigma_{x}}{\sigma_{y}})^2}
 $$
+
 
 
 
