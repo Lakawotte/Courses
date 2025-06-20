@@ -88,9 +88,11 @@ $$
 &=p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2\\
 &=q^2(\sigma_{y}^2+\sigma_{x}^2)-2q \sigma _{y}^2+\sigma_{y}^2\\
 &=\frac{\sigma_{y}^4}{\sigma_{y}^2+\sigma_{x}^2}-2\frac{\sigma_{y}^4}{\sigma_{y}^2+\sigma_{x}^2}+\sigma_{y}^2\\
-&=
+&=\frac{\sigma_{y}^2\sigma_{x}^2}{\sigma_{y}^2+\sigma_{x}^2}
 \end{split}
 $$
+
+This value of the portfolio **[[Variance|variance]]** is smaller than it would be if either 
 
 
 
