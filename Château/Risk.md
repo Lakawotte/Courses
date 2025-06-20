@@ -31,4 +31,4 @@ total risk :
 $$
 \sigma^2_{port}=\sigma^2_{market}+\sigma^2(\epsilon)
 $$
-where sigma
+where sigma^2(epsilon) il the idiosynchratic risk.
