@@ -14,22 +14,13 @@ Diversification is the opposite of specialization, which is based on a single ty
 As seen before, **diversification** can leads to a decrease of **[[Risk|risk]]** :
 $$
 \begin{tikzpicture}
-  % Axes
   \draw[->] (0,0) -- (7,0) node[right] {$n$ (nombre d’actifs)};
   \draw[->] (0,0) -- (0,5.5) node[above] {$\sigma_p$};
-
-  % Horizontal asymptote
   \draw[dashed] (0,1) -- (7,1);
   \node[left] at (0,1) {$\sigma_m$};
-
-  % Risk curve
   \draw[thick, orange, domain=0.6:6.5, samples=100] 
     plot (\x, {3.5/(\x)+1});
-
-  % Label for risk curve
   \node[orange] at (3.5,3) {Risque du\\ portefeuille};
-
-  % Brackets and labels for specific/diversifiable risk
   \draw[decorate,decoration={brace,mirror}] (6.8,1) -- (6.8,5) node[midway,right,xshift=0.5cm] {
     \begin{tabular}{l}
       Risque Spécifique / \\
@@ -37,8 +28,6 @@ $$
       Idiosyncratique
     \end{tabular}
   };
-
-  % Brackets and labels for market/systematic risk
   \draw[decorate,decoration={brace,mirror}] (6.8,0) -- (6.8,1) node[midway,right,xshift=0.5cm] {
     \begin{tabular}{l}
       Risque Systémique / \\
