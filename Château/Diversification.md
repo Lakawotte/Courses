@@ -74,7 +74,7 @@ $$
 \begin{split}
 \frac{d}{dx}(p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2)&=0\\
 \Longleftrightarrow 2p(\sigma_{x}^2+\sigma_{y}^2)-2\sigma_{y}^2&=0\\
-\Longleftrightarrow 
+\Longleftrightarrow p=\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}
 \end{split}
 $$
 
