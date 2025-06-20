@@ -1,6 +1,10 @@
-
-
---------------------------------------------------------------------------
+---
+aliases: 
+tags: 
+category: "[[Finance]]"
+progress: in progress
+---
+---
 # 1. Theory
 
 >[!tip] Diversification

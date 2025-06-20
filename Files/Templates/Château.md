@@ -7,6 +7,8 @@ progress:
 ---
 # Theory
 ## I.
-# Applica
+# Interpretation
+## I.
+# Strategy
 
 ---
