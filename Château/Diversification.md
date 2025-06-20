@@ -108,6 +108,8 @@ $$
 $$
 It follows the same rule as the **[[Variance|variance]]** : the least correlated the values are, the more the number of values will make the standard deviation of the mean smaller. The other way around, when $\rho$ tends to $1$, $\sigma(\bar{X})$ tends to $\sigma$.
 # 2. Interpretation
+## I. **[[Return]]**
+The **[[Return|return]]** on a diversified portfolio can never exceed that of the top-performing investment, and indeed will always be lower than the highest return (unless all returns are identical). Conversely, the diversified portfolio's return will always be higher than that of the worst-performing investment. So by diversifying, one loses the chance of having invested solely in the single asset that comes out best, but one also avoids having invested solely in the asset that comes out worst. That is the role of diversification: it narrows the range of possible outcomes.
 ### I.1 Anticorrelation
 If we invest in largely **anticorrelated** markets, we will end up satisfying the conditions to get a low **[[Variance|variance]]** of the mean and then don't lose that much money : when one market in regressing, one other is increasing.
 ### I.2 Risk managment
