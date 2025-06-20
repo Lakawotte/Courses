@@ -86,7 +86,9 @@ $$
 \begin{split}
 \mathbb{V}ar[qx+(1-q)y]&=\mathbb{V}ar[qx]+\mathbb{V}ar[(1-q)y]\\
 &=p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2\\
-&=q^2(\sigma_{y}^2+\sigma_{x}^2)-2q \sigma _{y}^2+\sigma
+&=q^2(\sigma_{y}^2+\sigma_{x}^2)-2q \sigma _{y}^2+\sigma_{y}^2\\
+&=\frac{\sigma_{y}^4}{\sigma_{y}^2+\sigma_{x}^2}-2\frac{\sigma_{y}^4}{\sigma_{y}^2+\sigma_{x}^2}+\sigma_{y}^2\\
+&=
 \end{split}
 $$
 
