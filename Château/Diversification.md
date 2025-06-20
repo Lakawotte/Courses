@@ -11,6 +11,41 @@ In finance, **diversification** is the process by which an asset manager allocat
 
 Diversification is the opposite of specialization, which is based on a single type of asset. Diversification can be achieved in a number of ways: by asset class (the most common being equities, bonds and real estate), by sector, by company size (multinational, start-up, etc.) or by geographical area.
 ## II. Effects of diversification
+As seen before, **diversification** can leads to a decrease of **[[Risk|risk]]** :
+
+The shape of the curve of $\sigma^2_{port}$ can be given using the rules of limits :
+
+$$
+\begin{split}
+\sigma^2_{port}&=\sigma^2_{market}+\sigma^2(\epsilon)\\
+&=\sigma^2_{market}+\sigma^2[\bar{X}]\\
+&=\sigma^2_{market}+(\sigma_{\epsilon}\sqrt{\frac{1+(n-1)\rho}{n}})^2
+\end{split}
+$$
+As a **[[Sequence|sequence]]** in terms of $n\in\mathbb{N}^*$, one can describe $\sigma_{\epsilon}$ in terms of **[[Order|orders]]** :
+
+>[!tip] Order of $\sigma_{\epsilon}$
+>>[!tldr] Corrolary
+>>-
+>>$$
+\rho=0\Longrightarrow\sigma^2[\bar{X}]\in O(n^\frac{1}{2})
+>>$$
+>>-
+>>$$
+\rho\in[-1;1]\textbackslash{0}\Longrightarrow\sigma^2[\bar{X}]\in\Theta(1)
+>>$$
+>
+>>[!info] Proof
+>>The case $\rho=0$ is trivial.
+>>By disjunction, when $\rho> 0$ we have :
+>>$$
+p<\rho+\frac{1-\rho}{n}<\rho+1-\rho=1\Longrightarrow\exists(C_{1},C_{2})\in\mathbb{R}^2,C_{1}<\sigma_{\epsilon}<C_{2}
+>>$$
+>>And when $\rho<0$ :
+>>$$
+>>-|\rho|<-|\rho|+\frac{1+|\rho|}{n}<\frac{1+|\rho|}{n}<1+|\rho|\Longrightarrow\exists(C_{1},C_{2})\in\mathbb{R}^2,C_{1}<\sigma_{\epsilon}<C_{2}
+>>$$
+
 
 
 >[!tip] Diversification
