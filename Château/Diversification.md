@@ -92,7 +92,11 @@ $$
 \end{split}
 $$
 
-This value of the portfolio **[[Variance|variance]]** is smaller than it would be if either 
+At the end of the day, we can compare this value with the **undiversified** values of $sigma_y^2$
+
+
+
+This value of the portfolio **[[Variance|variance]]** is smaller than it would be if the portfolio wasn't **diversified**.
 
 
 
