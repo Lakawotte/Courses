@@ -12,7 +12,8 @@ In finance, **diversification** is the process by which an asset manager allocat
 Diversification is the opposite of specialization, which is based on a single type of asset. Diversification can be achieved in a number of ways: by asset class (the most common being equities, bonds and real estate), by sector, by company size (multinational, start-up, etc.) or by geographical area.
 ## II. Effects of diversification
 As seen before, **diversification** can leads to a decrease of **[[Risk|risk]]** :
-$$
+```tikz
+\begin{document}
 \begin{tikzpicture}
   \draw[->] (0,0) -- (7,0) node[right] {$n$ (nombre d’actifs)};
   \draw[->] (0,0) -- (0,5.5) node[above] {$\sigma_p$};
@@ -36,6 +37,9 @@ $$
     \end{tabular}
   };
 \end{tikzpicture}
+\end{document}
+```
+
 $$
 The shape of the curve of $\sigma^2_{port}$ can be given using the rules of limits :
 
