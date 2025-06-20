@@ -28,3 +28,7 @@ Since the [[Capital Asset Pricing Model]]'s goal is to indicate the value of $\m
 ## References :
 
 total risk :
+$$
+\sigma^2_{port}=\sigma^2_{market}+\sigma^2(\epsilon)
+$$
+where sigma
