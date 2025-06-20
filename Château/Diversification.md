@@ -69,12 +69,12 @@ $$
 &=p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2
 \end{split}
 $$
-To determine the value of $q$ that minimize the **[[Variance|variance]]** of the portfolio, we can **[[Differentiability|differentiate]]** the **[[Variance|variance]]** to find the **[[Minimum|minimum]]** :
+To determine the value of $q$ that minimize the **[[Variance|variance]]** of the portfolio, we can **[[Differentiability|differentiate]]** the **[[Variance|variance]]** to find the **[[Minimum|minimum]]** (since it is a **[[2nd Order Polynomial]]** in term):
 $$
 \begin{split}
-\frac{d}{dx}(p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2)&=0\\
-\Longleftrightarrow 2p(\sigma_{x}^2+\sigma_{y}^2)-2\sigma_{y}^2&=0\\
-\Longleftrightarrow p=\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}
+\frac{d}{dx}(q^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2)&=0\\
+\Longleftrightarrow 2q(\sigma_{x}^2+\sigma_{y}^2)-2\sigma_{y}^2&=0\\
+\Longleftrightarrow q=\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}
 \end{split}
 $$
 
