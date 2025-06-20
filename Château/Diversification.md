@@ -9,6 +9,8 @@ progress: in progress
 ## I. Definition
 In finance, **diversification** is the process by which an asset manager allocates capital to different types of investment. Diversification avoids exposure to the risks of a single asset class. By investing in a large number of assets, the asset manager ensures lower portfolio volatility.
 
+
+
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
 >>If all the variables share the same variance $\sigma^2$ and are **[[Equicorrelation|equicorrelated]]**,
