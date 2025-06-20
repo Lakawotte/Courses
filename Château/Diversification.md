@@ -7,7 +7,7 @@ progress: in progress
 ---
 # 1. Theory
 ## I. Definition
-**Diversificat
+**Diversification** is the way for an investor to spread its capital and 
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
