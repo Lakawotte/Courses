@@ -102,7 +102,7 @@ $$
 
 In conclusion, this value of the portfolio **[[Variance|variance]]** is smaller than it would be if the portfolio wasn't **diversified**.
 ### 2. **[[Correlation|Uncorrelation]]**
-If all the assets follows the same 
+If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are **[[Correlation|uncorrelated]]**, **diversifying** our portfolio is nothing but considering it as 
 
 
 
