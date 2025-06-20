@@ -85,7 +85,8 @@ Then, we plug this value of $q$ in our original expression of the **[[Variance|v
 $$
 \begin{split}
 \mathbb{V}ar[qx+(1-q)y]&=\mathbb{V}ar[qx]+\mathbb{V}ar[(1-q)y]\\
-&=p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2
+&=p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2\\
+&=q^2(\sigma_{y}^2+\sigma_{x}^2)-2q \sigma _{y}^2+\sigma
 \end{split}
 $$
 
