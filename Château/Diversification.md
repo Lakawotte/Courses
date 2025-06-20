@@ -121,11 +121,7 @@ If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are 
 >>$$
 \mathbb{V}\mathrm{ar}\left[ \frac{1}{n}\sum_{i=1}^nx_{i} \right]=\frac{1}{n^2}\mathbb{V}\mathrm{ar}\left[ \sum_{i=1}^nx_{i} \right]=\frac{1}{n^2}n\sigma^2=\frac{\sigma^2}{n}
 >>$$
-
-
-
-
-
+### 3. **[[Equicorrelation]]**
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
