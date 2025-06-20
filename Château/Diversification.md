@@ -175,6 +175,8 @@ The **[[Return|return]]** on a **diversified** portfolio can never exceed that o
 If we invest in largely **anticorrelated** markets, we will end up satisfying the conditions to get a low **[[Variance|variance]]** of the mean and then don't lose that much money : when one market in regressing, one other is increasing.
 ### I.2 Risk managment
 By choosing the right markets to invest in, we should be able to secure our portfolio without decreasing too much the **risk**. That is, according to the formula above, the risk decreases as both the **[[Correlation|correlation]]** tends to $0$ and the number of placements increases.
+#### Note :
+There is also a risk of **overdiversification**, because performance could suffer from 
 
 # Strategy
 One strategy could be to satisfy the conditions of having a low **[[Variance|variance]]** : investing in largely **[[Correlation|anticorrelated]]** markets will grant us a mean correlation near $0$. Then, an important number of markets, let's say at least $\frac{\sigma^2}{k}$, will reduce enough the **[[Variance|variance]]** to be interesting. 
