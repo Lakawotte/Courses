@@ -63,6 +63,7 @@ This is, portfolio **[[Risk|risk]]** will tend to the market **[[Risk|risk]]** w
 ## II. Effects on **[[Variance]]**
 ### 1. Example
 Let $X$ and $Y$ be two assets with respective **[[Return|return]]** $x$ and $y$. If one's portfolio is only composed by these two assets, we note $q\in[0;1]$ the weight of $X$ and $1-q$ the weight of $Y$. Let $\sigma_x^2$ and $\sigma_y^2$ be their respective nonzero **[[Variance|variances]]**. If they are **[[Correlation|uncorrelated]]**, we have :
+
 $$
 \begin{split}
 \mathbb{V}ar[qx+(1-q)y]&=\mathbb{V}ar[qx]+\mathbb{V}ar[(1-q)y]\\
@@ -100,8 +101,8 @@ $$
 $$
 
 In conclusion, this value of the portfolio **[[Variance|variance]]** is smaller than it would be if the portfolio wasn't **diversified**.
-### 2. Expression
-If all the assets follows
+### 2. **[[Correlation|Uncorrelation]]**
+If all the assets follows the same 
 
 
 
