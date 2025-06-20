@@ -109,6 +109,11 @@ If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are 
 >>$$
 \mathbb{V}ar(\bar{X})=\frac{\sigma^2}{n}
 >>$$
+>
+>>[!info] Proof
+>>$$
+\mathbb{V}ar[\frac{1}{n}\sum_{i=}x_{i}]
+>>$$
 
 
 
