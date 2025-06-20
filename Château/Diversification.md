@@ -112,7 +112,7 @@ If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are 
 >
 >>[!info] Proof
 >>$$
-\mathbb{V}ar[\frac{1}{n}\sum_{i=}x_{i}]
+\mathbb{V}ar\left[ \frac{1}{n}\sum_{i=1}^nx_{i} \right]=\frac{1}{n^2}\mathbb{Var}\left[ \sum_{i=1}^nx_{i} \right]=\frac{1}{n^2}n\sigma^2=\frac{\sigma^2}{n}
 >>$$
 
 
