@@ -6,6 +6,8 @@ progress: in progress
 ---
 ---
 # 1. Theory
+## I. Definition
+**Diversificat
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
