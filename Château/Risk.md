@@ -26,3 +26,5 @@ Since the [[Capital Asset Pricing Model]]'s goal is to indicate the value of $\m
 --------------------------------------------------------------------------
 
 ## References :
+
+total risk :
