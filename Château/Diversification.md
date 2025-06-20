@@ -69,7 +69,8 @@ $$
 &=p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2
 \end{split}
 $$
-To determine the value of $q$ that minimize the **[[Variance|variance]]** of the portfolio, we can **[[Differentiability|differentiate]]** the **[[Variance|variance]]** to find the **[[Minimum|minimum]]** (since it is a **[[2nd Order Polynomial]]** in term):
+To determine the value of $q$ that minimize the **[[Variance|variance]]** of the portfolio, we can **[[Differentiability|differentiate]]** the **[[Variance|variance]]** to find the **[[Minimum|minimum]]** (since it is a **[[2nd Order Polynomial]]** in terms of $q$):
+
 $$
 \begin{split}
 \frac{d}{dx}(q^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2)&=0\\
@@ -77,6 +78,15 @@ $$
 \Longleftrightarrow q=\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}
 \end{split}
 $$
+Furthermore, we can show that this value is strictly between $0$ and $1$ :
+
+$$
+\
+$$
+
+
+
+
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
