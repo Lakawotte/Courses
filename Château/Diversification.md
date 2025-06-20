@@ -61,7 +61,8 @@ p<\rho+\frac{1-\rho}{n}<\rho+1-\rho=1\Longrightarrow\exists(C_{1},C_{2})\in\math
 
 This is, portfolio **[[Risk|risk]]** will tend to the market **[[Risk|risk]]** with a large amount of assets **diversified**. 
 ## II. Effects on **[[Variance]]**
-
+### 1. Example
+Let $X$ and $Y$ be two assets with respective **[[Re]]
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
