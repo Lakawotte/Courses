@@ -7,7 +7,7 @@ progress: in progress
 ---
 # 1. Theory
 ## I. Definition
-**Diversification** is the way for an investor to spread its capital and 
+In finance, **diversification** is the process by which an asset manager allocates capital to different types of investment. Diversification avoids exposure to the risks of a single asset class. By investing in a large number of assets, the asset manager ensures lower portfolio volatility.
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
