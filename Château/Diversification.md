@@ -14,7 +14,34 @@ Diversification is the opposite of specialization, which is based on a single ty
 As seen before, **diversification** can leads to a decrease of **[[Risk|risk]]** :
 
 ```tikz
-\begin{document} \begin{tikzpicture}[domain=0:4] \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9); \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$}; \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$}; \draw[color=red] plot (\x,\x) node[right] {$f(x) =x$}; \draw[color=blue] plot (\x,{sin(\x r)}) node[right] {$f(x) = \sin x$}; \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$}; \end{tikzpicture} \end{document} ```
+\begin{document}
+\begin{tikzpicture}
+  \draw[->] (0,0) -- (7,0) node[right] {$n$ (nombre d’actifs)};
+  \draw[->] (0,0) -- (0,5.5) node[above] {$\sigma_p$};
+  \draw[dashed] (0,1) -- (7,1);
+  \node[left] at (0,1) {$\sigma_m$};
+  \draw[thick, orange, domain=0.6:6.5, samples=100] 
+    plot (\x, {3.5/(\x)+1});
+  \node[orange] at (3.5,3) {Risque du\\ portefeuille};
+  \draw[decorate,decoration={brace,mirror}] (6.8,1) -- (6.8,5) node[midway,right,xshift=0.5cm] {
+    \begin{tabular}{l}
+      Risque Spécifique / \\
+      Diversifiable / \\
+      Idiosyncratique
+    \end{tabular}
+  };
+
+  % Brackets and labels for market/systematic risk
+  \draw[decorate,decoration={brace,mirror}] (6.8,0) -- (6.8,1) node[midway,right,xshift=0.5cm] {
+    \begin{tabular}{l}
+      Risque Systémique / \\
+      Risque de Marché / \\
+      Non-diversifiable
+    \end{tabular}
+  };
+\end{tikzpicture}
+\end{document}
+```
 
 The shape of the curve of $\sigma^2_{port}$ can be given using the rules of limits :
 $$
