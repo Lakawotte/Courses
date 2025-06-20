@@ -62,7 +62,7 @@ p<\rho+\frac{1-\rho}{n}<\rho+1-\rho=1\Longrightarrow\exists(C_{1},C_{2})\in\math
 This is, portfolio **[[Risk|risk]]** will tend to the market **[[Risk|risk]]** with a large amount of assets **diversified**. 
 ## II. Effects on **[[Variance]]**
 ### 1. Example
-Let $X$ and $Y$ be two assets with respective **[[Return|return]]** $x$ and $y$. If one's portfolio is only composed by these two assets, we note $q\in[0;1]$ the weight of $X$ and $1-q$ the weight of $Y$. If they are **[[Correlation|uncorrelated]]**, we have :
+Let $X$ and $Y$ be two assets with respective **[[Return|return]]** $x$ and $y$. If one's portfolio is only composed by these two assets, we note $q\in[0;1]$ the weight of $X$ and $1-q$ the weight of $Y$. Let $\sigma_x^2$ and $\sigma_y^2$ be their respective nonzero **[[Variance|variances]]**. If they are **[[Correlation|uncorrelated]]**, we have :
 $$
 \begin{split}
 \mathbb{V}ar[qx+(1-q)y]&=\mathbb{V}ar[qx]+\mathbb{V}ar[(1-q)y]\\
@@ -78,7 +78,7 @@ $$
 \Longleftrightarrow q=\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}
 \end{split}
 $$
-Furthermore, we can show that this value is strictly between $0$ and $1$, since $\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}=\frac{1}{1+(\frac{\sigma_{x}}{\sigma_{y}})^2}$. Indeed, by the rules of limits, $\forall x\in\mathbb{R}_{+}^*, \frac{1}{1+x^2}\in]0;1[$.
+Furthermore, we can show that this value is strictly between $0$ and $1$, since $\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}=\frac{1}{1+(\frac{\sigma_{x}}{\sigma_{y}})^2}$. Indeed, by the rules of limits, $\forall x\in\mathbb{R}_{+}^*, \frac{1}{1+x^2}\in]0;1[$ since .
 
 Then, we plug this value of $q$ in our original expression of the **[[Variance|variance]]** :
 
