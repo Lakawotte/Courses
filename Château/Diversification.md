@@ -80,7 +80,14 @@ $$
 $$
 Furthermore, we can show that this value is strictly between $0$ and $1$, since $\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}=\frac{1}{1+(\frac{\sigma_{x}}{\sigma_{y}})^2}$. Indeed, by the rules of limits, $\forall x\in\mathbb{R}_{+}^*, \frac{1}{1+x^2}\in]0;1[$.
 
-Then, 
+Then, we plug this value of $q$ in our original expression of the **[[Variance|variance]]** :
+
+$$
+\begin{split}
+\mathbb{V}ar[qx+(1-q)y]&=\mathbb{V}ar[qx]+\mathbb{V}ar[(1-q)y]\\
+&=p^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2
+\end{split}
+$$
 
 
 
