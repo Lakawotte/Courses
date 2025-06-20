@@ -10,6 +10,8 @@ progress: in progress
 In finance, **diversification** is the process by which an asset manager allocates capital to different types of investment. Diversification avoids exposure to the risks of a single asset class. By investing in a large number of assets, the asset manager ensures lower portfolio volatility.
 
 Diversification is the opposite of specialization, which is based on a single type of asset. Diversification can be achieved in a number of ways: by asset class (the most common being equities, bonds and real estate), by sector, by company size (multinational, start-up, etc.) or by geographical area.
+## II. Effects of diversification
+
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
