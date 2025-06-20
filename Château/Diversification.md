@@ -59,6 +59,7 @@ p<\rho+\frac{1-\rho}{n}<\rho+1-\rho=1\Longrightarrow\exists(C_{1},C_{2})\in\math
 >>-|\rho|<-|\rho|+\frac{1+|\rho|}{n}<\frac{1+|\rho|}{n}<1+|\rho|\Longrightarrow\exists(C_{1},C_{2})\in\mathbb{R}^2,C_{1}<\sigma_{\epsilon}<C_{2}
 >>$$
 
+This is, portfolio **[[Risk|risk]]** will tend to the market **[[Risk|risk]]** with a large amount of  
 
 
 >[!tip] Diversification
