@@ -15,8 +15,9 @@ Diversification is the opposite of specialization, which is based on a single ty
 **Diversifying** is ==spreading== the assets, not ==adding== them to the portfolio. Indeed, if we instead of balancing we choose to add a large amount of **[[Correlation|uncorrelated]]** assets, we will end up increasing the **[[Risk|risk]]** of our portfolio :
 
 $$
-
+\mathbb{V}\mathrm{ar}[\sum_{i=1}^nx_{i}]=\sum_{i=1}^n\mathbb{V}
 $$
+
 ### **[[Risk]]** management
 As seen before, **diversification** can leads to a decrease of **[[Risk|risk]]** :
 
