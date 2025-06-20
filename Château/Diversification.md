@@ -62,7 +62,12 @@ p<\rho+\frac{1-\rho}{n}<\rho+1-\rho=1\Longrightarrow\exists(C_{1},C_{2})\in\math
 This is, portfolio **[[Risk|risk]]** will tend to the market **[[Risk|risk]]** with a large amount of assets **diversified**. 
 ## II. Effects on **[[Variance]]**
 ### 1. Example
-Let $X$ and $Y$ be two assets with respective **[[Return|return]]** $x$ and $y$. If one's portfolio is only composed by these two assets, we note $q$ the weight of $X$ and $1-q$ the weight of $Y$. If they are **[[Correlation|uncorrelated]]**, we have :
+Let $X$ and $Y$ be two assets with respective **[[Return|return]]** $x$ and $y$. If one's portfolio is only composed by these two assets, we note $q\in[0;1]$ the weight of $X$ and $1-q$ the weight of $Y$. If they are **[[Correlation|uncorrelated]]**, we have :
+$$
+\mathbb{V}ar[qx+(1-q)y]=\mathbb{V}ar[qx]+\mathbb{V}ar[(1-q)y]\\
+&=
+\end{split}
+$$
 
 >[!tip] Diversification
 >>[!tldr] Corrolary of the **[[Bienaymé's Identity]]**
