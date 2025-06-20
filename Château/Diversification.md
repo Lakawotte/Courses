@@ -94,9 +94,9 @@ $$
 
 At the end of the day, we can compare this value with the **undiversified** values of $\sigma_y^2$ ($q=0$) and $\sigma_x^2$ ($q=1$) :
 
-Let $(a,b)\in\mathbb{R}^2$ represents our  **[[Variance|variance]]**
+Let $(a,b)\in\mathbb{R}^2$ represents our **[[Variance|variances]]** :
 $$
-
+\frac{ab}{a+b}-a=\frac{ab-a(a+b)}{a+b}=-\frac{a^2}{a+b}\le 0
 $$
 
 This value of the portfolio **[[Variance|variance]]** is smaller than it would be if the portfolio wasn't **diversified**.
