@@ -34,7 +34,7 @@ category: "[[Maths]]"
 \end{split}
 >>$$
 
->[!info] Proof by the definition of **[[Variance|variance]]**
+>[!info] Proof by the square of the sum
 >Let $S_n:=\sum_{i=1}^n$ for all $n\in\mathbb{N}$. Then
 >$$
 \begin{split}
@@ -54,7 +54,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
-This is simply another way of counting in a table. **[[Covariance]]**, when computed in its form of double sum, can be seen as pairing two variables in a double-entry table as follows :
+This is simply another way of summing terms in a table. **[[Covariance]]**, when computed in its form of double sum, can be seen as pairing two variables in a double-entry table as follows :
 
 |         | $X_{1}$                                                | $X_2$                                                  | $\dots$ |
 | ------- | ------------------------------------------------------ | ------------------------------------------------------ | ------- |
