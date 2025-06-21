@@ -153,6 +153,7 @@ Which gives us a not very sharp bound.
 >>$$
 \begin{split}
 \mathbb{V}\mathrm{ar}(\bar{X})&\le k\\
+\Longleftrightarrow\frac{\sigma^2}{n}(1+(n-1)\rho)&\le k\\
 \Longleftrightarrow
 \end{split}
 >>$$
