@@ -31,8 +31,10 @@ category: "[[Maths]]"
 >$$
 >- Positive semi-definite
 >$$
-\forall a\in\mathbb{R},\mathrm{Cov}[X,a]=0
+\sigma^2
 >$$
+#### Note :
+More generally, we have for all $a$ real $\mathrm{Cov}[X,a]=0$.
 
 >[!tldr] **[[Independency]]**
 >$$
