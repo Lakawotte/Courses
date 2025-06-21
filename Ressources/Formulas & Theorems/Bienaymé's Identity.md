@@ -54,7 +54,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
-This is simply another way of summing terms in a table. **[[Covariance]]**, when computed in its form of double sum, can be seen as pairing two variables in a double-entry table as follows :
+This is simply another way of summing terms in a table. One can visualize this identity as summing the elements of the covariance matrix of the vector $[X_1,X_2\dots,X_n]\in\mathbb{R}^n$.
 
 |         | $X_{1}$                                                | $X_2$                                                  | $\dots$ |
 | ------- | ------------------------------------------------------ | ------------------------------------------------------ | ------- |
