@@ -178,7 +178,6 @@ If we invest in largely **anticorrelated** markets, we will end up satisfying th
 By choosing the right markets to invest in, we should be able to secure our portfolio without decreasing too much the **[[Risk|risk]]**. That is, according to the formula above, the risk decreases as both the **[[Correlation|correlation]]** tends to $0$ and the number of placements increases.
 #### Note :
 There is also a risk of **overdiversification**, because performance could suffer from too important fees due to the number of assets.
-
 # Strategy
 One strategy could be to satisfy the conditions of having a low **[[Variance|variance]]** : investing in largely **[[Correlation|anticorrelated]]** markets will grant us a mean correlation near $0$. Then, an important number of markets, let's say at least $\frac{\sigma^2}{k}$, will reduce enough the **[[Variance|variance]]** to be interesting. 
 Moreover, we should consider investing in different assets of a same category. Even if the **[[Correlation|correlation]]** won't be $0$, this allow us to be more flexible in terms of portfolio's balance and don't lose that much time diversifying in largely different categories.
