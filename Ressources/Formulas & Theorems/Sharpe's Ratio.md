@@ -12,7 +12,7 @@ category: "[[Finance]]"
 >$$
 S=\frac{R-r}{\sigma}
 >$$
->Where $R$ is the **[[Expected Value|expectation of the portfolio's profitability]]**, $r$ the *risk-free investment rate* and $\sigma$ the **[[Standard Deviation]]**. 
+>Where $R$ is the **[[Expected Value|expectation of the portfolio's profitability]]**, $r$ the *risk-free investment rate* and $\sigma$ the **[[Standard Deviation|standard deviation]]**. 
 ## II. Extensions
 ### 1. Properties
 
@@ -22,9 +22,9 @@ S=\frac{R-r}{\sigma}
 ### 2. Other formulas
 # Application
 ## I. Meaning
-The Sharpe's ratio represents the profitability of gained per unit of risk in comparison from the referential. If the ration is below $0$, the risky investment is worse than the usual. Otherwise, we have :
+The Sharpe's ratio represents the profitability of gained per unit of risk in comparison from the referential. If the ratio is below $0$, the risky investment is worse than the usual. Otherwise, we have :
 - $0\le S\le 1$ : the risk taken is too much for the profitability expected
-- $S\ge 1$ :the over-performance is worth compared to the risks taken
+- $S\ge 1$ : the over-performance is worth compared to the risks taken
 ## II. Use
 # Example
 We're in a situation where we want to add a hedge fund to a portfolio that has returned $10.18\%$ past year. The current risk-free rate is at $2.2\%$ and the portofolio's volatility was $9.3\%$.
