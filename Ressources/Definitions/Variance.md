@@ -9,9 +9,9 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!tip] Definition 1 : Area
-$$
+>$$
 \mathbb{V}ar(X)=\mathbb{E}[(X-\mathbb{E}(X))^2]
-$$
+>$$
 
 >[!tip] Definition 2 : Koenig-Hugyens Formula
 $$
