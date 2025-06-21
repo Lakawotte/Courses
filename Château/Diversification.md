@@ -142,6 +142,8 @@ $$
 \frac{\sigma^2}{n}(2-n)\le\mathbb{V}ar(\bar{X}))\le\sigma^2
 $$
 Which gives us a not very sharp bound.
+
+>[!tip] Bound of **[[]]
 If we instead choose a number $k\in[0,1]$ so that $\mathbb{V}ar(\bar{X})\le k$, we will end up with the inequality :
 $$
 n\ge\frac{\sigma^2-\rho}{k-\rho}
