@@ -28,7 +28,10 @@ category: "[[Maths]]"
 >$$
 \forall(a,b,c,d)\in\mathbb{R}^4,\mathrm{Cov}(aX+b,cY+d)=a\times c\times \mathrm{Cov}(X,Y)
 >$$
->- Non
+>- Non-definitude
+>$$
+\forall a\in\mathbb{R}, \mathrm{Cov}[X,a]
+>$$
 
 >[!tldr] **[[Independency]]**
 >$$
