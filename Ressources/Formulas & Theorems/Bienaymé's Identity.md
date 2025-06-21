@@ -29,11 +29,11 @@ category: "[[Maths]]"
 ## I. Meaning
 This is simply another way of counting in a table. **[[Covariance]]**, when computed in its form of double sum, can be seen as pairing two variables in a double-entry table as follows :
 
-|         | $X_{1}$                                                | $X_2$                     | $\dots$ |
-| ------- | ------------------------------------------------------ | ------------------------- | ------- |
-| $X_{1}$ | $\mathrm{Cov}[X_{1},X_1]=\mathbb{V}\mathrm{ar}[X_{1}]$ | $\mathrm{Cov}[X,1,X_2]$   | $\dots$ |
-| $X_2$   | $\mathrm{Cov}[_{2},X_1]$                               | $\mathrm{Cov}[X_{2},X_2]$ | $\dots$ |
-| $\dots$ | $\dots$                                                | $\dots$                   | $\dots$ |
+|         | $X_{1}$                                                | $X_2$                                                  | $\dots$ |
+| ------- | ------------------------------------------------------ | ------------------------------------------------------ | ------- |
+| $X_{1}$ | $\mathrm{Cov}[X_{1},X_1]=\mathbb{V}\mathrm{ar}[X_{1}]$ | $\mathrm{Cov}[X,1,X_2]$                                | $\dots$ |
+| $X_2$   | $\mathrm{Cov}[_{2},X_1]$                               | $\mathrm{Cov}[X_{2},X_2]=\mathbb{V}\mathrm{ar}[X_{2}]$ | $\dots$ |
+| $\dots$ | $\dots$                                                | $\dots$                                                | $\dots$ |
 We can thus reduce this table since for all $(i,j)\in\mathbb{N}^2$, $i=j$ implies that $\mathrm{Cov}[X_i,X_j]=\mathbb{V}ar[X_i]$.
 Hence Bienaymé derived his identity from this very idea, but here the sum of the **[[Covariance|covariances]]** follows the indices $1\le i<j\le n$ so we are counting the diagonals only one time (only $\mathrm{Cov}[X_i,X_j]$).
 
