@@ -62,7 +62,7 @@ This is simply another way of summing terms in a table. One can visualize this i
 | $X_2$   | $\mathrm{Cov}[_{2},X_1]$                               | $\mathrm{Cov}[X_{2},X_2]=\mathbb{V}\mathrm{ar}[X_{2}]$ | $\dots$ |
 | $\dots$ | $\dots$                                                | $\dots$                                                | $\dots$ |
 We can thus reduce this table since for all $(i,j)\in\mathbb{N}^2$, $i=j$ implies that $\mathrm{Cov}[X_i,X_j]=\mathbb{V}ar[X_i]$.
-Hence Bienaymé derived his identity from this very idea, but here the sum of the **[[Covariance|covariances]]** follows the indices $1\le i<j\le n$ so we are counting the diagonals only one time (only $\mathrm{Cov}[X_i,X_j]$).
+Hence Bienaymé derived his identity from this very idea, but here the sum of the **[[Covariance|covariances]]** follows the indices $1\le i<j\le n$, so we are counting the diagonals only one time (only $\mathrm{Cov}[X_i,X_j]$) and need to scale b 
 
 This is, **Bienaymé's Identity** is the sum of all the diagonal terms ($\mathbb{V}ar[X_{i}]$), and twice the others ($\mathrm{Cov}[X_i,X_j]=\mathrm{Cov}[X_j,X_i]$).
 ## II. Use
