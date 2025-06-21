@@ -163,12 +163,12 @@ $$
 $$
 If the variables are **[[Standardized Random Variable|standardized]]**.
 ### I.3 Standard deviation
-The **[[Standard Deviation|standard deviation]]** of the mean is given by :
+The **[[Standard Deviation|standard deviation]]** of the **[[mean]]** is given by :
 
 $$
 \sigma(\bar{X})=\sigma\sqrt{\frac{1+(n-1)\rho}{n}}
 $$
-It follows the same rule as the **[[Variance|variance]]** : the least correlated the values are, the more the number of values will make the standard deviation of the mean smaller. The other way around, when $\rho$ tends to $1$, $\sigma(\bar{X})$ tends to $\sigma$.
+It follows the same rule as the **[[Variance|variance]]** : the least **[[Correlation|correlated]]** the values are, the more the number of values will make the **[[Standard Deviation|standard deviation]]** of the **[[Mean|mean smaller. The other way around, when $\rho$ tends to $1$, $\sigma(\bar{X})$ tends to $\sigma$.
 # 2. Interpretation
 ## I. **[[Return]]**
 The **[[Return|return]]** on a **diversified** portfolio can never exceed that of the top-performing investment, and indeed will always be lower than the highest **[[Return|return]]** (unless all **[[Return|returns]]** are identical). Conversely, the **diversified** portfolio's **[[Return|return]]** will always be higher than that of the worst-performing investment. So by **diversifying**, one loses the chance of having invested solely in the single asset that comes out best, but one also avoids having invested solely in the asset that comes out worst. That is the role of **diversification** : it narrows the range of possible outcomes.
