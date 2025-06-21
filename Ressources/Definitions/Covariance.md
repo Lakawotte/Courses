@@ -11,21 +11,18 @@ category: "[[Maths]]"
 
 >[!hint] Definition
 >$$
->\begin{split}
->cov(X,Y)&=\mathbb{E}[(X-\mathbb{E}(X))(Y-\mathbb{E}(Y))]\\
->&=\mathbb{E}(XY)-\mathbb{E}(X)\mathbb{E}(Y)\\
->&=\frac{1}{n}\sum_{k=1}^n (X_{i}-\bar{X})(Y_{i}-\bar{Y})\\
->\end{split}
+\begin{split}
+\mathrm{Cov}(X,Y)&=\mathbb{E}[(X-\mathbb{E}(X))(Y-\mathbb{E}(Y))]\\
+&=\mathbb{E}(XY)-\mathbb{E}(X)\mathbb{E}(Y)\\
+\end{split}
 >$$
-#### Note :
-As the most of the formulas treating of number of data, we tend to divide by $n-1$ most of the time.
 ## II. Extensions
 ### 1. Properties
 
 >[!tldr] Inherent Properties
 >- Commutativity
 >$$
-cov(X,Y)=cov(Y,X)
+\mathrm{Cov}(X,Y)=\mathrm{Cov}(Y,X)
 >$$
 >-
 >$$
