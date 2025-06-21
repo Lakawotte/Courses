@@ -30,7 +30,7 @@ category: "[[Maths]]"
 >$$
 >- Non-definitude
 >$$
-\forall a\in\mathbb{R}, \mathrm{Cov}[X,a]
+\forall a\in\mathbb{R},\mathrm{Cov}[X,a]=0
 >$$
 
 >[!tldr] **[[Independency]]**
