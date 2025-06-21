@@ -19,7 +19,7 @@ category: "[[Maths]]"
 ### 2. Proof
 
 >[!tip] Lemma
->[!tldr] Square of the sum
+>>[!tldr] Square of the sum
 >Here $\mathbb{K}$ is either $\mathbb{R}$ or $\mathbb{C}$ :
 >>$$
 \forall n\in\mathbb{N},\forall a\in\mathbb{K},(\sum_{i=1}^na_{1})^2=\sum_{i=1}^na^2+\sum_{i,j=1,i\neq j}^na_{i}a_{j}
@@ -39,7 +39,7 @@ category: "[[Maths]]"
 >$$
 \begin{split}
 \mathbb{V}\mathrm{ar}[S_{n}]&=\mathbb{E}[S_{n}^2]-\mathbb{E}[S_{n}]^2\\
-&=
+&=\mathbb{E}[\sum_{i=1}^nX^2+\sum_{i,j=1,i\neq j}^nX_{i}X_{j}]
 \end{split}
 >$$
 ## II. Extensions
