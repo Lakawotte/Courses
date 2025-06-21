@@ -47,7 +47,7 @@ If the $x_{i}$s are *equiprobable*, we have
 >
 >>[!tldr] **[[Pearson's Product Moment Correlation Coefficient|Pearson's rho]]**
 >>$$
-\mathbb{V}\mathrm{ar}[X]=
+\mathbb{V}\mathrm{ar}[S_{n}]=\sum_{i=1}^n\sum_{j=1}^n\rho_{ij}\sqrt{\mathbb{V}\mathrm{ar}X_{i}\mathbb{V}\mathrm{ar}X_{j}}
 >>$$
 ### 2. Other formulas
 
