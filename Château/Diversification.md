@@ -143,8 +143,9 @@ $$
 $$
 Which gives us a not very sharp bound.
 
->[!tip] Bound of **[[]]
-If we instead choose a number $k\in[0,1]$ so that $\mathbb{V}ar(\bar{X})\le k$, we will end up with the inequality :
+>[!tip] Bound of **[[Variance|variance]]** of the **[[Mean|mean]]**
+>>[!tldr] Theorem
+> choose a number $$, we will end up with the inequality :
 $$
 n\ge\frac{\sigma^2-\rho}{k-\rho}
 $$
