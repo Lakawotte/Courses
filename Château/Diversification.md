@@ -152,7 +152,8 @@ Which gives us a not very sharp bound.
 >>[!info] Proof
 >>$$
 \begin{split}
-\mathbb{V}\mathrm{ar}(\bar{X})\le k&\Longleftrightarrow
+\mathbb{V}\mathrm{ar}(\bar{X})&\le k\\
+\Longleftrightarrow
 \end{split}
 >>$$
 ### 4. Standard deviation
