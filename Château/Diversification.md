@@ -121,6 +121,17 @@ If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are 
 >>$$
 \mathbb{V}\mathrm{ar}\left[ \frac{1}{n}\sum_{i=1}^nx_{i} \right]=\frac{1}{n^2}\mathbb{V}\mathrm{ar}\left[ \sum_{i=1}^nx_{i} \right]=\frac{1}{n^2}n\sigma^2=\frac{\sigma^2}{n}
 >>$$
+
+It follows that the **[[variance]]** of the mean decreases when $n$ increases. More precisely, we can bound this variance s :
+$$
+\frac{\sigma^2}{n}(2-n)\le\mathbb{V}ar(\bar{X}))\le\sigma^2
+$$
+Which gives us a not very sharp bound.
+If we instead choose a number $k\in[0,1]$ so that $\mathbb{V}ar(\bar{X})\le k$, we will end up with the inequality :
+$$
+n\ge\frac{\sigma^2-\rho}{k-\rho}
+$$
+So, for $\rho=0$, $n$ is greater or equal than $\frac{\sigma^2}{k}$.
 ### 3. **[[Equicorrelation]]**
 
 >[!tip] Diversification
@@ -142,16 +153,7 @@ If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are 
 >>$$
 >>Indeed since $\sigma^2$ and $\rho$ are constants, **[[Pearson's Product Moment Correlation Coefficient|Pearson's coefficient]]** is also a constant and thus for all $(i,j)\in\mathbb{N}^2$, $\mathrm{Cov}[X_i,X_j]=\rho\sigma^2$. Then we only counted the terms in both sums.
 ### I.1 Uncorrelated markets
-If the markets are **uncorrelated**, $\rho=0$ and then $\mathbb{V}ar(\bar{X})=\frac{\sigma^2}{n}$. It follows that the **[[variance]]** of the mean decreases when $n$ increases. More precisely, we can bound this variance :
-$$
-\frac{\sigma^2}{n}(2-n)\le\mathbb{V}ar(\bar{X}))\le\sigma^2
-$$
-Which gives us a not very sharp bound.
-If we instead choose a number $k\in[0,1]$ so that $\mathbb{V}ar(\bar{X})\le k$, we will end up with the inequality :
-$$
-n\ge\frac{\sigma^2-\rho}{k-\rho}
-$$
-So, for $\rho=0$, $n$ is greater or equal than $\frac{\sigma^2}{k}$.
+If the markets are **uncorrelated**, $\rho=0$ and then $\mathbb{V}ar(\bar{X})=\frac{\sigma^2}{n}$. 
 ### I.2 Other cases
 If the correlation between the markets is absolute, $\rho=1$ which leads to $\mathbb{V}ar(\bar{X})=\sigma^2$. That is, the **[[Variance|variance]]** of the samples mean is the variance of one of them. In this case, all the variables are evolving the exact same way, so additional information is no longer effective.
 
