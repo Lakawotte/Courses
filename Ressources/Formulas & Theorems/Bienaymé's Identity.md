@@ -40,7 +40,8 @@ category: "[[Maths]]"
 \begin{split}
 \mathbb{V}\mathrm{ar}[S_{n}]&=\mathbb{E}[S_{n}^2]-\mathbb{E}[S_{n}]^2\\
 &=\mathbb{E}[\sum_{i=1}^nX^2+\sum_{i,j=1,i\neq j}^nX_{i}X_{j}]-(\sum_{i=1}^n\mathbb{E}[X]^2+\sum_{i,j=1,i\neq j}^n\mathbb{E}[X_{i}]\mathbb{E}[X_{j}])\\
-&=\sum_{i=1}^n\mathbb{E}[X_{i}^2]
+&=\mathbb{E}[\sum_{i=1}^nX^2]+\mathbb{E}[\sum_{i,j=1,i\neq j}^nX_{i}X_{j}]-\sum_{i=1}^n\mathbb{E}[X]^2-\sum_{i,j=1,i\neq j}^n\mathbb{E}[X_{i}]\mathbb{E}[X_{j}]\\
+&=\sum_{i=1}^n\mathbb{E}[X_{i}^2]-E[X_{i}]^2+
 \end{split}
 >$$
 ## II. Extensions
