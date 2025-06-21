@@ -31,8 +31,11 @@ category: "[[Maths]]"
 >$$
 >- Positive semi-definite
 >$$
-\sigma^2
+\sigma^2[X]=\mathrm{Cov}[X,X]\ge 0
 >$$
+>$$
+\mathrm{Cov}[X,X]=0\Longrightarrow X=0
+$$
 #### Note :
 More generally, we have for all $a$ real $\mathrm{Cov}[X,a]=0$.
 
