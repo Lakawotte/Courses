@@ -146,12 +146,14 @@ Which gives us a not very sharp bound.
 >[!tip] Bound of **[[Variance|variance]]** of the **[[Mean|mean]]**
 >>[!tldr] Theorem
 >>$$
-\forall k\in[0,1], \mathbb{V}ar(\bar{X})\le k\Longleftrightarrow n\ge\frac{\sigma^2-\rho}{k-\rho}
+\forall k\in[0,1], \mathbb{V}\mathrm{ar}(\bar{X})\le k\Longleftrightarrow n\ge\frac{\sigma^2-\rho}{k-\rho}
 >>$$
 >
 >>[!info] Proof
 >>$$
->
+\begin{split}
+\mathbb{V}\mathrm{ar}(\bar{X})\le k&\Longleftrightarrow
+\end{split}
 >>$$
 ### 4. Standard deviation
 The **[[Standard Deviation|standard deviation]]** of the **[[mean]]** is given by :
