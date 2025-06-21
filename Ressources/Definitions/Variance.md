@@ -44,8 +44,11 @@ If the $x_{i}$s are *equiprobable*, we have
 >>$$
 \mathbb{V}\mathrm{ar}[S_{n}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[X_{i}]
 >>$$
-
-
+>
+>>[!tldr] **[[Pearson's Product Moment Correlation Coefficient|Pearson's rho]]**
+>>$$
+\mathbb{V}\mathrm{ar}[X]=
+>>$$
 ### 2. Other formulas
 
 >[!tldr] Global Variance
