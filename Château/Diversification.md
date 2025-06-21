@@ -145,11 +145,9 @@ Which gives us a not very sharp bound.
 
 >[!tip] Bound of **[[Variance|variance]]** of the **[[Mean|mean]]**
 >>[!tldr] Theorem
-> choose a number $$, we will end up with the inequality :
-$$
-n\ge\frac{\sigma^2-\rho}{k-\rho}
-$$
-So, for $\rho=0$, $n$ is greater or equal than $\frac{\sigma^2}{k}$.
+>>$$
+\forall k\in[0,1], \mathbb{V}ar(\bar{X})\le k\Longleftrightarrow n\ge\frac{\sigma^2-\rho}{k-\rho}
+>>$$
 
 If the correlation between the markets is absolute, $\rho=1$ which leads to $\mathbb{V}ar(\bar{X})=\sigma^2$. That is, the **[[Variance|variance]]** of the samples mean is the variance of one of them. In this case, all the variables are evolving the exact same way, so additional information is no longer effective.
 
