@@ -14,27 +14,28 @@ category: "[[Maths]]"
 >$$
 
 >[!tip] Definition 2 : Koenig-Hugyens Formula
-$$
+>$$
 \mathbb{V}ar(X)=\mathbb{E}[X^{2}]-[\mathbb{E}(X)]^2
-$$
+>$$
 
 ## II. Extensions
 ### 1. Properties
+
 >[!tip] Inherent Properties
-$$
+>$$
 \forall(a,b)\in\mathbb{R}^2,\mathbb{V}ar(aX+b)=a^2 \mathbb{V}ar(X)
-$$
+>$$
 
 >[!tldr] Equiprobability
 If the $x_{i}$s are *equiprobable*, we have
-$$
-\mathbb{V}ar=\frac{1}{n}\sum_{k=1}^n (x_{k}-\bar{x})^2
-$$
-
->[!tldr] Sum of Variances
 >$$
-\mathbb{V}ar[\sum_{i=1}^nX_{i}]=\sum_{i=1}^n\mathbb{V}ar[X_i]+2\sum_{1\le i\le j\le n}cov(X_i,X_j)
-$$
+\mathbb{V}ar=\frac{1}{n}\sum_{k=1}^n (x_{k}-\bar{x})^2
+>$$
+
+>[!tldr] **[[Bienaymé's Identity]]**
+>$$
+\mathbb{V}\mathrm{ar}[\sum_{i=1}^nX_{i}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[X_i]+2\sum_{1\le i<j\le n}\mathrm{Cov}(X_i,X_j)
+>$$
 
 >[!tldr] Sum of Variables
 >$S_n:=\sum_{i=1}^nX_{i}$ and the variables are [[Independency|indenpendent]] of each other
