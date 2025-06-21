@@ -34,7 +34,7 @@ category: "[[Maths]]"
 \sigma^2[X]=\mathrm{Cov}[X,X]\ge 0
 >$$
 >$$
-\mathrm{Cov}[X,X]=0\Longrightarrow X=0
+\mathrm{Cov}[X,X]=0\Longrightarrow X=0\,\,\,\mathrm{a.s}
 $$
 #### Note :
 More generally, we have for all $a$ real $\mathrm{Cov}[X,a]=0$.
