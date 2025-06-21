@@ -21,19 +21,15 @@ category: "[[Maths]]"
 
 >[!tldr] Inherent Properties
 >Let $X$, $Y$ and $Z$ be random variables.
->- Commutativity
+>- Symmetric
 >$$
 \mathrm{Cov}(X,Y)=\mathrm{Cov}(Y,X)
 >$$
 >- Bilinearity
 >$$
-\forall(a,b)\in\mathbb{R}^2,\mathrm{Cov}[X+a,Y+a]=\mathrm{Cov}[X,Y]
+\forall(a,b)\in\mathbb{R}^2,\mathrm{Cov}[aX+bY,Z]=a\mathrm{Cov}[X,Z]+b\mathrm{Cov}[Y,Z]
 >$$
->- Distributivity
->$$
-\mathrm{Cov}[X+Z,Y]=\mathrm{Cov}[X,Y]+\mathrm{Cov}[Z,Y]
->$$
->- Non-definitude
+>- Positive semi-definite
 >$$
 \forall a\in\mathbb{R},\mathrm{Cov}[X,a]=0
 >$$
