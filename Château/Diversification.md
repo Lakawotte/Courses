@@ -51,7 +51,7 @@ As a **[[Sequence|sequence]]** in terms of $n\in\mathbb{N}^*$, one can describe 
 >>$$
 >>-
 >>$$
-\rho\in[-1;1]\textbackslash{0}\Longrightarrow\sigma^2[\bar{X}]\in\Theta(1)
+\rho\in[-1;1]\textbackslash\{0\}\Longrightarrow\sigma^2[\bar{X}]\in\Theta(1)
 >>$$
 >
 >>[!info] Proof
