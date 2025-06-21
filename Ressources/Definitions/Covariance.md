@@ -31,7 +31,7 @@ category: "[[Maths]]"
 >$$
 >- Distributivity
 >$$
-\mathrm{Cov}[X+Z,Y]=
+\mathrm{Cov}[X+Z,Y]=\mathrm{Cov}[X,Y]+\mathrm{Cov}[Z,Y]
 >$$
 >- Non-definitude
 >$$
