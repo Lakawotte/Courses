@@ -13,7 +13,6 @@ Diversification is the opposite of specialization, which is based on a single ty
 ## II. Effects of diversification
 ### 1. Warning
 **Diversifying** is ==spreading== the assets, not ==adding== them to the portfolio. Indeed, if we instead of balancing we choose to add a large amount of **[[Correlation|uncorrelated]]** assets with same **[[Variance|variance]]** $\sigma^2$, we will end up increasing the **[[Risk|risk]]** of our portfolio :
-
 $$
 \mathbb{V}\mathrm{ar}[\sum_{i=1}^nx_{i}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[x_{i}]=n\sigma^2
 $$
@@ -78,7 +77,6 @@ $$
 \end{split}
 $$
 To determine the value of $q$ that minimize the **[[Variance|variance]]** of the portfolio, we can **[[Differentiability|differentiate]]** the **[[Variance|variance]]** to find the **[[Minimum|minimum]]** (since it is a **[[2nd Order Polynomial]]** in terms of $q$):
-
 $$
 \begin{split}
 \frac{d}{dx}(q^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2)&=0\\
@@ -89,7 +87,6 @@ $$
 Furthermore, we can show that this value is strictly between $0$ and $1$, since $\frac{\sigma_{y}^2}{\sigma_{y}^2+\sigma_{x}^2}=\frac{1}{1+(\frac{\sigma_{x}}{\sigma_{y}})^2}$. Indeed, by the rules of limits, $\forall x\in\mathbb{R}_{+}^*, \frac{1}{1+x^2}\in]0;1[$ since $\frac{\sigma_{x}}{\sigma_{y}}$ is nonzero.
 
 Then, we plug this value of $q$ in our original expression of the **[[Variance|variance]]** :
-
 $$
 \begin{split}
 \mathbb{V}ar[qx+(1-q)y]&=\mathbb{V}ar[qx]+\mathbb{V}ar[(1-q)y]\\
@@ -99,14 +96,12 @@ $$
 &=\frac{\sigma_{y}^2\sigma_{x}^2}{\sigma_{y}^2+\sigma_{x}^2}
 \end{split}
 $$
-
 At the end of the day, we can compare this value with the **undiversified** values of $\sigma_y^2$ ($q=0$) and $\sigma_x^2$ ($q=1$) :
 
 Let $(a,b)\in\mathbb{R}^2$ represents our **[[Variance|variances]]** :
 $$
 \frac{ab}{a+b}-a=\frac{ab-a(a+b)}{a+b}=-\frac{a^2}{a+b}\le 0
 $$
-
 In conclusion, this value of the portfolio **[[Variance|variance]]** is smaller than it would be if the portfolio wasn't **diversified**.
 ### 2. **[[Correlation|Uncorrelation]]**
 If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are **[[Correlation|uncorrelated]]**, **diversifying** our portfolio is nothing but considering it as a **[[Samples|sample]]** :
@@ -122,7 +117,7 @@ If all the assets follows the same **[[Variance|variance]]** $\sigma^2$ and are 
 \mathbb{V}\mathrm{ar}\left[ \frac{1}{n}\sum_{i=1}^nx_{i} \right]=\frac{1}{n^2}\mathbb{V}\mathrm{ar}\left[ \sum_{i=1}^nx_{i} \right]=\frac{1}{n^2}n\sigma^2=\frac{\sigma^2}{n}
 >>$$
 
-It follows that the **[[variance]]** of the mean decreases when $n$ increases. More precisely, we can bound this variance s :
+It follows that the **[[variance]]** of the mean decreases when $n$ increases. More precisely, we can bound this variance using **Bienaymé's corrolary** :
 $$
 \frac{\sigma^2}{n}(2-n)\le\mathbb{V}ar(\bar{X}))\le\sigma^2
 $$
