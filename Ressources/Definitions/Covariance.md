@@ -24,6 +24,9 @@ category: "[[Maths]]"
 >$$
 \mathrm{Cov}(X,Y)=\mathrm{Cov}(Y,X)
 >$$
+>$$
+>
+>$$
 >- Linearity
 >$$
 \forall(a,b,c,d)\in\mathbb{R}^4,\mathrm{Cov}(aX+b,cY+d)=a\times c\times \mathrm{Cov}(X,Y)
