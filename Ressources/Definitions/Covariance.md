@@ -20,6 +20,7 @@ category: "[[Maths]]"
 ### 1. Properties
 
 >[!tldr] Inherent Properties
+>Let $X$, $Y$ and $Z$ be random variables.
 >- Commutativity
 >$$
 \mathrm{Cov}(X,Y)=\mathrm{Cov}(Y,X)
@@ -28,9 +29,9 @@ category: "[[Maths]]"
 >$$
 \forall(a,b)\in\mathbb{R}^2,\mathrm{Cov}[X+a,Y+a]=\mathrm{Cov}[X,Y]
 >$$
->- Linearity
+>- Distributivity
 >$$
-\forall(a,b,c,d)\in\mathbb{R}^4,\mathrm{Cov}(aX+b,cY+d)=a\times c\times \mathrm{Cov}(X,Y)
+\mathrm{Cov}[X+Z,Y]=
 >$$
 >- Non-definitude
 >$$
