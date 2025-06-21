@@ -40,10 +40,12 @@ If the $x_{i}$s are *equiprobable*, we have
 >
 >
 >>[!tldr] Sum of Variables
->Let $S_n:=\sum_{i=1}^nX_{i}$ and let the variables be [[Independency|independent]] of each other :
+>Let $S_n:=\sum_{i=1}^nX_{i}$ and let the variables be **[[Independency|independent]]** of each other :
 >>$$
 \mathbb{V}\mathrm{ar}[S_{n}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[X_{i}]
 >>$$
+
+
 ### 2. Other formulas
 
 >[!tldr] Global Variance
