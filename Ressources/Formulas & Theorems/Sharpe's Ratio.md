@@ -9,10 +9,10 @@ category: "[[Finance]]"
 ## I. Statement
 
 >[!hint] Definition
-$$
+>$$
 S=\frac{R-r}{\sigma}
-$$
-Where $R$ is the *[[Expected Value|expectation of the portfolio's profitability]]*, $r$ the *risk-free investment rate* and $\sigma$ the **[[Standard Deviation]]**. 
+>$$
+>Where $R$ is the **[[Expected Value|expectation of the portfolio's profitability]]**, $r$ the *risk-free investment rate* and $\sigma$ the **[[Standard Deviation]]**. 
 ## II. Extensions
 ### 1. Properties
 
