@@ -65,7 +65,7 @@ p<\rho+\frac{1-\rho}{n}<\rho+1-\rho=1\Longrightarrow\exists(C_{1},C_{2})\in\math
 >>-|\rho|<-|\rho|+\frac{1+|\rho|}{n}<\frac{1+|\rho|}{n}<1+|\rho|\Longrightarrow\exists(C_{1},C_{2})\in\mathbb{R}^2,C_{1}<\sigma_{\epsilon}<C_{2}
 >>$$
 
-This is, portfolio **[[Risk|risk]]** will tend to the market **[[Risk|risk]]** with a large amount of assets **diversified**. 
+This is, portfolio **[[Risk|risk]]** will tend to the market **[[Risk|risk]]** with a large amount of assets **diversified**.
 ## II. Effects on **[[Variance]]**
 ### 1. Example
 Let $X$ and $Y$ be two assets with respective **[[Return|return]]** $x$ and $y$. If one's portfolio is only composed by these two assets, we note $q\in[0;1]$ the weight of $X$ and $1-q$ the weight of $Y$. Let $\sigma_x^2$ and $\sigma_y^2$ be their respective nonzero **[[Variance|variances]]**. If they are **[[Correlation|uncorrelated]]**, we have :
@@ -76,7 +76,7 @@ $$
 &=q^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2
 \end{split}
 $$
-To determine the value of $q$ that minimize the **[[Variance|variance]]** of the portfolio, we can **[[Differentiability|differentiate]]** the **[[Variance|variance]]** to find the **[[Minimum|minimum]]** (since it is a **[[2nd Order Polynomial]]** in terms of $q$):
+To determine the value of $q$ that minimize the **[[Variance|variance]]** of the portfolio, we can **[[Differentiability|differentiate]]** the **[[Variance|variance]]** to find the **[[Minimum|minimum]]** (since it is a **[[2nd Order Polynomial]]** in terms of $q$) :
 $$
 \begin{split}
 \frac{d}{dx}(q^2\sigma_{x}^2+(1-q)^2\sigma_{y}^2)&=0\\
