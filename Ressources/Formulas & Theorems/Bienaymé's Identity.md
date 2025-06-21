@@ -18,6 +18,12 @@ category: "[[Maths]]"
 >$$
 ### 2. Proof
 
+>[!tip] Lemma
+>[!tldr] Square 
+>$$
+a
+>$$
+
 >[!info] Proof by the definition of **[[Variance|variance]]**
 >Let $S_n:=\sum_{i=1}^n$ for all $n\in\mathbb{N}$. Then
 >$$
