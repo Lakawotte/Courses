@@ -40,31 +40,31 @@ If the $x_{i}$s are *equiprobable*, we have
 >
 >
 >>[!tldr] Sum of Variables
->$S_n:=\sum_{i=1}^nX_{i}$ and the variables are [[Independency|indenpendent]] of each other
+>Let $S_n:=\sum_{i=1}^nX_{i}$ and let the variables be [[Independency|independent]] of each other :
 >>$$
-\mathbb{V}ar[S_{n}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[X_{i}]
+\mathbb{V}\mathrm{ar}[S_{n}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[X_{i}]
 >>$$
 ### 2. Other formulas
 
 >[!tldr] Global Variance
 If the set is composed of $k$ subsets for a total number of data $N$ we have
-$$
-\mathbb{V}ar=\frac{1}{N}\sum_{i=1}^k n_{i}(V_{i}+(\bar{x}-\bar{x_{i}})^2)
-$$
+>$$
+\mathbb{V}\mathrm{ar}=\frac{1}{N}\sum_{i=1}^k n_{i}(V_{i}+(\bar{x}-\bar{x_{i}})^2)
+>$$
 
 >[!tip] Intra-set and Inter-set Variance
-$$
+>$$
 \begin{split}
 \bar{x}&=\frac{1}{N}\sum_{i=1}^kn_{i}\bar{x_{i}}\\
 &=\sigma_{inter}^2+\sigma_{intra}^2
 \end{split}
-$$
-$$
+>$$
+>$$
 \sigma_{inter}^2=\frac{1}{N}\sum_{i=1}^k n_{i}(\bar{x}-\bar{x_{i}})^2
-$$
-$$
+>$$
+>$$
 \sigma_{intra}^2=\frac{1}{N}\sum_{i=1}^k n_{i}V_{i}
-$$
+>$$
 # Application
 ## I. Meaning
 ### 1. Variance of one Set
