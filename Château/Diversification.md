@@ -16,7 +16,7 @@ Diversification is the opposite of specialization, which is based on a single ty
 $$
 \mathbb{V}\mathrm{ar}[\sum_{i=1}^nx_{i}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[x_{i}]=n\sigma^2
 $$
-### 2. **[[Risk]]** management
+### 2. **[[Risk]]** reduction
 As seen before, **diversification** can leads to a decrease of **[[Risk|risk]]** :
 
 ```tikz
