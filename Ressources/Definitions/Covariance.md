@@ -24,14 +24,15 @@ category: "[[Maths]]"
 >$$
 \mathrm{Cov}(X,Y)=\mathrm{Cov}(Y,X)
 >$$
->-
+>- Linearity
 >$$
-\forall(a,b,c,d)\in\mathbb{R}^4,cov(aX+b,cY+d)=a\times c\times cov(X,Y)
+\forall(a,b,c,d)\in\mathbb{R}^4,\mathrm{Cov}(aX+b,cY+d)=a\times c\times \mathrm{Cov}(X,Y)
 >$$
+>- 
 
 >[!tldr] **[[Independency]]**
 >$$
-X,Y\text{ indenpendents}\Longrightarrow cov(X,Y)=0
+X,Y\text{ indenpendents}\Longrightarrow\mathrm{Cov}(X,Y)=0
 >$$
 #### Note :
 The reciprocal is false.
