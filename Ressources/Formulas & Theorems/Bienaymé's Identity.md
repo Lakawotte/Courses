@@ -27,7 +27,11 @@ category: "[[Maths]]"
 >
 >>[!proof]
 >>$$
-(\sum_{i=1}^na_{1})^2=(\sum_{i=1}^na_{i})(\sum_{j=1}^n)
+\begin{split}
+(\sum_{i=1}^na_{1})^2&=(\sum_{i=1}^na_{i})(\sum_{j=1}^na_{j})\\
+&=\sum_{i=1}^n\sum_{j=1}^na_{i}a_{j}\\
+&=\sum_{i=1}^na^2+\sum_{i,j=1,i\neq j}^na_{i}a_{j}\\
+\end{split}
 >>$$
 
 >[!info] Proof by the definition of **[[Variance|variance]]**
