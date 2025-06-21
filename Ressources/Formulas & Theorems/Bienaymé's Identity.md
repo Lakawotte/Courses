@@ -21,7 +21,10 @@ category: "[[Maths]]"
 >[!info] Proof by the definition of **[[Variance|variance]]**
 >Let $S_n:=\sum_{i=1}^n$ for all $n\in\mathbb{N}$. Then
 >$$
-\mathbb{V}\mathrm{ar}[S_{n}]
+\begin{split}
+\mathbb{V}\mathrm{ar}[S_{n}]&=\mathbb{E}[S_{n}^2]-\mathbb{E}[S_{n}]^2\\
+&=
+\end{split}
 >$$
 ## II. Extensions
 ### 1. Properties
