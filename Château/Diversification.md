@@ -153,15 +153,6 @@ Which gives us a not very sharp bound.
 >>$$
 >
 >>$$
-
-If the correlation between the markets is absolute, $\rho=1$ leads to $\mathbb{V}ar(\bar{X})=\sigma^2$. That is, the **[[Variance|variance]]** of the samples mean is the variance of one of them. In this case, all the variables are evolving the exact same way, so additional information is no longer effective.
-
-When the **[[Correlation|correlation]]** is not $0$ or $1$, we are left with the original formula. Here, we can see that the variance of the mean increases as the average correlation does. In fact, additional highly-correlated information will tend to increase the **[[Variance|variance]]** of the mean of the information, so we shall need **[[Correlation|uncorrelated]]** information to reduce the **[[Mean|mean]]** and increase the number $n$ of values, which will end up decreasing the **[[Variance|variance]]**. Moreover, the formula leads to :
-
-$$
-\lim_{ n \to \infty }\mathbb{V}ar(\bar{X})=\rho 
-$$
-If the variables are **[[Standardized Random Variable|standardized]]**.
 ### 4. Standard deviation
 The **[[Standard Deviation|standard deviation]]** of the **[[mean]]** is given by :
 
@@ -173,6 +164,15 @@ It follows the same rule as the **[[Variance|variance]]** : the least **[[Correl
 ## I. **[[Return]]**
 The **[[Return|return]]** on a **diversified** portfolio can never exceed that of the top-performing investment, and indeed will always be lower than the highest **[[Return|return]]** (unless all **[[Return|returns]]** are identical). Conversely, the **diversified** portfolio's **[[Return|return]]** will always be higher than that of the worst-performing investment. So by **diversifying**, one loses the chance of having invested solely in the single asset that comes out best, but one also avoids having invested solely in the asset that comes out worst. That is the role of **diversification** : it narrows the range of possible outcomes.
 ### 1. Anticorrelation
+If the correlation between the markets is absolute, $\rho=1$ leads to $\mathbb{V}ar(\bar{X})=\sigma^2$. That is, the **[[Variance|variance]]** of the samples mean is the variance of one of them. In this case, all the variables are evolving the exact same way, so additional information is no longer effective.
+
+When the **[[Correlation|correlation]]** is not $0$ or $1$, we are left with the original formula. Here, we can see that the variance of the mean increases as the average correlation does. In fact, additional highly-correlated information will tend to increase the **[[Variance|variance]]** of the mean of the information, so we shall need **[[Correlation|uncorrelated]]** information to reduce the **[[Mean|mean]]** and increase the number $n$ of values, which will end up decreasing the **[[Variance|variance]]**. Moreover, the formula leads to :
+
+$$
+\lim_{ n \to \infty }\mathbb{V}ar(\bar{X})=\rho 
+$$
+If the variables are **[[Standardized Random Variable|standardized]]**.
+
 If we invest in largely **anticorrelated** markets, we will end up satisfying the conditions to get a low **[[Variance|variance]]** of the mean and then don't lose that much money : when one market in regressing, one other is increasing.
 ### 2. **[[Risk]]** management
 By choosing the right markets to invest in, we should be able to secure our portfolio without decreasing too much the **[[Risk|risk]]**. That is, according to the formula above, the risk decreases as both the **[[Correlation|correlation]]** tends to $0$ and the number of placements increases.
