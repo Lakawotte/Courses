@@ -24,8 +24,9 @@ category: "[[Maths]]"
 >$$
 \mathrm{Cov}(X,Y)=\mathrm{Cov}(Y,X)
 >$$
+>- 
 >$$
->
+\forall(a,b)\in\mathbb{R}^2,\mathrm{Cov}[X+a,Y+a]=\mathrm{Cov}[X,Y]
 >$$
 >- Linearity
 >$$
