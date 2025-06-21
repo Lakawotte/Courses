@@ -148,10 +148,15 @@ Which gives us a not very sharp bound.
 >>$$
 \forall k\in[0,1], \mathbb{V}ar(\bar{X})\le k\Longleftrightarrow n\ge\frac{\sigma^2-\rho}{k-\rho}
 >>$$
+>
+>>[!info] Proof
+>>$$
+>
+>>$$
 
 If the correlation between the markets is absolute, $\rho=1$ which leads to $\mathbb{V}ar(\bar{X})=\sigma^2$. That is, the **[[Variance|variance]]** of the samples mean is the variance of one of them. In this case, all the variables are evolving the exact same way, so additional information is no longer effective.
 
-When the **[[Correlation|correlation]]** is not $0$ or $1$, we are left with the original formula. Here, we can see that the variance of the mean increases as the average correlation does. In fact, additional highly-correlated information will tend to increase the **[[Variance|variance]]** of the mean of the information, so we shall need **uncorrelated** information to reduce the mean and increase the number $n$ of values, which will end up decreasing the **[[Variance|variance]]**. Moreover, the formula leads to :
+When the **[[Correlation|correlation]]** is not $0$ or $1$, we are left with the original formula. Here, we can see that the variance of the mean increases as the average correlation does. In fact, additional highly-correlated information will tend to increase the **[[Variance|variance]]** of the mean of the information, so we shall need **[[Correlation|uncorrelated]]** information to reduce the **[[Mean|mean]]** and increase the number $n$ of values, which will end up decreasing the **[[Variance|variance]]**. Moreover, the formula leads to :
 
 $$
 \lim_{ n \to \infty }\mathbb{V}ar(\bar{X})=\rho 
