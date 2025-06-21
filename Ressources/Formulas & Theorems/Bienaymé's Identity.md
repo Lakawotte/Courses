@@ -22,12 +22,12 @@ category: "[[Maths]]"
 >[!tldr] Square of the sum
 >Here $\mathbb{K}$ is either $\mathbb{R}$ or $\mathbb{C}$ :
 >>$$
-\forall n\in\mathbb{N},\forall a\in\mathbb{K}, \left( \sum_{i=1}^na_{1} \right)^2=\sum_{i=1}^na^2+\sum_{i,j=1,i\neq j}^n
+\forall n\in\mathbb{N},\forall a\in\mathbb{K},(\sum_{i=1}^na_{1})^2=\sum_{i=1}^na^2+\sum_{i,j=1,i\neq j}^na_{i}a_{j}
 >>$$
 >
 >>[!proof]
 >>$$
->
+(\sum_{i=1}^na_{1})^2=(\sum_{i=1}^na_{i})(\sum_{j=1}^n)
 >>$$
 
 >[!info] Proof by the definition of **[[Variance|variance]]**
