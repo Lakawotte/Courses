@@ -18,8 +18,10 @@ category: "[[Maths]]"
 >$$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof by the definition of **[[Variance|variance]]**
+>Let $S_n:=\sum_{i=1}^n$ for all $n\in\mathbb{N}$. Then
 >$$
+\mathbb{V}\mathrm{ar}[S_{n}]
 >$$
 ## II. Extensions
 ### 1. Properties
