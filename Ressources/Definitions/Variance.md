@@ -32,16 +32,18 @@ If the $x_{i}$s are *equiprobable*, we have
 \mathbb{V}ar=\frac{1}{n}\sum_{k=1}^n (x_{k}-\bar{x})^2
 >$$
 
->[!tldr] **[[Bienaymé's Identity]]**
->$$
+>[!tip] **Variance** of a sum
+>>[!tldr] **[[Bienaymé's Identity]]**
+>>$$
 \mathbb{V}\mathrm{ar}[\sum_{i=1}^nX_{i}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[X_i]+2\sum_{1\le i<j\le n}\mathrm{Cov}(X_i,X_j)
->$$
-
->[!tldr] Sum of Variables
+>>$$
+>
+>
+>>[!tldr] Sum of Variables
 >$S_n:=\sum_{i=1}^nX_{i}$ and the variables are [[Independency|indenpendent]] of each other
->$$
->\mathbb{V}ar[S_{n}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[X_{i}]
->$$
+>>$$
+\mathbb{V}ar[S_{n}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[X_{i}]
+>>$$
 ### 2. Other formulas
 
 >[!tldr] Global Variance
