@@ -20,8 +20,9 @@ category: "[[Maths]]"
 
 >[!tip] Lemma
 >[!tldr] Square of the sum
+>Here $\mathbb{K}$ is either $\mathbb{R}$ or $\mathbb{C}$ :
 >>$$
-\forall i\in
+\forall i\in\mathbb{N},\forall a\in\mathbb{K}, \sum_{i=1}^n
 >>$$
 >
 >>[!proof]
