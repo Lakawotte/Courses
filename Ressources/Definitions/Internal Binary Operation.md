@@ -28,8 +28,7 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 ### 1. Properties
 
 >[!tldr] Alternativity
->Let $(E,*)$ be a **[[Magma|magma]]**.
->$*$ is *alternative* if
+>Let $(E,*)$ be a **[[Magma|magma]]**. $*$ is *alternative* if
 >$$
 \forall(x,y)\in E^2,x*(x*y)=(x*x)*y\wedge (x*y)*y=x*(y*y)
 >$$
@@ -41,13 +40,14 @@ This property is weaker than *associativity*.
 >$$
 \forall(x,y,z)\in E^3, x*(y*z)=(x*y)*z
 >$$
+#### Note :
+When a **binary operation** is *associative*, we can get rid of the parenthesis when iterating t
 
 >[!tldr] Commutativity
 >Let $(E,*)$ be a **[[Magma|magma]]**. $*$ is *commutative* if
 >$$
 \forall(x,y)\in E^2,x*y=y*x
 >$$
->- $*$ is 
 ### 2. Other formulas
 # Application
 ## I. Meaning
