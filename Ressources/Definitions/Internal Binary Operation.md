@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $E$ be a set. We call **inter
+>Let $E$ be a set. We call **internal binary operation** on $E$ any **[[Application|application]]** 
 >$$
 >$$
 ## II. Extensions
