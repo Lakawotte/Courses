@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->A **[[Set|set]]** $E$ 
+>A **[[Set|set]]** $E$ with an **[[Internal Binary Operation|]]
 >$$
 >$$
 ## II. Extensions
