@@ -9,8 +9,9 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $E$ be a set. We call **internal binary operation** on $E$ any **[[Application|application]]** 
+>Let $E$ be a set. We call **internal binary operation** on $E$ any **[[Application|application]]** $f$ where
 >$$
+f:E\to E
 >$$
 ## II. Extensions
 ### 1. Properties
