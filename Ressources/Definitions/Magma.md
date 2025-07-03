@@ -9,8 +9,9 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->A **[[Set|set]]** $E$ with an **[[Internal Binary Operation|]]
+>A **[[Set|set]]** $E$ with an **[[Internal Binary Operation|internal binary composition]]** $*$ is said to be a **magma** and we write
 >$$
+(E,*)
 >$$
 ## II. Extensions
 ### 1. Properties
