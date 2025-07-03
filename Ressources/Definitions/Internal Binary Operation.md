@@ -33,6 +33,10 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 >$$
 \forall(x,y,z)\in E^3, x*(y*z)=(x*y)*z
 >$$
+>- $*$ is *commutative* if
+>$$
+\forall(x,y)\in E^2,x*y=y*x
+>$$
 >- $*$ is 
 ### 2. Other formulas
 # Application
