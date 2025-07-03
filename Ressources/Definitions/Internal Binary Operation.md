@@ -48,6 +48,8 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 >$$
 \forall(x,y)\in E^2,x*y=y*x
 >$$
+
+
 ### 2. Other formulas
 # Application
 ## I. Meaning
