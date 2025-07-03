@@ -29,9 +29,11 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 
 >[!tldr]
 >Let $(E,*)$ be a **[[Magma|magma]]**.
->- $*$ is *associative* if 
+>- $*$ is *associative* if
 >$$
+\forall(x,y,z)\in E^3, x*(y*z)=(x*y)*z
 >$$
+>- $*$ is 
 ### 2. Other formulas
 # Application
 ## I. Meaning
