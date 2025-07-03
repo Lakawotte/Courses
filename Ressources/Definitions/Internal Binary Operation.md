@@ -14,7 +14,7 @@ category: "[[Maths]]"
 f:E\times E\to E
 >$$
 #### Note :
-In general, instead of writing $f(x,y)$, we use either the additive form $x+y$ or the mutlip
+In general, instead of writing $f(x,y)$, we use either the additive form $x+y$ or the multiplicative form $x\times y$.
 ## II. Extensions
 ### 1. Properties
 
