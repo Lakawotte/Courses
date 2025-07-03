@@ -28,6 +28,8 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 ### 1. Properties
 
 >[!tldr]
+>Let $(E,*)$ be a **[[Magma|magma]]**.
+>- $*$ is *associative* if 
 >$$
 >$$
 ### 2. Other formulas
