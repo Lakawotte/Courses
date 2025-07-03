@@ -1,13 +1,15 @@
 ---
 aliases: 
-tags: 
-category:
+tags:
+  - algebra/general_algebra
+category: "[[Maths]]"
 ---
 ---
 # Definition
 ## I. Statement
 
 >[!hint] Definition
+>Let $E$ be a set. We call **inter
 >$$
 >$$
 ## II. Extensions
