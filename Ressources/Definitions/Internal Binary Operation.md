@@ -41,7 +41,7 @@ This property is weaker than *associativity*.
 \forall(x,y,z)\in E^3, x*(y*z)=(x*y)*z
 >$$
 #### Note :
-When a **binary operation** is *associative*, we can get rid of the parenthesis when iterating t
+When a **binary operation** is *associative*, we can get rid of the parenthesis when iterating.
 
 >[!tldr] Commutativity
 >Let $(E,*)$ be a **[[Magma|magma]]**. $*$ is *commutative* if
