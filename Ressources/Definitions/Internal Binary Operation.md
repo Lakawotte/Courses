@@ -31,7 +31,7 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 >Let $(E,*)$ be a **[[Magma|magma]]**.
 >- $*$ is *alternative* if
 >$$
-\forall(x,y)\in E^2,x*(x*y)=(x*x)*y\wedge
+\forall(x,y)\in E^2,x*(x*y)=(x*x)*y\wedge (x*y)*y=x*(y*y)
 >$$
 >- $*$ is *associative* if
 >$$
