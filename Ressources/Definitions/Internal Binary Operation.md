@@ -34,7 +34,8 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 \forall(x,y)\in E^2,x*(x*y)=(x*x)*y\wedge (x*y)*y=x*(y*y)
 >$$
 
-
+#### Note : 
+This property is weaker than *associativity*.
 >- $*$ is *associative* if
 >$$
 \forall(x,y,z)\in E^3, x*(y*z)=(x*y)*z
