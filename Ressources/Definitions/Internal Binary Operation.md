@@ -23,7 +23,7 @@ In general, instead of writing $f(x,y)$, we use either the additive form $x+y$ o
 
 If $A$ is a **[[Set|set]]** and $E=F(A)$ the **[[Set|set]]** of all functions from $A$ to $A$, then the *composition* is an **internal binary composition** in $E$.
 
-If $X$ is a **[[Set|set]]**, then **[[Union]]
+If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|intersection]]** are **internal binary compositions** in $\mathcal{P}
 ## II. Extensions
 ### 1. Properties
 
