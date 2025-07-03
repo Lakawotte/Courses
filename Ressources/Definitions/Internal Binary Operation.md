@@ -50,9 +50,13 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 >$$
 
 >[!tldr] Distributivity
->Let $E$ be a **[[Set|set]]** with **internal binary operations** $*$ and $\circ$. $*$ is *distributive* over $\circ$ if
+>Let $E$ be a **[[Set|set]]** with **internal binary operations** $*$ and $\circ$. $*$ is *distributive on the left* over $\circ$ if
 >$$
-\forall(x,y,z)\in E^3,x*(y\circ z)=(x*y)\circ(x)
+\forall(x,y,z)\in E^3,x*(y\circ z)=(x*y)\circ(x*z)
+>$$
+>$*$ is *distributive on the right* over $\circ$ if
+>$$
+\forall(x,y,z)\in E^3,x*(y\circ z)=(x*y)\circ(x*z)
 >$$
 ### 2. Other formulas
 # Application
