@@ -17,7 +17,8 @@ f:E\times E\to E
 #### Note :
 In general, instead of writing $f(x,y)$, we use either the additive form $x+y$ or the multiplicative form $x\times y$.
 ### 2. Examples
-*Addition* and *multiplication* are **internal binary compositions** in $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{Q}$ and $\mathbb{R}$.
+*Addition* and *multiplication* are **internal binary compositions** in $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{Q}$, $\mathbb{R}$ and $\mathbb{C}$.
+*Addition* of **[[Matrix|matrices]]** is an **internal binary composition** in $\mathcal{M}_{n,p}$ 
 ## II. Extensions
 ### 1. Properties
 
