@@ -7,6 +7,7 @@ category: "[[Maths]]"
 ---
 # Definition
 ## I. Statement
+### 1. Definition
 
 >[!hint] Definition
 >Let $E$ be a set. We call **internal binary operation** on $E$ any **[[Application|application]]** $f$ where
@@ -15,6 +16,8 @@ f:E\times E\to E
 >$$
 #### Note :
 In general, instead of writing $f(x,y)$, we use either the additive form $x+y$ or the multiplicative form $x\times y$.
+### 2. Examples
+*Addition* and *multiplication* are **internal binary composition
 ## II. Extensions
 ### 1. Properties
 
