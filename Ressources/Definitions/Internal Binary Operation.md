@@ -50,7 +50,7 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 >$$
 
 >[!tldr] Distributivity
->Let $(E,*)$ be a **[[Magma|magma]]**. $*$ is *distrib*
+>Let $E$ be a **[[Set|set]]** with **internal binary operations** $*$ and . $*$ is *distrib*
 ### 2. Other formulas
 # Application
 ## I. Meaning
