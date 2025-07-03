@@ -29,18 +29,21 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 
 >[!tldr] Alternativity
 >Let $(E,*)$ be a **[[Magma|magma]]**.
->- $*$ is *alternative* if
+>$*$ is *alternative* if
 >$$
 \forall(x,y)\in E^2,x*(x*y)=(x*x)*y\wedge (x*y)*y=x*(y*y)
 >$$
-
 #### Note : 
 This property is weaker than *associativity*.
->- $*$ is *associative* if
+
+>[!tldr] Associativity
+>Let $(E,*)$ be a **[[Magma|magma]]**. $*$ is *associative* if
 >$$
 \forall(x,y,z)\in E^3, x*(y*z)=(x*y)*z
 >$$
->- $*$ is *commutative* if
+
+>[!tldr] Commutativity
+>Let $(E,*)$ be a **[[Magma|magma]]**. $*$ is *commutative* if
 >$$
 \forall(x,y)\in E^2,x*y=y*x
 >$$
