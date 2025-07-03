@@ -29,6 +29,10 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 
 >[!tldr]
 >Let $(E,*)$ be a **[[Magma|magma]]**.
+>- $*$ is *alternative* if
+>$$
+\forall(x,y)\in E^2,x*(x*y)=(x*x)*y\wedge
+>$$
 >- $*$ is *associative* if
 >$$
 \forall(x,y,z)\in E^3, x*(y*z)=(x*y)*z
