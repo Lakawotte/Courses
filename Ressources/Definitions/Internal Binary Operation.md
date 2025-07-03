@@ -27,7 +27,7 @@ If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|inter
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Alternativity
 >Let $(E,*)$ be a **[[Magma|magma]]**.
 >- $*$ is *alternative* if
 >$$
