@@ -56,8 +56,9 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 >$$
 >$*$ is *distributive on the right* over $\circ$ if
 >$$
-\forall(x,y,z)\in E^3,x*(y\circ z)=(x*y)\circ(x*z)
+\forall(x,y,z)\in E^3,(x\circ y)*z=(x*z)\circ(y*z)
 >$$
+>$*$ is *distributive on the left* over $\circ$ if it is both *distributive* on 
 ### 2. Other formulas
 # Application
 ## I. Meaning
