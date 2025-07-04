@@ -9,7 +9,7 @@ category:
 ## I. Statement
 
 >[!hint] Definition
->The **direct image** of a **[[Subset|subset]]** $A$ from $X$ by an **[[Application|application]]** $f:X\to Y$ is the **[[Subset|subset]]** from $Y$ formed by the elements 
+>The **direct image** of a **[[Subset|subset]]** $A$ from $X$ by an **[[Application|application]]** $f:X\to Y$ is the **[[Subset|subset]]** from $Y$ formed by the elements, which by $f$ has at least one *antecedent* 
 >$$
 >$$
 ## II. Extensions
