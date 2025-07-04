@@ -27,6 +27,6 @@ $(\mathbb{Z},+)$, $(\mathbb{Q},+)$, $(\mathbb{R},+)$ and $(\mathbb{C},+)$ are **
 
 $(\mathbb{Q_{+}^*},+)$, $(\mathbb{C^*},\times)$ are **groups**.
 
-Let 
+Let $U=\{z\in\mathbb{C}\,:\,|z|=1\}$ and for all $n\in\mathbb{N^*}
 
 ---
