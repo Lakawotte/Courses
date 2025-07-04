@@ -100,7 +100,7 @@ m*m=m
 >$$
 >The element is a *zero* if it is zero on both sides : $m*x=x*m=m$.
 #### Note :
-Any *left zero* or *right zero* is *idempoten*
+Any *left zero* or *right zero* is *idempotent*.
 # Application
 ## I. Meaning
 ## II. Use
