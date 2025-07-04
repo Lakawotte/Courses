@@ -32,7 +32,10 @@ One can extend the notation to $m^{(n)},n\in\mathbb{Z}$ and use the power rules.
 >- If $m$ is *symmetric*, its symmetric is unique.
 >- If $m$ is *symmetric* of symmetric $m'$, then $m'$ is *symmetric* of symmetric $m$.
 >- If two elements $(m_{1},m_{2})\in M^2$ are *symmetric*, it is also the case for $m_1*m_2$ : $(m_1*m_2)'=m_1'*m_2'$.
->- If an element 
+>- If $m$ is *symmetric*, it is *regular*.
+
+>[!tldr] Semigroup
+>A **magma** which is *associative*
 # Application
 ## I. Meaning
 ## II. Use
