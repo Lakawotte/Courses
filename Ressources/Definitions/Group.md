@@ -21,7 +21,10 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 ### 2. Other kinds of **groups**
 
 >[!tldr] Structure
->Let $(G_1,*)$ and $(G_2,*)$ be two **groups**. We makje==
+>Let $(G_1,*)$ and $(G_2,*)$ be two **groups**. We give $G_1\times G_2$ a *group structure* by posing
+>$$
+
+>$$
 # Application
 ## I. Meaning
 ## II. Use
