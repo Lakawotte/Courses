@@ -52,7 +52,7 @@ If the $x_{i}$s are *equiprobable*, we have
 ### 2. Other formulas
 
 >[!tldr] Global Variance
-If the set is composed of $k$ subsets for a total number of data $N$ we have
+If the set is composed of $k$ **[[Set|subsets]]** for a total number of data $N$ we have
 >$$
 \mathbb{V}\mathrm{ar}=\frac{1}{N}\sum_{i=1}^k n_{i}(V_{i}+(\bar{x}-\bar{x_{i}})^2)
 >$$
