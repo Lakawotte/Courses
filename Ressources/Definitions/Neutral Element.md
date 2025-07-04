@@ -34,7 +34,10 @@ category: "[[Maths]]"
 >[!tip] Unicity
 >>[!tldr] Property
 >>Let $(E,*)$ be a **[[Magma|magma]]**.
->>If the **[[Internal Binary Operation|internal binary composition]]** has a **left identity** and a **right identity**, then the **[[Internal Binary Operation|internal binary composition]]** has a unique **identity element**, which is 
+>>If the **[[Internal Binary Operation|internal binary composition]]** has a **left identity** $e_1$ and a **right identity** $e_2$, then the **[[Internal Binary Operation|internal binary composition]]** has a unique **identity element** $e$, and $e=e_1=e_2$.
+>
+>>[!info] Proof
+>>
 ### 2. Other formulas
 # Application
 ## I. Meaning
