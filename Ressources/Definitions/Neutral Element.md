@@ -9,8 +9,9 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $M$ be a **[[Magma]]
+>Let $(M,*)$ be a **[[Magma|magma]]**. Any element $e\in M$ is said to be **left neutral** if
 >$$
+\forall m\in Me*s=s
 >$$
 ## II. Extensions
 ### 1. Properties
