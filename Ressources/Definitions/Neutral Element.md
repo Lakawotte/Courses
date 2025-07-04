@@ -34,7 +34,7 @@ category: "[[Maths]]"
 >[!tip] Unicity
 >>[!tldr] Property
 >>Let $(E,*)$ be a **[[Magma|magma]]**.
->>If there is a **left identity
+>>If the **[[Internal Binary Operation|internal binary composition]]** has a **left identity** and a **right identity**
 ### 2. Other formulas
 # Application
 ## I. Meaning
