@@ -9,9 +9,9 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->We call **group** a **[[Magma|magma]]**
->$$
->$$
+>We call **group** a **[[Magma|monoid]]** where every element is *symmetric*.
+#### Note :
+The group is said to be *commutative* 
 ## II. Extensions
 ### 1. Properties
 
