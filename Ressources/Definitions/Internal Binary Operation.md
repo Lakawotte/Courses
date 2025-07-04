@@ -62,15 +62,15 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 ### 2. Properties of the elements
 
 >[!tldr] Idempotency
->Let $E$ be a **[[Magma|magma]]**. An element $e\in E$ is *idempotent* if
+>Let $M$ be a **[[Magma|magma]]**. An element $m\in M$ is *idempotent* if
 >$$
-e*e=e
+m*m=m
 >$$
 
 >[!tldr] Symmetry
->Let $E$ be a *unital* **[[Magma|magma]]**. An element $e\in E$ is *symmetric* if
+>Let $E$ be a *unital* **[[Magma|magma]]**. An element $m\in M$ is *left symmetric* if
 >$$
-
+\exists m_{1}\in M,m*m_{1}
 >$$
 # Application
 ## I. Meaning
