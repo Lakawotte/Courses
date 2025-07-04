@@ -23,7 +23,7 @@ category: "[[Maths]]"
 >A **magma** is called *unital* if it has a **[[Neutral Element|neutral element]]**.
 
 >[!tldr] Monoid
->A **magma** which is *associai*
+>A **magma** which is *associative* and *unital* is called a *monoid*.
 # Application
 ## I. Meaning
 ## II. Use
