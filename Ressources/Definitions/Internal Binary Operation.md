@@ -77,6 +77,9 @@ m*m=m
 \exists m_{2}\in M,m_{2}*m=e
 >$$
 >It is simply *symmetric* if it is left and right symmetric and if $m_1=m_2$.
+
+>[!tldr] Regularity
+>Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is *left regular*
 # Application
 ## I. Meaning
 ## II. Use
