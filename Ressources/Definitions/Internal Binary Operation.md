@@ -68,10 +68,15 @@ m*m=m
 >$$
 
 >[!tldr] Symmetry
->Let $E$ be a *unital* **[[Magma|magma]]**. An element $m\in M$ is *left symmetric* if
+>Let $E$ be a *unital* **[[Magma|magma]]** with **[[Neutral Element|neutral element]]** $e$. An element $m\in M$ is *left symmetric* if
 >$$
-\exists m_{1}\in M,m*m_{1}
+\exists m_{1}\in M,m*m_{1}=e
 >$$
+>It is *right symmetric* if
+>$$
+\exists m_{2}\in M,m_{2}*m=e
+>$$
+>It is simply *sym*
 # Application
 ## I. Meaning
 ## II. Use
