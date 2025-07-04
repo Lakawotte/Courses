@@ -29,6 +29,7 @@ f[A]=\{f(x)|x\in A\}=\{y\in Y|\exists a\in A, y=f(a)\}
 ## I. Meaning
 The **direct image** of a **[[Subset|subset]]** $A$ from $X$ by an **[[Application|application]]** $f:X\to Y$ is the **[[Subset|subset]]** from $Y$ formed by the elements, which by $f$ has at least one *preimage* in $A$.
 
+Instead, the **image** of an **[[Application|application]]** $f$ does not depend on any **[[Subset|subset]]** ; it is the **[[Set|set]]** of all images 
 ## II. Use
 # Example
 
