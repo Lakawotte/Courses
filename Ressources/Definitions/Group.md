@@ -23,6 +23,8 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 ## I. Meaning
 ## II. Use
 # Examples
+$(\mathbb{Z},+)$, $(\mathbb{Q},+)$, $(\mathbb{Z},+)$ and $(\mathbb{Z},+)$ are **groups**.
 
+$(\mathbb{Z},+)$, $(\mathbb{Z},+)$, $(\mathbb{Z},+)$ are **groups**.
 
 ---
