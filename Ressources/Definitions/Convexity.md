@@ -68,7 +68,10 @@ E(f)=\{(x,y)\in\mathbb{R}^2,x\in I,y\ge f(x)\}
 A function is called **convex** when its epigraph lies above the line segments connecting any two points on its curve.
 In general, it is difficult to use the definition of **convexity** in terms of chords, but this implies that the function needs to be twice **[[Differentiability|differentiable]]**.
 ## II. Use
-Convexity if often used in **[[[Differentiability|differentiation]]** to compute inequalities e.g $\forall x>-1,\ln(x+1)\le x$.
+Convexity if often used in **[[Differentiability|differentiation]]** to compute inequalities e.g
+$$
+\forall x>-1,\ln(x+1)\le x
+$$
 # Example
 
 ---
