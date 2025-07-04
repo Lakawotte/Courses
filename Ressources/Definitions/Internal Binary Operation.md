@@ -124,7 +124,7 @@ A=
 0 & 0 & 0 \\
 \end{bmatrix}
 $$
-is *nilpotent* since $A^3=$
+is *nilpotent* since $A^3=\mathbf{0}$.
 
 # Application
 ## I. Meaning
