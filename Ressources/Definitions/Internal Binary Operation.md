@@ -61,7 +61,11 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 >$*$ is *distributive* over $\circ$ if it is both distributive on the right and on the left.
 
 >[!tldr] Stability
->Let $M$ be a **[[Magma|magma]]**. A **[[Subset|subset]]** $F\subset E$ 
+>Let $(M,*)$ be a **[[Magma|magma]]**. A **[[Subset|subset]]** $S\subset M$ is *stable* by $*$ if
+>$$
+\forall(x,y)\in S^2,x*y\in S
+>$$
+>
 ### 2. Properties of the elements
 
 >[!tldr] Idempotency
