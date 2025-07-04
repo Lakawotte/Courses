@@ -21,7 +21,7 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->>[!tip] Idempotency
+>[!tip] Idempotency
 >>[!tldr] Property
 >A **neutral element** is *idempotent*.
 >
