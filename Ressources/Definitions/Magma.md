@@ -20,7 +20,7 @@ category: "[[Maths]]"
 >Let $(M,*)$ be a **magma**.
 >- If $M$ has both a *left zero* $z$ and a *right zero* $z'$, it has a *zero* since $z=z*z'=z'$.
 >- $M$ can have at most one *zero*.
-### 2. Other kinds of magma
+### 2. Other kinds of **magmas**
 
 >[!tldr] Unital
 >A **magma** $(M,*)$ is called *unital* if it has a **[[Neutral Element|neutral element]]** $e$.
