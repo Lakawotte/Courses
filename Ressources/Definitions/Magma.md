@@ -23,9 +23,8 @@ category: "[[Maths]]"
 >A **magma** $(M,*)$ is called *unital* if it has a **[[Neutral Element|neutral element]]** $e$.
 >- We note $x^{(0)}=e$.
 >- If an element $m\in M$ is *symmetric* of symmetric $m'$, then for all $n\in\mathbb{N^*}$ we write $m^{(-n)}$ the symmetric $m'^{(n)}$.
->-t
 #### Note :
-One can extend the 
+One can extend the notation to $m^{(n)},n\in\mathbb{Z}$ and use the power rules.
 
 >[!tldr] Monoid
 >A **magma** $(M,*)$ which is *associative* and *unital* is called a *monoid*.
