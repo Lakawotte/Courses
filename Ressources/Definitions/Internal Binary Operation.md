@@ -90,7 +90,10 @@ m*m=m
 >It is *regular* when it is both left regular and right regular.
 
 >[!tldr] Absorption
->
+>Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is a *left zero* if
+>$$
+\forall x\in M
+>$$
 # Application
 ## I. Meaning
 ## II. Use
