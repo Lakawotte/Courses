@@ -27,6 +27,8 @@ $(\mathbb{Z},+)$, $(\mathbb{Q},+)$, $(\mathbb{R},+)$ and $(\mathbb{C},+)$ are **
 
 $(\mathbb{Q_{+}^*},+)$, $(\mathbb{C^*},\times)$ are **groups**.
 
-Let $\mathbb{U}=\{z\in\mathbb{C}\,:\,|z|=1\}$ and for all $n\in\mathbb{N^*}$, $\mathbb{U}_n=\{z\in\mathbb{C}\,:\,z^n=1\}$. Then $\mathbb{U}
+Let $\mathbb{U}=\{z\in\mathbb{C}\,:\,|z|=1\}$ and for all $n\in\mathbb{N^*}$, $\mathbb{U}_n=\{z\in\mathbb{C}\,:\,z^n=1\}$. Then $(\mathbb{U},+)$ and $(\mathbb{U}_{n},\times)$ are **groups**.
+
+If $
 
 ---
