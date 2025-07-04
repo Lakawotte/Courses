@@ -39,7 +39,7 @@ T=\{x\in I:f(x)\ge\lambda\}
 ### 2. Other formulas
 # Application
 ## I. Meaning
-This theorem shows that the image of a segment by a **[[Continuity|continuous]]** function is also an interval.
+This theorem shows that the **[[Image|image]]** of a segment by a **[[Continuity|continuous]]** function is also an interval.
 ## II. Use
 # Example
 
