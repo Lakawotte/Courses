@@ -67,7 +67,11 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 e*e=e
 >$$
 
->[!tldr] Symmetricity
+>[!tldr] Symmetry
+>Let $E$ be a *unital* **[[Magma|magma]]**. An element $e\in E$ is *symmetric* if
+>$$
+
+>$$
 # Application
 ## I. Meaning
 ## II. Use
