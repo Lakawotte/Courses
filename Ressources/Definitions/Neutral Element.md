@@ -26,8 +26,9 @@ category: "[[Maths]]"
 >A **neutral element** is *idempotent*.
 >
 >>[!info] Proof
+>>Let $(E,*)$ be a **[[Magma|magma]]**.
 >>$$
-\forall x\in E
+\forall x\in E, e*x=x\wedge x*e=x\Longrightarrow e*e=e
 >>$$
 ### 2. Other formulas
 # Application
