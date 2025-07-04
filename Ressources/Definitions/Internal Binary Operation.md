@@ -25,7 +25,7 @@ If $A$ is a **[[Set|set]]** and $E=F(A)$ the **[[Set|set]]** of all functions fr
 
 If $X$ is a **[[Set|set]]**, then **[[Union|union]]** and **[[Intersection|intersection]]** are **internal binary compositions** in $\mathcal{P}(X)$, the **[[Set|set]]** of all **[[Subset|subsets]]** from $X$.
 ## II. Extensions
-### 1. Properties
+### 1. Properties of the **binary operation**
 
 >[!tldr] Alternativity
 >Let $(E,*)$ be a **[[Magma|magma]]**. $*$ is *alternative* if
@@ -59,15 +59,16 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 \forall(x,y,z)\in E^3,(x\circ y)*z=(x*z)\circ(y*z)
 >$$
 >$*$ is *distributive* over $\circ$ if it is both distributive on the right and on the left.
+### 2. Properties of the elements
 
 >[!tldr] Idempotency
->Let $E$ be a **[[Magma|magma]]**. $*$ is *idempotent* if
+>Let $E$ be a **[[Magma|magma]]**. An element $e\in E$ is *idempotent* if
 >$$
 \forall x\in E, x*x=x
 >$$
 #### Note :
 More commonly, *idempotency* is satisfied for some element $x\in E$, for example a **[[Neutral Element|neutral element]]**. This is, in the **[[Monoid|monoid]]** $(\mathbb{N},+)$, only $0$ is *idempotent*. Indeed $0+0=0$.
-### 2. Other formulas
+
 # Application
 ## I. Meaning
 ## II. Use
