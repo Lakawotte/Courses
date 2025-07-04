@@ -9,7 +9,7 @@ category:
 ## I. Statement
 
 >[!hint] Definition
->The **direct image** of a **[[Subset|subset]]** $A$ from $X$ by an **[[Application|application]]** $f:X\to Y$, where $Y$ is another **[[Set|]]
+>The **direct image** of a **[[Subset|subset]]** $A$ from $X$ by an **[[Application|application]]** $f:X\to Y$ is the **[[Subset|subset]]** from $Y$ formed by the elements 
 >$$
 >$$
 ## II. Extensions
