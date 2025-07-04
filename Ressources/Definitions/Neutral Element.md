@@ -26,7 +26,9 @@ category: "[[Maths]]"
 >A **neutral element** is *idempotent*.
 >
 >>[!info] Proof
->>a
+>>$$
+\forall x\in E
+>>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
