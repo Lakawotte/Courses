@@ -18,7 +18,10 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >[!tldr] 
 >$$
 >$$
-### 2. Other formulas
+### 2. Other kinds of groups
+
+>[!tldr] Structure
+>Let $(G_1,*)$ and $(G_2,*)
 # Application
 ## I. Meaning
 ## II. Use
