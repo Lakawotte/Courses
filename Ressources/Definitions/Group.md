@@ -23,8 +23,9 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >[!tldr] Structure
 >Let $(G_1,*)$ and $(G_2,*)$ be two **groups**. We give $G_1\times G_2$ a *group structure* by posing
 >$$
-
+(x_{1},x_{2})*(y_{1},y_{2})=(x_{1}*y_{1},x_{2}*y_{2})
 >$$
+>We then c
 # Application
 ## I. Meaning
 ## II. Use
