@@ -76,7 +76,7 @@ m*m=m
 >$$
 \exists m_{2}\in M,m_{2}*m=e
 >$$
->It is simply *sym*
+>It is simply *symmetric* if it is left and right symmetric and if $m_1=m_2$.
 # Application
 ## I. Meaning
 ## II. Use
