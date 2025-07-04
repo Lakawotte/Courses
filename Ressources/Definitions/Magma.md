@@ -24,6 +24,7 @@ category: "[[Maths]]"
 
 >[!tldr] Monoid
 >A **magma** which is *associative* and *unital* is called a *monoid*.
+>- If an element $m\in M$ has a *left symmetric* and a *righjt*
 # Application
 ## I. Meaning
 ## II. Use
