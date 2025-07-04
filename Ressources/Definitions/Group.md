@@ -22,6 +22,7 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 # Application
 ## I. Meaning
 ## II. Use
-# Example
+# Examples
+
 
 ---
