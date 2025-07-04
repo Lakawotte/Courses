@@ -102,8 +102,12 @@ m*m=m
 #### Note :
 Any *left zero* or *right zero* is *idempotent*.
 
->[!tip] Unicity of the zero
+>[!tip] Absorption
 >>[!tldr] Property
+>>a
+>
+>
+>>[!tldr] Unicity
 >>Let $(E,*)$ be a **[[Magma|magma]]**.
 >>If the **internal binary composition** has a **left zero** $z_1$ and a **right zero** $z_2$, then the **internal binary composition** has a unique **zero** $z$, and $z=z_1=z_2$.
 >
