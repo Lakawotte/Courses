@@ -101,6 +101,9 @@ m*m=m
 >The element is a *zero* if it is zero on both sides : $m*x=x*m=m$.
 #### Note :
 Any *left zero* or *right zero* is *idempotent*.
+
+>[!tip] Unicity of the zero
+>>[!tldr]
 # Application
 ## I. Meaning
 ## II. Use
