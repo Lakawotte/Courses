@@ -17,7 +17,7 @@ category: "[[Maths]]"
 >$$
 \forall m\in M,m*e=m
 >$$
->If such an element is both left and right **neutral**, its is simply denoted
+>If such an element is both left and right **neutral**, it is called a **two-sided identity** or **identity**.
 ## II. Extensions
 ### 1. Properties
 
