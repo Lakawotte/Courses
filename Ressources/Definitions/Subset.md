@@ -16,7 +16,7 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tip] **[[Cardinality]]** of a **subset**
+>[!tip] **[[Cardinality]]** of the **[[Power Set|power set]]**
 >>[!tldr] Property
 >>$$
 \text{card}(\text{\cal{P}}(\mathcal{E}))=2^{\text{card}(\mathcal{E})}
