@@ -21,7 +21,7 @@ category: "[[Maths]]"
 >$$
 \forall(y_{1},y_{2})\in\mathrm{Im}(f)^2,\forall\lambda\in\mathbb{R},y_{1}\le\lambda\le y_{2} \Longrightarrow\lambda\in \mathrm{Im}(f)
 >$$
->Suppose $(y_{1},y_{2})\in\mathrm{Im}(f)^2$ and $y_{1}\le\lambda\le y_{2}$. Consider $S$ and $T$, the **[[Power Set|subsets]]** of $I$ such that $I=S\cap T$ :
+>Suppose $(y_{1},y_{2})\in\mathrm{Im}(f)^2$ and $y_{1}\le\lambda\le y_{2}$. Consider $S$ and $T$, the **[[Set|subsets]]** of $I$ such that $I=S\cap T$ :
 >$$
 S=\{x\in I:f(x)\le\lambda\}
 >$$
@@ -29,7 +29,7 @@ S=\{x\in I:f(x)\le\lambda\}
 T=\{x\in I:f(x)\ge\lambda\}
 >$$
 >As $y_1\in S$ and $y_2\in T$ it follows that both subsets are non-empty.
->Using metrics, we know that a point in one **[[Power Set|subset]]** is at zero **[[Distance|distance]]** from the other. Suppose then that $s\in S$ is at zero **[[Distance|distance]]** from $T$ : 
+>Using metrics, we know that a point in one **[[Set|subset]]** is at zero **[[Distance|distance]]** from the other. Suppose then that $s\in S$ is at zero **[[Distance|distance]]** from $T$ : 
 ## II. Extensions
 ### 1. Properties
 
