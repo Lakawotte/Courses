@@ -9,6 +9,7 @@ category:
 ## I. Statement
 
 >[!hint] Definition
+>Let $A\subset X$ be a **[[Subset|subset]]** of $X$ and $Y$ an other **[[Set|set]]**. Let 
 >$$
 >$$
 ## II. Extensions
