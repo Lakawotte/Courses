@@ -110,7 +110,10 @@ m*m=m
 Any *left zero* or *right zero* is *idempotent*.
 
 >[!tldr] Nilpotency
->
+>Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is *nilpotent* if
+>$$
+\exists n\in\mathbb{N^*},m^n=0
+>$$
 
 # Application
 ## I. Meaning
