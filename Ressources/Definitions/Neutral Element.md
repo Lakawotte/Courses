@@ -21,7 +21,8 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>>[!tip] Idempotency
+>
 >$$
 >$$
 ### 2. Other formulas
