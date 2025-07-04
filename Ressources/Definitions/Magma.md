@@ -16,7 +16,9 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[]
+>[!tldr] Zero
+>Let $(M,*)$ be a **magma**.
+>- If $M$ has both a *left zero* and a *right zero*, 
 
 ### 2. Other kinds of magma
 
