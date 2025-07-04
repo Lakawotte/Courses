@@ -25,7 +25,10 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >$$
 (x_{1},x_{2})*(y_{1},y_{2})=(x_{1}*y_{1},x_{2}*y_{2})
 >$$
->We then c
+>We then call *product group* the **group** $(G_1\times G_2,*)$.
+
+>[!tldr] Subgroup
+>Let $(G,*)$ be a **group**. 
 # Application
 ## I. Meaning
 ## II. Use
