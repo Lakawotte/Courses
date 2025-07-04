@@ -30,6 +30,10 @@ category: "[[Maths]]"
 >>$$
 \forall x\in E, e*x=x\wedge x*e=x\Longrightarrow e*e=e
 >>$$
+
+>[!tip] Unicity
+>>[!tldr] Property
+>>If there exists 
 ### 2. Other formulas
 # Application
 ## I. Meaning
