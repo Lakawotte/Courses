@@ -67,7 +67,7 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 e*e=e
 >$$
 
->[!tldr] 
+>[!tldr] Symmetricity
 # Application
 ## I. Meaning
 ## II. Use
