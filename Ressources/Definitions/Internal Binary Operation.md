@@ -89,30 +89,28 @@ m*m=m
 >$$
 >It is *regular* when it is both left regular and right regular.
 
->[!tldr] Absorption
->Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is a *left zero* if
->$$
-\forall x\in M, m*x=m
->$$
->It is a *left zero* if
->$$
-\forall x\in M, x*m=m
->$$
->The element is a *zero* if it is zero on both sides : $m*x=x*m=m$.
-#### Note :
-Any *left zero* or *right zero* is *idempotent*.
-
 >[!tip] Absorption
 >>[!tldr] Property
->>a
->
+>>Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is a *left zero* if
+>>$$
+\forall x\in M, m*x=m
+>>$$
+>It is a *left zero* if
+>>$$
+\forall x\in M, x*m=m
+>>$$
+>The element is a *zero* if it is zero on both sides : $m*x=x*m=m$.
 >
 >>[!tldr] Unicity
->>Let $(E,*)$ be a **[[Magma|magma]]**.
+>>Let $(M,*)$ be a **[[Magma|magma]]**.
 >>If the **internal binary composition** has a **left zero** $z_1$ and a **right zero** $z_2$, then the **internal binary composition** has a unique **zero** $z$, and $z=z_1=z_2$.
 >
 >>[!info] Proof
+#### Note :
+Any *left zero* or *right zero* is *idempotent*.
 
+>[!tldr] Nilpotency
+>
 
 # Application
 ## I. Meaning
