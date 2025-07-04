@@ -18,7 +18,8 @@ category: "[[Maths]]"
 
 >[!tldr] Zero
 >Let $(M,*)$ be a **magma**.
->- If $M$ has both a *left zero* and a *right zero*, 
+>- If $M$ has both a *left zero* $z$ and a *right zero* $z'$, it has a *zero* since $z=z*z'=z'$.
+>- $M$ can have at most one $zero$.
 
 ### 2. Other kinds of magma
 
