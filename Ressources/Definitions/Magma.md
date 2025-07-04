@@ -16,9 +16,8 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
->$$
->$$
+>[!tldr] Unital
+>A **magma** is called *unital* if it ha
 ### 2. Other formulas
 # Application
 ## I. Meaning
