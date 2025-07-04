@@ -105,10 +105,11 @@ Any *left zero* or *right zero* is *idempotent*.
 >[!tip] Unicity of the zero
 >>[!tldr] Property
 >>Let $(E,*)$ be a **[[Magma|magma]]**.
->>If the **internal binary composition** has a **left identity** $e_1$ and a **right identity** $e_2$, then the **internal binary composition** has a unique **identity element** $e$, and $e=e_1=e_2$.
+>>If the **internal binary composition** has a **left zero** $z_1$ and a **right zero** $z_2$, then the **internal binary composition** has a unique **zero** $z$, and $z=z_1=z_2$.
 >
 >>[!info] Proof
->>
+
+
 # Application
 ## I. Meaning
 ## II. Use
