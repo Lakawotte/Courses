@@ -15,7 +15,7 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] 
 >$$
 >$$
 ### 2. Other formulas
