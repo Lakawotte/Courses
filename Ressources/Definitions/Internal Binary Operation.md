@@ -92,8 +92,13 @@ m*m=m
 >[!tldr] Absorption
 >Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is a *left zero* if
 >$$
-\forall x\in M
+\forall x\in M, m*x=m
 >$$
+>It is a *left zero* if
+>$$
+\forall x\in M, x*m=m
+>$$
+>The element is 
 # Application
 ## I. Meaning
 ## II. Use
