@@ -64,11 +64,10 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 >[!tldr] Idempotency
 >Let $E$ be a **[[Magma|magma]]**. An element $e\in E$ is *idempotent* if
 >$$
-\forall x\in E, x*x=x
+e*e=e
 >$$
-#### Note :
-More commonly, *idempotency* is satisfied for some element $x\in E$, for example a **[[Neutral Element|neutral element]]**. This is, in the **[[Monoid|monoid]]** $(\mathbb{N},+)$, only $0$ is *idempotent*. Indeed $0+0=0$.
 
+>[!tldr] 
 # Application
 ## I. Meaning
 ## II. Use
