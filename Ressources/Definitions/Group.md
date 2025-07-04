@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->We call *group**
+>We call **group** a **[[Magma|magma]]**
 >$$
 >$$
 ## II. Extensions
