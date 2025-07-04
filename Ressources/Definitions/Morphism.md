@@ -17,6 +17,8 @@ category: "[[Maths]]"
 ### 1. Properties
 
 >[!tldr] Properties
+>Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism** :
+>- The direct image 
 >$$
 >$$
 ### 2. Other formulas
