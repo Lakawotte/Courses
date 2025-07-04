@@ -27,8 +27,12 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >$$
 >We then call *product group* the **group** $(G_1\times G_2,*)$.
 
->[!tldr] Subgroup
->Let $(G,*)$ be a **group**. A **[[Subset|subset]]** $H\subset G$ is called *subgroup* of $G$ if $H$ is *stable* by $*$ and if $(H,*)$ is itself a **group**.
+>[!tip] Subgroup
+>>[!tldr] Definition
+>>Let $(G,*)$ be a **group**. A **[[Subset|subset]]** $H\subset G$ is called *subgroup* of $G$ if $H$ is *stable* by $*$ and if $(H,*)$ is itself a **group**.
+>
+>>[!tldr] Caracterization
+>>A **[[Subset|subset]]** $H\subset G$ is a *subgroup*
 # Application
 ## I. Meaning
 ## II. Use
