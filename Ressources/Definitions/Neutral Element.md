@@ -23,10 +23,10 @@ category: "[[Maths]]"
 
 >>[!tip] Idempotency
 >>[!tldr] Property
->A **neutral element** is *i*
+>A **neutral element** is *idempotent*.
 >
 >>[!info] Proof
->>
+>>a
 ### 2. Other formulas
 # Application
 ## I. Meaning

@@ -10,34 +10,34 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!tip] Definition
-$$
+>$$
 \tilde{X}=\begin{cases}X_{\frac{n+1}{2}}\text{, if n is odd}\\\frac{X_{\frac{n}{2}}+X_{\frac{n}{2}+1}}{2}\text{, else}\end{cases}
-$$
+>$$
 ## II. Extensions
 ### 1. Properties
 
 >[!tldr] Median and Mode
-$$
+>$$
 |\bar{X}-\tilde{X}|\le \sigma
-$$
+>$$
 
 >[!tldr] Median and Mean
-$$
+>$$
 |\bar{X}-\tilde{X}|\le\sqrt{\frac{3}{5}}\sigma
-$$
-This inegality is true only when the distribution is **unimodal**.
+>$$
+>This inegality is true only when the distribution is **unimodal**.
 
 >[!tldr] Normal Law
-$$
+>$$
 \tilde{X}\approx\frac{2\bar{X}+mode(X)}{2}
-$$
-If $X \sim \mathcal{N}(\mu,\,\sigma^{2})$.
+>$$
+>If $X \sim \mathcal{N}(\mu,\,\sigma^{2})$.
 
 >[!tldr] Jensen's inequality
-$$
+>$$
 \tilde{[g(X)]}\ge g(\tilde{X})
-$$
-Where $g$ is a convex function.
+>$$
+>Where $g$ is a convex function.
 ### 2. Other formulas
 # Application
 ## I. Meaning
