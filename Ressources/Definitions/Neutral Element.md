@@ -33,7 +33,10 @@ category: "[[Maths]]"
 
 >[!tip] Unicity
 >>[!tldr] Property
->>If there exists 
+>>Let $(E,*)$ be a **[[Magma|magma]]**.
+>>$$
+\exists e_{1}\in E,\forall e_{1}*x=x\wedge\exists e_{2}\in E,\forall e_{2}=x
+>>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
