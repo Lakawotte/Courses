@@ -14,7 +14,7 @@ f[A]=\{f(x)|x\in A\}=\{y\in Y|\exists a\in A, y=f(a)\}
 >$$
 
 >[!tldr] Definition : Image of an **[[Application]]**
->Let $X$ be a **[[Set|set]]** and $f:X\to Y$ an 
+>Let $X$ and $Y$ be two **[[Set|sets]]** and $f:X\to Y$ an **[[Application|application]]**.
 >$$
 \mathrm{Im}(f)=f[X]
 >$$
