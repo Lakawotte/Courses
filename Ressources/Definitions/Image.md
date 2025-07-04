@@ -31,7 +31,7 @@ The **direct image** of a **[[Subset|subset]]** $A$ from $X$ by an **[[Applicati
 
 Instead, the **image** of an **[[Application|application]]** $f$ defined on $X$ does not depend on any **[[Subset|subset]]** ; it is the **[[Set|set]]** of all images of $X$ by $f$.
 
-For example, lets consider the **[[Application|application]]** $f$ from $\{1,2,3\}$ to $\{a,b,c,d\}$ defined by $f(1)=a$, $f(2)=c$, $f(3)=d$. The **direct image**  of $\{2,3\}$ by $f$ is $\{c,d\}$
+For example, lets consider the **[[Application|application]]** $f$ from $\{1,2,3\}$ to $\{a,b,c,d\}$ defined by $f(1)=a$, $f(2)=c$, $f(3)=d$. The **direct image** of $\{2,3\}$ by $f$ is $f[\{2,3\}]=\{c,d\}$, but the **image** of $f$ $\[]
 ## II. Use
 # Example
 
