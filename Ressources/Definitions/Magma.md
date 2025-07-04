@@ -16,9 +16,11 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
+
+### 2. Other kinds of magma
+
 >[!tldr] Unital
->A **magma** is called *unital* if it ha
-### 2. Other formulas
+>A **magma** is called *unital* if it has an **[[Neutral Element|neutral element]]**.
 # Application
 ## I. Meaning
 ## II. Use
