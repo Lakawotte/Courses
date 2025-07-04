@@ -25,7 +25,9 @@ category: "[[Maths]]"
 >[!tldr] Monoid
 >A **magma** which is *associative* and *unital* is called a *monoid*.
 >- If an element $m\in M$ has a *left symmetric* and a *right symmetric*, they are both equal.
->- If 
+>- If an element $m\in M$ is *symmetric*, its symmetric is unique.
+>- If an element $m\in M$ is *symmetric* of symmetric $m'$, then $m'$ is
+>- If an element $m\in M$
 # Application
 ## I. Meaning
 ## II. Use
