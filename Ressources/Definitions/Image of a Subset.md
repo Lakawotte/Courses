@@ -9,8 +9,9 @@ category:
 ## I. Statement
 
 >[!hint] Definition
->Let $A\subset X$ be a **[[Subset|subset]]** of $X$ and $Y$ an other **[[Set|set]]**. Let 
+>Let $A\subset X$ be a **[[Subset|subset]]** of $X$ and $Y$ an other **[[Set|set]]**. Let $f:X\to Y$ be an **[[Application|application]]**.
 >$$
+f(A)=\{f(x)|x\in A\}=\{y\in Y\}
 >$$
 ## II. Extensions
 ### 1. Properties
