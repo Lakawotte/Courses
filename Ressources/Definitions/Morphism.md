@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $(G)
+>Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]**. Any **[[Application|application]]** $f:G\to F$ is a **morphism** if and onl
 >$$
 >$$
 ## II. Extensions
