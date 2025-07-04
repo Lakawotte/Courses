@@ -34,7 +34,14 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >>[!tldr] Caracterization
 >>A **[[Subset|subset]]** $H\subset G$ is a *subgroup* if and only if :
 >>1. $H$ is *non-empty*
->>2. $H$ is *stable* by $*$ : $
+>>2. $H$ is *stable* by $*$ :
+>>$$
+\forall(x,y)\in H^2, x*y\in H
+>>$$
+>>3. $H$ is *stable* by the inverse :
+>>$$
+
+>>$$
 # Application
 ## I. Meaning
 ## II. Use
