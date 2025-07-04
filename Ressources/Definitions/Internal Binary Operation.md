@@ -89,7 +89,8 @@ m*m=m
 >$$
 >It is *regular* when it is both left regular and right regular.
 
->[!tldr] Absorbtion
+>[!tldr] Absorption
+>
 # Application
 ## I. Meaning
 ## II. Use
