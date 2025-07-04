@@ -32,6 +32,7 @@ One can extend the notation to $m^{(n)},n\in\mathbb{Z}$ and use the power rules.
 >- If an element $m\in M$ is *symmetric*, its symmetric is unique.
 >- If an element $m\in M$ is *symmetric* of symmetric $m'$, then $m'$ is *symmetric* of symmetric $m$.
 >- If two elements $(m_{1},m_{2})\in M^2$ are *symmetric*, it is also the case for $m_1*m_2$ : $(m_1*m_2)'=m_1'*m_2'$.
+>- 
 # Application
 ## I. Meaning
 ## II. Use

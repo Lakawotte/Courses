@@ -87,7 +87,7 @@ m*m=m
 >$$
 \forall(x,y)\in M^2, x*m=y*m\Longrightarrow x=y
 >$$
->
+>It is *regular* when it is both left regular and right regular.
 # Application
 ## I. Meaning
 ## II. Use
