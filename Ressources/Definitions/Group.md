@@ -32,7 +32,9 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >>Let $(G,*)$ be a **group**. A **[[Subset|subset]]** $H\subset G$ is called *subgroup* of $G$ if $H$ is *stable* by $*$ and if $(H,*)$ is itself a **group**.
 >
 >>[!tldr] Caracterization
->>A **[[Subset|subset]]** $H\subset G$ is a *subgroup*
+>>A **[[Subset|subset]]** $H\subset G$ is a *subgroup* if and only if :
+>>1. $H$ is *non-empty*
+>>2. $H$ is *stable* by $*$ : $
 # Application
 ## I. Meaning
 ## II. Use
