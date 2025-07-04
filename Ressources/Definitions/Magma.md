@@ -21,6 +21,9 @@ category: "[[Maths]]"
 
 >[!tldr] Unital
 >A **magma** is called *unital* if it has a **[[Neutral Element|neutral element]]**.
+
+>[!tldr] Monoid
+>A **magma** which is *associai*
 # Application
 ## I. Meaning
 ## II. Use
