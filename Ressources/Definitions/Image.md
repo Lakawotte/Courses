@@ -1,6 +1,5 @@
 ---
-aliases:
-  - direct image
+aliases: []
 tags: 
 category:
 ---
@@ -8,10 +7,10 @@ category:
 # Definition
 ## I. Statement
 
->[!hint] Definition
+>[!hint] Definition : Image of a **[[Subset|subset]]**
 >Let $A\subset X$ be a **[[Subset|subset]]** of $X$ and $Y$ an other **[[Set|set]]**. Let $f:X\to Y$ be an **[[Application|application]]**.
 >$$
-f(A)=\{f(x)|x\in A\}=\{y\in Y\}
+f(A)=\{f(x)|x\in A\}=\{y\in Y|\exists a\in A, y=f(a)\}
 >$$
 ## II. Extensions
 ### 1. Properties
