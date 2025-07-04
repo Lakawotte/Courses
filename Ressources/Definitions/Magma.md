@@ -35,7 +35,7 @@ One can extend the notation to $m^{(n)},n\in\mathbb{Z}$ and use the power rules.
 >- If $m$ is *symmetric*, it is *regular*.
 
 >[!tldr] Semigroup
->A **magma** which is *associative*
+>A **monoid** which is *commutative* and where all elements are *regular* is called a *semigroup*.
 # Application
 ## I. Meaning
 ## II. Use
