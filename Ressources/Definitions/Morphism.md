@@ -16,7 +16,7 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Properties
 >$$
 >$$
 ### 2. Other formulas
