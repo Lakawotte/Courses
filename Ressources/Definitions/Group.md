@@ -11,7 +11,7 @@ category: "[[Maths]]"
 >[!hint] Definition
 >We call **group** a **[[Magma|monoid]]** where every element is *symmetric*.
 #### Note :
-The group is said to be *commutative* 
+The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operation|internal binary operation]]** $*$ is *commutative*.
 ## II. Extensions
 ### 1. Properties
 
