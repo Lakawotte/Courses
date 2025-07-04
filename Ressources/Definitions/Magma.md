@@ -20,7 +20,7 @@ category: "[[Maths]]"
 ### 2. Other kinds of magma
 
 >[!tldr] Unital
->A **magma** is called *unital* if it has an **[[Neutral Element|neutral element]]**.
+>A **magma** is called *unital* if it has a **[[Neutral Element|neutral element]]**.
 # Application
 ## I. Meaning
 ## II. Use
