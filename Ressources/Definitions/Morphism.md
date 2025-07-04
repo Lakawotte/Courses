@@ -18,7 +18,7 @@ category: "[[Maths]]"
 
 >[!tldr] Properties
 >Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism** :
->- The **[[Image|direct image]]** of a *subgroup 
+>- The **[[Image|direct image]]** of a **[[Group|subgroup]]
 >$$
 >$$
 ### 2. Other formulas

@@ -86,7 +86,7 @@ a
 # Application
 ## I. Meaning
 ### 1. Combinatorics
-The **binomial coefficient** is the number of ways one can choose an unordered **[[Subset|subset]]** of $k$ elements from a fixed **[[Set|set]]** of $n$ elements.
+The **binomial coefficient** is the number of ways one can choose an unordered **[[Power Set|subset]]** of $k$ elements from a fixed **[[Set|set]]** of $n$ elements.
 ## II. Use
 # Example
 

@@ -17,7 +17,7 @@ category: "[[Maths]]"
 ### 1. Properties
 
 >[!tldr] Complementary
->Let $\mathcal{E}$ be a finite **set**. The complementary of a **[[Subset|subset]]** $A$ from $\mathcal{E}$ is the **set** of elements that are not in $A$.
+>Let $\mathcal{E}$ be a finite **set**. The complementary of a **[[Power Set|subset]]** $A$ from $\mathcal{E}$ is the **set** of elements that are not in $A$.
 >$$
 \bar{A}=\{e\in\mathcal{E},e\notin A\}
 >$$

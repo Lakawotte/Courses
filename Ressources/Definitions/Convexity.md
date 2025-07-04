@@ -10,7 +10,7 @@ category: "[[Maths]]"
 ### 1. **[[Set]]** Convexity
 
 >[!hint] General Definition
->Let $E$ be a **[[Set|set]]** and $C\subset E$ a **[[Subset|subset]]** of $E$. $C$ is **convex** if
+>Let $E$ be a **[[Set|set]]** and $C\subset E$ a **[[Power Set|subset]]** of $E$. $C$ is **convex** if
 >$$
 \forall(u,v)\in C^2,\forall t\in[0,1],tu+(1-t)v\in C
 >$$
@@ -38,7 +38,7 @@ category: "[[Maths]]"
 >$f$ is **concave** otherwise.
 
 >[!tip] Epigraph
->Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. A **[[Subset|subset]]** $E$ of the plane $\mathbb{R}^2$ is **convex** if
+>Let $I\in\mathbb{R}$ an arbitrary interval and $f:I\to\mathbb{R}$ a function. A **[[Power Set|subset]]** $E$ of the plane $\mathbb{R}^2$ is **convex** if
 >$$
 \forall(A,B)\in E^2,[AB]\in E
 >$$
