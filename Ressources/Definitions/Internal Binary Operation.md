@@ -66,7 +66,7 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 \forall x\in E, x*x=x
 >$$
 #### Note :
-More commonly, *idempotency* is satisfied for some element $x\in E$.
+More commonly, *idempotency* is satisfied for some element $x\in E$. For example, in the **[[Monoid|monoid]]** $(\mathbb{N},+)$, 
 ### 2. Other formulas
 # Application
 ## I. Meaning
