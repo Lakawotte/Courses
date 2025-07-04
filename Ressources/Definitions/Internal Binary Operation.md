@@ -99,6 +99,8 @@ m*m=m
 \forall x\in M, x*m=m
 >$$
 >The element is a *zero* if it is zero on both sides : $m*x=x*m=m$.
+#### Note :
+Any *left zero* or *right zero* is *idempoten*
 # Application
 ## I. Meaning
 ## II. Use

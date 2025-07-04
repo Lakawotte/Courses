@@ -20,9 +20,6 @@ category: "[[Maths]]"
 >Let $(M,*)$ be a **magma**.
 >- If $M$ has both a *left zero* $z$ and a *right zero* $z'$, it has a *zero* since $z=z*z'=z'$.
 >- $M$ can have at most one *zero*.
-#### Note :
-Every element that is *absorbing*
-
 ### 2. Other kinds of magma
 
 >[!tldr] Unital
