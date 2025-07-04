@@ -79,7 +79,15 @@ m*m=m
 >It is simply *symmetric* if it is left and right symmetric and if $m_1=m_2$.
 
 >[!tldr] Regularity
->Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is *left regular*
+>Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is *left regular* if
+>$$
+\forall(x,y)\in M^2, m*x=m*y\Longrightarrow x=y
+>$$
+>It is *left regular* if
+>$$
+\forall(x,y)\in M^2, x*m=y*m\Longrightarrow x=y
+>$$
+>
 # Application
 ## I. Meaning
 ## II. Use
