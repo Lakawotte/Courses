@@ -65,7 +65,7 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 >$$
 \forall(x,y)\in S^2,x*y\in S
 >$$
->
+>The **[[Set|set]]** $S$ is then a **[[Magma|magma]]**.
 ### 2. Properties of the elements
 
 >[!tldr] Idempotency
