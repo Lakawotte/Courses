@@ -114,7 +114,8 @@ Any *left zero* or *right zero* is *idempotent*.
 >$$
 \exists n\in\mathbb{N^*},m^n=0
 >$$
-
+#### Note :
+For example, in 
 # Application
 ## I. Meaning
 ## II. Use
