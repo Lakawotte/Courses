@@ -10,10 +10,14 @@ category:
 >[!hint] Definition : Image of a **[[Subset]]**
 >Let $A\subset X$ be a **[[Subset|subset]]** of $X$ and $Y$ an other **[[Set|set]]**. Let $f:X\to Y$ be an **[[Application|application]]**.
 >$$
-f(A)=\{f(x)|x\in A\}=\{y\in Y|\exists a\in A, y=f(a)\}
+f[A]=\{f(x)|x\in A\}=\{y\in Y|\exists a\in A, y=f(a)\}
 >$$
 
->[!tldr] Definition : Image of an **[[Application]]*
+>[!tldr] Definition : Image of an **[[Application]]**
+>Let $X$ be a **[[Set|set]]** and $f:X\to Y$ an 
+>$$
+\mathrm{Im}(f)=f[X]
+>$$
 ## II. Extensions
 ### 1. Properties
 
