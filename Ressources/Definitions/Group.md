@@ -40,7 +40,7 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >>$$
 >>3. $H$ is *stable* by the inverse :
 >>$$
-
+\forall x\in H, x^{-1}\in H
 >>$$
 # Application
 ## I. Meaning
