@@ -117,8 +117,15 @@ Any *left zero* or *right zero* is *idempotent*.
 #### Note :
 For example, in $\mathcal{M}_3(\mathbb{R})$, the **[[Matrix|matrix]]**
 $$
-
+A=
+\begin{bmatrix}
+0 & 1 & 0 \\
+0 & 0 & 1 \\
+0 & 0 & 0 \\
+\end{bmatrix}
 $$
+is *nilpotent* since $A^3=$
+
 # Application
 ## I. Meaning
 ## II. Use
