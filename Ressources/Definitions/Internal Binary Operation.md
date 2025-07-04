@@ -61,6 +61,10 @@ When a **binary operation** is *associative*, we can get rid of the parenthesis 
 >$*$ is *distributive* over $\circ$ if it is both distributive on the right and on the left.
 
 >[!tldr] Idempotency
+>Let $E$ be a **[[Magma|magma]]**. $*$ is *idempotent* if
+>$$
+\forall x\in E, x*x=x
+>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
