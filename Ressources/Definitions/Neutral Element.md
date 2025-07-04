@@ -35,7 +35,7 @@ category: "[[Maths]]"
 >>[!tldr] Property
 >>Let $(E,*)$ be a **[[Magma|magma]]**.
 >>$$
-\exists e_{1}\in E,\forall e_{1}*x=x\wedge\exists e_{2}\in E,\forall e_{2}=x
+\exists e_{1}\in E,\forall e_{1}*x=x\wedge\exists e_{2}\in E,\forall x*e_{2}=x\Longrightarrow\exists e\in E,
 >>$$
 ### 2. Other formulas
 # Application
