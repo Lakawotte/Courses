@@ -23,11 +23,11 @@ category: "[[Maths]]"
 >A **magma** is called *unital* if it has a **[[Neutral Element|neutral element]]**.
 
 >[!tldr] Monoid
->A **magma** which is *associative* and *unital* is called a *monoid*.
+>A **magma** $(M,*)$ which is *associative* and *unital* is called a *monoid*.
 >- If an element $m\in M$ has a *left symmetric* and a *right symmetric*, they are both equal.
 >- If an element $m\in M$ is *symmetric*, its symmetric is unique.
 >- If an element $m\in M$ is *symmetric* of symmetric $m'$, then $m'$ is *symmetric* of symmetric $m$.
->- If two elements $(m_{1},m_{2})\in M^2$ are *symmetric*, it is also the case for 
+>- If two elements $(m_{1},m_{2})\in M^2$ are *symmetric*, it is also the case for $m_1*m_2$ : $(m_1*m_2)'=m_1'*m_2'$.
 # Application
 ## I. Meaning
 ## II. Use
