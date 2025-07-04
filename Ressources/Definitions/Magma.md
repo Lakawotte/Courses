@@ -16,6 +16,7 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
+>[]
 
 ### 2. Other kinds of magma
 

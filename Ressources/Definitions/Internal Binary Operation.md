@@ -98,7 +98,7 @@ m*m=m
 >$$
 \forall x\in M, x*m=m
 >$$
->The element is 
+>The element is a *zero* if it is zero on both sides : $m*x=x*m=m$.
 # Application
 ## I. Meaning
 ## II. Use
