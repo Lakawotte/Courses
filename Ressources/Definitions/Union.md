@@ -8,7 +8,7 @@ category:
 ## I. Statement
 
 >[!hint] Definition
->Let $A$ and $B$ be two **[[Power Set|subsets]]** of a finite **[[Set|set]]** $\mathcal{E}$. We call **union** of $A$ and $B$ the set made of elements from $\mathcal{E}$ which are either in $A$ and in $B$
+>Let $A$ and $B$ be two **[[Set|subsets]]** of a finite **[[Set|set]]** $\mathcal{E}$. We call **union** of $A$ and $B$ the set made of elements from $\mathcal{E}$ which are either in $A$ and in $B$
 >$$
 A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
@@ -27,7 +27,7 @@ A\cup B=\{e\in\mathcal{E},e\in A\wedge e\in B\}
 >$$
 
 >[!tldr] Disjoint Union
->We note $A\coprod B$ the **disjoint union** of two **[[Power Set|subsets]]** having an empty **[[Intersection|intersection]]**.
+>We note $A\coprod B$ the **disjoint union** of two **[[Set|subsets]]** having an empty **[[Intersection|intersection]]**.
 >$$
 A=(A\cap B)\coprod(A\cap \bar{B})
 >$$
