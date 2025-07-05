@@ -19,6 +19,7 @@ The fourth axiom is a modern view about **rings**. Indeed, one can define a *pse
 ### 1. Properties
 
 >[!tip] **[[Group]]** of Inverses
+>>[!tldr] Definition
 >Let $(A,+,\times)$ be a **ring**.
 >$$
 U(A)=\{u\in A|\exists v\in A,uv=vu=1_{A}\}
