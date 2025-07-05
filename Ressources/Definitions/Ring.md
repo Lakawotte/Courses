@@ -43,12 +43,12 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >>$$
 
 >[!tldr] **[[Image|Direct Image]]** of a **Subring**
->Let $(G,*)$ and $(H,*)$ be two **groups** and $f:G\to H$ a **[[Morphism|morphism]]** :
+>Let $(G,+,\times)$ and $(H,+\times)$ be two **rings** and $f:G\to H$ a **[[Morphism|ring morphism]]** :
 >- The **[[Image|direct image]]** of a **subgroup** from $G$ is a **subring** of $H$.
 
->[!tldr] Preimage of a **Subgroup**
->Let $(G,*)$ and $(F,*)$ be two **groups** and $f:G\to F$ a **[[Morphism|morphism]]** :
->The **[[Image|preimage]]** of a **subgroup** from $H$ is a **subgroup** of $G$.
+>[!tldr] Preimage of a **Subring**
+>Let $(G,*)$ and $(F,*)$ be two **rings** and $f:G\to F$ a **[[Morphism|ring morphism]]** :
+>The **[[Image|preimage]]** of a **subring** from $H$ is a **subring** of $G$.
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Ring
