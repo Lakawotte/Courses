@@ -33,7 +33,7 @@ f(e_{G})=e_{H}
 >- *surjective* if and only if $\mathrm{Im}(f)=H$
 >- *injective* if and only if $\mathrm{ker}(f)=\{e_{G}\}$
 >
->It is *bijective* if it 
+>$f$ is an *isomorphism* if it is both *surjective* and *injective*.
 ### 2. Other formulas
 # Application
 ## I. Meaning
