@@ -30,6 +30,10 @@ f^{-1}[B]=\{x\in X|f(x)\in B\}
 >[!tldr] Direct Image of a **[[Set|Subset]]**
 >Let $(G,*)$ and $(H,*)$ be two **[[Group|groups]]** and $f:G\to H$ a **[[Morphism|morphism]]** :
 >- The **direct image** of a **[[Group|subgroup]]** from $G$ is a **[[Group|subgroup]]** of $H$.
+
+>[!tldr] Preimage of a **[[Set|Subset]]**
+>Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism** :
+>The **[[Image|preimage]]** of a **[[Group|subgroup]]** from $H$ is a **[[Group|subgroup]]** of $G$.
 ### 2. Other formulas
 # Application
 ## I. Meaning
