@@ -46,6 +46,7 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >[!tldr] Abelian Ring
 >A **ring** with *commutative* **[[Internal Binary Operation|internal binary operation]]** is called *abelian*, or simply *commutative*.
 
+
 >[!tip] Subring
 >>[!tldr] Definition
 >>If $A$ is a **ring** and $B\subset A$, $B$ is a *subring of $A$* if it is *closed* under $+$ and $\times$ and if $(B,+,\times)$ is itself a (*unfier*) **ring**.
@@ -58,6 +59,8 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
+
+One can remark that we don't mention the fact $0_A\in B$ since 
 ## II. Use
 # Example
 
