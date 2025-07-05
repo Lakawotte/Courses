@@ -19,10 +19,14 @@ category:
 >[!tldr]
 >$$
 >$$
-### 2. Other kinds of rings
+### 2. Other kinds of **rings**
+
+>[!tldr] Abelian Group
+>A **ring** with *commutative* **[[Internal Binary Operation|internal binary operation]]** is called *abelian*, or simply *commutative*.
 # Application
 ## I. Meaning
 ## II. Use
 # Example
+
 
 ---
