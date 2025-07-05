@@ -18,7 +18,8 @@ category: "[[Maths]]"
 
 >[!tldr] Properties
 >Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism** :
->- The **[[Image|direct image]]** of a **[[Group|subgroup]]** from $G$ is a **[[Set|subgroup]]**
+>- The **[[Image|direct image]]** of a **[[Group|subgroup]]** from $G$ is a **[[Group|subgroup]]** of $H$.
+>- The
 >$$
 >$$
 ### 2. Other formulas
