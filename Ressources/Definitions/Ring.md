@@ -14,7 +14,7 @@ category:
 >3. $\times$ is *distributive* on $+$.
 >4. the **[[Internal Binary Operation|internal binary operation]]** $\times$ has a **[[Neutral Element|zero]]** noted $1_A$.
 #### Important :
-The fourth axiom is a modern view about
+The fourth axiom is a modern view about **rings**. Indeed, one can define a *pseudo-ring* without this fourth condition. We then call a **ring** with an element $1_A$ **unitary
 ## II. Extensions
 ### 1. Properties
 
