@@ -29,7 +29,9 @@ f(e_{G})=e_{H}
 >$$
 
 >[!tldr] Types of Morphism
->A 
+>A **[[Group|group]]** **morphism** $f:G\to H$ is :
+>- *surjective* if and only if $\mathrm{Im}(f)=H$
+>- *injective* if a
 ### 2. Other formulas
 # Application
 ## I. Meaning
