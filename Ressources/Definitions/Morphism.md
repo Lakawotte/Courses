@@ -31,7 +31,9 @@ f(e_{G})=e_{H}
 >[!tldr] Types of Morphism
 >A **[[Group|group]]** **morphism** $f:G\to H$ is :
 >- *surjective* if and only if $\mathrm{Im}(f)=H$
->- *injective* if a
+>- *injective* if and only if $\mathrm{ker}(f)=\{e_{G}\}$
+>
+>It is *bijective* if it 
 ### 2. Other formulas
 # Application
 ## I. Meaning
