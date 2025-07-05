@@ -29,11 +29,11 @@ category: "[[Maths]]"
 
 >[!tldr] **[[Image|Direct Image]]** of a **Subgroup**
 >Let $(G,*)$ and $(H,*)$ be two **groups** and $f:G\to H$ a **[[Morphism|morphism]]** :
->- The **direct image** of a **[[Group|subgroup]]** from $G$ is a **[[Group|subgroup]]** of $H$.
+>- The **[[Image|direct image]]** of a **subgroup** from $G$ is a **subgroup** of $H$.
 
->[!tldr] Preimage of a **[[Set|Subset]]**
->Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism** :
->The **[[Image|preimage]]** of a **[[Group|subgroup]]** from $H$ is a **[[Group|subgroup]]** of $G$.
+>[!tldr] Preimage of a **Subgroup**
+>Let $(G,*)$ and $(F,*)$ be two **groups** and $f:G\to F$ a **[[Morphism|morphism]]** :
+>The **[[Image|preimage]]** of a **subgroup** from $H$ is a **subgroup]]** of $G$.
 ### 2. Other formulas
 # Application
 ## I. Meaning
