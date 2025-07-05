@@ -26,14 +26,6 @@ category: "[[Maths]]"
 >$$
 \bar{A\cup B}=\bar{A}\cap\bar{B}
 >$$
-
->[!tldr] **[[Image|Direct Image]]** of a **Subgroup**
->Let $(G,*)$ and $(H,*)$ be two **groups** and $f:G\to H$ a **[[Morphism|morphism]]** :
->- The **[[Image|direct image]]** of a **subgroup** from $G$ is a **subgroup** of $H$.
-
->[!tldr] Preimage of a **Subgroup**
->Let $(G,*)$ and $(F,*)$ be two **groups** and $f:G\to F$ a **[[Morphism|morphism]]** :
->The **[[Image|preimage]]** of a **subgroup** from $H$ is a **subgroup]]** of $G$.
 ### 2. Other formulas
 # Application
 ## I. Meaning
