@@ -35,7 +35,8 @@ f(e_{G})=e_{H}
 >
 >$f$ is an *isomorphism* if it is both *surjective* and *injective*.
 
->[!tldr] 
+>[!tldr] Inverse of an Isomorphism
+>Let $f:G\to H$ be an *is*
 ### 2. Other formulas
 # Application
 ## I. Meaning
