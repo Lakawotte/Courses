@@ -34,6 +34,8 @@ f(e_{G})=e_{H}
 >- *injective* if and only if $\mathrm{ker}(f)=\{e_{G}\}$
 >
 >$f$ is an *isomorphism* if it is both *surjective* and *injective*.
+
+>[!tldr] 
 ### 2. Other formulas
 # Application
 ## I. Meaning
