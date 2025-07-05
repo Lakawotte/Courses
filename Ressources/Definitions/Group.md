@@ -42,6 +42,8 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >>$$
 \forall x\in H, x^{-1}\in H
 >>$$
+
+>[!tldr] Abelian Group
 # Application
 ## I. Meaning
 ## II. Use
