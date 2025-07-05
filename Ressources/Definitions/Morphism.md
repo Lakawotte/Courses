@@ -15,10 +15,12 @@ category: "[[Maths]]"
 >$$
 
 >[!tip] Definition : Morphism of **[[Ring|Rings]]**
->Let $(A,+,\times)$ and $(B,+,\times)$ be two **[[Ring|rings]]**. An **[[Application|application]]** $f:A\to B$ is a **ring morphism** if it is 
+>Let $(A,+,\times)$ and $(B,+,\times)$ be two **[[Ring|rings]]**. An **[[Application|application]]** $f:A\to B$ is a **ring morphism** if it is the *null application* or if
 >$$
 \forall(x,y)\in A^2, f(x\times y)=f(x)\times f(y)\wedge f(x+ y)=f(x)+f(y)\wedge f(1_{A})=1_{B}
 >$$
+#### Note :
+A **[[Ring|ring]]** **morphism** is (instead of the particula )
 ## II. Extensions
 ### 1. Properties
 
