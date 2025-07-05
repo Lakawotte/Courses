@@ -42,7 +42,8 @@ f(e_{G})=e_{H}
 >
 >>[!info] Proof
 
-
+>[!tldr] Endomorphism
+>
 # Application
 ## I. Meaning
 ## II. Use
