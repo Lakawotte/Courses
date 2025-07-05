@@ -49,18 +49,19 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 
 >[!tip] Subring
 >>[!tldr] Definition
->>If $A$ is a **ring** and $B\subset A$, $B$ is a *subring of $A$* if it is *closed* under $+$ and $\times$, if $1_A\in B$ and if $(B,+,\times)$ is itself a (*unfier*) **ring**.
+>>If $A$ is a **ring** and $B\subset A$, $B$ is a *subring of $A$* if it is *closed* under $+$ and $\times$ and if $(B,+,\times)$ is itself a (*unfier*) **ring**.
 >
 >>[!tldr] Caracterization
 >>$B\subset A$ is a *subring* if and only if :
 >>- $I_A\in B$
->>- $\forall (a,b)\in B^2, a+b\in B$
+>>- $\forall (a,b)\in B^2, a-b\in B$
 >>- $\forall(a,b)\in B^2,a\times b\in B$
+>
+>>[!info] Proof
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
 
-One can remark that we don't mention the fact $0_A\in B$ since 
 ## II. Use
 # Example
 
