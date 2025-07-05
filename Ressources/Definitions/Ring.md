@@ -16,7 +16,7 @@ category:
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] **[[Group]]** of Inverses
 >$$
 >$$
 ### 2. Other kinds of **rings**
