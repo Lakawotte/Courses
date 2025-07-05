@@ -14,7 +14,7 @@ category:
 >3. $\times$ is *distributive* on $+$.
 >4. the **[[Internal Binary Operation|internal binary operation]]** $\times$ has a **[[Neutral Element|zero]]** noted $1_A$.
 #### Important :
-The fourth axiom is 
+The fourth axiom is a modern view about
 ## II. Extensions
 ### 1. Properties
 
