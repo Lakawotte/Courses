@@ -20,7 +20,7 @@ category: "[[Maths]]"
 \forall(x,y)\in A^2, f(x\times y)=f(x)\times f(y)\wedge f(x+ y)=f(x)+f(y)\wedge f(1_{A})=1_{B}
 >$$
 #### Note :
-A **[[Ring|ring]]** **morphism** (instead of the special case of the *null application*) is a **morphism** of the **[[Group|group]]** $(A,+)
+A **[[Ring|ring]]** **morphism** (instead of the special case of the *null application*) is a **morphism** of the **[[Group|group]]** $(A,+)$ and a **morphism** of the **[[Group|monoid]]** $(A,\times)$.
 ## II. Extensions
 ### 1. Properties
 
