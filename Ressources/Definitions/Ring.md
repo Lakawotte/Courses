@@ -8,9 +8,8 @@ category:
 ## I. Statement
 
 >[!hint] Definition
->We call **ring** the combination of a **[[]]
->$$
->$$
+>We call **ring** the combination of a **[[Group|group]]** and two **[[Internal Binary Operation|internal binary operations]]** denoted as "$+$" and "$\times$" satisfying the following properties :
+>
 ## II. Extensions
 ### 1. Properties
 
