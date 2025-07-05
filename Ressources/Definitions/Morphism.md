@@ -43,7 +43,7 @@ f(e_{G})=e_{H}
 >>[!info] Proof
 
 >[!tldr] Endomorphism
->
+>A **morphism** of **[[Group]]
 # Application
 ## I. Meaning
 ## II. Use
