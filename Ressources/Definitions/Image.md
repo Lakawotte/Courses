@@ -21,7 +21,8 @@ f[A]=\{f(x)|x\in A\}=\{y\in Y|\exists a\in A, y=f(a)\}
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Image of 
+>[!tldr] Image of a **[[Set|Subset]]**
+>Let $H\subset G$ be a **[[Set|subset]]** 
 >$$
 >$$
 ### 2. Other formulas
