@@ -29,16 +29,16 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 
 >[!tip] Subgroup
 >>[!tldr] Definition
->>Let $(G,*)$ be a **group**. A **[[Set|subset]]** $H\subset G$ is called *subgroup* of $G$ if $H$ is *stable* by $*$ and if $(H,*)$ is itself a **group**.
+>>Let $(G,*)$ be a **group**. A **[[Set|subset]]** $H\subset G$ is called *subgroup* of $G$ if $H$ is *closed* by $*$ and if $(H,*)$ is itself a **group**.
 >
 >>[!tldr] Caracterization
 >>A **[[Set|subset]]** $H\subset G$ is a *subgroup* if and only if :
 >>1. $H$ is *non-empty*
->>2. $H$ is *stable* by $*$ :
+>>2. $H$ is *colsed* under $*$ :
 >>$$
 \forall(x,y)\in H^2, x*y\in H
 >>$$
->>3. $H$ is *stable* by the inverse :
+>>3. $H$ is *closed* under the inverse :
 >>$$
 \forall x\in H, x^{-1}\in H
 >>$$
