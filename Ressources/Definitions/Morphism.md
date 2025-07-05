@@ -36,7 +36,7 @@ f(e_{G})=e_{H}
 >$f$ is an *isomorphism* if it is both *surjective* and *injective*.
 
 >[!tldr] Inverse of an Isomorphism
->Let $f:G\to H$ be an *is*
+>Let $f:G\to H$ be an *isomorphism* of **[[Group|groups]]**. Then $f^{-1}$ is an *isomorphism* of **[ 
 ### 2. Other formulas
 # Application
 ## I. Meaning
