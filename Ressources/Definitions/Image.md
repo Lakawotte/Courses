@@ -28,7 +28,8 @@ f^{-1}[B]=\{x\in X|f(x)\in B\}
 ### 1. Properties
 
 >[!tldr] Image of a **[[Set|Subset]]**
->Let $H\subset G$ be a **[[Set|subset]]** 
+>Let $H\subset G$ be a **[[Set|subset]]** Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism** :
+>- The **[[Image|direct image]]** of a **[[Group|subgroup]]** from $G$ is a **[[Group|subgroup]]** of $H$.
 >$$
 >$$
 ### 2. Other formulas
