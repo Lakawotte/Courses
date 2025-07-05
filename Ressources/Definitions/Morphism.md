@@ -22,7 +22,9 @@ category: "[[Maths]]"
 f(e_{G})=e_{H}
 >$$
 
->[!tldr] Symme
+>[!tldr] Inverse
+>Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism** :
+>
 ### 2. Other formulas
 # Application
 ## I. Meaning
