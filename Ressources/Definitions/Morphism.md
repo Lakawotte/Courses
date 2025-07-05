@@ -43,7 +43,12 @@ f(e_{G})=e_{H}
 >>[!info] Proof
 
 >[!tldr] Endomorphism
->A **morphism** of **[[Group]]
+>A **morphism** of **[[Group|groups]]** $f:G\to G$ is called an *endomorphism*.
+
+>[!tldr] Automorphism
+>An *endomorphism* that is also an *isomorphism* is called an *automorphism*.
+
+
 # Application
 ## I. Meaning
 ## II. Use
