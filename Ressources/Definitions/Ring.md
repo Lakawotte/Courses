@@ -25,6 +25,7 @@ category:
 >A **ring** with *commutative* **[[Internal Binary Operation|internal binary operation]]** is called *abelian*, or simply *commutative*.
 # Application
 ## I. Meaning
+In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
 ## II. Use
 # Example
 
