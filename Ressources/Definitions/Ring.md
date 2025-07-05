@@ -20,6 +20,7 @@ The fourth axiom is a modern view about **rings**. Indeed, one can define a *pse
 
 >[!tldr] **[[Group]]** of Inverses
 >$$
+U(A)
 >$$
 ### 2. Other kinds of **rings**
 
