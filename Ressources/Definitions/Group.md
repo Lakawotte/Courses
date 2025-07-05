@@ -29,7 +29,7 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 
 >[!tip] Subgroup
 >>[!tldr] Definition
->>Let $(G,*)$ be a **group**. A **[[Set|subset]]** $H\subset G$ is called *subgroup* of $G$ if $H$ is *closed* by $*$ and if $(H,*)$ is itself a **group**.
+>>Let $(G,*)$ be a **group**. A **[[Set|subset]]** $H\subset G$ is called *subgroup* of $G$ if $H$ is *closed* under $*$ and if $(H,*)$ is itself a **group**.
 >
 >>[!tldr] Caracterization
 >>A **[[Set|subset]]** $H\subset G$ is a *subgroup* if and only if :
