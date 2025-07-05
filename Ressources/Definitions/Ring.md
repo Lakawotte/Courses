@@ -26,13 +26,19 @@ U(A)=\{u\in A|\exists v\in A,uv=vu=1_{A}\}
 >>$$
 >
 >>[!tldr] **[[Group]]**
->>$U(A)$ is a **[[Group|group]]
+>>$(U(A),\times)$ is a **[[Group|group]]**.
+>
+>>[!info] Proof
+>>$$
+>>$$
 #### Note :
 The *group of inverses* is also noted $A^\times$, so one can remember that we are discussing about inverses on $\times$.
 ### 2. Other kinds of **rings**
 
->[!tldr] Abelian Group
+>[!tldr] Abelian Ring
 >A **ring** with *commutative* **[[Internal Binary Operation|internal binary operation]]** is called *abelian*, or simply *commutative*.
+
+>[!tldr] Subring
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
