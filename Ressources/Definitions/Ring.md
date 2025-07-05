@@ -38,7 +38,9 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >>[!tldr] Lemma
 >>Let $(A,+,\times)$ be a **ring**. Then $0$ is a *zero*.
 >
->>[!]
+>>[!info] Proof
+>>$$
+>>$$
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Ring
