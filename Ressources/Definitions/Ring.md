@@ -45,7 +45,7 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >>[!tldr] Caracterization
 >>$B\subset A$ is a *subring* if and only if :
 >>- $I_A\in B$
->>- $\forall a\in B^2, 
+>>- $\forall a\in B^2, a+b\in
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
