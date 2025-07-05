@@ -33,6 +33,9 @@ U(A)=\{u\in A|\exists v\in A,uv=vu=1_{A}\}
 >>$$
 #### Note :
 The *group of inverses* is also noted $A^\times$, so one can remember that we are discussing about inverses on $\times$.
+
+>[!tldr] **[[Internal Binary Operation|Zero]]**
+>Let $(A,+,\times)$ be a **ring**. Then $0$ is 
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Ring
