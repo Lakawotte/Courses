@@ -18,13 +18,13 @@ The fourth axiom is a modern view about **rings**. Indeed, one can define a *pse
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] **[[Group]]** of Inverses
+>[!tip] **[[Group]]** of Inverses
 >Let $(A,+,\times)$ be a **ring**.
 >$$
 U(A)=\{u\in A|\exists v\in A,uv=vu=1_{A}\}
 >$$
 #### Note :
-The *group of inverses* is also noted $A^\times$, so one can remember that we are discussin
+The *group of inverses* is also noted $A^\times$, so one can remember that we are discussing about inverses on $\times$.
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Group
