@@ -20,7 +20,7 @@ f[A]=\{f(x)|x\in A\}=\{y\in Y|\exists a\in A, y=f(a)\}
 >$$
 
 >[!tldr] Preimage
->
+>Let $B\subset Y$ be a f$
 ## II. Extensions
 ### 1. Properties
 
