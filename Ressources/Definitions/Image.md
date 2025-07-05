@@ -18,6 +18,9 @@ f[A]=\{f(x)|x\in A\}=\{y\in Y|\exists a\in A, y=f(a)\}
 >$$
 \mathrm{Im}(f)=f[X]
 >$$
+
+>[!tldr] Preimage
+>
 ## II. Extensions
 ### 1. Properties
 
