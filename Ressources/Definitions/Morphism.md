@@ -27,6 +27,9 @@ f(e_{G})=e_{H}
 >$$
 \forall x\in G,f(x^{-1})=f(x)^{-1}
 >$$
+
+>[!tldr] Types of Morphism
+>A 
 ### 2. Other formulas
 # Application
 ## I. Meaning

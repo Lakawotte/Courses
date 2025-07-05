@@ -10,7 +10,7 @@ category:
 >[!hint] Definition
 >Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism**.
 >$$
-\mathrm{ker}(f)=\{ x\in G|f(x)=e_{G} \}
+\mathrm{ker}(f)=f^{-1}(e_{H})=\{x\in G|f(x)=e_{H}\}
 >$$
 ## II. Extensions
 ### 1. Properties
