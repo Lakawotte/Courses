@@ -100,8 +100,7 @@ m*m=m
 >The element is a *zero* if it is zero on both sides : $m*x=x*m=m$.
 >
 >>[!tldr] Unicity
->>Let $(M,*)$ be a **[[Magma|magma]]**.
->>If the **internal binary composition** has a **left zero** $z_1$ and a **right zero** $z_2$, then the **internal binary composition** has a unique **zero** $z$, and $z=z_1=z_2$.
+>>Let $(M,*)$ be a **[[Magma|magma]]**. If the **internal binary composition** has a **left zero** $z_1$ and a **right zero** $z_2$, then the **internal binary composition** has a unique **zero** $z$, and $z=z_1=z_2$.
 >
 >>[!info] Proof
 #### Note :
