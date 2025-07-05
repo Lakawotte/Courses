@@ -39,6 +39,7 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >A **ring** with *commutative* **[[Internal Binary Operation|internal binary operation]]** is called *abelian*, or simply *commutative*.
 
 >[!tldr] Subring
+>If $A$ is a **ring** and $B\subset A$, $B$ is a *subring* if it is *stable* for $+$ and $\times$ 
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
