@@ -8,6 +8,7 @@ category:
 ## I. Statement
 
 >[!hint] Definition
+>We call **ring** the combination of a **[[]]
 >$$
 >$$
 ## II. Extensions

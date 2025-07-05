@@ -44,7 +44,7 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >>$$
 
 >[!tldr] Abelian Group
->A **group** with *commutative* **[[Internal Binary Operation|internal binary operation]]** is called *abelian*, or *
+>A **group** with *commutative* **[[Internal Binary Operation|internal binary operation]]** is called *abelian*, or simply *commutative*.
 
 # Application
 ## I. Meaning
