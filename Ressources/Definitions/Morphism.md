@@ -15,7 +15,7 @@ category: "[[Maths]]"
 >$$
 
 >[!tip] Definition : Morphism of **[[Ring|Rings]]**
->Let $(a,+,\)
+>Let $(a,+,\times)$ and $(b,+,\times)$ be two **[[Ring|rings]]**. An **[[Application|application]]** $f:A\to B$ is 
 ## II. Extensions
 ### 1. Properties
 
