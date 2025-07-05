@@ -16,12 +16,13 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] **[[Neuy]]**
+>[!tldr] **[[Neutral Element]]**
 >Let $(G,*)$ and $(F,*)$ be two **[[Group|groups]]** and $f:G\to F$ a **morphism** :
 >$$
 f(e_{G})=e_{H}
 >$$
->
+
+>[!tldr] Symme
 ### 2. Other formulas
 # Application
 ## I. Meaning
