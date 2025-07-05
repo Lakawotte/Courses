@@ -28,16 +28,14 @@ f(e_{G})=e_{H}
 \forall x\in G,f(x^{-1})=f(x)^{-1}
 >$$
 
->[!tldr] Types of Morphism
->A **[[Group|group]]** **morphism** $f:G\to H$ is :
->- *surjective* if and only if $\mathrm{Im}(f)=H$
->- *injective* if and only if $\mathrm{ker}(f)=\{e_{G}\}$
->
->$f$ is an *isomorphism* if it is both *surjective* and *injective*.
-
 >[!tldr] Inverse of an Isomorphism
->Let $f:G\to H$ be an *isomorphism* of **[[Group|groups]]**. Then $f^{-1}$ is an *isomorphism* of **[ 
-### 2. Other formulas
+>Let $f:G\to H$ be an *isomorphism* of **[[Group|groups]]**. Then $f^{-1}$ is an *isomorphism* of $H$ to $G$.
+>
+
+
+### 2. Kinds of morphisms
+
+>[!tldr]
 # Application
 ## I. Meaning
 ## II. Use
