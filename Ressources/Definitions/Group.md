@@ -16,11 +16,11 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 ### 1. Properties
 
 >[!tldr] **[[Image|Direct Image]]** of a **Subgroup**
->Let $(G,*)$ and $(H,*)$ be two **groups** and $f:G\to H$ a **[[Morphism|morphism]]** :
+>Let $(G,*)$ and $(H,*)$ be two **groups** and $f:G\to H$ a **[[Morphism|group morphism]]** :
 >- The **[[Image|direct image]]** of a **subgroup** from $G$ is a **subgroup** of $H$.
 
 >[!tldr] Preimage of a **Subgroup**
->Let $(G,*)$ and $(F,*)$ be two **groups** and $f:G\to F$ a **[[Morphism|morphism]]** :
+>Let $(G,*)$ and $(F,*)$ be two **groups** and $f:G\to F$ a **[[Morphism|group morphism]]** :
 >The **[[Image|preimage]]** of a **subgroup** from $H$ is a **subgroup** of $G$.
 ### 2. Other kinds of **groups**
 
