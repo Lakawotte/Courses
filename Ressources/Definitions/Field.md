@@ -14,6 +14,7 @@ category: "[[Maths]]"
 The condition $0\neq 1$ allows us to not consider $\{0\}$ as a **field**.
 
 >[!tip] Definition : **Field** Axioms
+>A **[[Set|set]]** $(F,+,\times)$ is a **field** if :
 >
 ## II. Extensions
 ### 1. Properties
