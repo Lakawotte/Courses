@@ -87,10 +87,8 @@ m*m=m
 >$$
 >It is *regular* when it is both left regular and right regular.
 #### Note :
-Most of the time, we set $x$ and $y$ to be $0$ :
-$$
-m\,\,\mathrm{invertible}\Longrightarrow
-$$
+Most of the time, we use an other definition based on the concept of **[[]]
+
 
 >[!tip] Absorption
 >>[!tldr] Property
