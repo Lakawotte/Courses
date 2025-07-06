@@ -71,6 +71,9 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >>- $\forall(a,b)\in B^2,a\times b\in B$
 >
 >>[!info] Proof
+
+>[!tldr] Integral Domain
+>An *integral domain* is an *abelian ring*
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
