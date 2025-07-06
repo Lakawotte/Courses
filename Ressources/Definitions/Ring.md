@@ -77,6 +77,10 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >
 >>[!tldr] Corrolary
 >>A *zero divider* is not **[[Internal Binary Operation|invertible]]**.
+>
+>>[!info] Proof
+>>$$
+>>$$
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Ring
@@ -95,7 +99,7 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >>[!info] Proof
 
 >[!tldr] Integral Domain
->An *integral domain* is an *abelian* **ring** different from the *null ring* where every element is **[[Internal Binary Operation|regular]]**.
+>An *integral domain* is an *abelian* **ring** different from the *null ring* where every element is **[[Internal Binary Operation|regular]]** (appart from $0_A$).
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$. For example, $\mathbb{Z}$ is a **ring** but $\mathbb{Z}^\times=\{-1,1\}$. Also, $U(\mathcal{M}_n(\mathbb{R}))=\mathrm{GL}_n(\mathbb{R})$.
