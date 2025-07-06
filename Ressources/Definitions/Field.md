@@ -29,7 +29,7 @@ The condition $0\neq 1$ allows us to not consider $\{0\}$ as a **field**.
 ### 2. Other kinds of **fields**
 
 >[!tldr] Division **[[Ring]]**
->When a **[[Set|set]]** satisfies all the field axioms
+>When a **[[Set|set]]** satisfies all the field axioms but *commutative*
 # Application
 ## I. Meaning
 ## II. Use
