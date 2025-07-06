@@ -32,7 +32,7 @@ The condition $0\neq 1$ allows us to not consider $\{0\}$ as a **field**.
 >When a **[[Set|set]]** satisfies all the field axioms but *commutativity*, it is called a *division ring*.
 # Application
 ## I. Meaning
-When the **field** is *finite*, the notions of **field** and *division ring* are equivalent since the **[[Wedderburn Theorem|Wedderbui]]
+When the **field** is *finite*, the notions of **field** and *division ring* are equivalent since the **[[Wedderburn Theorem|Wedderburn theorem]]** shoes that all *finite division ring* is a **field**.
 ## II. Use
 # Example
 
