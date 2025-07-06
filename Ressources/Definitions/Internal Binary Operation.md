@@ -66,15 +66,15 @@ m*m=m
 >$$
 
 >[!tldr] Symmetry
->Let $E$ be a *unital* **[[Magma|magma]]** with **[[Neutral Element|neutral element]]** $e$. An element $m\in M$ is *left symmetric* if
+>Let $E$ be a *unital* **[[Magma|magma]]** with **[[Neutral Element|neutral element]]** $e$. An element $m\in M$ is *left invertible* if
 >$$
 \exists m_{1}\in M,m*m_{1}=e
 >$$
->It is *right symmetric* if
+>It is *right invertible* if
 >$$
 \exists m_{2}\in M,m_{2}*m=e
 >$$
->It is simply *symmetric* if it is left and right symmetric and if $m_1=m_2$.
+>It is simply *invertible* if it is left and right invertible and if $m_1=m_2$.
 
 >[!tldr] Regularity
 >Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is *left regular* if
