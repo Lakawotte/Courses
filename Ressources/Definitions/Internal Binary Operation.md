@@ -88,9 +88,9 @@ m*m=m
 >It is *regular* when it is both left regular and right regular.
 
 >[!tldr] Zero Divider
->Let $(A,+,\times)$ be a **[[Ring|ring]]** and $a\in A\
+>Let $(A,+,\times)$ be a **[[Ring|ring]]**. An element $a\in A\textbackslash{0_A}$ is said to be *left zero divider* if
 $$
-
+\exists b\in A\\text{backslash
 $$
 #### Note :
 Most of the time, we use an other definition of *regularity* based on this concept : $m\in M$ is said to be *regular* if it is not a *zero divider*.
