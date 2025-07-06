@@ -77,7 +77,7 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
-
+For example, $U()
 ## II. Use
 # Example
 
