@@ -57,7 +57,7 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >>[!info] Proof
 
 >[!tldr] Zero Divider
->Let $(A,+,\times)$ be a **[[Ring|ring]]**. An element $a\in A\textbackslash\{0_A\}$ is said to be *left zero divider* if
+>Let $(A,+,\times)$ be a **ring**. An element $a\in A\textbackslash\{0_A\}$ is said to be *left zero divider* if
 >$$
 \exists b\in A\textbackslash\{0_{A}\},a\times b=0
 >$$
@@ -66,6 +66,9 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 \exists b\in A\textbackslash\{0_{A}\},b\times a=0
 >$$
 >It is a *zero divider* if it is a divider on both sides.
+
+>[!tip] Zero Divider and **[[Internal Binary Operation|Regularity]]**
+>>[!tldr] 
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Ring
