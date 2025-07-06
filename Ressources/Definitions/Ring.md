@@ -68,7 +68,8 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >It is a *zero divider* if it is a divider on both sides.
 
 >[!tip] Zero Divider and **[[Internal Binary Operation|Regularity]]**
->>[!tldr] 
+>>[!tldr] Proposition
+>>A nonzero element from a **ring** $(A,+,\times)$ is **[[Internal Binary Operation|left regular]]** (resp. *right regular*)
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Ring
