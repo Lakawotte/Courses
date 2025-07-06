@@ -98,7 +98,9 @@ m*m=m
 >$$
 >It is a *zero divider* if it is a divider on both sides.
 #### Note :
-Most of the time, we use an other definition of *regularity* based on this concept : $m\in M$ is said to be *regular* if it is not a *zero divider*.
+Most of the time, we use an other definition of *regularity* based on this concept : $m\in M$ is said to be *regular* if it is nonzero and not a *zero divider*.
+
+F
 
 >[!tip] Absorption
 >>[!tldr] Property
