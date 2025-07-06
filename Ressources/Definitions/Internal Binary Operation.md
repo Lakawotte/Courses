@@ -87,21 +87,6 @@ m*m=m
 >$$
 >It is *regular* when it is both left regular and right regular.
 
->[!tldr] Zero Divider
->Let $(A,+,\times)$ be a **[[Ring|ring]]**. An element $a\in A\textbackslash\{0_A\}$ is said to be *left zero divider* if
->$$
-\exists b\in A\textbackslash\{0_{A}\},a\times b=0
->$$
->it is a *right zero divider* if
->$$
-\exists b\in A\textbackslash\{0_{A}\},b\times a=0
->$$
->It is a *zero divider* if it is a divider on both sides.
-#### Note :
-Most of the time, we use an other definition of *regularity* based on this concept : $m\in M$ is said to be *regular* if it is nonzero and not a *zero divider*.
-
-A *zero divider* cannot be *invertible*.
-
 >[!tip] Absorption
 >>[!tldr] Property
 >>Let $(M,*)$ be a **[[Magma|magma]]**. An element $m\in M$ is a *left zero* if
