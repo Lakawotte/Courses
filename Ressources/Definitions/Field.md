@@ -15,7 +15,9 @@ The condition $0\neq 1$ allows us to not consider $\{0\}$ as a **field**.
 
 >[!tip] Definition : **Field** Axioms
 >A **[[Set|set]]** $(F,+,\times)$ is a **field** if :
->
+>1. It is *Associative*
+>2. It is *Commutative*
+>3. $+$ and 
 ## II. Extensions
 ### 1. Properties
 
