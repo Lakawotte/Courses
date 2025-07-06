@@ -100,7 +100,7 @@ m*m=m
 #### Note :
 Most of the time, we use an other definition of *regularity* based on this concept : $m\in M$ is said to be *regular* if it is nonzero and not a *zero divider*.
 
-F
+A *zero divider* cannot be *invertible*.
 
 >[!tip] Absorption
 >>[!tldr] Property
