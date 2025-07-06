@@ -18,7 +18,8 @@ The condition $0\neq 1$ allows us to not consider $\{0\}$ as a **field**.
 >1. It is *Associative*
 >2. It is *Commutative*
 >3. $+$ and $\times$ has **[[Neutral Element|neutral elements]]** $0_F$ and $1_F$
->4. $+$ and $\times$ 
+>4. $+$ and $\times$ are *[[Internal Binary Operation|symmetric]]*
+>5. $\times$ is *[[Internal Binary Operation|distributive]]* over $+$
 ## II. Extensions
 ### 1. Properties
 
