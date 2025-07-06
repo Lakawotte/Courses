@@ -87,7 +87,9 @@ m*m=m
 >$$
 >It is *regular* when it is both left regular and right regular.
 #### Note :
-Most of the time, we use an other definition based on the concept of *zero divider* : $m\in M$ is said to be *regular* if
+Most of the time, we use an other definition of *regularity* based on the concept of *zero divider* : $m\in M$ is said to be *regular* if it is not a *zero divider*.
+
+>[!tldr] Zero Divider
 $$
 
 $$
