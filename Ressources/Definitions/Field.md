@@ -19,7 +19,10 @@ The condition $0\neq 1$ allows us to not consider $\{0\}$ as a **field**.
 >[!tldr]
 >$$
 >$$
-### 2. Other formulas
+### 2. Other kinds of **fields**
+
+>[!tldr] Division **[[Ring]]**
+>When 
 # Application
 ## I. Meaning
 ## II. Use
