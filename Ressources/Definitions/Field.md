@@ -9,6 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
+>
 >$$
 >$$
 ## II. Extensions

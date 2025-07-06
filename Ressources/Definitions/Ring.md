@@ -103,8 +103,6 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$. For example, $\mathbb{Z}$ is a **ring** but $\mathbb{Z}^\times=\{-1,1\}$. Also, $U(\mathcal{M}_n(\mathbb{R}))=\mathrm{GL}_n(\mathbb{R})$.
-
-
 ## II. Use
 # Example
 
