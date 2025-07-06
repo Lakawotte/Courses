@@ -76,7 +76,7 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >An *integral domain* is an *abelian* **ring** different from the *null ring* where every element is **[[Internal Binary Operation|regular]]**.
 # Application
 ## I. Meaning
-In a **ring**, all elements does not necesserally admit an *inverse* for $\times$. For example, $\mathbb{Z}$ is a **ring** but $\mathbb{Z}^\times=
+In a **ring**, all elements does not necesserally admit an *inverse* for $\times$. For example, $\mathbb{Z}$ is a **ring** but $\mathbb{Z}^\times=\{-1,1\}$. Also, $U(\mathcal{M}_n(\mathbb{R}))=
 ## II. Use
 # Example
 
