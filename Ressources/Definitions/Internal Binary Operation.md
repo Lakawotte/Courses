@@ -86,14 +86,14 @@ m*m=m
 \forall(x,y)\in M^2, x*m=y*m\Longrightarrow x=y
 >$$
 >It is *regular* when it is both left regular and right regular.
-#### Note :
-Most of the time, we use an other definition of *regularity* based on the concept of *zero divider* : $m\in M$ is said to be *regular* if it is not a *zero divider*.
 
 >[!tldr] Zero Divider
+>Let $(A,+,\times)$ be a **[[Ring|ring]]** and $a\in A\
 $$
 
 $$
-
+#### Note :
+Most of the time, we use an other definition of *regularity* based on this concept : $m\in M$ is said to be *regular* if it is not a *zero divider*.
 
 >[!tip] Absorption
 >>[!tldr] Property
