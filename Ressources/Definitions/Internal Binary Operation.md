@@ -87,7 +87,10 @@ m*m=m
 >$$
 >It is *regular* when it is both left regular and right regular.
 #### Note :
-Most of the time, we use an other definition based on the concept of **[[]]
+Most of the time, we use an other definition based on the concept of *zero divider* : $m\in M$ is said to be *regular* if
+$$
+
+$$
 
 
 >[!tip] Absorption
