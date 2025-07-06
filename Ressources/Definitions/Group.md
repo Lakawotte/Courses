@@ -18,11 +18,16 @@ The group $(G,*)$ is said to be *commutative* if the **[[Internal Binary Operati
 >[!tip] **[[Image|Direct Image]]** of a **Subgroup**
 >>[!tldr] Proposition
 >>Let $(G,*)$ and $(H,*)$ be two **groups** and $f:G\to H$ a **[[Morphism|group morphism]]** :
->The **[[Image|direct image]]** of a **subgroup** from $G$ is a **subgroup** of $H$.
+>>The **[[Image|direct image]]** of a **subgroup** from $G$ is a **subgroup** of $H$.
+>
+>>[!info] Proof
 
->[!tldr] Preimage of a **Subgroup**
->Let $(G,*)$ and $(F,*)$ be two **groups** and $f:G\to F$ a **[[Morphism|group morphism]]** :
->The **[[Image|preimage]]** of a **subgroup** from $H$ is a **subgroup** of $G$.
+>[!tip] Preimage of a **Subgroup**
+>>[!tldr] Proposition
+>>Let $(G,*)$ and $(F,*)$ be two **groups** and $f:G\to F$ a **[[Morphism|group morphism]]** :
+>>The **[[Image|preimage]]** of a **subgroup** from $H$ is a **subgroup** of $G$.
+>
+>>[!info] Proof
 ### 2. Other kinds of **groups**
 
 >[!tldr] Structure
