@@ -74,6 +74,9 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >>[!info] Proof
 >>$$
 >>$$
+>
+>>[!tldr] Corrolary
+>>A *zero divider* is not **[[Internal Binary Operation|invertible]]**.
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Ring
