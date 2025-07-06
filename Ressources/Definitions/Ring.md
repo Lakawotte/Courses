@@ -73,7 +73,7 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 >>[!info] Proof
 
 >[!tldr] Integral Domain
->An *integral domain* is an *abelian ring*
+>An *integral domain* is an *abelian* **ring** different from 
 # Application
 ## I. Meaning
 In a **ring**, all elements does not necesserally admit an *inverse* for $\times$.
