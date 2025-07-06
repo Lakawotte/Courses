@@ -69,7 +69,10 @@ The *group of inverses* is also noted $A^\times$, so one can remember that we ar
 
 >[!tip] Zero Divider and **[[Internal Binary Operation|Regularity]]**
 >>[!tldr] Proposition
->>A nonzero element from a **ring** $(A,+,\times)$ is **[[Internal Binary Operation|left regular]]** (resp. *right regular*)
+>>A nonzero element from a **ring** $(A,+,\times)$ is *[[Internal Binary Operation|left regular]]* (resp. *right regular*) if and only if it is not a *left zero divider* (resp. *right zero divider*).
+>
+>>[!info] Proof
+>>
 ### 2. Other kinds of **rings**
 
 >[!tldr] Abelian Ring
