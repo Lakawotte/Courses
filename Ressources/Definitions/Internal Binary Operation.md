@@ -89,7 +89,7 @@ m*m=m
 #### Note :
 Most of the time, we set $x$ and $y$ to be $0$ :
 $$
-m\mathrm{invertible}
+m\mathrm{invertible}\Longrightarrow
 $$
 
 >[!tip] Absorption
