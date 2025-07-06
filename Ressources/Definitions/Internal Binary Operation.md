@@ -86,6 +86,11 @@ m*m=m
 \forall(x,y)\in M^2, x*m=y*m\Longrightarrow x=y
 >$$
 >It is *regular* when it is both left regular and right regular.
+#### Note :
+Most of the time, we set $x$ and $y$ to be $0$ :
+$$
+m\mathrm{invertible}
+$$
 
 >[!tip] Absorption
 >>[!tldr] Property
