@@ -89,10 +89,14 @@ m*m=m
 
 >[!tldr] Zero Divider
 >Let $(A,+,\times)$ be a **[[Ring|ring]]**. An element $a\in A\textbackslash\{0_A\}$ is said to be *left zero divider* if
-$$
+>$$
 \exists b\in A\textbackslash\{0_{A}\},a\times b=0
-$$
-it is a 
+>$$
+>it is a *right zero divider* if
+>$$
+\exists b\in A\textbackslash\{0_{A}\},b\times a=0
+>$$
+>It is a *zero divider* if it is a divider on both sides.
 #### Note :
 Most of the time, we use an other definition of *regularity* based on this concept : $m\in M$ is said to be *regular* if it is not a *zero divider*.
 
