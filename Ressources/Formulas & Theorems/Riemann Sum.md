@@ -29,7 +29,11 @@ S_{N}(f)=\frac{b-a}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 >
 >First, it is not ideal to compare directly the two **sums** since the subdivisions may not coincide. Instead, we chose an intermediate **sum** whose subdivisions coincide both with the ones from $S_N(f)$ and $S_M(f)$ :
 >$$
-S_{NM}(f)_{NM\ge 1}
+S_{NM}(f)_{NM\ge 1}=\frac{b-a}{NM}\sum_{l=0}^{NM-1}f(a+k\frac{b-a}{NM})
+>$$
+>Secondly, we are left with the relation
+>$$
+S_{N}S_{N}(f)-S_{M}(f)
 >$$
 ## II. Extensions
 ### 1. Properties
