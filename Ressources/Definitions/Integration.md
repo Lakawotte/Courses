@@ -14,9 +14,9 @@ category:
 ### 1. Properties
 
 >[!tldr] Inherent Properties
->- Linearity
+>- Linearity : let $f$ and $g$ be continous on $[a,b]\subset\mathbb{R}$
 >$$
-\forall(\alpha,\b\eta)
+\forall(\alpha,\beta)\in\mathbb{C}^2
 >$$
 ### 2. Other formulas
 
