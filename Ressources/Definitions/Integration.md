@@ -13,8 +13,10 @@ category:
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Linearity
+>[!tldr] Inherent Properties
+>- Linearity
 >$$
+\forall
 >$$
 ### 2. Other formulas
 
