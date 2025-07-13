@@ -20,7 +20,7 @@ S_{N}(f)=\frac{b-a}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 ### 2. Proof
 
 >[!info] Proof using an intermediate term
->We just need to show 
+>We just need to show that $S_N(f)_{{N\ge 1}}$ is  
 >$$
 >$$
 ## II. Extensions
