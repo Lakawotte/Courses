@@ -51,7 +51,7 @@ category: "[[Maths]]"
 >>$$
 >
 >>[!info] Proof
->>Suppose $\int_{a}^bg(x)dx\neq 0\Long\neq 0$ otherwise the case is trivial.
+>>
 
 >[!tip] **[[Mean]]** Formula
 >[!tldr] 
@@ -61,6 +61,7 @@ category: "[[Maths]]"
 >$$
 >
 >>[!info] Proof
+>>Suppose $\int_{a}^bg(x)dx\neq 0\Longleftrightarrow g\neq 0$ since $g$ is **[[Continuity|continuous]]** and *positive*, otherwise the case is trivial.
 #### Note :
 The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\int_{a}^bf(x)g(x)dx$ is nothing but the **[[Mean|mean]]** of $f$ on $[a,b]$ weighted by $g$.
 
