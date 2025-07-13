@@ -47,6 +47,9 @@ category:
 >$$
 \exists\theta\in[a,b],\int_{a}^b f(x)g(x)dx=f(\theta)\int_{a}^b g(x)dx
 >$$
+
+#### Note :
+The name of this formula comes from the fact that $
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
