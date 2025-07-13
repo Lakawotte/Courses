@@ -51,7 +51,7 @@ category: "[[Maths]]"
 >>$$
 >
 >>[!info] Proof
->>Suppose $g\neq 0$ otherwise the case is trivial.
+>>Suppose $\int_{a}^bg(x)dx\neq 0\Long\neq 0$ otherwise the case is trivial.
 
 >[!tip] **[[Mean]]** Formula
 >[!tldr] 
