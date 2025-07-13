@@ -17,6 +17,9 @@ category:
 >$$
 >$$
 ### 2. Other formulas
+
+>[!tip] **[[Mean]]**
+>
 # Application
 ## I. Meaning
 ## II. Use
