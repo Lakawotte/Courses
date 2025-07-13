@@ -50,6 +50,8 @@ category: "[[Maths]]"
 |\int_{a}^bf(x)dx|\le\int_{a}^b |f(x)|dx\le(b-a)\sup_{x\in[a,b]}|f(x)|dx
 >>$$
 >
+>>[!info] Proof
+>>Suppose $g\neq 0$ otherwise the case is trivial.
 
 >[!tip] **[[Mean]]** Formula
 >[!tldr] 
