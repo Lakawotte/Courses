@@ -15,7 +15,7 @@ S_{N}(f)=\frac{b-a}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 >$$
 >converges when $N\to +\infty$. This limit is the **[[Integration|integral]]** of $f$ on $\[a,b\]$ :
 >$$
-\int_{a}^bf{(x)dx}=\lim_{ N \to \infty } 
+\int_{a}^bf(x)dx=\lim_{N\to\infty}\frac{b-a}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 >$$
 ### 2. Proof
 
