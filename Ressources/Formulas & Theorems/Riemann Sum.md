@@ -20,7 +20,8 @@ S_{N}(f)=\frac{b-a}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 ### 2. Proof
 
 >[!info] Proof using an intermediate term
->We just need to show that $S_N(f)_{{N\ge 1}}$ is  
+>One just need to show that $S_N(f)_{{N\ge 1}}$ is **[[Cauchy Sequence|Cauchy]]**.
+>Here we will show that for any $\epsilon>0$ 
 >$$
 >$$
 ## II. Extensions
