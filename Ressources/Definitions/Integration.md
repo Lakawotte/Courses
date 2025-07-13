@@ -33,6 +33,10 @@ category:
 \Longleftrightarrow&\mu=\frac{1}{b-a}\int_{a}^bf(x)dx\\
 \end{split}
 >>$$
+>
+>>[!info] Proof using **[[Riemann Sum]]**
+>>$$
+>>$$
 # Application
 ## I. Meaning
 ## II. Use
