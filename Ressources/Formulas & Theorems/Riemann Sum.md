@@ -56,7 +56,7 @@ S_{N}(f)-S_{NM}(f)=\frac{b-a}{N}\sum_{r=0}^{N-1}(f(a+k\frac{b-a}{N})-\frac{1}{M}
 >$$
 >So by chosing $\frac{b-a}{N}\le\sigma$ we ensure that $|r\frac{b-a}{MN}|\le\sigma$ which implies that all $f(a+k\frac{b-a}{N}+\frac{r}{M})$ lies in $[f(a+k\frac{b-a}{N})-\epsilon,f(a+k\frac{b-a}{N})+\epsilon]$.
 >$\frac{1}{M}\sum_{r=0}^{M-1}f(a+k\frac{b-a}{N}+r\frac{b-a}{NM})$ is a **[[Mean|mean]]** so it is also in the interval $[f(a+k\frac{b-a}{N})-\epsilon,f(a+k\frac{b-a}{N})+\epsilon]$.
->In the difference $S_N(f)-S_NM(f)$, we have $N\frac{b-a}{N}$ times a term which is at most $\epsilon$ :
+>In the difference $S_N(f)-S_NM(f)$, we have $N\frac{b-a}{N}$ times a term which is at most $\epsilon$. So if $N\ge\frac{b-a}{\sigma}$ and $M\ge 1$,
 >$$
 |S_N(f)-S_NM(f)|\le(b-a)\epsilon
 >$$
