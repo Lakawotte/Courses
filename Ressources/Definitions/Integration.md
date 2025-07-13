@@ -38,7 +38,10 @@ category: "[[Maths]]"
 >>[!info] Proof
 >>- *Linearity*
 >>- *Positivity*
->>2. Let be $x_0\in[a,b]$ such that $f(x_0)>0$. By **[[Continuity|continuity]]** there is $\alpha>0$ such that $f\neq 0$ on the interval $[x_0-\alpha,x_0+\alpha]$.
+>>2. Let be $x_0\in[a,b]$ such that $f(x_0)>0$. By **[[Continuity|continuity]]** there is $\alpha>0$ such that $f\neq 0$ on the interval $[x_0-\alpha,x_0+\alpha]$. By *Positivity 1.* we have :
+>>$$
+\int_{a}^b f(x)dx\ge
+>>$$
 
 >[!tip] **[[Mean]]** Inequality
 >>[!tldr] Theorem
