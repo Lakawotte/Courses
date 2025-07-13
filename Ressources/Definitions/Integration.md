@@ -20,7 +20,7 @@ category:
 >$$
 >If $f$ is complex-valuated,
 >$$
-\int_{a}^bf(x)dx=\mathrm{Re}
+\int_{a}^bf(x)dx=\int_{a}^b\mathrm{Re}f(x)dx+i\int_{a}^b\mathrm{Im}f(x)dx
 >$$
 >- Positivity :
 ### 2. Other formulas
