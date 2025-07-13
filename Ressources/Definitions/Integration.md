@@ -13,7 +13,7 @@ category:
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Linearity
 >$$
 >$$
 ### 2. Other formulas
