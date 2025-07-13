@@ -19,7 +19,7 @@ category: "[[Maths]]"
 >$$
 \int_{a}^b f(x)dx=\sum_{i=0}^{n-1}f_{i}(\sigma_{i+1}-\sigma_{i})
 >$$
->where for all $i\in[\![1,n-1]\!]$ $f_i$ designates the constant value of $f$ on $[\sigma_i,\sigma_{i+1}[$.
+>where for all $i\in[\![1,n-1]\!]$ $f_i$ designates the constant value of $f$ on $]\sigma_i,\sigma_{i+1}[$.
 ## III. **[[Continuity|Continuous]]** Functions
 ### 1. Properties
 
