@@ -29,8 +29,8 @@ category:
 >>The **[[Mean|mean]]** of a function is by definition a constant function, so its area $\mu$ can be expressed as a rectangle with the condition $\mu=\int_{a}^bf(x)dx$. Furthermore, the lenght of this rectangle is $b-a$ :
 >>$$
 >>\begin{split}
-\mu(b-a)&=\int_{a}^bf(x)dx
-
+&\mu(b-a)=\int_{a}^bf(x)dx\\
+\Longleftrightarrow&\mu=\frac{1}{b-a}\int_{a}^bf(x)dx\\
 \end{split}
 >>$$
 # Application
