@@ -48,7 +48,7 @@ S_{NM}(f)=\frac{b-a}{NM}\sum_{k=0}^{N-1}\sum_{r=0}^{M-1}f(a+k\frac{b-a}{N}+\frac
 >
 >But $f$ is **[[Continuity|uniformly continuous]]** :
 >$$
-|x-x'|\le\sigma\Longrightarrow
+|a+k\frac{b-a}{N}+\frac{r}{M}-x'|\le\sigma\Longrightarrow|f(x)-f(x')|\le\epsilon
 >$$
 ## II. Extensions
 ### 1. Properties
