@@ -17,18 +17,20 @@ category: "[[Maths]]"
 >[!tip] Inherent Properties
 >>[!tldr] Properties
 >>- *Linearity* : let $f$ and $g$ be **[[Continuity|continuous]]** on $[a,b]\subset\mathbb{R}$
+>>1.
 >>$$
 \forall(\alpha,\beta)\in\mathbb{C}^2,\int_{a}^b\alpha f(x)+\beta g(x)dx=\alpha \int_{a}^bf{(x)dx}+\beta \int g(x)dx
 >>$$
->>If $f$ is complex-valuated,
+>>2. If $f$ is complex-valuated,
 >>$$
 \int_{a}^bf(x)dx=\int_{a}^b\mathrm{Re}f(x)dx+i\int_{a}^b\mathrm{Im}f(x)dx
 >>$$
 >>- *Positivity* : let $f$ and $g$ be **[[Continuity|continuous]]** on $[a,b]\subset\mathbb{R}$
+>>1. 
 >>$$
 (b-a)\inf_{x\in[a,b]}f(x)\le\int_{a}^bf(x)dx\le(b-a)\sup_{x\in[a,b]}f(x)
 >>$$
->>Furthermore, if $f\ge 0$ but is not zero everywhere on $[a,b]$,
+>>2. Furthermore, if $f\ge 0$ but is not zero everywhere on $[a,b]$,
 >>$$
 \int_{a}^bf(x)dx>0
 >>$$
@@ -36,7 +38,7 @@ category: "[[Maths]]"
 >>[!info] Proof
 >>- *Linearity*
 >>- *Positivity*
->>To pro
+>>To prove 2., 
 
 >[!tip] **[[Mean]]** Inequality
 >>[!tldr] Theorem
