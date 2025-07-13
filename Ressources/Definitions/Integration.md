@@ -11,7 +11,9 @@ category: "[[Maths]]"
 >[!hint] Definition
 >$$
 >$$
-## II. **[[Continuity|Continuous]]** Functions
+## II. **[[Step Function|Step Functions]]**
+
+## III. **[[Continuity|Continuous]]** Functions
 ### 1. Properties
 
 >[!tip] Inherent Properties
