@@ -36,7 +36,9 @@ category:
 >
 >>[!info] Proof using **[[Riemann Sum]]**
 >>$$
+>>\frac{1}{b-a}\int_{a}^bf(x)dx=\lim_{ N \to \infty } \frac{1}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 >>$$
+>>This is the **[[Mean|mean]]** of 
 # Application
 ## I. Meaning
 ## II. Use
