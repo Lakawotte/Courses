@@ -45,7 +45,7 @@ category:
 >[!tip] **[[Mean]]** Formula
 >Let $g:[a,b]\to\mathbb{R}$ be a *positive* **[[Continuity|continuous]]** function and let $f:[a,b]\to\mathbb{R}$ be a **[[Continuity|continuous]]** function.
 >$$
-\exists\theta\in[a,b],
+\exists\theta\in[a,b],\int_{a}^b f(x)g(x)dx=f(\theta)\int_{a}^b g(x)dx
 >$$
 ### 2. Other formulas
 
