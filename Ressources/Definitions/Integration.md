@@ -34,7 +34,12 @@ category:
 >
 >>[!info] Proof
 
->[!tip] **[[Mean]]**
+>[!tip] **[[Mean]]** Inequality
+>>[!tldr] Theorem
+>>If $f$ is **[[Continuity]]
+>>$$
+\int_{a}^b
+>>$$
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
