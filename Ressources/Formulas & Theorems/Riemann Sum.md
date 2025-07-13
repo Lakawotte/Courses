@@ -43,7 +43,7 @@ a+k\frac{b-a}{N}+\frac{r}{M}
 >with $0\le r\le M-1$.
 >So we have
 >$$
-S_{NM(f)}
+S_{NM}(f)=\frac{b-a}{}\sum_{k=0}^{N-1}\sum_{r=0}^{M-1}f(a+k\frac{b-a}{N}+\frac{r}{M})
 >$$
 ## II. Extensions
 ### 1. Properties
