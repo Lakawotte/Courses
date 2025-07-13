@@ -36,6 +36,7 @@ category: "[[Maths]]"
 >>[!tldr] Definition
 >>One says that $f$ is *Riemann integrable* on $[a,b]$ if
 >>$$
+\forall\epsilon>0,\exists g\in \mathrm{Esc}_{-}(f),\exists h\in \mathrm{Esc}_{+}(f),\int_{a}^b()
 >>$$
 ### 2. Properties
 
