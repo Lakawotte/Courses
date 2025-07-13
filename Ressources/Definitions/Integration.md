@@ -24,7 +24,12 @@ category: "[[Maths]]"
 ### 1. Definition
 
 >>[!tip] Definition in the sense of Riemann
->>[!tldr] 
+>>[!tldr] Lemmas
+>>$$
+\begin{split}
+\mathrm{Esc}_{-}(f)=\{g\in \mathrm{Esc}([a,b])|\forall x\in[a,b]\}
+\end{split}
+>>$$
 ### 2. Properties
 
 >[!tip] Inherent Properties
