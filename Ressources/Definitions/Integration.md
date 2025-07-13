@@ -24,8 +24,9 @@ category:
 >$$
 >- Positivity : let $f$ and $g$ be continous on $[a,b]\subset\mathbb{R}$
 >$$
-(b-a)\inf_{x\in[a,b]}f(x)\le\int_{a}^bf(x)dx\le(b-a)\sup_{x\in[a,b]}
+(b-a)\inf_{x\in[a,b]}f(x)\le\int_{a}^bf(x)dx\le(b-a)\sup_{x\in[a,b]}f(x)
 >$$
+>Furthermore, if $f\ge 0$ but is not 
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
