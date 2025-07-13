@@ -18,6 +18,10 @@ category:
 >$$
 \forall(\alpha,\beta)\in\mathbb{C}^2,\int_{a}^b\alpha f(x)+\beta g(x)dx=\alpha \int_{a}^bf{(x)dx}+\beta \int g(x)dx
 >$$
+>If $f$ is complex-valuated,
+>$$
+\int_{a}^bf(x)dx=\mathrm{Re}
+>$$
 >- Positivity :
 ### 2. Other formulas
 
