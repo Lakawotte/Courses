@@ -25,7 +25,8 @@ category:
 \frac{1}{b-a}\int_{a}^bf(x)dx
 >>$$
 >
->>[!info] Proof using
+>>[!info] Proof using geometry
+>>The **[[Mean|mean]]** of a function is by definition a constant function.
 # Application
 ## I. Meaning
 ## II. Use
