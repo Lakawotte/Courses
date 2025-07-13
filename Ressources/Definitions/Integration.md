@@ -15,7 +15,7 @@ category: "[[Maths]]"
 ### I. Definition
 
 >[!tip] Definition
->Let $f:[a,b]\to\mathbb{R}$ be a **[[Step Function|step function]]** with *step* $\sigma$.
+>Let $f:[a,b]\to\mathbb{R}$ be a **[[Step Function|step function]]** with *step* $\sigma=$.
 ## III. **[[Continuity|Continuous]]** Functions
 ### 1. Properties
 
