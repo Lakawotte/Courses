@@ -36,7 +36,7 @@ S_{NM}(f)_{NM\ge 1}=\frac{b-a}{NM}\sum_{l=0}^{NM-1}f(a+k\frac{b-a}{NM})
 S_{N}(f)-S_{M}(f)=(S_{N}(f)-S_{MN}(f))+(S_{NM}(f)-S_{M}(f))
 >$$
 >
->
+>By construction, each interval
 ## II. Extensions
 ### 1. Properties
 
