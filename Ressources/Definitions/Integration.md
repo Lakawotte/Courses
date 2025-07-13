@@ -12,7 +12,7 @@ category: "[[Maths]]"
 >$$
 >$$
 ## II. **[[Step Function|Step Functions]]**
-### I. Definition
+### 1. Definition
 
 >[!tip] Definition
 >Let $f:[a,b]\to\mathbb{R}$ be a **[[Step Function|step function]]** with *step* $\sigma=(a=\sigma_{0}<\sigma_{1}<\sigma_{n}=b)$.
@@ -21,7 +21,11 @@ category: "[[Maths]]"
 >$$
 >where for all $i\in[\![1,n-1]\!]$ $f_i$ designates the constant value of $f$ on $]\sigma_i,\sigma_{i+1}[$.
 ## III. **[[Continuity|Continuous]]** Functions
-### 1. Properties
+### 1. Definition
+
+>>[!tip] Definition in the sense of Riemann
+>>[!tldr] 
+### 2. Properties
 
 >[!tip] Inherent Properties
 >>[!tldr] Properties
