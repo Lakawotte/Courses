@@ -49,7 +49,7 @@ category:
 >$$
 
 #### Note :
-The name of this formula comes from the fact that $
+The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\int_{a}^bf(x)g(x)dx$ is nothing but the **[[Mean|mean]]** of $f$ on $[a,b]$ wei
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
