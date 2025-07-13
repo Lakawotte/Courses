@@ -36,8 +36,10 @@ category: "[[Maths]]"
 >>[!tldr] Definition
 >>One says that $f$ is *Riemann integrable* on $[a,b]$ if
 >>$$
-\forall\epsilon>0,\exists g\in \mathrm{Esc}_{-}(f),\exists h\in \mathrm{Esc}_{+}(f),\int_{a}^b()
+\forall\epsilon>0,\exists g\in \mathrm{Esc}_{-}(f),\exists h\in \mathrm{Esc}_{+}(f),\int_{a}^bh(x)-g(x)dx<\epsilon
 >>$$
+#### Note :
+This **integral** is by definition positive.
 ### 2. Properties
 
 >[!tip] Inherent Properties
