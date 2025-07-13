@@ -46,6 +46,10 @@ a+k\frac{b-a}{N}+\frac{r}{M}
 S_{NM}(f)=\frac{b-a}{NM}\sum_{k=0}^{N-1}\sum_{r=0}^{M-1}f(a+k\frac{b-a}{N}+r\frac{b-a}{NM})
 >$$
 >
+>The difference can now be expressed :
+>$$
+S_{N}(f)-S_{NM}(f)=\frac{b-a}{}
+>$$
 >But $f$ is **[[Continuity|uniformly continuous]]** :
 >$$
 |a+k\frac{b-a}{N}-(a+k\frac{b-a}{N}+r\frac{b-a}{MN})|\le\sigma\Longrightarrow|f(a+k\frac{b-a}{N})-f(a+k\frac{b-a}{N}+r\frac{b-a}{MN})|\le\epsilon
