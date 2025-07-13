@@ -23,11 +23,12 @@ category: "[[Maths]]"
 ## III. **[[Continuity|Continuous]]** Functions
 ### 1. Definition
 
->>[!tip] Definition in the sense of Riemann
+>[!tip] Definition in the sense of Riemann
 >>[!tldr] Lemmas
 >>$$
 \begin{split}
-\mathrm{Esc}_{-}(f)=\{g\in \mathrm{Esc}([a,b])|\forall x\in[a,b]\}
+&\mathrm{Esc}_{-}(f)=\{g\in \mathrm{Esc}([a,b])|\forall x\in[a,b],g(x)\le f(x)\}\\
+&\mathrm{Esc}_{+}(f)=\{g\in \mathrm{Esc}([a,b])|\forall x\in[a,b],g(x)\ge f(x)\}
 \end{split}
 >>$$
 ### 2. Properties
