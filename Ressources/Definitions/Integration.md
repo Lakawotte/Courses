@@ -22,7 +22,10 @@ category:
 >$$
 \int_{a}^bf(x)dx=\int_{a}^b\mathrm{Re}f(x)dx+i\int_{a}^b\mathrm{Im}f(x)dx
 >$$
->- Positivity :
+>- Positivity : let $f$ and $g$ be continous on $[a,b]\subset\mathbb{R}$
+>$$
+(b-a)\mathrm{inf}_{x\in[a,b]}f(x)
+>$$
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
