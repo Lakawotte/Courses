@@ -43,8 +43,10 @@ category:
 >
 
 >[!tip] **[[Mean]]** Formula
->Let $g:[a,b]\to\mathbb{R}$ be a *positive* **[[Continuity|continu]]function and 
->
+>Let $g:[a,b]\to\mathbb{R}$ be a *positive* **[[Continuity|continuous]]** function and let $f:[a,b]\to\mathbb{R}$ be a **[[Continuity|continuous]]** function.
+>$$
+\exists\theta\in[a,b],
+>$$
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
