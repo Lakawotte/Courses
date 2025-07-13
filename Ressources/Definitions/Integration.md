@@ -16,8 +16,9 @@ category:
 >[!tldr] Inherent Properties
 >- Linearity : let $f$ and $g$ be continous on $[a,b]\subset\mathbb{R}$
 >$$
-\forall(\alpha,\beta)\in\mathbb{C}^2,\int_{a}^b\alpha f(x)+\beta g(x)dx=\alpha \int_{a}^bf{(x)dx}
+\forall(\alpha,\beta)\in\mathbb{C}^2,\int_{a}^b\alpha f(x)+\beta g(x)dx=\alpha \int_{a}^bf{(x)dx}+\beta \int g(x)dx
 >$$
+>- Positivity :
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
