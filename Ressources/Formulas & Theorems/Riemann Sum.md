@@ -26,6 +26,8 @@ S_{N}(f)=\frac{b-a}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 |S_{N}(f)-S_{M}(f)|\le\epsilon
 >$$
 >For $N$ and $M$ sufficiently large.
+>
+>First, it is not ideal to com
 ## II. Extensions
 ### 1. Properties
 
