@@ -14,7 +14,7 @@ category:
 ### 1. Properties
 
 >[!tldr] Inherent Properties
->- Linearity : let $f$ and $g$ be continous on $[a,b]\subset\mathbb{R}$
+>- *Linearity* : let $f$ and $g$ be continous on $[a,b]\subset\mathbb{R}$
 >$$
 \forall(\alpha,\beta)\in\mathbb{C}^2,\int_{a}^b\alpha f(x)+\beta g(x)dx=\alpha \int_{a}^bf{(x)dx}+\beta \int g(x)dx
 >$$
@@ -22,11 +22,16 @@ category:
 >$$
 \int_{a}^bf(x)dx=\int_{a}^b\mathrm{Re}f(x)dx+i\int_{a}^b\mathrm{Im}f(x)dx
 >$$
->- Positivity : let $f$ and $g$ be continous on $[a,b]\subset\mathbb{R}$
+>- *Positivity* : let $f$ and $g$ be continous on $[a,b]\subset\mathbb{R}$
 >$$
 (b-a)\inf_{x\in[a,b]}f(x)\le\int_{a}^bf(x)dx\le(b-a)\sup_{x\in[a,b]}f(x)
 >$$
->Furthermore, if $f\ge 0$ but is not 
+>Furthermore, if $f\ge 0$ but is not zero everywhere on $[a,b]$,
+>$$
+\int_{a}^bf(x)dx>0
+>$$
+
+>[!t]
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
