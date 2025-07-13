@@ -43,13 +43,15 @@ category:
 >
 
 >[!tip] **[[Mean]]** Formula
+>[!tldr] 
 >Let $g:[a,b]\to\mathbb{R}$ be a *positive* **[[Continuity|continuous]]** function and let $f:[a,b]\to\mathbb{R}$ be a **[[Continuity|continuous]]** function.
 >$$
 \exists\theta\in[a,b],\int_{a}^b f(x)g(x)dx=f(\theta)\int_{a}^b g(x)dx
 >$$
-
+>
+>>[!info] Proof
 #### Note :
-The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\int_{a}^bf(x)g(x)dx$ is nothing but the **[[Mean|mean]]** of $f$ on $[a,b]$ wei
+The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\int_{a}^bf(x)g(x)dx$ is nothing but the **[[Mean|mean]]** of $f$ on $[a,b]$ weighted by $g$.
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
