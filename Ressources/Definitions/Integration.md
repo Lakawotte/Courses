@@ -17,8 +17,9 @@ category: "[[Maths]]"
 >[!tip] Definition
 >Let $f:[a,b]\to\mathbb{R}$ be a **[[Step Function|step function]]** with *step* $\sigma=(a=\sigma_{0}<\sigma_{1}<\sigma_{n}=b)$.
 >$$
-\int_{a}^b f(x)dx=\sum_{i=0}^{}
+\int_{a}^b f(x)dx=\sum_{i=0}^{n-1}f_{i}(\sigma_{i+1}-\sigma_{i})
 >$$
+>where for all $i\in[![a]!]$
 ## III. **[[Continuity|Continuous]]** Functions
 ### 1. Properties
 
