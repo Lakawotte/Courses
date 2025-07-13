@@ -25,11 +25,16 @@ category: "[[Maths]]"
 
 >[!tip] Definition in the sense of Riemann
 >>[!tldr] Lemmas
+>>Let $f:[a,b]\to\mathbb{R}$ be a function.
 >>$$
 \begin{split}
 &\mathrm{Esc}_{-}(f)=\{g\in \mathrm{Esc}([a,b])|\forall x\in[a,b],g(x)\le f(x)\}\\
 &\mathrm{Esc}_{+}(f)=\{g\in \mathrm{Esc}([a,b])|\forall x\in[a,b],g(x)\ge f(x)\}
 \end{split}
+>>$$
+>
+>>[!tldr] Definition
+>>$$
 >>$$
 ### 2. Properties
 
