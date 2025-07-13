@@ -36,9 +36,9 @@ category:
 
 >[!tip] **[[Mean]]** Inequality
 >>[!tldr] Theorem
->>If $f$ is **[[Continuity]]
+>>If $f$ is **[[Continuity|continuous]]** on $[a,b]$,
 >>$$
-\int_{a}^b
+|\int_{a}^bf(x)dx|\le\int_{a}^b |f(x)|dx\le\sup_{x\in[a,b]}|f(x)|dx
 >>$$
 ### 2. Other formulas
 
