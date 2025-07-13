@@ -9,6 +9,7 @@ category:
 ### 1. Expression
 
 >[!hint] Formula
+>Let $\mathbb{K}$ denote $\mathbb{R}$ or $\mathbb{C}$. Let $(a,b)\in \mathbb{R}^2$ f
 >$$
 >$$
 ### 2. Proof
