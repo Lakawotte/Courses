@@ -38,7 +38,7 @@ category: "[[Maths]]"
 >>[!info] Proof
 >>- *Linearity*
 >>- *Positivity*
->>To prove 2., 
+>>2. Let be $x_0\in[a,b]$ such that $f(x_0)>0$. By **[[Continuity|continuo]]
 
 >[!tip] **[[Mean]]** Inequality
 >>[!tldr] Theorem
