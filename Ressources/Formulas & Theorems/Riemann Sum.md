@@ -27,7 +27,10 @@ S_{N}(f)=\frac{b-a}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 >$$
 >For $N$ and $M$ sufficiently large.
 >
->First, it is not ideal to compare directly the two **sums** since the subdivisions may not coincide. Instead, we chose an intermediate **sum** 
+>First, it is not ideal to compare directly the two **sums** since the subdivisions may not coincide. Instead, we chose an intermediate **sum** whose subdivisions coincide both with the ones from $S_N(f)$ and $S_M(f)$ :
+>$$
+S_{NM}(f)_{NM\ge 1}
+>$$
 ## II. Extensions
 ### 1. Properties
 
