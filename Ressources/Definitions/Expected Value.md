@@ -8,15 +8,15 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition 1 : Discrete Case
-$$
+>$$
 \mathbb{E}(X)=\sum_{i=1}^nP(X=x_{i})x_{i}
-$$
+>$$
 
 >[!hint] Definition 2 : Continuous Case
 >Let $f$ be the *density*
-$$
+>$$
 \mathbb{E}(X)=\int_{\mathbb{R}}xf(x)dx
-$$
+>$$
 ## II. Extensions
 ### 1. Properties
 >[!tldr] Inherent Properties

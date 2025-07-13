@@ -16,7 +16,7 @@ category:
 >[!tldr] Inherent Properties
 >- Linearity
 >$$
-\forall
+\forall(\alpha,\b\eta)
 >$$
 ### 2. Other formulas
 
