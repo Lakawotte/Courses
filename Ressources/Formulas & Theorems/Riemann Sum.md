@@ -64,9 +64,8 @@ S_{N}(f)-S_{NM}(f)=\frac{b-a}{N}\sum_{r=0}^{N-1}(f(a+k\frac{b-a}{N})-\frac{1}{M}
 >$$
 |S_{NM}(f)-S_{M}(f)|\le(b-a)\epsilon
 >$$
->By remembering the relation
+>By remembering the relation $S_{N}(f)-S_{M}(f)=(S_{N}(f)-S_{MN}(f))+(S_{NM}(f)-S_{M}(f))$, for $N$ and $M$ sufficiently large we conclude :
 >$$
-S_{N}(f)-S_{M}(f)=(S_{N}(f)-S_{MN}(f))+(S_{NM}(f)-S_{M}(f))
 >$$
 ## II. Extensions
 ### 1. Properties
