@@ -25,7 +25,7 @@ category: "[[Maths]]"
 
 >[!tip] Definition in the sense of Riemann
 >>[!tldr] Lemmas
->>Let $f:[a,b]\to\mathbb{R}$ be a function.
+>>Let $(a,b)\in\mathbb{R}^2,a<b$ be two reals and $f:[a,b]\to\mathbb{R}$ a function.
 >>$$
 \begin{split}
 &\mathrm{Esc}_{-}(f)=\{g\in \mathrm{Esc}([a,b])|\forall x\in[a,b],g(x)\le f(x)\}\\
@@ -34,6 +34,7 @@ category: "[[Maths]]"
 >>$$
 >
 >>[!tldr] Definition
+>>One says that $f$ is *Riemann integrable* on $[a,b]$ if
 >>$$
 >>$$
 ### 2. Properties
