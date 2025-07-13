@@ -33,8 +33,10 @@ S_{NM}(f)_{NM\ge 1}=\frac{b-a}{NM}\sum_{l=0}^{NM-1}f(a+k\frac{b-a}{NM})
 >$$
 >Secondly, we are left with the relation
 >$$
-S_{N}S_{N}(f)-S_{M}(f)
+S_{N}(f)-S_{M}(f)=(S_{N}(f)-S_{MN}(f))+(S_{NM}(f)-S_{M}(f))
 >$$
+>
+>
 ## II. Extensions
 ### 1. Properties
 
