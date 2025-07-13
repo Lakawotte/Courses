@@ -48,9 +48,10 @@ S_{NM}(f)=\frac{b-a}{NM}\sum_{k=0}^{N-1}\sum_{r=0}^{M-1}f(a+k\frac{b-a}{N}+r\fra
 >
 >But $f$ is **[[Continuity|uniformly continuous]]** :
 >$$
-|a+k\frac{b-a}{N}+\frac{r}{M}-(a+k\frac{b-a}{N}+r\frac{b-a}{MN})|\le\sigma\Longrightarrow|f(a+k\frac{b-a}{N})-f(a+k\frac{b-a}{N}+r\frac{b-a}{MN})|\le\epsilon
+|a+k\frac{b-a}{N}-(a+k\frac{b-a}{N}+r\frac{b-a}{MN})|\le\sigma\Longrightarrow|f(a+k\frac{b-a}{N})-f(a+k\frac{b-a}{N}+r\frac{b-a}{MN})|\le\epsilon
 >$$
 >So by chosing $\frac{b-a}{N}\le\sigma$ we ensure that $|r\frac{b-a}{MN}|\le\sigma$ which implies that all $f(a+k\frac{b-a}{N}+\frac{r}{M})$ lies in $[f(a+k\frac{b-a}{N})-\epsilon,f(a+k\frac{b-a}{N})+\epsilon]$.
+>
 ## II. Extensions
 ### 1. Properties
 
