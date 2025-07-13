@@ -43,12 +43,12 @@ a+k\frac{b-a}{N}+\frac{r}{M}
 >with $0\le r\le M-1$.
 >So we have
 >$$
-S_{NM}(f)=\frac{b-a}{NM}\sum_{k=0}^{N-1}\sum_{r=0}^{M-1}f(a+k\frac{b-a}{N}+\frac{r}{M})
+S_{NM}(f)=\frac{b-a}{NM}\sum_{k=0}^{N-1}\sum_{r=0}^{M-1}f(a+k\frac{b-a}{N}+r\frac{b-a}{NM})
 >$$
 >
 >But $f$ is **[[Continuity|uniformly continuous]]** :
 >$$
-|a+k\frac{b-a}{N}+\frac{r}{M}-(a+k\frac{b-a}{N}+\frac{r}{M})|\le\sigma\Longrightarrow|f(a+k\frac{b-a}{N})-f(a+k\frac{b-a}{N}+\frac{r}{M})|\le\epsilon
+|a+k\frac{b-a}{N}+\frac{r}{M}-(a+k\frac{b-a}{N}+\frac{r}{M})|\le\sigma\Longrightarrow|f(a+k\frac{b-a}{N})-f(a+k\frac{b-a}{N}+r\frac{b-a}{MN})|\le\epsilon
 >$$
 >So by chosing $\frac{b-a}{N}\le\sigma$ we ensure that $\frac{r}{M}|\frac{b-a}{M}|\le\sigma$ which implies that all $f(a+k\frac{b-a}{N}+\frac{r}{M})$ lies in $[f(a+k\frac{b-a}{N})-\epsilon,f(a+k\frac{b-a}{N})+\epsilon]$.
 ## II. Extensions
