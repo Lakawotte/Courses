@@ -14,6 +14,8 @@ category: "[[Maths]]"
 ## II. **[[Step Function|Step Functions]]**
 ### I. Definition
 
+>[!tip] Definition
+>Let $f:[a,b]\to\mathbb{R}$ be a **[[Step Function|step function]]** with *step*
 ## III. **[[Continuity|Continuous]]** Functions
 ### 1. Properties
 
