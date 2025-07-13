@@ -56,7 +56,7 @@ The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\in
 
 >[!tip] **[[Chasles Relation]]**
 >>[!tldr] Property
->>Let $(a,b)\in\mathbb{R}^2$f:[a,b]
+>>Let $(a,b)\in\mathbb{R}^2,a<b$ be two reals and $f:[a,b]\to\mathbb{R}$ a **[[Continuity|continuous]]** function.
 >>$$
 \forall c\in]a,b[,\int_{a}^b f(x)dx=\int_{a}^cf(x)dx+\int_{c}^b f(x)dx
 >>$$
