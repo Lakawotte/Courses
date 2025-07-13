@@ -12,6 +12,7 @@ category: "[[Maths]]"
 >$$
 >$$
 ## II. **[[Step Function|Step Functions]]**
+### I. Definition
 
 ## III. **[[Continuity|Continuous]]** Functions
 ### 1. Properties
