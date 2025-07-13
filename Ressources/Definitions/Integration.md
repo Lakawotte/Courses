@@ -26,7 +26,8 @@ category:
 >>$$
 >
 >>[!info] Proof using geometry
->>The **[[Mean|mean]]** of a function is by definition a constant function.
+>>The **[[Mean|mean]]** of a function is by definition a constant function, so its area $\mu$ can be expressed as a rectangle with the condition $\mu=\int_{a}^bf(x)dx$. Furthermore, the lengh 
+>>
 # Application
 ## I. Meaning
 ## II. Use
