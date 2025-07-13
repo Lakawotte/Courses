@@ -34,6 +34,9 @@ category: "[[Maths]]"
 >>$$
 >
 >>[!info] Proof
+>>- *Linearity*
+>>- *Positivity*
+>>To pro
 
 >[!tip] **[[Mean]]** Inequality
 >>[!tldr] Theorem
