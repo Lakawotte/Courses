@@ -38,8 +38,12 @@ category:
 >>[!tldr] Theorem
 >>If $f$ is **[[Continuity|continuous]]** on $[a,b]$,
 >>$$
-|\int_{a}^bf(x)dx|\le\int_{a}^b |f(x)|dx\le\sup_{x\in[a,b]}|f(x)|dx
+|\int_{a}^bf(x)dx|\le\int_{a}^b |f(x)|dx\le(b-a)\sup_{x\in[a,b]}|f(x)|dx
 >>$$
+>
+
+>[!tip] **[[Mean]]**
+>
 ### 2. Other formulas
 
 >[!tip] **[[Mean]]**
