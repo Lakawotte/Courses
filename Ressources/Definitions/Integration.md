@@ -38,7 +38,7 @@ category:
 >>$$
 >>\frac{1}{b-a}\int_{a}^bf(x)dx=\lim_{ N \to \infty } \frac{1}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 >>$$
->>This is the **[[Mean|mean]]** of 
+>>This is the limit when $N\to+\infty$ of the **[[Mean|mean]]** of the terms $f(a+k\frac{b-a}{N})$.
 # Application
 ## I. Meaning
 ## II. Use
