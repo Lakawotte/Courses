@@ -11,8 +11,9 @@ category:
 >[!hint] Formula
 >Let $\mathbb{K}$ denote $\mathbb{R}$ or $\mathbb{C}$. Let $(a,b)\in \mathbb{R}^2,a<b$ be two reals and $f:[a,b]\to\mathbb{K}$ a function. Then the sequence $S_{N}(f)_{N\ge 1}$ given by
 >$$
-S_{N}(f)=\sum_{k=0}^{N-1}
+S_{N}(f)=\frac{b-a}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 >$$
+>converges when $N
 ### 2. Proof
 
 >[!info] Proof
