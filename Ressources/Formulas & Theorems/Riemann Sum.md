@@ -60,6 +60,11 @@ S_{N}(f)-S_{NM}(f)=\frac{b-a}{N}\sum_{r=0}^{N-1}(f(a+k\frac{b-a}{N})-\frac{1}{M}
 >$$
 |S_N(f)-S_NM(f)|\le(b-a)\epsilon
 >$$
+>The same reasoning applies for
+>$$
+|S_{NM}(f)-S_{M}(f)|\le(b-a)\epsilon
+>$$
+>
 ## II. Extensions
 ### 1. Properties
 
