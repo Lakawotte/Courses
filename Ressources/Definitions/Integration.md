@@ -42,7 +42,8 @@ category:
 >>$$
 >
 
->[!tip] **[[Mean]]**
+>[!tip] **[[Mean]]** Formula
+>Let $g:[a,b]\to\mathbb{R}$ be a *positive* **[[Continuity|continu]]function and 
 >
 ### 2. Other formulas
 
