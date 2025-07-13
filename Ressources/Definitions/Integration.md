@@ -10,7 +10,7 @@ category:
 >[!hint] Definition
 >$$
 >$$
-## II. Extensions
+## II. **[[Continuity|Continuous]]** FUnc
 ### 1. Properties
 
 >[!tip] Inherent Properties
