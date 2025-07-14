@@ -100,7 +100,12 @@ X+Y=Y+X
 !\exists(\sigma_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\,,A=\sum_{(i,j)\in\,[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\sigma_{i,j}E_{i,j}
 >>$$
 
-
+>[!tip] Matrix Product
+>>[!tldr] Property
+>>Let $A$ and $B\in\mathcal{M}_{n,p}(\mathbb{K})$.
+>>$$
+a\times b
+>>$$
 
 
 ### 2. Other formulas
