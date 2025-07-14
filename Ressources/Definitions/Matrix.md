@@ -87,6 +87,9 @@ X+Y=Y+X
 
 >[!tldr] Elementary Matrix
 >Let $(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!]$.
+>$$
+(k,l)\in[\![1,n]\!]\,\times\,[\![1,p]\!],{E_{i,j}}_{k,l}
+>$$
 
 
 
