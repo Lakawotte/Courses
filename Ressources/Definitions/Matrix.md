@@ -88,8 +88,8 @@ X+Y=Y+X
 >[!tldr] Elementary Matrix
 >Let $(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!]$. The *elementary matrix* $E_{i,j}$ is defined by
 >$$
-(k,l)\in[\![1,n]\!]\,\times\,[\![1,p]\!],({e_{i,j}})_{k,l}
->$$
+(k,l)\in[\![1,n]\!]\,\times\,[\![1,p]\!],({e_{i,j}})_{k,l}=\sigma_{(i,j),(k,l)}=\sigma
+$$
 
 
 
