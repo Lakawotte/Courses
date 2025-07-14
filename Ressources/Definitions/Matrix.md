@@ -37,7 +37,9 @@ a_{n,1}&\dots&a_{n,p}
 >>[!info] Proof
 >
 >>[!tldr] Property
->>The sum of **matrices** is **[[Internal Binary Operation|associative]]** and **[[Internal Binary Operation|commutative]]**.
+>>Let $X$ and $Y\in\mathcal{M}_{n,p}(\mathbb{K})$.
+>>-  **[[Internal Binary Operation|Associativity]]** :
+>>- **[[Internal Binary Operation|Commutativity]]** :
 >
 >>[!info] Proof
 
