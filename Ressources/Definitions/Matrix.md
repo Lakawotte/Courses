@@ -43,7 +43,10 @@ a_{n,1}&\dots&a_{n,p}
 >>[!tldr] Properties
 >>Let $\mathbf{0}_{n,p}$ be the **matrix** of $\mathcal{M}_{n,p}(\mathbb{K})$ whose elements are all zeros.
 >>- **[[Neutral Element]]** :
->>
+>>$$
+\forall X\in\mathcal{M}_{n,p}(\mathbb{K}),X+\mathbf{0_{n,p}}=A
+>>$$
+>>- **[[Internal Binary Operation]]
 ### 2. Other formulas
 # Application
 ## I. Meaning
