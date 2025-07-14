@@ -29,7 +29,7 @@ a_{n,1}&\dots&a_{n,p}
 
 >[!tip] Sum of Matrices
 >>[!tldr] Proposition
->>Let $X$ and $Y$ be two **matrices** of same dimension.
+>>Let $X$ and $Y\in\mathcal{M}_{n,p}(\mathbb{K})$.
 >>$$
 \forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (a+b)_{i,j}=a_{i,j}+b_{i,j}
 >>$$
@@ -102,9 +102,9 @@ X+Y=Y+X
 
 >[!tip] Matrix Product
 >>[!tldr] Property
->>Let $A$ and $B\in\mathcal{M}_{n,p}(\mathbb{K})$.
+>>Let $A\in\mathcal{M}_{n,p}(\mathbb{K})$ and $B\in\mathcal{M}_{n,p}(\mathbb{K})$.
 >>$$
-a\times b
+\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (a+b)_{i,j}=
 >>$$
 
 
