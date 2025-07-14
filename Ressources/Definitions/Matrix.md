@@ -58,6 +58,16 @@ a_{n,1}&\dots&a_{n,p}
 >>- **[[Internal Binary Operation|Symmetry]]** :
 >>$$
 >>$$
+
+>[!tip] Scalar Product
+>>[!tldr] Property
+>>Let $X\in\mathcal{M}_{n,p}(\mathbb{K})$ and
+
+
+
+
+
+
 ### 2. Other formulas
 # Application
 ## I. Meaning
