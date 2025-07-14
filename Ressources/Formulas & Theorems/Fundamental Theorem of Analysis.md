@@ -39,7 +39,7 @@ F:x\mapsto \int_{a}^xf(x)dx
 >$$
 F(x)=\int_{a}^x\mathrm{Re}f(x)dx+i \int_{a}^x\mathrm{Im}f(x)dx
 >$$
->By **[[Continuity|continuity]]** of $f$ 
+>By **[[Continuity|continuity]]** of $f$ $\mathrm{Re}f$ and $\mathrm{Im}f$ are **[[Differentiability|]]
 ## II. Extensions
 ### 1. Properties
 
