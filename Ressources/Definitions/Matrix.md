@@ -31,7 +31,7 @@ a_{n,1}&\dots&a_{n,p}
 >>[!tldr] Proposition
 >>Let $X$ and $Y$ be two **matrices** of same dimension.
 >>$$
-\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (a+b)_{i,j}=a_{(i,j)}+b_{(i,j)}
+\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (a+b)_{i,j}=a_{i,j}+b_{i,j}
 >>$$
 >
 >>[!tldr] Property
@@ -41,7 +41,9 @@ a_{n,1}&\dots&a_{n,p}
 
 >[!tip] **[[Internal Binary Operation]]** Properties
 >>[!tldr] Properties
->>Let $\mathbf{0}_{n,p}$ be the **matrix** whose elements are all zeros.
+>>Let $\mathbf{0}_{n,p}$ be the **matrix** of $\mathcal{M}_{n,p}(\mathbb{K})$ whose elements are all zeros.
+>>- **[[Neutral Element]]** :
+>>
 ### 2. Other formulas
 # Application
 ## I. Meaning
