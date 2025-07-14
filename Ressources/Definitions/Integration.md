@@ -123,7 +123,7 @@ The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\in
 ### 1. Definition
 
 >[!tip] Definition
->Let $f$ be a **[[Piecewise Function|piecewise function]]** with $t=(a=t_0<t_1\dots<t_n=b)$
+>Let $f$ be a **[[Piecewise Function|piecewise function]]** with $t=(a=t_0<t_1<\dots<t_n=b)$ such that $f$ is **[[Continuity|continuous]]** on $]t_i,t_{i+1}[$ ]
 # Application
 ## I. Meaning
 ## II. Use
