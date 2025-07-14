@@ -9,8 +9,9 @@ category:
 ### 1. Expression
 
 >[!hint] Formula
->Let $f$ be a 
+>Let $f$ be a **[[Continuity|continuous]]** function on $[a,b]\subset\mathbb{R}$. The function $F$ given by
 >$$
+F:x\mapsto \int_{a}^xf(x)dx
 >$$
 ### 2. Proof
 
