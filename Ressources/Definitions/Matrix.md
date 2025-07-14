@@ -25,7 +25,7 @@ a_{n,1}&\dots&a_{n,p}
 \mathcal{M}_{n,p}(\mathbb{K})
 >$$
 ## II. Extensions
-### 1. Properties
+### 1. Properties of $\mathcal{M}_{n,p}(\mathbb{K})$
 
 >[!tip] Sum of Matrices
 >>[!tldr] Proposition
@@ -37,7 +37,7 @@ a_{n,1}&\dots&a_{n,p}
 >>[!tldr] Property
 >>The sum of **matrices** is **[[Internal Binary Operation|associative]]** and **[[Internal Binary Operation|commutative]]**.
 >
->>
+>>[!info] Proof
 ### 2. Other formulas
 # Application
 ## I. Meaning
