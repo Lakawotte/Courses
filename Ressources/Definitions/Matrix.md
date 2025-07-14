@@ -97,7 +97,7 @@ X+Y=Y+X
 >>[!tldr] Proposition
 >>$(E_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}$ is a *canonical basis* of $\mathcal{M}_{n,p}(\mathbb{K})$. More precisely, for any **matrix** $A\in\mathcal{M}_{n,p}(\mathbb{K})$,
 >>$$
-!\exists(\sigma_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]},A=\sum_{(i,j)_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}}\sigma
+!\exists(\sigma_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]},A=\sum_{(i,j)\in\,[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\sigma_{i,j}E_{i,j}
 >>$$
 
 
