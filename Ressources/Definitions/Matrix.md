@@ -159,7 +159,7 @@ Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing t
 \end{document}
 ```
 
-One can see that the iteration of *basis vector*'s coordinates modifications 
+One can see that the iteration of *basis vector*'s coordinates modifications is analogous to the *composition* of **[[Linear Application|linear applications]]*
 
 ## II. Use
 # Example
