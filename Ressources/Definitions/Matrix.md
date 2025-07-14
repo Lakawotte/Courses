@@ -113,8 +113,8 @@ X+Y=Y+X
 # Application
 ## I. Meaning
 A *square matrix* is nothing more than the coordinates of the *basis vectors* from a **[[Vector Space|vector space]]**. This is, the *identity matrix* is describing \mathbb{R}^n.
-For example, in $\mat
-Let $\Phi$ be a **[[Linear Application|linear application]]** 
+For example one can work in $\mathbb{R}^2$.
+Let $\Phi$ be a **[[Linear Application|linear application]]** and $v=\begin{bmatrix}x\\y\end{bmatrix}$ 
 ## II. Use
 # Example
 
