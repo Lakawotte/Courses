@@ -27,11 +27,14 @@ a_{n,1}&\dots&a_{n,p}
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Sum of Matrices
->Let $X$ and $Y$ be two **matrices** of same dimension.
->$$
-\forall(i,j)\in\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!], (a+b)_{i,j}=a_{i}
->$$
+>[!tip] Sum of Matrices
+>>[!tldr] Proposition
+>>Let $X$ and $Y$ be two **matrices** of same dimension.
+>>$$
+\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (a+b)_{i,j}=a_{(i,j)}+b_{(i,j)}
+>>$$
+>
+>>[!]
 ### 2. Other formulas
 # Application
 ## I. Meaning
