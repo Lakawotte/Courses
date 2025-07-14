@@ -40,6 +40,7 @@ category: "[[Maths]]"
 >>$$
 #### Note :
 This **integral** is by definition positive.
+Note the the function needs to be **[[Bounds|bounded]]** 
 ### 2. Properties
 
 >[!tip] Inherent Properties
