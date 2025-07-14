@@ -95,9 +95,9 @@ X+Y=Y+X
 #### Note :
 >[!tip] Canonical Basis
 >>[!tldr] Proposition
->>$(E_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}$ is a *canonical basis* of $\mathcal{M}_{n,p}(\mathbb{K})$. More precisely,
+>>$(E_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}$ is a *canonical basis* of $\mathcal{M}_{n,p}(\mathbb{K})$. More precisely, for any **matrix** $A\in\mathcal{M}_{n,p}(\mathbb{K})$,
 >>$$
-!\exists
+!\exists(\sigma_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]},A=\sum_{(i,j)_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}}\sigma
 >>$$
 
 
