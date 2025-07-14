@@ -93,7 +93,8 @@ X+Y=Y+X
 
 ==PAS SUR==
 #### Note :
-
+>[!tip] Canonical Basis
+>
 
 
 
