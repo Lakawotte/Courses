@@ -40,11 +40,14 @@ a_{n,1}&\dots&a_{n,p}
 >>Let $X$, $Y$ and $Z\in\mathcal{M}_{n,p}(\mathbb{K})$.
 >>-  **[[Internal Binary Operation|Associativity]]** :
 >>$$
-X+(Y+Z)
+X+(Y+Z)=(X+Y)+Z
 >>$$
 >>- **[[Internal Binary Operation|Commutativity]]** :
+>>$$
+X+Y=Y+X
+>>$$
 >
->>[!info] Proof
+>>[!info] Proofs
 
 >[!tip] **[[Internal Binary Operation]]** Properties
 >>[!tldr] Properties
