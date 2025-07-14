@@ -142,7 +142,21 @@ Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing t
 
 \end{document}
 ```
-```
+```tikz \begin{document}
+\begin{tikzpicture}[scale=0.5,>=stealth]
+\begin{scope}[cm={-1,1,1,2,(0,0)}]
+\draw[very thin, gray!50] (-5,-5) grid (5,5);
+\draw[->, thick, blue] (0,0) -- (5,3) node[midway, above right] {$\vec{v} = (5,3)$};
+\draw[->, thick, red] (0,0) -- (1,0) node[below left] {$\vec{\imath}$};
+    \draw[->, thick, green!70!black] (0,0) -- (0,1) node[above left] {$\vec{\jmath}$};
+\fill (5,3) circle (2pt);
+\node at (5,3) [right] {$(5,3)$};
+\node at (0,0) [below left] {0};
+\end{scope}
+\draw[->] (-6,0) -- (6,0) node[right] {$x$};
+\draw[->] (0,-2) -- (0,10) node[above] {$y$};
+\end{tikzpicture}
+\end{document}
 ```
 
 
