@@ -132,7 +132,7 @@ Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing t
   \draw[very thin,color=gray!30] (-1,-1) grid (6,4);
 
   % Vector v = (5,3)
-  \draw[->, thick, blue] (0,0) -- (5,3) node[midway, above right] {$\vec{v} = (5,3)$};
+  \draw[->, thick, red] (0,0) -- (5,3) node[midway, above right]{};
 
   % Origin and point label
   \node at (0,0) [below left] {0};
