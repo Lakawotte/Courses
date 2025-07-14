@@ -24,8 +24,9 @@ F:x\mapsto \int_{a}^xf(x)dx
 ### 2. Proof
 
 >[!info] Proof
->First let suppose $f$ real-valuated. Set $x\in[a,b[$ and $h>0$ such that $x+h\in[a,b[$. By  
+>First let suppose $f$ real-valuated. Set $x\in[a,b[$ and $h>0$ such that $x+h\in[a,b[$. By **[[Chasles Relation|Chasles]]** we get
 >$$
+>F(x+h)-F(x)=\int_{x}
 >$$
 ## II. Extensions
 ### 1. Properties
