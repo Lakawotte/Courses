@@ -50,6 +50,14 @@ a_{n,1}&\dots&a_{n,p}
 >>$$
 \forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (-a)_{i,j}=-(a)_{i,j}
 >>$$
+>
+>>[!info] Proofs
+>>- **[[Neutral Element]]** :
+>>$$
+>>$$
+>>- **[[Internal Binary Operation|Symmetry]]** :
+>>$$
+>>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
