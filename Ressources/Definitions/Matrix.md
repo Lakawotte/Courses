@@ -95,7 +95,10 @@ X+Y=Y+X
 #### Note :
 >[!tip] Canonical Basis
 >>[!tldr] Proposition
->>$(E_{i,j})$ is a *canonical basis* of $\mathcal{M}_{n,p}(\mathbb{K})$.
+>>$(E_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}$ is a *canonical basis* of $\mathcal{M}_{n,p}(\mathbb{K})$. More precisely,
+>>$$
+!\exists
+>>$$
 
 
 
