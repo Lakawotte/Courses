@@ -71,7 +71,11 @@ a_{n,1}&\dots&a_{n,p}
 >>[!info] Proof
 >
 >>[!tldr] Property
->>The *external scalar product* is a
+>>Let $X\in\mathcal{M}_{n,p}(\mathbb{K})$ and $(\lambda,\mu)\in\mathbb{K}^2$.
+>>- **[[Internal Binary Operation|Associativity]]** :
+>>$$
+(\lambda\mu)A=\lambda(\mu A)
+>>$$
 
 
 
