@@ -48,7 +48,7 @@ a_{n,1}&\dots&a_{n,p}
 >>$$
 >>- **[[Internal Binary Operation|Symmetry]]** :
 >>$$
-\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (-a)_{i,j}=a_{i,j}+b_{i,j}
+\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (-a)_{i,j}=-(a)_{i,j}
 >>$$
 ### 2. Other formulas
 # Application
