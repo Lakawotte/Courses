@@ -106,7 +106,8 @@ X+Y=Y+X
 >>$$
 \forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (ab)_{i,k}=\sum_{j=1}^pa_{i,j}b_{j,k}=\left<L_{i}(A)^T,C_{j}(B)\right>
 >>$$
-
+>
+>>[!info]
 
 ### 2. Other formulas
 # Application
