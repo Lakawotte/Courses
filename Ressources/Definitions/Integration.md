@@ -15,7 +15,7 @@ category: "[[Maths]]"
 ### 1. Definition
 
 >[!tip] Definition
->Let $f:[a,b]\to\mathbb{R}$ be a **[[Step Function|step function]]** with *step* $\sigma=(a=\sigma_{0}<\sigma_{1}<\sigma_{n}=b)$.
+>Let $f:[a,b]\to\mathbb{R}$ be a **[[Step Function|step function]]** with *step* $\sigma=(a=\sigma_{0}<\sigma_{1}<\dots<\sigma_{n}=b)$.
 >$$
 \int_{a}^b f(x)dx=\sum_{i=0}^{n-1}f_{i}(\sigma_{i+1}-\sigma_{i})
 >$$
@@ -123,7 +123,7 @@ The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\in
 ### 1. Definition
 
 >[!tip] Definition
->Let $f$ be a **[[Piece]]
+>Let $f$ be a **[[Piecewise Function|piecewise function]]** with $t=(a=t_0<t_1\dots<t_n=b)$
 # Application
 ## I. Meaning
 ## II. Use
