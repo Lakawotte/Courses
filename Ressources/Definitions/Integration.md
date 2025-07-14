@@ -131,7 +131,8 @@ The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\in
 >$$
 >\begin{split}
 g_{i}(t_{i})&=\lim_{\substack{x \to t_i \\ x > t_i}} f(x)\\
-g_{i}(x)&=f(x)\,\,\,\mathrm{if}\,\,\,\in
+g_{i}(x)&=f(x)\,\,\,\mathrm{if}\,\,\,x\in]t_{i},t_{i+1}[\\
+g_{i}(t_{i+1})&=\lim_{\substack{x \to t_{i+1} \\ x > t_{i+1}}} f(x)\\
 \end{split}
 >$$
 # Application
