@@ -90,6 +90,7 @@ X+Y=Y+X
 >$$
 (k,l)\in[\![1,n]\!]\,\times\,[\![1,p]\!],({e_{i,j}})_{k,l}=\sigma_{(i,j),(k,l)}=\sigma_{i,k}\sigma_{j,l}
 $$
+
 #### Note :
 
 
