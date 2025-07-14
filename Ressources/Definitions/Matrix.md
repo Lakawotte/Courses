@@ -34,6 +34,8 @@ a_{n,1}&\dots&a_{n,p}
 \forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (a+b)_{i,j}=a_{i,j}+b_{i,j}
 >>$$
 >
+>>[!info] Proof
+>
 >>[!tldr] Property
 >>The sum of **matrices** is **[[Internal Binary Operation|associative]]** and **[[Internal Binary Operation|commutative]]**.
 >
@@ -66,7 +68,10 @@ a_{n,1}&\dots&a_{n,p}
 \forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!],\lambda(a)_{i,j}=(\lambda a)_{i,j}
 >>$$
 >
->>[!tld]
+>>[!info] Proof
+>
+>>[!tldr] Property
+>>Let $X\in\mathcal{M}_{n,p}(\mathbb{K})$ and $(\lambda\in\mathbb{K}$.
 
 
 
