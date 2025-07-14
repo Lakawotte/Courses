@@ -1,7 +1,8 @@
 ---
 aliases: 
-tags: 
-category:
+tags:
+  - calculus/integration
+category: "[[Maths]]"
 ---
 ---
 # Formula
@@ -16,8 +17,8 @@ F:x\mapsto \int_{a}^xf(x)dx
 >is **[[Differentiability|differentiable]]** on $[a,b]$ with
 >$$
 \begin{split}
-F'=f\\
-F(a)=0
+\forall x\in[a,b],&F'(x)=f(x)\\
+&F(a)=0
 \end{split}
 >$$
 ### 2. Proof
