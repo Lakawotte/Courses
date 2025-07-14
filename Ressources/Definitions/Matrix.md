@@ -61,7 +61,10 @@ a_{n,1}&\dots&a_{n,p}
 
 >[!tip] Scalar Product
 >>[!tldr] Property
->>Let $X\in\mathcal{M}_{n,p}(\mathbb{K})$ and
+>>Let $X\in\mathcal{M}_{n,p}(\mathbb{K})$ and $\lambda\in\mathbb{K}$.
+>>$$
+\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!],\lambda(a)_{i,j}=(\lambda a)_{i,j}
+>>$$
 
 
 
