@@ -82,11 +82,11 @@ This **integral** is by definition positive.
 >>
 
 >[!tip] **[[Mean]]** Formula
->[!tldr] 
->Let $g:[a,b]\to\mathbb{R}$ be a *positive* **[[Continuity|continuous]]** function and let $f:[a,b]\to\mathbb{R}$ be a **[[Continuity|continuous]]** function.
->$$
+>>[!tldr] Theorem
+>>Let $g:[a,b]\to\mathbb{R}$ be a *positive* **[[Continuity|continuous]]** function and let $f:[a,b]\to\mathbb{R}$ be a **[[Continuity|continuous]]** function.
+>>$$
 \exists\theta\in[a,b],\int_{a}^b f(x)g(x)dx=f(\theta)\int_{a}^b g(x)dx
->$$
+>>$$
 >
 >>[!info] Proof
 >>Suppose $\int_{a}^bg(x)dx\neq 0\Longleftrightarrow g\neq 0$ since $g$ is **[[Continuity|continuous]]** and *positive*, otherwise the case is trivial.
