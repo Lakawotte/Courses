@@ -119,7 +119,7 @@ $$
 \Phi(\vec{v})=\Phi(\begin{bmatrix}x\\y\end{bmatrix})=\Phi(\begin{bmatrix}x\\y\end{bmatrix}\begin{bmatrix}\vec{i}\\\vec{j}\end{bmatrix})=\begin{bmatrix}x\\y\end{bmatrix}\begin{bmatrix}\Phi(\vec{i})\\\Phi(\vec{j})\end{bmatrix}
 $$
 Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing the new coordinates of the *basis vectors*.
-'''
+```tikz \begin{document}
 \begin{tikzpicture}[scale=0.7,>=stealth]
   % Draw axes
   \draw[->] (-1,0) -- (6,0) node[right] {$x$};
@@ -138,6 +138,8 @@ Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing t
   \fill (5,3) circle (2pt);
   \node at (5,3) [right] {$(5,3)$};
 \end{tikzpicture}
+\end{document}
+'''
 
 ## II. Use
 # Example
