@@ -121,15 +121,25 @@ $$
 Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing the new coordinates of the *basis vectors*.
 
 ```tikz \begin{document}
+\begin{document}
+
 \begin{tikzpicture}[scale=0.7,>=stealth]
-\draw[->] (-1,0) -- (6,0) node[right] {$x$};
-\draw[->] (0,-1) -- (0,4) node[above] {$y$};
-\draw[very thin,color=gray!30] (-1,-1) grid (6,4);
-\draw[->, thick, blue] (0,0) -- (5,3) node[midway, above right] {$\vec{v} = (5,3)$};
-\node at (0,0) [below left] {0};
-\fill (5,3) circle (2pt);
-\node at (5,3) [right] {$(5,3)$};
+  % Axes
+  \draw[->] (-1,0) -- (6,0) node[right] {$x$};
+  \draw[->] (0,-1) -- (0,4) node[above] {$y$};
+
+  % Grid
+  \draw[very thin,color=gray!30] (-1,-1) grid (6,4);
+
+  % Vector v = (5,3)
+  \draw[->, thick, blue] (0,0) -- (5,3) node[midway, above right] {$\vec{v} = (5,3)$};
+
+  % Origin and point label
+  \node at (0,0) [below left] {0};
+  \fill (5,3) circle (2pt);
+  \node at (5,3) [right] {$(5,3)$};
 \end{tikzpicture}
+
 \end{document}
 ```
 
