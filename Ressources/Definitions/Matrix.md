@@ -104,7 +104,7 @@ X+Y=Y+X
 >>[!tldr] Property
 >>Let $A\in\mathcal{M}_{n,p}(\mathbb{K})$ and $B\in\mathcal{M}_{p,q}(\mathbb{K})$.
 >>$$
-\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (ab)_{i,k}=\sum_{j=1}^pa_{i,j}b_{j,k}=\left<L_{i}\right>
+\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (ab)_{i,k}=\sum_{j=1}^pa_{i,j}b_{j,k}=\left<L_{i}(A)^T,C_{j}(B)\right>
 >>$$
 
 
