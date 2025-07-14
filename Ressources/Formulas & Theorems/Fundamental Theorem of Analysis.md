@@ -28,6 +28,10 @@ F:x\mapsto \int_{a}^xf(x)dx
 >$$
 >F(x+h)-F(x)=\int_{a}^{x+h}f(x)dx-\int_{a}^{x}f(x)dx=\int_{x}^{x+h}f(x)dx
 >$$
+>By the **[[Integration|mean formula]]** we get
+>$$
+\fr
+>$$
 ## II. Extensions
 ### 1. Properties
 
