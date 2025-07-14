@@ -119,7 +119,7 @@ The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\in
 >>\frac{1}{b-a}\int_{a}^bf(x)dx=\lim_{ N \to \infty } \frac{1}{N}\sum_{k=0}^{N-1}f(a+k\frac{b-a}{N})
 >>$$
 >>This is the limit when $N\to+\infty$ of the **[[Mean|mean]]** of the terms $f(a+k\frac{b-a}{N})$.
-## IV. 
+## IV. **[[Piecewise Function|Piecewise Continuous Functions]]**
 # Application
 ## I. Meaning
 ## II. Use
