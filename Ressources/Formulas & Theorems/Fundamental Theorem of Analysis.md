@@ -33,7 +33,7 @@ F:x\mapsto \int_{a}^xf(x)dx
 \frac{F(x+h)-F(x)}{h}=\frac{1}{h}\int_{x}^{x+h}f(x)dx
 >$$
 >Since $f$ is **[[Continuity|continuous]]**, $\frac{F(x+h)-F(x)}{h}\xrightarrow[h\to 0]{}f(x)$
->We proved **[[Differentiability|right derivability]]** and we can prove in the same way **[[Differentiability|left derivability]]** and **[[Differentiability|derivability]]** at $a$ and at $b$.
+>We proved **[[Differentiability|right differentiability]]** and we can prove in the same way **[[Differentiability|left derivability]]** and **[[Differentiability|derivability]]** at $a$ and at $b$.
 >
 >In the case where $f$ is complex-valuated, we have
 >$$
