@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->A **matr
+>A **matrix** with $n$ lines and $p$ colons and coefficients in $\mathbb{K}=\mathbb{R}$ or $\mathbb{C}$ is a *fa*
 >$$
 >$$
 ## II. Extensions
