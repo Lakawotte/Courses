@@ -41,7 +41,7 @@ a_{n,1}&\dots&a_{n,p}
 
 >[!tip] **[[Internal Binary Operation]]** Properties
 >>[!tldr] Properties
->>Let $\mathbb{0}$
+>>Let $\mathbf{0}_{n,p}$ be the **matrix** whose elements are all zeros.
 ### 2. Other formulas
 # Application
 ## I. Meaning
