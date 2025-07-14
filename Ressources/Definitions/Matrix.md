@@ -102,9 +102,9 @@ X+Y=Y+X
 
 >[!tip] Matrix Product
 >>[!tldr] Property
->>Let $A\in\mathcal{M}_{n,p}(\mathbb{K})$ and $B\in\mathcal{M}_{n,p}(\mathbb{K})$.
+>>Let $A\in\mathcal{M}_{n,p}(\mathbb{K})$ and $B\in\mathcal{M}_{p,q}(\mathbb{K})$.
 >>$$
-\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (a+b)_{i,j}=
+\forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (ab)_{i,k}=\sum_{j=1}^pa_{i,j}
 >>$$
 
 
