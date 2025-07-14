@@ -32,7 +32,7 @@ F:x\mapsto \int_{a}^xf(x)dx
 >$$
 \frac{F(x+h)-F(x)}{h}=\frac{1}{h}\int_{x}^{x+h}f(x)dx
 >$$
->Since $f$ is **[[Continuity|continuous]]**, \frac{F(x+h)-F(x)}{h}
+>Since $f$ is **[[Continuity|continuous]]**, $\frac{F(x+h)-F(x)}{h}\xrightarrow[h\to\infty]{}2$
 ## II. Extensions
 ### 1. Properties
 
