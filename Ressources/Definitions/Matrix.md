@@ -112,7 +112,7 @@ X+Y=Y+X
 ### 2. Other formulas
 # Application
 ## I. Meaning
-A *square matrix* is nothing more than the coordinates of the *basis vectors* 
+A *square matrix* is nothing more than the coordinates of the *basis vectors* from. This is, the *identity matrix* is describing 
 ## II. Use
 # Example
 
