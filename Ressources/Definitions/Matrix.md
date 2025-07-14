@@ -37,8 +37,11 @@ a_{n,1}&\dots&a_{n,p}
 >>[!info] Proof
 >
 >>[!tldr] Property
->>Let $X$ and $Y\in\mathcal{M}_{n,p}(\mathbb{K})$.
+>>Let $X$, $Y$ and $Z\in\mathcal{M}_{n,p}(\mathbb{K})$.
 >>-  **[[Internal Binary Operation|Associativity]]** :
+>>$$
+X+(Y+Z)
+>>$$
 >>- **[[Internal Binary Operation|Commutativity]]** :
 >
 >>[!info] Proof
