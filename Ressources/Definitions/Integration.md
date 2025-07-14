@@ -120,6 +120,10 @@ The name of this formula comes from the fact that $\frac{1}{\int_{a}^bg(x)dx}\in
 >>$$
 >>This is the limit when $N\to+\infty$ of the **[[Mean|mean]]** of the terms $f(a+k\frac{b-a}{N})$.
 ## IV. **[[Piecewise Function|Piecewise Continuous Functions]]**
+### 1. Definition
+
+>[!tip] Definition
+>Let $f$ be a **[[Piece]]
 # Application
 ## I. Meaning
 ## II. Use
