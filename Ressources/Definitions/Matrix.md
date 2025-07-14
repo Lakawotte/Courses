@@ -94,7 +94,8 @@ X+Y=Y+X
 ==PAS SUR==
 #### Note :
 >[!tip] Canonical Basis
->
+>>[!tldr] Proposition
+>>$(E_{i,j})$ is a *canonical basis* of $\mathcal{M}_{n,p}(\mathbb{K})$.
 
 
 
