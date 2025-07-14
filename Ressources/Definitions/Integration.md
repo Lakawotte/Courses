@@ -40,7 +40,7 @@ category: "[[Maths]]"
 >>$$
 #### Note :
 This **integral** is by definition positive.
-Note the the function needs to be **[[Bounds|bounded]]** 
+Note the the function needs to be **[[Bounds|bounded]]** since $g$ and $h$ are.
 ### 2. Properties
 
 >[!tip] Inherent Properties
