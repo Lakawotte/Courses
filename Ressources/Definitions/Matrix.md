@@ -27,7 +27,8 @@ a_{n,1}&\dots&a_{n,p}
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tldr] Sum of Matrices
+>Let $X$ and $Y$ be two **matrices** of same dimention.
 >$$
 >$$
 ### 2. Other formulas
