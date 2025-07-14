@@ -159,7 +159,7 @@ Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing t
 \end{document}
 ```
 
-Furthermore,
+One can see tha
 
 ## II. Use
 # Example
