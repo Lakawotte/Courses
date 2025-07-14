@@ -85,8 +85,8 @@ X+Y=Y+X
 (\lambda\mu)A=\lambda(\mu A)
 >>$$
 
->[!tip] Elementary Matrix
->>[tldr]
+>[!tldr] Elementary Matrix
+>Let $(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!]$.
 
 
 
