@@ -34,7 +34,10 @@ a_{n,1}&\dots&a_{n,p}
 \forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (a+b)_{i,j}=a_{(i,j)}+b_{(i,j)}
 >>$$
 >
->>[!]
+>>[!tldr] Property
+>>The sum of **matrices** is **[[Internal Binary Operation|associative]]** and **[[Internal Binary Operation|commutative]]**.
+>
+>>
 ### 2. Other formulas
 # Application
 ## I. Meaning
