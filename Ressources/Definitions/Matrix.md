@@ -20,9 +20,9 @@ a_{n,1}&\dots&a_{n,p}
 >$$
 
 >[!tip] Definition : Matrix **[[Set]]**
->The **[[Set|set]]** of the **matrices** of type $(n,p)$ is denoted 
+>The **[[Set|set]]** of the **matrices** of type $(n,p)$ with coefficients in a **[[Field|field]]** $\mathbb{K}$ is denoted 
 >$$
-\mathcal{M}_{n,p}
+\mathcal{M}_{n,p}(\mathbb{K})
 >$$
 ## II. Extensions
 ### 1. Properties
