@@ -71,7 +71,7 @@ a_{n,1}&\dots&a_{n,p}
 >>[!info] Proof
 >
 >>[!tldr] Property
->>Let $X\in\mathcal{M}_{n,p}(\mathbb{K})$ and $(\lambda\in\mathbb{K}$.
+>>The *external scalar product* is a
 
 
 
