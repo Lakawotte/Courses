@@ -116,8 +116,9 @@ A *square matrix* is nothing more than the coordinates of the *basis vectors* fr
 For example one can work in $\mathbb{R}^2$.
 Let $\Phi$ be a **[[Linear Application|linear application]]** and $\vec{v}=\begin{bmatrix}x\\y\end{bmatrix}$. Then
 $$
-\Phi(\vec{v})=\Phi(\begin{bmatrix}x\\y\end{bmatrix})=\Phi(\begin{bmatrix}x\\y\end{bmatrix}\begin{bmatrix}\vec{i}\\\vec{j}\end{bmatrix})=
+\Phi(\vec{v})=\Phi(\begin{bmatrix}x\\y\end{bmatrix})=\Phi(\begin{bmatrix}x\\y\end{bmatrix}\begin{bmatrix}\vec{i}\\\vec{j}\end{bmatrix})=\begin{bmatrix}x\\y\end{bmatrix}\begin{bmatrix}\Phi(\vec{i})\\\Phi(\vec{j})\end{bmatrix}
 $$
+Indeed, we can describe a **[[Vector|vector]]** only by 
 ## II. Use
 # Example
 
