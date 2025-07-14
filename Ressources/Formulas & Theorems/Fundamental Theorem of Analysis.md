@@ -37,8 +37,9 @@ F:x\mapsto \int_{a}^xf(x)dx
 >
 >In the case where $f$ is complex-valuated, we have
 >$$
-F(x)=\int_{a}^x\mathrm{Re}f(x)dx+i \int_{a}^x
+F(x)=\int_{a}^x\mathrm{Re}f(x)dx+i \int_{a}^x\mathrm{Im}f(x)dx
 >$$
+>By **[[Continuity|continuity]]** of $f$ 
 ## II. Extensions
 ### 1. Properties
 
