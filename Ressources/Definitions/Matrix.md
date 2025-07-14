@@ -38,6 +38,10 @@ a_{n,1}&\dots&a_{n,p}
 >>The sum of **matrices** is **[[Internal Binary Operation|associative]]** and **[[Internal Binary Operation|commutative]]**.
 >
 >>[!info] Proof
+
+>[!tip] **[[Internal Binary Operation]]** Properties
+>>[!tldr] Properties
+>>Let $\mathbb{0}$
 ### 2. Other formulas
 # Application
 ## I. Meaning
