@@ -50,10 +50,6 @@ Note the the function needs to be **[[Bounds|bounded]]** since $g$ and $h$ are.
 >>$$
 \forall(\alpha,\beta)\in\mathbb{C}^2,\int_{a}^b\alpha f(x)+\beta g(x)dx=\alpha \int_{a}^bf{(x)dx}+\beta \int g(x)dx
 >>$$
->>2. If $f$ is complex-valuated,
->>$$
-\int_{a}^bf(x)dx=\int_{a}^b\mathrm{Re}f(x)dx+i\int_{a}^b\mathrm{Im}f(x)dx
->>$$
 >>- *Positivity* : let $f$ and $g$ be **[[Continuity|continuous]]** on $[a,b]\subset\mathbb{R}$
 >>1. 
 >>$$
