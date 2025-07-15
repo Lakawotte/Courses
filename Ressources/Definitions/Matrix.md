@@ -193,6 +193,7 @@ Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** is sea
 \end{tikzpicture}
 \end{document}
 ```
+>After a transformation, $\mathrm{mat}$ 
 
 ## II. Use
 # Example
