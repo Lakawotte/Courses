@@ -153,7 +153,7 @@ We now understand why $Y=\mathrm{mat}_{(B,C)}(\Phi)\times X$. By this theorem, i
 \node at (5,3) [right] {$(5,3)$};
 \node at (0,0) [below left] {0};
 \end{scope}
-\draw[->] (-6,0) -- (6,0) node[right] {$x$};
+\draw[->] (8,-8) -- (6,0) node[right] {$x$};
 \draw[->] (0,-2) -- (0,10) node[above] {$y$};
 \end{tikzpicture}
 \end{document}
