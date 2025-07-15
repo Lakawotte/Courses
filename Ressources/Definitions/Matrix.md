@@ -176,40 +176,22 @@ $$
 $$
 
 Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** is searching the coordinates of the *basis vectors* such that after transformation by a **[[Linear Application|linear application]]**, we get back to the *identity matrix*.
+
 ```tikz
-\documentclass{article}
-\usepackage{tikz}
-
 \begin{document}
-
 \begin{tikzpicture}[scale=0.5,>=stealth]
-
-  % Apply transformation: i = (1,-3), j = (2,2)
-  \begin{scope}[cm={1,-3,2,2,(0,0)}]
-
-    % Grid in the new oblique basis
-    \draw[very thin, gray!50] (-5,-5) grid (5,5);
-
-    % Vector v = (5,3) in the new basis
-    \draw[->, thick, blue] (0,0) -- (5,3) node[midway, above right] {$\vec{v} = (5,3)$};
-
-    % Basis vectors
-    \draw[->, thick, red] (0,0) -- (1,0) node[below right] {$\vec{\imath}$};
-    \draw[->, thick, green!70!black] (0,0) -- (0,1) node[above left] {$\vec{\jmath}$};
-
-    % Vector endpoint
-    \fill (5,3) circle (2pt);
-    \node at (5,3) [right] {$(5,3)$};
-    \node at (0,0) [below left] {0};
-
-  \end{scope}
-
-  % Reference x and y axes
-  \draw[->] (-6,0) -- (10,0) node[right] {$x$};
-  \draw[->] (0,-10) -- (0,10) node[above] {$y$};
-
+\begin{scope}[cm={1,-3,2,2,(0,0)}]
+\draw[very thin, gray!50] (-5,-5) grid (5,5);
+\draw[->, thick, blue] (0,0) -- (5,3) node[midway, above right] {$\vec{v} = (5,3)$};
+\draw[->, thick, red] (0,0) -- (1,0) node[below right] {$\vec{\imath}$};
+\draw[->, thick, green!70!black] (0,0) -- (0,1) node[above left] {$\vec{\jmath}$};
+\fill (5,3) circle (2pt);
+\node at (5,3) [right] {$(5,3)$};
+\node at (0,0) [below left] {0};
+\end{scope}
+\draw[->] (-6,0) -- (10,0) node[right] {$x$};
+\draw[->] (0,-10) -- (0,10) node[above] {$y$};
 \end{tikzpicture}
-
 \end{document}
 ```
 
