@@ -195,7 +195,7 @@ The other way around, if the **[[Vector|vectors]]** remain *independent*, we are
 \end{tikzpicture}
 \end{document}
 ```
->After a transformation, the *basis vectors* are now described by $\begin{bmatrix}1&-3\\2&2\end{bmatrix}$. 
+>After a transformation, the *basis vectors* are now described by $\begin{bmatrix}1&-3\\2&2\end{bmatrix}$. One can find two vectors $\vec{i'}$
 
 ## II. Use
 # Example
