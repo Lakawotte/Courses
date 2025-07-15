@@ -176,7 +176,7 @@ $$
 $$
 
 Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** is searching the coordinates of the *basis vectors* such that after transformation by a **[[Linear Application|linear application]]**, we get back to the *identity matrix*.
-More precisely, one can understand why a **matrix** always has an **[[Internal Binary Operation|inverse]]** given that the *basis vectors* are *independent* (when their **[[Determinent|determinent]]** is nonzero)
+More precisely, one can understand why a **matrix** always has an **[[Internal Binary Operation|inverse]]** given that the *basis vectors* are two by two *independent* (when their **[[Determinant|determinant]]** is nonzero). If such vectors are *parallel*, th
 
 ```tikz
 \begin{document}
