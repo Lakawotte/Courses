@@ -174,6 +174,9 @@ Finally,
 $$
 \begin{bmatrix}wa+xc\\ya+zc\end{bmatrix}\oplus\begin{bmatrix}wb+xd\\yb+zd\end{bmatrix}=\begin{bmatrix}wa+xc&wb+xd\\ya+zc&yb+zd\end{bmatrix}
 $$
+
+Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** 
+
 ## II. Use
 # Example
 
