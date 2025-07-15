@@ -161,7 +161,7 @@ We now understand why $Y=\mathrm{mat}_{(B,C)}(\Phi)\times X$. By this theorem, i
 
 One can see that the iteration of *basis vector*'s coordinates modifications by *composition* of **[[Linear Application|linear applications]]** is analogous to the left multiplication of **matrices**. This is why the product is almost never **[[Internal Binary Operation|commutative]]**.
 More precisely, let $M_{1}=\begin{bmatrix}w&x\\y&z\end{bmatrix}$ and $M_{2}=\begin{bmatrix}a&b\\c&d\end{bmatrix}$.
-One can "separate" the second **matrix** in an absolute non rigorous way, but then we have $\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a&b\\c&d\end{bmatrix}=\begin{bmatrix}w&x\\y&z\end{bmatrix}(\begin{bmatrix}a\\c\end{bmatrix}\begin{bmatrix}b\\d\end{bmatrix})$
+One can "separate" the second **matrix** in an absolute non rigorous way, but then we have $\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a&b\\c&d\end{bmatrix}=\begin{bmatrix}w&x\\y&z\end{bmatrix}(\begin{bmatrix}a\\c\end{bmatrix}\oplus\begin{bmatrix}b\\d\end{bmatrix})$
 Firstly,
 $$
 \begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a\\c\end{bmatrix}=a\begin{bmatrix}w\\y\end{bmatrix}+c\begin{bmatrix}x\\z\end{bmatrix}=\begin{bmatrix}wa+xc\\ya+zc\end{bmatrix}
@@ -170,7 +170,9 @@ Secondly,
 $$
 \begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}b\\d\end{bmatrix}=b\begin{bmatrix}w\\y\end{bmatrix}+d\begin{bmatrix}x\\z\end{bmatrix}=\begin{bmatrix}wb+xd\\yb+zd\end{bmatrix}
 $$
-
+Finally,
+$$
+$$
 ## II. Use
 # Example
 
