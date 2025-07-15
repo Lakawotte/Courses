@@ -118,7 +118,7 @@ Let $\Phi$ be a **[[Linear Application|linear application]]** and $\vec{v}=\begi
 $$
 \Phi(\vec{v})=\Phi(\begin{bmatrix}x\\y\end{bmatrix})=\Phi(\begin{bmatrix}x\\y\end{bmatrix}\begin{bmatrix}\vec{i}\\\vec{j}\end{bmatrix})=\begin{bmatrix}x\\y\end{bmatrix}\begin{bmatrix}\Phi(\vec{i})\\\Phi(\vec{j})\end{bmatrix}
 $$
-Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing the new coordinates of the *basis vectors*.
+We now understand why $Y=\mat_{(\mathfrak{B},\mathfrak)}
 
 ```tikz
 \begin{document}
