@@ -182,7 +182,7 @@ Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** is sea
 \begin{tikzpicture}[scale=0.5,>=stealth]
 \begin{scope}[cm={1,-3,2,2,(0,0)}]
 \draw[very thin, gray!50] (-5,-5) grid (5,5);
-\draw[->, thick, blue] (0,0) -- (5,3) node[midway, above right] {$\vec{v} = (5,3)$};
+\draw[->, thick, red] (0,0) -- (1,0) node[below right] {$\vec{\imath}$};
 \draw[->, thick, red] (0,0) -- (1,0) node[below right] {$\vec{\imath}$};
 \draw[->, thick, green!70!black] (0,0) -- (0,1) node[above left] {$\vec{\jmath}$};
 \fill (5,3) circle (2pt);
