@@ -175,7 +175,7 @@ $$
 \begin{bmatrix}wa+xc\\ya+zc\end{bmatrix}\oplus\begin{bmatrix}wb+xd\\yb+zd\end{bmatrix}=\begin{bmatrix}wa+xc&wb+xd\\ya+zc&yb+zd\end{bmatrix}
 $$
 
-Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** is the same as, after the effects of a **[[Linear Application|linear application]]**, finding the new coordinates of the modified **[[Vector|vector]]** such that
+Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** is searching the coordinates of the *basis vectors* such that after transformation by a **[[]]
 
 ## II. Use
 # Example
