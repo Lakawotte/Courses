@@ -190,8 +190,8 @@ The other way around, if the **[[Vector|vectors]]** remain *independent*, we are
 \draw[->, dashed, green] (0,0) -- (-0.25,0.13) node[above left] {$\vec{\jmath'}$};
 \node at (0,0) [below left] {0};
 \end{scope}
-\draw[->] (-6,0) -- (10,0) node[right] {$x$};
-\draw[->] (0,-10) -- (0,10) node[above] {$y$};
+\draw[->] (-4,12) -- (4,-12) node[right] {$x$};
+\draw[->] (-8,-8) -- (8,8) node[above] {$y$};
 \end{tikzpicture}
 \end{document}
 ```
