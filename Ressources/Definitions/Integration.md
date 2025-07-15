@@ -139,7 +139,7 @@ g_{i}(t_{i+1})&=\lim_{\substack{x \to t_{i+1} \\x<t_{i+1}}} f(x)\\
 ## I. Meaning
 In general, **integrating** a function in a particular domain is a way to calculate the area (volume,...) of its graph under this area. This is, the **integral** of a function $f\in\mathcal{F}(\mathbb{R},\mathbb{R})$ is the area under its curve. To get an idea of why this is the case, one can look at this intuitive approach :
 
->Let $\mathcal{A}(a,b)$ be the area of $f$ between $a$ and $b$. Now we will consider $a=0$ so $\mathcal{A}$ is only a function of $b$. Then
+>Let $\mathcal{A}(a,b)$ be the area of a **[[Continuity|continuous]]** function $f$ between $a$ and $b\in\mathcal{}$. Now we will consider $a=0$ so $\mathcal{A}$ is only a function of $b$. Then
 >$$
 \begin{split}
 \mathcal{A}'(0,b)&=\lim_{\Delta b\to 0}\frac{\mathcal{A}(0,b+\Delta b)-\mathcal{A}(0,b)}{\Delta b}\\
@@ -150,6 +150,7 @@ $$
 >$$
 f(b)=\lim_{\Delta b\to 0}\frac{\mathcal{A}(b,b+\Delta b)}{\Delta b}=\mathcal{A}'(0,b)
 $$
+>
 
 
 
