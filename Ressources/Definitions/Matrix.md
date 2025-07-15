@@ -159,9 +159,12 @@ We now understand why $Y=\mathrm{mat}_{(B,C)}(\Phi)\times X$. By this theorem, i
 \end{document}
 ```
 
-One can see that the iteration of *basis vector*'s coordinates modifications by *composition* of **[[Linear Application|linear applications]]** is analogous to the left multiplication of **matrices**. This is why the product is almost never **[[Internal Binary Operation|commutative]]** : changing a **[[Vector|vector]]**'s coordinates a first time then another time is not the same as 
+One can see that the iteration of *basis vector*'s coordinates modifications by *composition* of **[[Linear Application|linear applications]]** is analogous to the left multiplication of **matrices**. This is why the product is almost never **[[Internal Binary Operation|commutative]]**.
 More precisely, let $M_{1}=\begin{bmatrix}w&x\\y&z\end{bmatrix}$ and $M_{2}=\begin{bmatrix}a&b\\c&d\end{bmatrix}$.
-Firstly, 
+Firstly,
+$$
+\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a\\y&z\end{bmatrix}
+$$
 
 ## II. Use
 # Example
