@@ -146,7 +146,8 @@ In general, **integrating** a function in a particular domain is a way to calcul
 &=\lim_{\Delta b\to 0}\frac{\mathcal{A}(b,b+\Delta b)}{\Delta b}\\
 \end{split}
 $$
-So $\mathcal{A}(b,b+\Delta b)\
+So $\mathcal{A}(b,b+\Delta b)\mathop{\sim}\limits_{\Delta b\to 0}$
+
 
 
 ## II. Use
