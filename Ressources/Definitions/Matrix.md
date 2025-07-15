@@ -159,7 +159,8 @@ Indeed, we can describe a **[[Vector|vector]]** transformation only by knowing t
 \end{document}
 ```
 
-One can see that the iteration of *basis vector*'s coordinates modifications is analogous to the *composition* of **[[Linear Application|linear applications]]**. This is, the left multiplication of **matrices**. More precisely, let $M=\begin{bmatrix}x\\y\end{bmatrix}$
+One can see that the iteration of *basis vector*'s coordinates modifications is analogous to the *composition* of **[[Linear Application|linear applications]]**. This is, the left multiplication of **matrices**. More precisely, let $M_{1}=\begin{bmatrix}w&x\\y&z\end{bmatrix}$ and $M_{2}=\begin{bmatrix}a&b\\c&d\end{bmatrix}$.
+Firstly, 
 
 ## II. Use
 # Example
