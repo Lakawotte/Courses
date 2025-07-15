@@ -137,7 +137,7 @@ g_{i}(t_{i+1})&=\lim_{\substack{x \to t_{i+1} \\x<t_{i+1}}} f(x)\\
 >$$
 # Application
 ## I. Meaning
-In general, **integrating** a function in a particular domain is a way to calculate the area (volume,...) of its graph under this area. This is, the **integral** of a  
+In general, **integrating** a function in a particular domain is a way to calculate the area (volume,...) of its graph under this area. This is, the **integral** of a function $f\in\mathcal{F}(\mathbb{R},\mathbb{R})$ 
 ## II. Use
 # Example
 
