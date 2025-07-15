@@ -163,7 +163,7 @@ One can see that the iteration of *basis vector*'s coordinates modifications by 
 More precisely, let $M_{1}=\begin{bmatrix}w&x\\y&z\end{bmatrix}$ and $M_{2}=\begin{bmatrix}a&b\\c&d\end{bmatrix}$.
 Firstly,
 $$
-\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a\\c\end{bmatrix}=a\begin{bmatrix}w\\y\end{bmatrix}+b\begin{bmatrix}w&x\\y&z\end{bmatrix}
+\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a\\c\end{bmatrix}=a\begin{bmatrix}w\\y\end{bmatrix}+b\begin{bmatrix}x\\z\end{bmatrix}=\begin{bmatrix}wa+xb\\ya+zb\end{bmatrix}
 $$
 
 ## II. Use
