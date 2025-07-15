@@ -141,7 +141,7 @@ In general, **integrating** a function in a particular domain is a way to calcul
 
 >Let $\mathcal{A}(a,b)$ be the area of $f$ between $a$ and $b$. Now we will consider $a=0$ so $\mathcal{A}$ is only a function of $b$. Then
 >$$
-\mathcal{A}'(0,b)=\lim_{ h \to 0}\frac 
+\mathcal{A}'(0,b)=\lim_{\Delta b\to 0}\frac{\mathcal{A}(0,b+\Delta b)-\mathcal{A}(0,b)}{\Delta b}
 $$
 ## II. Use
 # Example
