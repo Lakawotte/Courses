@@ -197,7 +197,7 @@ The other way around, if the **[[Vector|vectors]]** remain *independent*, we are
 ```
 >After a transformation, the *basis vectors* are now described by $A=\begin{bmatrix}1&-3\\2&2\end{bmatrix}$. One can find two vectors $\vec{i'}=\begin{bmatrix}1/4\\3/8\end{bmatrix}$ and $\vec{j'}=\begin{bmatrix}-1/4\\1/8\end{bmatrix}$ as candidates. Indeed, the *inverse matrix* is given by
 >$$
-A^{-1}=\vec{i'}\begin{bmatrix}1/4&-1/\\3/8\end{bmatrix}
+A^{-1}=\begin{bmatrix}1/4&-1/4\\3/8&1/8\end{bmatrix}
 $$
 
 ## II. Use
