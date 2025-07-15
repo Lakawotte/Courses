@@ -148,7 +148,7 @@ In general, **integrating** a function in a particular domain is a way to calcul
 $$
 >Using the same approach as **[[Riemann Sum|Riemann]]**,  $\mathcal{A}(b,b+\Delta b)\mathop{\sim}\limits_{\Delta b\to 0}f(b)\Delta b$ :
 >$$
-
+f(b)=\lim_{\Delta b\to 0}\frac{\mathcal{A}(b,b+\Delta b)}{\Delta b}=\mathcal{A}'(0,b)
 $$
 
 
