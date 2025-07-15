@@ -137,6 +137,7 @@ g_{i}(t_{i+1})&=\lim_{\substack{x \to t_{i+1} \\x<t_{i+1}}} f(x)\\
 >$$
 # Application
 ## I. Meaning
+In general, **integrating** a function in a particular domain is a way to 
 ## II. Use
 # Example
 
