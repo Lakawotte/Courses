@@ -176,6 +176,7 @@ $$
 $$
 
 Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** is searching the coordinates of the *basis vectors* such that after transformation by a **[[Linear Application|linear application]]**, we get back to the *identity matrix*.
+More precisely, one can ui
 
 ```tikz
 \begin{document}
@@ -193,7 +194,7 @@ Calculating the **[[Internal Binary Operation|inverse]]** of a **matrix** is sea
 \end{tikzpicture}
 \end{document}
 ```
->After a transformation, the *basis vectors* are now described by $\begin{bmatrix}1&-3\\2&2\end{bmatrix}$. To get back to the origi
+>After a transformation, the *basis vectors* are now described by $\begin{bmatrix}1&-3\\2&2\end{bmatrix}$. 
 
 ## II. Use
 # Example
