@@ -154,7 +154,7 @@ We now understand why $Y=\mathrm{mat}_{(B,C)}(\Phi)\times X$. By this theorem, i
 \node at (0,0) [below left] {0};
 \end{scope}
 \draw[->] (4,-4) -- (-4,4) node[right] {$x$};
-\draw[->] (-3,-6) -- (3,6) node[above] {$y$};
+\draw[->] (-4,-8) -- (4,8) node[above] {$y$};
 \end{tikzpicture}
 \end{document}
 ```
