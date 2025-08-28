@@ -157,6 +157,9 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 \forall k\in\mathbb{K}, k(a_{i,j})^T=k(a_{j,i})=(ka_{j,i})=(ka_{i,j})^T
 >>$$
 >>- **[[Internal Binary Operation|Involution]]** :
+>>$$
+((a_{i,j})^T)^T=(a_{j,i})^T=(a_{i,j})
+>>$$
 >>- Determinant :
 >>By **[[Internal Binary Operation|commutativity]]** of $\mathbb{C}$.
 ### 2. Kinds of Matrices
