@@ -157,8 +157,7 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 >>- **[[Internal Binary Operation|Involution]]** :
 >>- Determinant :
->>$$
->>$$
+>>By **[[Internal Binary Operation|commutativity]]** of **[[Complex Numbers|comple]]
 ### 2. Kinds of Matrices
 
 >[!tip] Diagonal Matrix
