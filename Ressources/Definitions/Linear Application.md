@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $E$ and $F$ be two $\math
+>Let $E$ and $F$ be two $\mathbb{K}$-**[[Vector Space|vector spaces]]** which respective dimension $n$ and $p$.
 >$$
 >$$
 ## II. Extensions
