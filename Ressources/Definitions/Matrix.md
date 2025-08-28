@@ -121,6 +121,12 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 (A+B)^T=A^T+B^T
 >>$$
+>>- Product :
+>>$$
+(AB)^T=A^TB^T
+>>$$
+>
+>>[!info] Proofs
 ### 2. Kinds of Matrices
 
 >[!tip] Diagonal Matrix
