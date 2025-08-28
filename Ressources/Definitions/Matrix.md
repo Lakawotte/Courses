@@ -141,7 +141,11 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>[!info] Proofs
 >>- Sum :
 >>$$
-((a+b)_{i,j})^T=((a+b)_{j,i})=a_{j,i}+b_{j,i}=(a_{i,j})^T+(b_{i,j})
+((a+b)_{i,j})^T=(a+b)_{j,i}=a_{j,i}+b_{j,i}=(a_{i,j})^T+(b_{i,j})^T
+>>$$
+>>- Product :
+>>$$
+(ab_{i,j})^T=(ab_{j,i})=\sum_{k=1}
 >>$$
 ### 2. Kinds of Matrices
 
