@@ -129,11 +129,18 @@ I_{2}=\begin{bmatrix}
 >$$
 
 >[!tip] Triangular Matrix
+>>[!tldr] Definition
 >A **square matrix** $X\in\mathcal{M}_{n}(\mathbb{R}), X=(a_{i,j})_{1\le i,j\le n}$ is **upper triangular** if and only if
 >$$
 \forall (i,j), i\ge j\Longrightarrow (a_{i,j})=0
 >$$
->The same way, $X$ is **
+>The same way, $X$ is **lower triangular** if and only if
+>$$
+\forall (i,j), i< j\Longrightarrow (a_{i,j})=0
+>$$
+>
+>>[!tldr] Properties
+>>
 
 
 # Application
