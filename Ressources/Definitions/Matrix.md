@@ -106,19 +106,6 @@ X+Y=Y+X
 >>$$
 \forall(i,j)\in[\![1,n]\!]\,\times\,[\![1,p]\!], (ab)_{i,k}=\sum_{j=1}^pa_{i,j}b_{j,k}=\left<L_{i}(A)^T,C_{j}(B)\right>
 >>$$
->
->>[!info] Proof
->>Let $A$ and $B$ be two **upper triangular matrices** in the form $X=(x_{i,j})_{1\le i,j\le n}$.
->>By definition of **matrix product**, we have :
->>$$
-\begin{split}
-\forall i<j, A\times B&=\sum_{k=1}^n(a_{i,k})(b_{k,j})\\
-&=\sum_{k<j}(a_{i,k})(b_{k,j})+\sum_{k\ge j}(a_{i,k})(b_{k,j})\\
-&=\sum_{k<j}(a_{i,k})\times 0+\sum_{k\ge j}0\times (b_{k,j})\\
-&=0
-\end{split}
->>$$
->>Indeed, $(b_{k,j})=0$ since for the coordinates $(k<j,j)$ and $(a_{i,k})=0$ since $i<j\le k$.
 
 **Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
 ### 2. Kinds of Matrices
@@ -152,8 +139,19 @@ I_{2}=\begin{bmatrix}
 >>[!tldr] Properties
 >>- Product : if both $A$ and $B\in\mathcal{M}_{n,p}(\mathbb{R})$ are **upper triangular**, then $A\times B$ is **upper triangular** (reciprocally **lower triangular**).
 >
+>
 >>[!info] Proof
->>
+>>Let $A$ and $B$ be two **upper triangular matrices** in the form $X=(x_{i,j})_{1\le i,j\le n}$.
+>>By definition of **matrix product**, we have :
+>>$$
+\begin{split}
+\forall i<j, A\times B&=\sum_{k=1}^n(a_{i,k})(b_{k,j})\\
+&=\sum_{k<j}(a_{i,k})(b_{k,j})+\sum_{k\ge j}(a_{i,k})(b_{k,j})\\
+&=\sum_{k<j}(a_{i,k})\times 0+\sum_{k\ge j}0\times (b_{k,j})\\
+&=0
+\end{split}
+>>$$
+>>Indeed, $(b_{k,j})=0$ since for the coordinates $(k<j,j)$ and $(a_{i,k})=0$ since $i<j\le k$.
 
 
 # Application
