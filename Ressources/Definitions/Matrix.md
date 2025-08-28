@@ -124,7 +124,10 @@ X+Y=Y+X
 >$$
 I_{n}=\begin{bmatrix}
 1&0&\dots&\dots&0\\ \\
-
+0&1\\ \\
+\dots&&\vdots&&\dots\\ \\
+\dots&&&1&0\\ \\
+0&\dots&\dots
 \end{bmatrix}
 >$$
 
