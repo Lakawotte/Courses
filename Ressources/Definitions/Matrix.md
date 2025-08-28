@@ -152,6 +152,7 @@ I_{2}=\begin{bmatrix}
 \end{split}
 >>$$
 >>Indeed, $(b_{k,j})=0$ since for the coordinates $(k<j,j)$ and $(a_{i,k})=0$ since $i<j\le k$.
+>>The proof for **lower triangular matrices** is very similar.
 
 
 # Application
