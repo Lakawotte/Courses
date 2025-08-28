@@ -135,10 +135,14 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 >>- **[[Internal Binary Operation|Involution]]**
 >>$$
-(A^T)^T=A
+((A)^T)^T=A
 >>$$
 >
 >>[!info] Proofs
+>>- Sum :
+>>$$
+(a_{i,j}+b_{i,j})^T=(a+b_{i,j})^T
+>>$$
 ### 2. Kinds of Matrices
 
 >[!tip] Diagonal Matrix
