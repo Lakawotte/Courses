@@ -139,7 +139,7 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 >>- Determinant :
 >>$$
-\forall A\in\mathcal{M}_{2}(\mathbb{K})\\text{}
+\forall A\in\mathcal{M}_{2}(\mathbb{K})\text{inversible},\mathrm{\det}((A)^T)=\mathrm{\det}(A)
 >>$$
 >
 >>[!info] Proofs
@@ -156,6 +156,9 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 \forall k\in\mathbb{K}, k(a_{i,j})^T=k(a_{j,i})=(ka_{j,i})=(ka_{i,j})^T
 >>$$
 >>- **[[Internal Binary Operation|Involution]]** :
+>>- Determinant :
+>>$$
+>>$$
 ### 2. Kinds of Matrices
 
 >[!tip] Diagonal Matrix
