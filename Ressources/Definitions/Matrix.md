@@ -125,6 +125,10 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 (AB)^T=A^TB^T
 >>$$
+>>- Inverse :
+>>$$
+(A^{-1})^T=(A^T)
+>>$$
 >
 >>[!info] Proofs
 ### 2. Kinds of Matrices
