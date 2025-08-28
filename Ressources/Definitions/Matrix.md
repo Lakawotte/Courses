@@ -113,7 +113,13 @@ X+Y=Y+X
 >>[!tldr] Definition
 >>Let $A=(a_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(\mathbb{R})$. We call *transpose* of $A$ the matrix
 >>$$
-A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(\mathbb{R}), (a_{i,j})=b_{j,i}
+A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(\mathbb{R}), (b_{i,j})=(a_{j,i})
+>>$$
+>
+>>[!tldr] Properties
+>>- Sum :
+>>$$
+(A+B)^T=A^T+B^T
 >>$$
 ### 2. Kinds of Matrices
 
