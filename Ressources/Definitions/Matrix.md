@@ -108,6 +108,10 @@ X+Y=Y+X
 >>$$
 
 **Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
+
+>[!tip] Matrix Transpose
+>>[!tldr] Definition
+>>Let $A=(a_{i,j})_{1\le i,j\le n}$
 ### 2. Kinds of Matrices
 
 >[!tip] Diagonal Matrix
