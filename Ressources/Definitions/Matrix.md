@@ -137,7 +137,10 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 ((A)^T)^T=A
 >>$$
->>- Determinant
+>>- Determinant :
+>>$$
+\forall A\in\mathcal{M}_{2}(\mathbb{K})\\text{}
+>>$$
 >
 >>[!info] Proofs
 >>- Sum :
