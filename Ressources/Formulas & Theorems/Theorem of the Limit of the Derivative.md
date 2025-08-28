@@ -27,7 +27,7 @@ category: "[[Maths]]"
 ### 2. Other formulas
 # Application
 ## I. Meaning
-Under some conditions, the **[[Differentiability|differentiability]]** at a point can be expressed from the **[[Limit|limit]]** of the **[[Differentiability|derivative]]** rather than the **[[Rate of Change|rate of change]]**.
+Under some conditions, the **[[Differentiability|differentiability]]** at a point can be expressed from the **[[Limits|limit]]** of the **[[Differentiability|derivative]]** rather than the **[[Rate of Change|rate of change]]**.
 ## II. Use
 # Example
 

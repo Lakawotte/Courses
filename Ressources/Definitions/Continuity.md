@@ -11,7 +11,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Weierstrass-Jordan Definition
->Let $f:D_{f}\rightarrow\mathbb{R}$ be a function where $D_{f}$ is an arbitrary interval which is not a unique point. We say that $f$ is **continuous on $a$** if $f$ has the limit $f(a)$ at the point $a$.
+>Let $f:D_{f}\rightarrow\mathbb{R}$ be a function where $D_{f}$ is an arbitrary interval which is not a unique point. We say that $f$ is **continuous on $a$** if $f$ has the **[[Limits|limit]]** $f(a)$ at the point $a$.
 >$$
 \forall\epsilon>0,\exists \eta>0,\forall x\in D_{f},|x-a|<\eta\Longrightarrow|f(x)-f(a)|<\epsilon
 >$$
@@ -23,12 +23,12 @@ category: "[[Maths]]"
 ## II. Extensions
 ### 1. Theorems
 
->[!tip] Limit at a point
+>[!tip] **[[Limits|Limit]]** at a point
 >>[!tldr] Theorem
->>If a function $f: D_{f}\rightarrow\mathbb{R}$ is defined at $x_0\in D_{f}$ and has a limit at $x_0$, then this limit is $f(x_0)$.
+>>If a function $f: D_{f}\rightarrow\mathbb{R}$ is defined at $x_0\in D_{f}$ and has a **[[Limits|limit]]** at $x_0$, then this limit is $f(x_0**[[Limits|limit]]**
 >
 >>[!info] Proof
->>Suppose that the limit $l$ exists. Then for all $\epsilon>0$, there is a centered interval $I$ at $x_0$ such that
+>>Suppose that the **[[Limits|limit]]** $l$ exists. Then for all $\epsilon>0$, there is a centered interval $I$ at $x_0$ such that
 >>$$
 \forall x\in D_{f}\cap I,|f(x)-l|<\epsilon
 >>$$
