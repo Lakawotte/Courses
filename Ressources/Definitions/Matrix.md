@@ -140,7 +140,7 @@ I_{2}=\begin{bmatrix}
 >$$
 >
 >>[!tldr] Properties
->>- Product : if both $A$ and $B\in\mathcal{M}_{n,p}(\mathbb{R})$ are **upper triangular**, then $A\timesB$ is **upper triangular** (reciprocally **lower triangular**).
+>>- Product : if both $A$ and $B\in\mathcal{M}_{n,p}(\mathbb{R})$ are **upper triangular**, then $A\times B$ is **upper triangular** (reciprocally **lower triangular**).
 >
 >>[!info] Proof
 >>
