@@ -140,7 +140,7 @@ I_{2}=\begin{bmatrix}
 >$$
 >
 >>[!tldr] Properties
->>The product of two **upper triangular matrices**, reciprocally t
+>>- Product : if bo$A$ is **upper triangular**
 
 
 # Application
