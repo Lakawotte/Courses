@@ -92,7 +92,7 @@ X+Y=Y+X
 >$$
 
 ==PAS SUR==
-#### Note :
+
 >[!tip] Canonical Basis
 >>[!tldr] Proposition
 >>$(E_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}$ is a *canonical basis* of $\mathcal{M}_{n,p}(\mathbb{K})$. More precisely, for any **matrix** $A\in\mathcal{M}_{n,p}(\mathbb{K})$,
@@ -112,6 +112,8 @@ X+Y=Y+X
 
 **Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
 ### 2. Other formulas
+
+>[]
 # Application
 ## I. Meaning
 A *square matrix* is nothing more than the coordinates of the *basis vectors* from a **[[Vector Space|vector space]]**. This is, the *identity matrix* is describing $\mathbb{R}^n$.
