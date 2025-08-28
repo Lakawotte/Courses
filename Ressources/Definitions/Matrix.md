@@ -133,7 +133,10 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 \forall k\in\mathbb{K}, k(A)^T=(kA)^T
 >>$$
->>
+>>- **[[Internal Binary Operation|Involution]]**
+>>$$
+(A^T)^T=A
+>>$$
 >
 >>[!info] Proofs
 ### 2. Kinds of Matrices
