@@ -111,7 +111,7 @@ X+Y=Y+X
 
 >[!tip] Matrix Transpose
 >>[!tldr] Definition
->>Let $A=(a_{i,j})_{1\le i,j\le n}$
+>>Let $A=(a_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(\mathbb{R})$. 
 ### 2. Kinds of Matrices
 
 >[!tip] Diagonal Matrix
