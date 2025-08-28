@@ -123,6 +123,7 @@ X+Y=Y+X
 >The **identity matrix** denoted $I_n$ is a **diagonal matrix** of dimension $n$ whose nonzero elements are all $1$s :
 >$$
 I_{n}=\begin{bmatrix}
+1&0&\dots&\dots&0\\ \\
 
 \end{bmatrix}
 >$$
