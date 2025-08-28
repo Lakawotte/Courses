@@ -10,7 +10,7 @@ category: "[[Maths]]"
 
 >[!hint] Definition : **[[Rate of Change]]** 1
 >Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated function whose **[[Rate of Change|rate of change]]** is $T_h$ defined on $I\textbackslash x_0$.
->$f$ is **differentiable** if and only if its **[[Rate of Change|rate of change]]** has a finite limit at $x_0$.
+>$f$ is **differentiable** if and only if its **[[Rate of Change|rate of change]]** has a finite **[[Limits|limit]]** at $x_0$.
 >In this case, we define the **derivative** of $f$ as follows :
 >$$
 f'(x)=\lim_{ x \to x_{0} } \frac{f(x)-f(x_{0})}{x-x_{0}}
@@ -59,7 +59,7 @@ The second proposition is nothing but a substitution.
 >[!tip] **Right-Derivative** and **Left-Derivative**
 >>[!tldr] Theorem
 >>Let $I\subset\mathbb{R}$ be an interval and $f:I\to\mathbb{R}$ a real-valuated function.
->>$f$ is **right-differentiable** if the right limit of the **[[Rate of Change|rate of change]]** exists. It is **left-differentiable** if the left limit exists.
+>>$f$ is **right-differentiable** if the right **[[Limits|limit]]** of the **[[Rate of Change|rate of change]]** exists. It is **left-differentiable** if the left **[[Limits|limit]]** exists.
 >>$$
 f'_r(x_{0})=\lim_{ x \to x_{0}^+}\frac{f(x)-f(x_{0})}{x-x_{0}}=\lim_{ h \to 0^+ }\frac{f(x_{0}+h)-f(x_{0})}{h}
 >>$$
