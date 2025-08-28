@@ -9,6 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
+>Let $E$ and $F$ be two $\math
 >$$
 >$$
 ## II. Extensions
