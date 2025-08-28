@@ -141,7 +141,7 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>[!info] Proofs
 >>- Sum :
 >>$$
-(a_{i,j}+b_{i,j})^T=(a+b_{i,j})^T
+(a_{i,j}+b_{i,j})^T=(a+b_{j,i})
 >>$$
 ### 2. Kinds of Matrices
 
