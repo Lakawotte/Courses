@@ -109,6 +109,8 @@ X+Y=Y+X
 >
 >>[!info] Proof
 >>
+
+**Note :** the number of columns m
 ### 2. Other formulas
 # Application
 ## I. Meaning
