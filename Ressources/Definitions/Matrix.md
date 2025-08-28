@@ -129,10 +129,11 @@ I_{2}=\begin{bmatrix}
 >$$
 
 >[!tip] Triangular Matrix
->A **matrix** $X\in\mathcal{M}_n(\mathbb{R})$ is **upper triangular** if and only if
+>A **square matrix** $X\in\mathcal{M}_{n}(\mathbb{R}), X=(a_{i,j})_{1\le i,j\le n}$ is **upper triangular** if and only if
 >$$
-\forall (i,j), i\neq j\Longrightarrow (a_{i,j})=0
+\forall (i,j), i\ge j\Longrightarrow (a_{i,j})=0
 >$$
+>The same way, $X$ is **
 
 
 # Application
