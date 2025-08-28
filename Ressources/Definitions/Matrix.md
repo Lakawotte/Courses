@@ -110,7 +110,7 @@ X+Y=Y+X
 >>[!info] Proof
 >>
 
-**Note :** the number of columns m
+**Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
 ### 2. Other formulas
 # Application
 ## I. Meaning
