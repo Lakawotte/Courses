@@ -162,7 +162,7 @@ f'_{r}(x_0)=f'_l(x_0)=f'(x_{0})
 (f_{n}\circ\dots\circ f_{1})'(x_{1})=(f_{n}'\circ\dots\circ f_{1})(x_{1})\times(f_{n-1}'\circ\dots\circ f_{1})(x_{1})\times\dots\times f_{1}'(x_{1})
 >>$$
 >
->[!info] Proof
+>>[!info] Proof
 
 >[!tip] **Derivative** of the **[[Reciprocal Function|reciprocal]]**
 >>[!tldr] Proposition
