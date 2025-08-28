@@ -54,7 +54,7 @@ X+Y=Y+X
 >>Let $\mathbf{0}_{n,p}$ be the **matrix** of $\mathcal{M}_{n,p}(\mathbb{K})$ whose elements are all zeros.
 >>- **[[Neutral Element]]** :
 >>$$
-\forall X\in\mathcal{M}_{n,p}(\mathbb{K}),X+\mathbf{0_{n,p}}=A
+\forall X\in\mathcal{M}_{n,p}(\mathbb{K}),X+\mathbf{0_{n,p}}=X
 >>$$
 >>- **[[Internal Binary Operation|Symmetry]]** :
 >>$$
