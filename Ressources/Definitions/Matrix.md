@@ -113,7 +113,8 @@ X+Y=Y+X
 **Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
 ### 2. Other formulas
 
->[]
+>[!tip] Diagonal Matrix
+>A **matrix** $A\in\mathcal{M}_{n,p}(\mathbb)
 # Application
 ## I. Meaning
 A *square matrix* is nothing more than the coordinates of the *basis vectors* from a **[[Vector Space|vector space]]**. This is, the *identity matrix* is describing $\mathbb{R}^n$.
