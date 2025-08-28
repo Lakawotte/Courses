@@ -108,7 +108,7 @@ X+Y=Y+X
 >>$$
 
 **Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
-
+²
 >[!tip] Matrix Transpose
 >>[!tldr] Definition
 >>Let $A=(a_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(\mathbb{R})$. We call *transpose* of $A$ the matrix
