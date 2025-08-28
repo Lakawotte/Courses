@@ -122,9 +122,11 @@ X+Y=Y+X
 >[!tip] Identity Matrix
 >The **identity matrix** denoted $I_n$ is a **diagonal matrix** of dimension $n$ whose nonzero elements are all $1$s :
 >$$
-I_{n}=\begin{bmatrix}
-1&\dots&&1\\1&1
-\end{bmatrix}
+I_{n}=\begin{pmatrix}
+1&\dots&0\\
+\vdots&\ddots&\vdots\\
+0&0\dots&1
+\end{pmatrix}
 >$$
 
 
