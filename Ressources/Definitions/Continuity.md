@@ -61,12 +61,12 @@ This is another definition of **continuity**.
 >[!tip] Rules
 >>[!tldr] Properties
 >>Here $f$ and $g$ are two functions continuous on their respective domain $D_f$ and $D_g$.
->>1. Every constant function is continuous.
->>2. $\text{id}$ is continuous.
->>3. $f+g$ is continuous on $D_f\cap D_g$.
->>4. $f\times g$ is continuous on $D_f\cap D_g$.
->>5. $\frac{1}{f}$ is continuous on $D_f\,\textbackslash\,\{x\,|\,f(x)=0\}$.
->>6. $f\circ g$ is continuous on $D_g\cap g^{-1}(D_f)$
+>>- A constant function is **continuous**.
+>>1. $\text{id}$ is **continuous**.
+>>2. $f+g$ is **continuous** on $D_f\cap D_g$.
+>>3. $f\times g$ is **continuous** on $D_f\cap D_g$.
+>>4. $\frac{1}{f}$ is **continuous** on $D_f\,\textbackslash\,\{x\,|\,f(x)=0\}$.
+>>5. $f\circ g$ is **continuous** on $D_g\cap g^{-1}(D_f)$
 >
 >>[!info] Proofs
 >>1.
