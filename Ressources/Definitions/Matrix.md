@@ -115,7 +115,9 @@ X+Y=Y+X
 
 >[!tip] Diagonal Matrix
 >A **square matrix** $A\in\mathcal{M}_{n}(\mathbb{R}), A=(a_{i,j})_{1\le i,j\le n}$ is said to be **diagonal** if and only if
->
+>$$
+\forall (i,j), i=j(a_{i,j})=0
+>$$
 # Application
 ## I. Meaning
 A *square matrix* is nothing more than the coordinates of the *basis vectors* from a **[[Vector Space|vector space]]**. This is, the *identity matrix* is describing $\mathbb{R}^n$.
