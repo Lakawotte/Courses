@@ -118,7 +118,7 @@ X+Y=Y+X
 &=0
 \end{split}
 >>$$
->>Indeed, $(b_{k,j})=0$ since $k<i$
+>>Indeed, $(b_{k,j})=0$ since $k<i<j$ and $(a_{i,k})=0$ for the coordinates $(i, k>)
 
 **Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
 ### 2. Kinds of Matrices
