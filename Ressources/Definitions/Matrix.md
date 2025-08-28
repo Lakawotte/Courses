@@ -108,7 +108,8 @@ X+Y=Y+X
 >>$$
 >
 >>[!info] Proof
->>
+>>Let $A$ and $B$ be two **square matrices** that are also **upper triangular**.
+>>By definition of **matrix product**, we have :
 
 **Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
 ### 2. Kinds of Matrices
