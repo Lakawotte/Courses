@@ -129,7 +129,10 @@ I_{2}=\begin{bmatrix}
 >$$
 
 >[!tip] Triangular Matrix
->A **matrix** $X\in\mathcal{M}_n(\mathbb{R})$ is **triangular** 
+>A **matrix** $X\in\mathcal{M}_n(\mathbb{R})$ is **upper triangular** if and only if
+>$$
+\forall (i,j), i\neq j\Longrightarrow (a_{i,j})=0
+>$$
 
 
 # Application
