@@ -33,7 +33,7 @@ As seen before, **diversification** can leads to a decrease of **[[Risk|risk]]**
 \end{document}
 ```
 
-The shape of the curve of $\sigma^2_{port}$ can be given using the rules of limits :
+The shape of the curve of $\sigma^2_{port}$ can be given using the rules of **[[Limits|limits]]** :
 $$
 \begin{split}
 \sigma^2_{port}&=\sigma^2_{market}+\sigma^2(\epsilon)\\
