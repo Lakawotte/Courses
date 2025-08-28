@@ -114,7 +114,7 @@ X+Y=Y+X
 \begin{split}
 \forall i<j, A\times B&=\sum_{k=1}^n(a_{i,k})(b_{k,j})\\
 &=\sum_{k<j}(a_{i,k})(b_{k,j})+\sum_{k\ge j}(a_{i,k})(b_{k,j})\\
-&=\sum_{k<j}(a_{i,k})0+\sum_{k\ge j}0(b_{k,j})\\
+&=\sum_{k<j}(a_{i,k})\times 0+\sum_{k\ge j}0\times (b_{k,j})\\
 &=0
 \end{split}
 >>$$
