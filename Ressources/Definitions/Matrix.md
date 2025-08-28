@@ -147,6 +147,10 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 (ab_{i,j})^T=(ab_{j,i})=\sum_{k=1}^n(a_{j,k})(b_{k,i})=\sum_{k=1}^n(b_{i,k})^T(a_{k,j})^T=(b_{i,j})^T(a_{i,j})^T
 >>$$
+>>- Outer product :
+>>$$
+\forall k\in\mathbb{K}, k(a_{i,j})^T=k(a_{j,i})=(ka_{j,i})=
+>>$$
 ### 2. Kinds of Matrices
 
 >[!tip] Diagonal Matrix
