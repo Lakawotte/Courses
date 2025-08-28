@@ -110,6 +110,12 @@ X+Y=Y+X
 >>[!info] Proof
 >>Let $A$ and $B$ be two **upper triangular matrices** in the form $X=(x_{i,j})_{1\le i,j\le n}$.
 >>By definition of **matrix product**, we have :
+>>$$
+\begin{split}
+A\times B&=\sum_{k=1}^n(a_{i,k})(b_{k,j})\\
+&=\sum
+\end{split}
+>>$$
 
 **Note :** the number of columns of the first matrix must fit the number of rows of the second in order to be multiplied.
 ### 2. Kinds of Matrices
