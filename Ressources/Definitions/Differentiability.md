@@ -209,7 +209,7 @@ T_{a}(x)=f'(a)(x-a)+f(a)
 >>$$
 >>[!info] Proof
 >>By definition, the value $f'(a)$ for $a\in D_f$ is the *slope* of the curve of $f$ at $a$. So by the formula for a *linear function* given two points, 
->>$$T_{a}(x)=(\frac{y_{a}}{})
+>>$$T_{a}(x)=(\frac{y_{b}-y_{a}}{x_{b}-x_{a}})(x-a)+y_{a}=f'(a)(x-a)+f(a)
 >>$$
 # Application
 ## I. Meaning
