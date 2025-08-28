@@ -10,7 +10,7 @@ category: "[[Maths]]"
 
 >[!hint] Definition
 >Let $E$ and $F$ be two $\mathbb{K}$-**[[Vector Space|vector spaces]]** which respective dimension $n$ and $p$. We define $\mathfrak{B}=(e_1,\dots,e_n)$ and $\mathfrak{C}=(f_1,\dots,f_p)$ as respective *bases* of $E$ and $F$. Let $\phi$ be an **[[Application|application]]** from $E$ to $F$ :
->$\phi$ is *linear* if and only if there is $A\in\mathcal{M}_{n,p}(\mathbb{R})$ such that for all vector  $x\in E$, 
+>$\phi$ is *linear* if and only if there is $A\in\mathcal{M}_{n,p}(\mathbb{R})$ such that for all vector $x\in E$, the column of its coordinates in $C$ is identical to 
 >$$
 >$$
 ## II. Extensions
