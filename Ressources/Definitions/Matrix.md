@@ -114,7 +114,7 @@ X+Y=Y+X
 ### 2. Other formulas
 
 >[!tip] Diagonal Matrix
->A **matrix** $A\in\mathcal{M}_{n,p}(\mathbb)
+>A **square matrix** $A\in\mathcal{M}_{n,p}(\mathbb{R})$ is said to be **diagonal** if and only if
 # Application
 ## I. Meaning
 A *square matrix* is nothing more than the coordinates of the *basis vectors* from a **[[Vector Space|vector space]]**. This is, the *identity matrix* is describing $\mathbb{R}^n$.
