@@ -128,7 +128,8 @@ I_{2}=\begin{bmatrix}
 \end{bmatrix}
 >$$
 
-
+>[!tip] Triangular Matrix
+>A **matrix** $X\in\mathcal{M}_n(\mathbb{R})$ is **triangular** 
 
 
 # Application
