@@ -127,8 +127,13 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 >>- Inverse :
 >>$$
-(A^{-1})^T=(A^T)
+(A^{-1})^T=(A^T)^{-1}
 >>$$
+>>- Outer product :
+>>$$
+\forall k\in\mathbb{K}, k(A)^T=(kA)^T
+>>$$
+>>
 >
 >>[!info] Proofs
 ### 2. Kinds of Matrices
