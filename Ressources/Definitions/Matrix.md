@@ -133,10 +133,11 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 \forall k\in\mathbb{K}, k(A)^T=(kA)^T
 >>$$
->>- **[[Internal Binary Operation|Involution]]**
+>>- **[[Internal Binary Operation|Involution]]** :
 >>$$
 ((A)^T)^T=A
 >>$$
+>>- Determinant
 >
 >>[!info] Proofs
 >>- Sum :
@@ -149,8 +150,9 @@ A^T=(b_{i,j})_{\in[\!\![1,n]\!\!]\,\times\,[\!\![1,p]\!\!]}\in\mathcal{M}_{n,p}(
 >>$$
 >>- Outer product :
 >>$$
-\forall k\in\mathbb{K}, k(a_{i,j})^T=k(a_{j,i})=(ka_{j,i})=
+\forall k\in\mathbb{K}, k(a_{i,j})^T=k(a_{j,i})=(ka_{j,i})=(ka_{i,j})^T
 >>$$
+>>- **[[Internal Binary Operation|Involution]]** :
 ### 2. Kinds of Matrices
 
 >[!tip] Diagonal Matrix
