@@ -209,7 +209,8 @@ T_{a}(x)=f'(a)(x-a)+f(a)
 >>$$
 >>[!info] Proof
 >>By definition, the value $f'(a)$ for $a\in D_f$ is the *slope* of the curve of $f$ at $a$. So by the formula for a *linear function* given two points, 
->>T_{a}(x)=f'(a)(x-a)
+>>$$T_{a}(x)=(\frac{y_{a}}{})
+>>$$
 # Application
 ## I. Meaning
 **Differentiability** is a local notion, non-punctual and non-global : the function only needs to be described on a **[[Neighborhood|neighborhood]]** of $x_0$.
