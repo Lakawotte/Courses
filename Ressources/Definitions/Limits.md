@@ -4,7 +4,7 @@ tags:
   - calculus
 category: "[[Maths]]"
 ---
----
+c---
 # Definition
 ## I. Statement
 
