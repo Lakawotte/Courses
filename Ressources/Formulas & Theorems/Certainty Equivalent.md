@@ -11,14 +11,14 @@ category: "[[Finance]]"
 ## I. Statement
 
 >[!hint] Definition
-$$
+>$$
 u(w+CE)=\mathbb{E}(u(w+\tilde{Z}))
-$$
-Where $w$ is the *inital wealth*, $u$ the **[[utility function]]** of the investor, $CE$ the **certainty equivalent** and $\tilde{Z}$ the *lottery*.
-$$
+>$$
+>Where $w$ is the *inital wealth*, $u$ the **[[utility function]]** of the investor, $CE$ the **certainty >equivalent** and $\tilde{Z}$ the *lottery*.
+>$$
 CE(w,\tilde{Z})=\mathbb{E}(\tilde{Z})-\pi(w,\tilde{Z})
-$$
-Where $\pi$ is the **[[risk premium]]**.
+>$$
+>Where $\pi$ is the **[[risk premium]]**.
 ## II. Extensions
 ### 1. Properties
 
