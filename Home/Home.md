@@ -1,5 +1,5 @@
 ---
-banner: "![[neon_city_room.jpg]]"
+banner: "![[Courses/Files/pixel-banner-images/interstellar.jpg]]"
 content-start: 711
 banner-fade: -75
 banner-height: 730
