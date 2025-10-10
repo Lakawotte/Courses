@@ -11,7 +11,7 @@ cssclasses:
 ### 1. Expression
 
 >[!hint] Formula
->Let for any $n\in\mathbb{N}$ 
+>Let for any $n\in\mathbb{N}$ be a *sequence* $(An)_{n\ge0}$ from a *probability*
 >$$
 >$$
 ### 2. Proof
