@@ -22,9 +22,9 @@ cssclasses:
 >Let $Y=X-\mathbb{E}[X]$. Then $\mathbb{E}[Y]=0$ and $\mathbb{V}\mathrm{ar}[Y]=\mathbb{E}[Y^2]$. For $t,u>0$, we can use **[[Markov's Inequality]]** :
 >$$
 \begin{split}
-
+\mathbb{P}(Y\ge t)&=\mathbb{P}(Y+u\ge t+u)\\
+&\le\mathbb{P}((Y+t)^2\ge(u+t))
 \end{split}
-\mathbb{P}(Y\ge t)=
 >$$
 ## II. Extensions
 ### 1. Other formulas
