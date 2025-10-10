@@ -20,7 +20,10 @@ RMSE(X)&=\sqrt{ MSE(X)}\\
 >$$
 
 >[!hint] Definition 2 : Predicted Value
->Let $y_t$ be a $T$-time *regression variable* and $\hat{y}_t$ its corresponding *predicted value*. THen
+>Let $y_t$ be a $T$-time *regression variable* and $\hat{y}_t$ its corresponding *predicted value*. Then
+>$$
+\mathrm{RMSE}(\hat{y}_{t})=\sqrt{\frac{\sum}}
+>$$
 # 2. Definition
 ## II. Extensions
 ### 1. Properties
