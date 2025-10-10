@@ -22,11 +22,11 @@ category: "[[Maths]]"
 
 >[!info] Proof
 Suppose that $g$ is differentiable and $g^{-1}$ is monotonic. Let $Y=g(X)$.
-$$
+>$$
 \mathbb{E}[Y]=\sum_{y\in\mathcal{Y}}yf_{Y}(y)
-$$
+>$$
 Writing $f_Y(y)$ in terms of $y=g(x)$ gives us :
-$$
+>$$
 \begin{split}
 \mathbb{E}[g(X)]&=\sum_{y\in\mathcal{Y}}yP(Y=y)\\
 &=\sum_{y\in\mathcal{Y}}yP(x=g^{-1}(y))\\
@@ -35,7 +35,7 @@ $$
 &=\sum_{y\in\mathcal{Y}}\sum_{x=g^{-1}(y)}g(x)f_{X}(x)\\
 \Longleftrightarrow\mathbb{E}[g(X)]&=\sum_{x \in X(\Omega)}f_{X}(x)g(x)\\
 \end{split}
-$$
+>$$
 ## II. Extensions
 ### 1. Properties
 

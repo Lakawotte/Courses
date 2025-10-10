@@ -26,7 +26,7 @@ category:
 $$
 AIC=\frac{\sum_{k=0}^n IC_{n}}{n}
 $$
-This is nothing but the **arithmetic mean** of the differents **invested capitals** over a certain period of time.
+This is nothing but the **arithmetic mean** of the different **invested capitals** over a certain period of time.
 ### II
 $$
 IC=TB+E-NOA
@@ -51,6 +51,4 @@ IC_{1}=1 210 670$
 $$
 So, the average invested capital is 1 162 240$. 
 
---------------------------------------------------------------------------
-
-## References :
+---

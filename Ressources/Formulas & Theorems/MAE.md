@@ -9,12 +9,12 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Formula
-$$
+>$$
 \begin{split}
 MAE(\hat{X})&=\frac{1}{n}\|X-\hat{X}\|_{1}\\
 &=\mathbb{E}[|X-\hat{X}|]\\
 \end{split}
-$$
+>$$
 ## II. Extensions
 ### 1. Properties
 
