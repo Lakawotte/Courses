@@ -41,7 +41,7 @@ If $\theta$ is *non-biased*, its RMSE is its **[[Standard Deviation]]**.
 ### 2. Normalization
 There is no consensus on how to normalize the RMSE, but two ways emerged :
 - Range : we denote $y_{max}-y_{min}$ as the *range* ; $\mathrm{NRMSE}=\frac{RMSE}{y_{max}-y_{min}}$
-- **[[Mean]]** 
+- **[[Mean]]** : $NRMSE=\frac{RMSE}{\bar{y}}$
 # Application
 ## I. Meaning
 The **RMSE** is nothing but the square root of the **[[Mean Squared Error]]**.
