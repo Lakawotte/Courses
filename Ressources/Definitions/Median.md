@@ -42,7 +42,9 @@ category: "[[Maths]]"
 >[hint] Optimatily for **[[Mean Absolute Error]]**
 >>[!tldr] Proposition
 >>Let $X$ be a *random variable* and $x$ a real variable.
->>The *median* optimises $\mathbb{E}[|X-c|]$.
+>>$$
+>>\inf\mathbb{E}[|X-c|-|X|]
+>>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
