@@ -31,7 +31,7 @@ RMSE(\hat{\theta})=\sqrt{ MSE(\hat{\theta})}&=\sqrt{  \mathbb{V}ar(\hat{\theta})
 \end{split}
 >$$
 #### *==Note==*
-If $
+If $\theta$ is *non-biaised*, its RMSE is its **[[Standard Deviation]]**.
 ### 2. Other formulas
 # Application
 ## I. Meaning
