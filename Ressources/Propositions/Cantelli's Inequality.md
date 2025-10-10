@@ -27,7 +27,7 @@ cssclasses:
 >>[!tldr]
 >>Let $X$ be a random variable with **[[Variance]]** $\sigma^2$, such that $\mathbb{E}[X]=0$ and $\mathbb{E}[X^2]=1$. Then for any $\lambda\ge0$,
 >$$
-\mathbb{P}(X\ge 0)\le
+\mathbb{P}(X\ge\lambda)\le 1-(2\sqrt{3}-3)\frac{(1+\lambda^2)^2}{\mathbb{E}[X^4]+\lambda^6}
 >$$
 # Application
 ## I. Meaning
