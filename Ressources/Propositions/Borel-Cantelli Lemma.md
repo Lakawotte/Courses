@@ -48,7 +48,7 @@ $$
 >>$$
 \mathbb{P}(\overline{\limsup_{n}A_{n}})=0
 >>$$
->>By **De Morgan Laws**, we have $\overline{\limsup_{n}A_{n}}
+>>By **De Morgan Laws**, we have $\overline{\limsup_{n}A_{n}}=\liminf_{n}(\overline{A_n})$.
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
