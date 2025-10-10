@@ -26,10 +26,12 @@ RMSE(X)&=\sqrt{ MSE(X)}\\
 >Let $\hat{\theta}$ be an *estimator*.
 >$$
 \begin{split}
-MSE(\hat{\theta})=\sqrt{ MSE(\hat{\theta})}&=\mathbb{V}ar(\hat{\theta})+Bias^2(\hat{\theta})\\
-&=\mathbb{E}_{\theta}[(\hat{\theta}-\theta)^2]
+RMSE(\hat{\theta})=\sqrt{ MSE(\hat{\theta})}&=\sqrt{  \mathbb{V}ar(\hat{\theta})+Bias^2(\hat{\theta})}\\
+&=\sqrt{\mathbb{E}_{\theta}[(\hat{\theta}-\theta)^2]}\\
 \end{split}
 >$$
+#### *==Note==*
+If $
 ### 2. Other formulas
 # Application
 ## I. Meaning
