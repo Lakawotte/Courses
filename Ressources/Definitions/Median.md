@@ -41,7 +41,7 @@ category: "[[Maths]]"
 
 >[hint] Optimatily for **[[Mean Absolute Error]]**
 >>[!tldr] Proposition
->>Let $X$ be a *random variable* and 
+>>Let $X$ be a *random variable* and $x$ a real variable.
 ### 2. Other formulas
 # Application
 ## I. Meaning
