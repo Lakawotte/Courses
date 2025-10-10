@@ -25,8 +25,9 @@ cssclasses:
 ### 1. Other formulas
 >[!hint] Higher-Moment Version
 >>[!tldr]
->>Let $X$ be a random variable with **[[Expected Value]]** $\mu$ and **[[Variance]]** $\sigma^2$, such that $. Then for any $\lambda>0$,
+>>Let $X$ be a random variable with **[[Variance]]** $\sigma^2$, such that $\mathbb{E}[X]=0$ and $\mathbb{E}[X^2]=1$. Then for any $\lambda\ge0$,
 >$$
+\mathbb{P}(X\ge 0)\le
 >$$
 # Application
 ## I. Meaning
