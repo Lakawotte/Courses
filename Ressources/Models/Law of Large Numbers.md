@@ -32,9 +32,9 @@ $$
 ### 1. Properties
 
 >[!tldr] Kolmogorov's Strong Law
->If the summands are independent but not identically distributed, then
+>If the summands are *independent* but not *identically distributed*, then
 >$$
-\\lim_{ n \to \infty } F_{n}-\mathbb{E}[f_{n}]=0\,\,\,\,\,\,\text{a.s}
+\lim_{ n \to \infty } F_{n}-\mathbb{E}[f_{n}]=0\,\,\,\,\,\,\text{a.s}
 >$$
 >Provided that each $X_k$ has a finite *second moment* and
 >$$
