@@ -64,7 +64,7 @@ $$
 >>Let $B_{n,l}=\bigcap_{n\le k\le n+l}\overline{A_{k}}=\overline{A_{n+l}}\cap B_{n,l-1}$.
 >>Since the $A_i$ are *independent*,
 >>$$
-\mathbb{P}(B_{n,l})=
+\mathbb{P}(B_{n,l})=\prod_{n\le k\le n+l}\overline{A_{k}}=\prod_{n\le k\le n+l}\(1-{A_{k})}
 >>$$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
