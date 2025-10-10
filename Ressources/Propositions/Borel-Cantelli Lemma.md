@@ -21,7 +21,8 @@ cssclasses:
 $$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof of the Measure version
+>By substituing $X$ from $A_n$, we can suppose $\mu$ finite without loss of generality. This is,
 >$$
 >$$
 ## II. Extensions
