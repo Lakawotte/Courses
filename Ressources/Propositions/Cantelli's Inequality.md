@@ -25,7 +25,7 @@ cssclasses:
 \mathbb{P}(Y\ge t)&=\mathbb{P}(Y+u\ge t+u)\\
 &\le\mathbb{P}((Y+u)^2\ge(t+u)^2)\\
 &=\frac{\mathbb{E}[(Y+u)^2]}{(t+u)^2}\\
-&
+&=\frac{\sigma^2+u^2}{(t+u)^2}
 \end{split}
 >$$
 ## II. Extensions
