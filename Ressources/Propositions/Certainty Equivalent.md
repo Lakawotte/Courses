@@ -35,14 +35,14 @@ The **certainty equivalent** is the maximum amount of money an investor is willi
 2. Receiving 2$
 Here, 2$ is the **certainty equivalent**.
 This amount is subjective, since people could tend to accept a lower value, which means they’re more comfortable with the uncertainty of the coin flip. For others it’ll be higher, as they prefer certain results.
-This is, if we accept a lower certainty equivalent than the **[[Expected Value|expected value]]** of the trade, we are a risk-averse person.
+This is, if we accept a lower certainty equivalent than the **[[Expected Value|expected value]]** of the trade, we are a *risk-averse* person.
 ## II. Use
 # Example
 Imagine an investor with the utility function
 $$
 u(w)=1-e^{-w}
 $$
-The lottery is given by $\tilde{Z}=\{2,0,0.5\}$ and his initial wealth $w_0$ is 5$.
+The lottery of some list of events is given by $\tilde{Z}=\{2,0,0.5\}$ and his initial wealth $w_0$ is 5$.
 So, the certainty equivalent is :
 $$
 1-e^{-(5+CE)}=0.5\times(1-e^{-(5+0)})+0.5\times(1-e^{-(5+2)})
