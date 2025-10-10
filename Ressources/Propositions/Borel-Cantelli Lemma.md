@@ -28,7 +28,10 @@ $$
 \mu(\bigcup_{n\ge 0}B_{n})=\lim_{n}\mu(B_{n})
 >$$
 >But $B_n$ is *majorated* by the *rest* of a *convergent series* $r_n=\sum_{k\ge n}\mu(A_{k})$, so $\mu(B_{n})\xrightarrow[n]{}0$.
->Since $\limsup_{n}(A_{n})=\bigcup_{n\ge 0}B_{n}$, we ar
+>Since $\limsup_{n}(A_{n})=\bigcup_{n\ge 0}B_{n}$, we are left with
+>$$
+\mu(\limsup_{n}(A_{n}))=0
+>$$
 ## II. Extensions
 ### 1. Properties
 
