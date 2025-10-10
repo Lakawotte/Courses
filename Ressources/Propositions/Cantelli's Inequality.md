@@ -35,7 +35,10 @@ cssclasses:
 $$
 \mathbb{P}(X-\mu\ge\lambda)\le\mathbb{P}(|X-\mu|\ge\lambda)\le \frac{\sigma^2}{\lambda^2}
 $$
-On the other hand, **[[Bienaymé-Chebyshev Inequality]]** is better for *two-sided bounds* 
+On the other hand, **[[Bienaymé-Chebyshev Inequality]]** is better for *two-sided bounds* :
+$$
+\mathbb{P}(|X-\mu|\ge\lambda)=\mathbb{P}(X-\mu\ge\lambda)+\mathbb{P}(X-\mu\le\lambda)
+$$
 # Example
 
 ---
