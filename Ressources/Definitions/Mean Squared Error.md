@@ -20,6 +20,7 @@ MSE(\hat{X})&=\frac{1}{n}(\|X-\hat{X}\|_{2})^2\\
 ### 1. Properties
 
 >[!tip] MSE of an Estimator
+>Let $\hat{\theta}}$ be an *estimator*.
 >$$
 \begin{split}
 MSE(\hat{\theta})&=\mathbb{V}ar(\hat{\theta})+Bias^2(\hat{\theta})\\
