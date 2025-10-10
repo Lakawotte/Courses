@@ -53,9 +53,10 @@ $$
 \begin{split}
 \overline{\limsup_{n}A_{n}}&=\overline{\bigcap_{n\ge 0}\bigcup_{k\ge n}A_{k}}\\
 &=\bigcup_{n\ge 0}\bigcap_{k\ge n}\overline{A_{k}}\\
-&=\bigcup_{k\ge n}B_{k}
+&=\bigcup_{n\ge0}}B_{n}
 \end{split}
 >>$$
+>>Where $B_n=$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
