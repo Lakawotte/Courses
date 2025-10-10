@@ -22,10 +22,10 @@ category: "[[Maths]]"
 >$$
 
 >[!tldr] Median and Mean
+>Let $(X_{i})_{i\in I}$ be a *unimodal* distribution.
 >$$
 |\bar{X}-\tilde{X}|\le\sqrt{\frac{3}{5}}\sigma
 >$$
->This inegality is true only when the distribution is **unimodal**.
 
 >[!tldr] Normal Law
 >Let $X \sim \mathcal{N}(\mu,\,\sigma^{2})$. Then
