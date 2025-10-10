@@ -36,6 +36,8 @@ $$
 ### 1. Other lemmas
 
 >[!tldr] Zero-one Lemma
+>Let for any $n\in\mathbb{N}$ be a *sequence* $(An)_{n\ge0}$ from a *probability space* $(\Omega,\mathcal{A},\mathbb{P})$.
+>If the events $(A_n)$ are *independents*, $mathfr$
 >$$
 >$$
 ### 2. Other formulas
