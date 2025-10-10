@@ -9,10 +9,18 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!tip] Definition
+>[!tip] Definition 1 : dataset
 >$$
 \tilde{X}=\begin{cases}X_{\frac{n+1}{2}}\text{, if n is odd}\\\frac{X_{\frac{n}{2}}+X_{\frac{n}{2}+1}}{2}\text{, else}\end{cases}
 >$$
+
+>[!hint] Definition 2 : Optimatily for **[[Mean Absolute Error]]**
+>>[!tldr] Proposition
+>>Let $X$ be a *random variable* and $x$ a real variable.
+>>$$
+\inf\mathbb{E}[|X-c|-|X|]
+>>$$
+>>[!info] Proof
 ## II. Extensions
 ### 1. Properties
 
@@ -38,14 +46,6 @@ category: "[[Maths]]"
 \tilde{[g(X)]}\ge g(\tilde{X})
 >$$
 >Where $g$ is a convex function.
-
->[!hint] Optimatily for **[[Mean Absolute Error]]**
->>[!tldr] Proposition
->>Let $X$ be a *random variable* and $x$ a real variable.
->>$$
-\inf\mathbb{E}[|X-c|-|X|]
->>$$
->>[!info] 
 ### 2. Other formulas
 # Application
 ## I. Meaning
