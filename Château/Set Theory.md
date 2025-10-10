@@ -1,8 +1,11 @@
 ---
-aliases: 
-tags: 
-category: 
-progress:
+aliases:
+tags:
+  - algebra/general_algebra
+category: "[[Maths]]"
+progress: in progress
+cssclasses:
+  - hide-meta
 ---
 ---
 # Theory

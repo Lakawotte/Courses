@@ -1,8 +1,10 @@
 ---
-aliases: 
-tags: 
-category: 
+aliases:
+tags:
+category:
 progress:
+cssclasses:
+  - hide-meta
 ---
 ---
 # Theory
