@@ -53,7 +53,7 @@ $$
 \begin{split}
 \overline{\limsup_{n}A_{n}}&=\overline{\bigcap_{n\ge 0}\bigcup_{k\ge n}A_{k}}\\
 &=\bigcup_{n\ge 0}\bigcap_{k\ge n}\overline{A_{k}}\\
-&=\bigcup_{n\ge0}}B_{n}
+&=\bigcup_{n\ge0}B_{n}\\
 \end{split}
 >>$$
 >>Where $B_n=\bigcap_{k\ge n}\overline{A_{k}}=\overline{A_{n}}\cap B_{n+1}$ is an *increasing series*. So,
@@ -64,8 +64,9 @@ $$
 >>Let $B_{n,l}=\bigcap_{n\le k\le n+l}\overline{A_{k}}=\overline{A_{n+l}}\cap B_{n,l-1}$.
 >>Since the $A_i$ are *independent*,
 >>$$
-\mathbb{P}(B_{n,l})=\prod_{n\le k\le n+l}\overline{A_{k}}=\prod_{n\le k\le n+l}\(1-{A_{k})}
+\mathbb{P}(B_{n,l})=\prod_{n\le k\le n+l}\overline{A_{k}}=\prod_{n\le k\le n+l}(1-{A_{k})}
 >>$$
+>>
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
