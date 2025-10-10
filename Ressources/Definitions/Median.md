@@ -39,12 +39,13 @@ category: "[[Maths]]"
 >$$
 >Where $g$ is a convex function.
 
->[hint] Optimatily for **[[Mean Absolute Error]]**
+>[!hint] Optimatily for **[[Mean Absolute Error]]**
 >>[!tldr] Proposition
 >>Let $X$ be a *random variable* and $x$ a real variable.
 >>$$
->>\inf\mathbb{E}[|X-c|-|X|]
+\inf\mathbb{E}[|X-c|-|X|]
 >>$$
+>>[]
 ### 2. Other formulas
 # Application
 ## I. Meaning
