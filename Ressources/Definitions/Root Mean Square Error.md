@@ -40,7 +40,8 @@ RMSE(\hat{\theta})=\sqrt{ MSE(\hat{\theta})}&=\sqrt{  \mathbb{V}ar(\hat{\theta})
 If $\theta$ is *non-biased*, its RMSE is its **[[Standard Deviation]]**.
 ### 2. Normalization
 There is no consensus on how to normalize the RMSE, but two ways emerged :
-- $\mathrm{NRMSE}=\frac{RMSE}{y_{max}_-y}$
+- Range : we denote $y_{max}-y_{min}$ as the *range* ; $\mathrm{NRMSE}=\frac{RMSE}{y_{max}-y_{min}}$
+- **[[Mean]]** 
 # Application
 ## I. Meaning
 The **RMSE** is nothing but the square root of the **[[Mean Squared Error]]**.
