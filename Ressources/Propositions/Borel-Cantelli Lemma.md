@@ -38,7 +38,7 @@ $$
 >[!tldr] Zero-one Lemma
 >Let for any $n\in\mathbb{N}$ be a *sequence* $(An)_{n\ge0}$ from a *probability space* $(\Omega,\mathcal{A},\mathbb{P})$.
 >$$
-\mathbb{P}
+(A_{n})\,\mathrm{independents}\Longrightarrow\mathbb{P}(\limsup_{n}A_{n})=\\begin{Bmatrix}varnothing  \\\end{Bmatrix}
 >$$
 ### 2. Other formulas
 # Application
