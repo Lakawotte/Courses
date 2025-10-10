@@ -9,6 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Formula
+>Let 
 >$$
 \begin{split}
 MAE(\hat{X})&=\frac{1}{n}\|X-\hat{X}\|_{1}\\
