@@ -60,7 +60,8 @@ $$
 >>$$
 \mathbb{P}(\overline{\limsup_{n}A_{n}})=\lim_{n}\mathbb{P}(B_{n})
 >>$$
->>2. We have to show that $\mathbb{P}(B_{n}$
+>>2. We have to show that $\mathbb{P}(B_{n})\xrightarrow[n]{}0$.
+>>Let $(B_{n,l})=$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
