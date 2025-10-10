@@ -28,10 +28,10 @@ category: "[[Maths]]"
 >This inegality is true only when the distribution is **unimodal**.
 
 >[!tldr] Normal Law
+>Let $X \sim \mathcal{N}(\mu,\,\sigma^{2})$. Then
 >$$
 \tilde{X}\approx\frac{2\bar{X}+mode(X)}{2}
 >$$
->If $X \sim \mathcal{N}(\mu,\,\sigma^{2})$.
 
 >[!tldr] Jensen's inequality
 >$$
