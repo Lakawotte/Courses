@@ -45,7 +45,7 @@ category: "[[Maths]]"
 >>$$
 \inf\mathbb{E}[|X-c|-|X|]
 >>$$
->>[]
+>>[!info] 
 ### 2. Other formulas
 # Application
 ## I. Meaning
