@@ -34,7 +34,7 @@ This **tau coefficient** can only be calculated if there is no ties in the datas
 ### 2. Other formulas
 # Application
 ## I. Meaning
-The **Kendall's Tau** is primarely used when we can't use the **Searman's Rho**. This is, when there is tied values in the ranks. It can take values between $-1$ and $1$ :
+**Kendall's Tau** is primarly used when we can't use the **[[Spearman's Rank Correlation Coefficient|Spearman's Rho]]**. This is, when there is tied values in the ranks. It can take values between $-1$ and $1$ :
 - $1$ : the two sets are perfectly associated
 - $0$ : the two sets are not correlated
 - $-1$ : the two sets are perfectly negatively associated
