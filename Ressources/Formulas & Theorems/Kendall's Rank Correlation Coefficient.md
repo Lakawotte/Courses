@@ -17,7 +17,7 @@ category: "[[Maths]]"
 \end{split}
 >$$
 >Where $\mathfrak{D}$ is the number of discordant pairs and $\mathfrak{C}$ is the number of concordant pairs.
-#### Warning :
+#### ==*Warning :*==
 This **tau coefficient** can only be calculated if there is no ties in the dataset.
 
 >[!tip] Definition 2
@@ -38,9 +38,10 @@ This **tau coefficient** can only be calculated if there is no ties in the datas
 - $1$ : the two sets are perfectly associated
 - $0$ : the two sets are not correlated
 - $-1$ : the two sets are perfectly negatively associated
-This coefficient is very usefull when we want to know the correlation between two sets knowing that there is *aberrant values*, because the coefficient won't be affected of it. It's the best alternative to the **[[Spearman's Rank Correlation Coefficient|Spearman's coefficient]]**. Both are a *non-parametric test* which means it can handle *aberrant values* and it doesn't require the values to be *normalized* or *linear*.
+
+This coefficient is very useful when we want to know the correlation between two sets knowing that there is *aberrant values*, because the coefficient won't be affected of it. It's the best alternative to the **[[Spearman's Rank Correlation Coefficient|Spearman's Rho]]**. Both are a *non-parametric test* which means it can handle *aberrant values* and it doesn't require the values to be *normalized* or *linear*.
 ## II. Use
-In general, we tend to use more the **Spearman's Rho** when we can do a *non-parametric test*. We use the **Kendall's Tau** when there are a small number of values and when there is an important number of ties in the ranks.
+In general, we tend to use more the **[[Spearman's Rank Correlation Coefficient|Spearman's Rho]]** when we can do a *non-parametric test*. We use the **Kendall's Tau** when there are a small number of values and when there is an important number of ties in the ranks.
 # Example
 For example, let's say that two experts ranked 5 different altcoins $\{A,B,C,D,E\}$ by the most increase it will get in the next month :
 
