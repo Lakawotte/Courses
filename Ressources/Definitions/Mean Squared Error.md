@@ -9,6 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
+>Let $X$ be a *random variable* and $\hat{X}$ an *estimator*. Then
 >$$
 \begin{split}
 MSE(\hat{X})&=\frac{1}{n}(\|X-\hat{X}\|_{2})^2\\
@@ -19,12 +20,12 @@ MSE(\hat{X})&=\frac{1}{n}(\|X-\hat{X}\|_{2})^2\\
 ### 1. Properties
 
 >[!tip] MSE of an Estimator
-$$
+>$$
 \begin{split}
 MSE(\hat{\theta})&=\mathbb{V}ar(\hat{\theta})+Bias^2(\hat{\theta})\\
 &=\mathbb{E}_{\theta}[(\hat{\theta}-\theta)^2]
 \end{split}
-$$
+>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
