@@ -19,6 +19,7 @@ cssclasses:
 ### 2. Proof
 
 >[!info] Proof
+>Let $Y=X-\mathbb{E}[X]$. Then $\mathbb{E}[Y]=0$ and $\mathbb{V}\mathrm{ar}[Y]=\mathbb{E}[Y^2]
 >$$
 >$$
 ## II. Extensions
