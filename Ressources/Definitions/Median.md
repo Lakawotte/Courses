@@ -38,6 +38,8 @@ category: "[[Maths]]"
 \tilde{[g(X)]}\ge g(\tilde{X})
 >$$
 >Where $g$ is a convex function.
+
+>[hint] Optimatily for **[[Mean Absolute Error]]**
 ### 2. Other formulas
 # Application
 ## I. Meaning
