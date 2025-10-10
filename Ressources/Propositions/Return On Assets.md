@@ -1,9 +1,11 @@
 ---
-aliases: 
+aliases:
 tags:
   - market
   - return
 category: "[[Finance]]"
+cssclasses:
+  - hide-meta
 ---
 
 ---
