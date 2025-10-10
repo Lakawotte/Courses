@@ -11,8 +11,9 @@ cssclasses:
 ### 1. Expression
 
 >[!hint] Formula
->Let $f$
+>Let $E,F$ be two *vector spaces* of dimension $n$ and $f\in\mathcal{L}(E,F)$.
 >$$
+rg(f)+\mathrm{Ker}
 >$$
 ### 2. Proof
 
