@@ -1,6 +1,6 @@
 ---
 aliases:
-tags:
+tags: #algebra/linear_algebra 
 category:
 cssclasses:
   - hide-meta
