@@ -40,6 +40,8 @@ category: "[[Maths]]"
 >Where $g$ is a convex function.
 
 >[hint] Optimatily for **[[Mean Absolute Error]]**
+>>[!tldr] Proposition
+>>Let 
 ### 2. Other formulas
 # Application
 ## I. Meaning
