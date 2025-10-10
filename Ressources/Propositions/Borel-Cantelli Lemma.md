@@ -43,7 +43,9 @@ $$
 >>$$
 >
 >>[!info] Demonstration
->>
+>>The converging case is a corollary of **Borel-Cantelli** lemma.
+>>Suppose $(A_n)$ is *divergent
+>>*
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
