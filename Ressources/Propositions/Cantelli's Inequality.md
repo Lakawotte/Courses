@@ -14,7 +14,7 @@ cssclasses:
 >[!hint] Formula
 >Let $X$ be a random variable with **[[Expected Value]]** $\mu$ and **[[Variance]]** $\sigma^2$. Then for any $\lambda>0$,
 >$$
-\mathbb{P}(X\mu\ge\lambda)\le\frac{\sigma^2}{\sigma^2+\lambda^2}
+\mathbb{P}(X-\mu\ge\lambda)\le\frac{\sigma^2}{\sigma^2+\lambda^2}
 >$$
 ### 2. Proof
 
@@ -28,7 +28,8 @@ cssclasses:
 &=\frac{\sigma^2+u^2}{(t+u)^2}
 \end{split}
 >$$
->Let $c(u)=\frac{\sigma^2+u^2}{(t+u)^2}$. Its *minimum* is given by
+>Let $c(u)=\frac{\sigma^2+u^2}{(t+u)^2}$. Its *minimum* is given by $c'(u)=\frac{0\Longrightarrow\sigma^2}{t}$ :
+>
 ## II. Extensions
 ### 1. Other formulas
 >[!hint] Higher-Moment Version
