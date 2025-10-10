@@ -1,4 +1,11 @@
 ---
+aliases:
+tags:
+category:
+cssclasses:
+  - hide-meta
+---
+---
 # Formula
 ## I. Statement
 ### 1. Expression
