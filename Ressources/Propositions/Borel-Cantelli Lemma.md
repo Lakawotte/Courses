@@ -71,7 +71,8 @@ $$
 >>$$
 \begin{split}
 \mathbb{P}(B_{n,l})&=\prod_{k=n}^{n+l}(1-\mathbb{P}(A_{k})\\
-&\le\prod_{k=n}^{n+l}(\mathrm{e}-\mathbb{P}(A_{k})\\
+&\le\prod_{k=n}^{n+l}(\exp(-\mathbb{P}(A_{k}))\\
+&=\exp(-\\sum_{k=n}^{n+l}(\mathbb{P}(A_{k}))\xrightarrow[l]{}0\\
 \end{split}
 >>$$
 ### ==*Note*==
