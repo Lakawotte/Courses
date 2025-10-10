@@ -23,7 +23,9 @@ cssclasses:
 >$$
 ## II. Extensions
 ### 1. Other formulas
->[!tldr] 
+>[!hint] Higher-Moment Version
+>>[!tldr]
+>>Let $X$ be a random variable with **[[Expected Value]]** $\mu$ and **[[Variance]]** $\sigma^2$, such that $. Then for any $\lambda>0$,
 >$$
 >$$
 # Application
