@@ -48,7 +48,12 @@ $$
 >>$$
 \mathbb{P}(\overline{\limsup_{n}A_{n}})=0
 >>$$
->>By **De Morgan Laws**, we have $\overline{\limsup_{n}A_{n}}=\liminf_{n}(\overline{A_n})$.
+>>By **De Morgan Laws**, we have
+>>$$
+\begin{split}
+\overline{\limsup_{n}A_{n}}&=\bigcup_{n\ge 0}\bigcap_{k\ge n}
+\end{split}
+>>$$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
