@@ -67,6 +67,12 @@ $$
 \mathbb{P}(B_{n,l})=\prod_{n\le k\le n+l}\overline{A_{k}}=\prod_{n\le k\le n+l}(1-{A_{k})}
 >>$$
 >>$B$ is *decreasing* with regards to $l$, so $=\mathbb{P}(B_{n})=\lim_{l}\mathbb{P}(B_{n,l})$.
+>>In conclusion, we have
+>>$$
+\begin{split}
+\mathbb{P}(B_{n,l})&=\prod_{k=n}
+\end{split}
+>>$$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
