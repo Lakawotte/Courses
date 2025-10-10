@@ -17,7 +17,7 @@ cssclasses:
 >[!hint] Theorem : Measure Space
 >Let $(X,\mathcal{A},\mu)$ be a *measure space*. For $(An)_{n\ge0}\in\mathcal{A}$ a *sequence*,
 >$$
-
+\sum_{n\ge0}\mu(A_{n})<+\infty\Longrightarrow\mu(\mathrm{\lim fty } })
 $$
 ### 2. Proof
 
