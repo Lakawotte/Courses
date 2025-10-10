@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Formula
->Let $X$ be a *random variable* and $\hat{X}$ a
+>Let $X$ be a *random variable* and $\hat{X}$ an *estimator*. Then
 >$$
 \begin{split}
 MAE(\hat{X})&=\frac{1}{n}\|X-\hat{X}\|_{1}\\
