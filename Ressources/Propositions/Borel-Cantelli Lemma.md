@@ -13,7 +13,7 @@ cssclasses:
 >[!hint] Theorem : Probability
 >Let for any $n\in\mathbb{N}$ be a *sequence* $(An)_{n\ge0}$ from a *probability space* $(\Omega,\mathcal{A},\mathbb{P})$.
 >If the sum of terms from $A$ is finite, then the probability that an infinity of them occurs simultaneously is $0$.
-### ==*Note*==
+#### ==*Note*==
 **[[Independency]]** is not necessary.
 
 >[!hint] Theorem : Measure Space
@@ -78,7 +78,7 @@ $$
 \end{split}
 >>$$
 >>By **[[Convexity]]** of $\exp$ and *divergence* of $A_n$.
-### ==*Note*==
+#### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
 # Application
