@@ -38,8 +38,9 @@ $$
 >[!tldr] Zero-one Lemma
 >Let for any $n\in\mathbb{N}$ be a *sequence* $(An)_{n\ge0}$ from a *probability space* $(\Omega,\mathcal{A},\mathbb{P})$.
 >$$
-(A_{n})\,\mathrm{independents}\Longrightarrow\mathbb{P}(\limsup_{n}A_{n})=\begin{Bmatrix}0\,\,\,\mathrm{if} (A_{n})\,\mathrm{converges}\\1\,\,\,\mathrm{if} (A_{n})\,\mathrm{diverges}\end{Bmatrix}
+(A_{n})\,\mathrm{independents}\Longrightarrow\mathbb{P}(\limsup_{n}A_{n})=\begin{cases}0\,\,\,\mathrm{if} (A_{n})\,\mathrm{converges}\\1\,\,\,\mathrm{if} (A_{n})\,\mathrm{diverges}\end{cases}
 >$$
+
 ### 2. Other formulas
 # Application
 ## I. Meaning
