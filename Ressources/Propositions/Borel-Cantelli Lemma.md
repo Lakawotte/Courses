@@ -44,8 +44,10 @@ $$
 >
 >>[!info] Demonstration
 >>The converging case is a corollary of **Borel-Cantelli** lemma.
->>Suppose $(A_n)$ is *divergent
->>*
+>>Suppose $(A_n)$ is *divergent*. We want to show that
+>>$$
+\mathbb{P}(\bar{\limsup_{n}A_{n}})=0
+>>$$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
