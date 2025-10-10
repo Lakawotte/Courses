@@ -11,12 +11,13 @@ cssclasses:
 ### 1. Expression
 
 >[!hint] Formula
->Let $E$ and $F$ be two vector spaces of dimension $n$. Then for $f\in
+>Let $E$ and $F$ be two vector spaces of dimension $n$. Then for $f\in\mathcal{L}(E,F)$ we have
 >$$
+\mathrm{rg}(f)+\mathrm{dim}\,\mathrm{Ker}(f)=\mathrm{dim}(E)
 >$$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof using 
 >$$
 >$$
 ## II. Extensions
