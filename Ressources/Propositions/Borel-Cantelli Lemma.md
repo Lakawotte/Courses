@@ -62,9 +62,11 @@ $$
 >>$$
 >>2. We have to show that $\mathbb{P}(B_{n})\xrightarrow[n]{}0$.
 >>Let $B_{n,l}=\bigcap_{n\le k\le n+l}\overline{A_{k}}=\overline{A_{n+l}}\cap B_{n,l-1}$.
- 
- 
- ### ==*Note*==
+>>Since the $A_i$ are *independent*,
+>>$$
+\mathbb{P}(B_{n,l})=
+>>$$
+### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
 # Application
