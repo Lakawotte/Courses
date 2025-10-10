@@ -56,7 +56,10 @@ $$
 &=\bigcup_{n\ge0}}B_{n}
 \end{split}
 >>$$
->>Where $B_n=\bigcap_{k\ge n}\overline{A_{k}=\overline{A_{n}}$
+>>Where $B_n=\bigcap_{k\ge n}\overline{A_{k}}=\overline{A_{n}}\cap B_{n+1}$ is an *increasing series*. So,
+>>$$
+
+>>$$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
