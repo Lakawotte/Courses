@@ -21,7 +21,7 @@ Multiplying a **sample estimate**  by $\frac{n}{n-1}$ leads in general to an uni
 
 More specifically, the **sample variance** is an unbiased estimation of the population [[Variance]], but the **sample standard deviation** is still biased regarding the population [[Standard Deviation]].
 #### Note :
-The **Bessel's Correction** leads to a worse [[MSE]] between sample variance and population variance. This is, the unbiased estimator does not minimize the MSE.
+The **Bessel's Correction** leads to a worse [[Mean Squared Error]] between sample variance and population variance. This is, the unbiased estimator does not minimize the MSE.
 To minimize the MSE for a **normal distribution**, we chose to mutliply the estimate by $\frac{n}{n+1}$.
 ### II.2 Empirical Variance
 $$
