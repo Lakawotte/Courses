@@ -11,10 +11,10 @@ cssclasses:
 ## I. Statement
 
 >[!hint] Formula
->Let $X$ be a *random variable* and $\hat{X}$ an *estimator*. Then
+>Let $(X_{i})_{i\in I}$ be a *sample* with *true mean value* $\hat{X}$. Then
 >$$
 \begin{split}
-MAE(\hat{X})&=\frac{1}{n}\|X-\hat{X}\|_{1}\\
+MAE(X)&=\frac{1}{n}\|X-\hat{X}\|_{1}\\
 &=\mathbb{E}[|X-\hat{X}|]\\
 \end{split}
 >$$

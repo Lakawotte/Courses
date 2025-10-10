@@ -9,10 +9,10 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $(X_{i})_{i\in I}$ be a *sample* and $\hat{X}$. Then
+>Let $(X_{i})_{i\in I}$ be a *sample* with *true mean value* $\hat{X}$. Then
 >$$
 \begin{split}
-MSE(\hat{X})&=\frac{1}{n}(\|X-\hat{X}\|_{2})^2\\
+MSE(X)&=\frac{1}{n}(\|X-\hat{X}\|_{2})^2\\
 &=\mathbb{E}[(X-\hat{X})^2]\\
 \end{split}
 >$$

@@ -11,10 +11,10 @@ cssclasses:
 ## I. Statement
 
 >[!hint] Definition
->Let $X$ be a *random variable* and $\hat{X}$ an *estimator*. Then
+>Let $(X_{i})_{i\in I}$ be a *sample* with *true mean value* $\hat{X}$. Then
 >$$
 \begin{split}
-RMSE(\hat{X})&=\sqrt{ MSE(\hat{X})}\\
+RMSE(X)&=\sqrt{ MSE(X)}\\
 &=\frac{1}{\sqrt{n}}\|\hat{X}-X\|_{2}\\
 \end{split}
 >$$
