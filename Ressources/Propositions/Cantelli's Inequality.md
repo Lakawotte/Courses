@@ -40,6 +40,7 @@ On the other hand, **[[Bienaymé-Chebyshev Inequality]]** is better for *two-sid
 $$
 \mathbb{P}(|X-\mu|\ge\lambda)=\mathbb{P}(X-\mu\ge\lambda)+\mathbb{P}(X-\mu\le\lambda)=\frac{2\sigma^2}{\sigma^2+\lambda^2}
 $$
+The *higher-moment* version improves over **Cantelli's inequality** in that we can get a non-zero lower bound, even when $\mathbb{E}[X]=0$.
 # Example
 
 ---
