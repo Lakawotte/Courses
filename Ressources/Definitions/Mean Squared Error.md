@@ -9,12 +9,12 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
-$$
+>$$
 \begin{split}
 MSE(\hat{X})&=\frac{1}{n}(\|X-\hat{X}\|_{2})^2\\
 &=\mathbb{E}[(X-\hat{X})^2]\\
 \end{split}
-$$
+>$$
 ## II. Extensions
 ### 1. Properties
 

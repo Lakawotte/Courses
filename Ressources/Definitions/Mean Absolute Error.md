@@ -1,8 +1,10 @@
 ---
-aliases: 
+aliases:
 tags:
   - statistics/error
 category: "[[Maths]]"
+cssclasses:
+  - hide-meta
 ---
 ---
 # Formula
