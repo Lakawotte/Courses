@@ -19,8 +19,12 @@ cssclasses:
 ### 2. Proof
 
 >[!info] Proof
->Let $Y=X-\mathbb{E}[X]$. Then $\mathbb{E}[Y]=0$ and $\mathbb{V}\mathrm{ar}[Y]=\mathbb{E}[Y^2]
+>Let $Y=X-\mathbb{E}[X]$. Then $\mathbb{E}[Y]=0$ and $\mathbb{V}\mathrm{ar}[Y]=\mathbb{E}[Y^2]$. For $t,u>0$, we can use **[[Markov's Inequality]]** :
 >$$
+\begin{split}
+
+\end{split}
+\mathbb{P}(Y\ge t)=
 >$$
 ## II. Extensions
 ### 1. Other formulas
