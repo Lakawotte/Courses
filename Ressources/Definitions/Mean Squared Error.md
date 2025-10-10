@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $(X_{i})_{i\in I}$ be a *sample* and $\hat{X}$ an *estimator*. Then
+>Let $(X_{i})_{i\in I}$ be a *sample* and $\hat{X}$. Then
 >$$
 \begin{split}
 MSE(\hat{X})&=\frac{1}{n}(\|X-\hat{X}\|_{2})^2\\
