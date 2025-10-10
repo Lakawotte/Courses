@@ -22,8 +22,13 @@ RMSE(X)&=\sqrt{ MSE(X)}\\
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
+>[!tip] RMSE of an Estimator
+>Let $\hat{\theta}$ be an *estimator*.
 >$$
+\begin{split}
+MSE(\hat{\theta})=\sqrt{ MSE(\hat{\theta})}&=\mathbb{V}ar(\hat{\theta})+Bias^2(\hat{\theta})\\
+&=\mathbb{E}_{\theta}[(\hat{\theta}-\theta)^2]
+\end{split}
 >$$
 ### 2. Other formulas
 # Application
