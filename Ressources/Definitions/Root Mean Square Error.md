@@ -45,7 +45,7 @@ The **RMSE** is nothing but the square root of the **[[Mean Squared Error]]**.
 ## II. Use
 **RMSE** is optimal for **normal errors**.
 
-In economics, it is used to indicates if a model fits 
+In economics, it is used to indicates if a model fits economic indicators.
 # Example
 
 ---
