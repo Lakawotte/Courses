@@ -37,7 +37,7 @@ RMSE(\hat{\theta})=\sqrt{ MSE(\hat{\theta})}&=\sqrt{  \mathbb{V}ar(\hat{\theta})
 \end{split}
 >$$
 #### *==Note==*
-If $\theta$ is *non-biaised*, its RMSE is its **[[Standard Deviation]]**.
+If $\theta$ is *non-biased*, its RMSE is its **[[Standard Deviation]]**.
 ### 2. Other formulas
 # Application
 ## I. Meaning
@@ -46,6 +46,8 @@ The **RMSE** is nothing but the square root of the **[[Mean Squared Error]]**.
 **RMSE** is optimal for **normal errors**.
 
 In economics, it is used to indicates if a model fits economic indicators.
+
+-In fluid dynamics, NRMSE and percent [[Root Mean Square Error]] are used to quantify the uniformity of flow behavior such as velocity profile, temperature distribution, or gas species concentration. The value is compared to industry standards to optimize the design of flow and thermal equipment and processes.
 # Example
 
 ---
