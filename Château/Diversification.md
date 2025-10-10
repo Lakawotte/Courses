@@ -1,8 +1,9 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
 category: "[[Finance]]"
-progress: in progress
+cssclasses:
+  - hide-meta
 ---
 ---
 # 1. Theory
@@ -11,7 +12,7 @@ In finance, **diversification** is the process by which an asset manager allocat
 
 Diversification is the opposite of specialization, which is based on a single type of asset. Diversification can be achieved in a number of ways: by asset class (the most common being equities, bonds and real estate), by sector, by company size (multinational, start-up, etc.) or by geographical area.
 ## II. Effects of diversification
-### 1. Warning
+### ==*Warning*==
 **Diversifying** is ==spreading== the assets, not ==adding== them to the portfolio. Indeed, if we instead of balancing we choose to add a large amount of **[[Correlation|uncorrelated]]** assets with same **[[Variance|variance]]** $\sigma^2$, we will end up increasing the **[[Risk|risk]]** of our portfolio :
 $$
 \mathbb{V}\mathrm{ar}[\sum_{i=1}^nx_{i}]=\sum_{i=1}^n\mathbb{V}\mathrm{ar}[x_{i}]=n\sigma^2

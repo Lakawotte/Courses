@@ -1,7 +1,9 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
 category:
+cssclasses:
+  - hide-meta
 ---
 ---
 # Formula
