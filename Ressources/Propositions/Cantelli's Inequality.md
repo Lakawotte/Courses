@@ -28,6 +28,7 @@ cssclasses:
 &=\frac{\sigma^2+u^2}{(t+u)^2}
 \end{split}
 >$$
+>Let $c(u)=\frac{\sigma^2+u^2}{(t+u)^2}$. Its *minimum* is given by
 ## II. Extensions
 ### 1. Other formulas
 >[!hint] Higher-Moment Version
