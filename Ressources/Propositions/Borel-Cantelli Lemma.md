@@ -44,7 +44,7 @@ $$
 >
 >>[!info] Demonstration
 >>The converging case is a corollary of **Borel-Cantelli** lemma.
->>Suppose $(A_n)$ is *divergent*. We want to show that
+>>1. Suppose $(A_n)$ is *divergent*. We want to show that
 >>$$
 \mathbb{P}(\overline{\limsup_{n}A_{n}})=0
 >>$$
@@ -56,7 +56,7 @@ $$
 &=\bigcup_{n\ge0}}B_{n}
 \end{split}
 >>$$
->>Where $B_n=$
+>>Where $B_n=\bigcap_{k\ge n}\overline{A_{k}=\overline{A_{n}}$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
