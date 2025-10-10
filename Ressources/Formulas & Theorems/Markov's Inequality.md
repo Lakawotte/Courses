@@ -50,7 +50,7 @@ X\ge a\Longleftrightarrow I_{{X\ge a}}=1\Longleftrightarrow aI_{{X\ge a}}=a\le X
 \end{split}
 >$$
 
->[!info] Measure-theoretic Proof
+>[!info] Measure-theoric Proof
 >Consider the real-valuated function $s$ on $X$ given by :
 >$$
 s(x)=
