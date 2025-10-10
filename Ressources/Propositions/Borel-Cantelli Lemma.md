@@ -58,8 +58,9 @@ $$
 >>$$
 >>Where $B_n=\bigcap_{k\ge n}\overline{A_{k}}=\overline{A_{n}}\cap B_{n+1}$ is an *increasing series*. So,
 >>$$
-
+\mathbb{P}(\overline{\limsup_{n}A_{n}})=\lim_{n}\mathbb{P}(B_{n})
 >>$$
+>>2. We have to show that $\mathbb{P}(B_{n}$
 ### ==*Note*==
 In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
