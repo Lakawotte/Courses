@@ -9,9 +9,9 @@ category: "[[Finance]]"
 ## I. Statement
 
 >[!hint] Definition
-$$
+>$$
 ROC=\frac{NOPAT}{AIC}
-$$
+>$$
 Where the $NOPAT$ is the *Net Operating Profit After Tax* and the $AIC$ is the *Average Invested Capital*.
 ## II. Extensions
 ### 1. Properties

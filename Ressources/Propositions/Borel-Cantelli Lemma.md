@@ -11,6 +11,7 @@ cssclasses:
 ### 1. Expression
 
 >[!hint] Formula
+>Let for any $n\in\mathbb{N}$ 
 >$$
 >$$
 ### 2. Proof
