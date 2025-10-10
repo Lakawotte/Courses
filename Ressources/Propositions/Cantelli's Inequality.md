@@ -31,7 +31,10 @@ cssclasses:
 # Application
 ## I. Meaning
 ## II. Use
-**Can
+**Cantelli's Inquality** is better than **[[Bienaymé-Chebyshev Inequality]]** for *one-sided bounds*. Indeed, we have
+$$
+\mathbb{P}(X-\mu\ge\lambda)\le
+$$
 # Example
 
 ---
