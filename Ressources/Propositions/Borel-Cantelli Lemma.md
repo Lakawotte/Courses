@@ -40,7 +40,8 @@ $$
 >$$
 (A_{n})\,\mathrm{independents}\Longrightarrow\mathbb{P}(\limsup_{n}A_{n})=\begin{cases}0\,\,\,\mathrm{if} (A_{n})\,\mathrm{converges}\\1\,\,\,\mathrm{if} (A_{n})\,\mathrm{diverges}\end{cases}
 >$$
-
+### ==*Note*==
+In the *converging* case, **[[Independency]]** is irrelevant.
 ### 2. Other formulas
 # Application
 ## I. Meaning
