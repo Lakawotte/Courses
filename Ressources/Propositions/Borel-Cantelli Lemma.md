@@ -51,7 +51,9 @@ $$
 >>By **De Morgan Laws**, we have
 >>$$
 \begin{split}
-\overline{\limsup_{n}A_{n}}&=\bigcup_{n\ge 0}\bigcap_{k\ge n}
+\overline{\limsup_{n}A_{n}}&=\overline{\bigcap_{n\ge 0}\bigcup_{k\ge n}A_{k}}\\
+&=\bigcup_{n\ge 0}\bigcap_{k\ge n}\overline{A_{k}}\\
+&=\bigcup_{k\ge n}B_{k}
 \end{split}
 >>$$
 ### ==*Note*==
