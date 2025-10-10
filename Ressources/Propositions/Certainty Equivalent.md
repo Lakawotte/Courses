@@ -16,7 +16,7 @@ cssclasses:
 >$$
 u(w+CE)=\mathbb{E}(u(w+\tilde{Z}))
 >$$
->Where $w$ is the *inital wealth*, $u$ the *utility function* of the investor, $CE$ the **certainty >equivalent** and $\tilde{Z}$ the *lottery*.
+>Where $w$ is the *inital wealth*, $u$ the *utility function* of the investor, $CE$ the *certainty equivalent* and $\tilde{Z}$ the *lottery*.
 >$$
 CE(w,\tilde{Z})=\mathbb{E}(\tilde{Z})-\pi(w,\tilde{Z})
 >$$
@@ -30,7 +30,7 @@ CE(w,\tilde{Z})=\mathbb{E}(\tilde{Z})-\pi(w,\tilde{Z})
 ### 2. Other formulas
 # Application
 ## I. Meaning
-The **certainty equivalent** is the maximum amount of money an investor is willing to recieve instead of doing a trade. For example, if we have the choice between :
+The **certainty equivalent** is the maximum amount of money an investor is willing to receive instead of participating at a trade. For example, if we have the choice between :
 1. Flipping a coin so that : tails give us 5$, heads give us nothing.
 2. Receiving 2$
 Here, 2$ is the **certainty equivalent**.
