@@ -19,7 +19,8 @@ RMSE(X)&=\sqrt{ MSE(X)}\\
 \end{split}
 >$$
 
-
+>[!hint] Definition 2 : Predicted Value
+>Let $y_t$ be a *t*
 # 2. Definition
 ## II. Extensions
 ### 1. Properties
