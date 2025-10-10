@@ -1,9 +1,11 @@
 ---
-aliases: 
+aliases:
 tags:
   - utility
   - probability
 category: "[[Finance]]"
+cssclasses:
+  - hide-meta
 ---
 
 ------
@@ -14,7 +16,7 @@ category: "[[Finance]]"
 >$$
 u(w+CE)=\mathbb{E}(u(w+\tilde{Z}))
 >$$
->Where $w$ is the *inital wealth*, $u$ the **[[utility function]]** of the investor, $CE$ the **certainty >equivalent** and $\tilde{Z}$ the *lottery*.
+>Where $w$ is the *inital wealth*, $u$ the *utility function* of the investor, $CE$ the **certainty >equivalent** and $\tilde{Z}$ the *lottery*.
 >$$
 CE(w,\tilde{Z})=\mathbb{E}(\tilde{Z})-\pi(w,\tilde{Z})
 >$$
