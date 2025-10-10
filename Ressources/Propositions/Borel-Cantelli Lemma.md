@@ -33,9 +33,9 @@ $$
 \mu(\limsup_{n}(A_{n}))=0
 >$$
 ## II. Extensions
-### 1. Corrolaries
+### 1. Other lemmas
 
->[!tldr]
+>[!tldr] Zero-one Lemma
 >$$
 >$$
 ### 2. Other formulas
