@@ -33,8 +33,9 @@ cssclasses:
 ## II. Use
 **Cantelli's Inquality** is better than **[[Bienaymé-Chebyshev Inequality]]** for *one-sided bounds*. Indeed, we have
 $$
-\mathbb{P}(X-\mu\ge\lambda)\le
+\mathbb{P}(X-\mu\ge\lambda)\le\mathbb{P}(|X-\mu|\ge\lambda)\le \frac{\sigma^2}{\lambda^2}
 $$
+On the other hand, **[[Bienaymé-Chebyshev Inequality]]** is better for *two-sided bounds* 
 # Example
 
 ---
