@@ -1,7 +1,8 @@
 ---
-aliases: 
-tags: 
-category:
+aliases:
+tags:
+  - probability/bounds
+category: "[[Maths]]"
 ---
 ---
 # Formula
