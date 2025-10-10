@@ -14,11 +14,7 @@ category: "[[Maths]]"
 >$$
 \mathcal{E}\times\mathcal{F}=\{(e,f),e\in\mathcal{E},f\in\mathcal{F}\}
 >$$
-### 2. Proof
 
->[!info] Proof
->$$
->$$
 ## II. Extensions
 ### 1. Properties
 
