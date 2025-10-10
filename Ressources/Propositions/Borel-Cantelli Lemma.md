@@ -22,7 +22,7 @@ $$
 ### 2. Proof
 
 >[!info] Proof of the Measure version
->By substituing $X$ from $A_n$, we can suppose $\mu$ finite without loss of generality. This is,
+>By replacing $X$ from $A_n$, we can suppose $\mu$ finite without loss of generality. This is, let $B_n=\bigcup_{k\ge n}A_{k}$.
 >$$
 >$$
 ## II. Extensions
