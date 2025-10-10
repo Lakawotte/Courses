@@ -10,7 +10,7 @@ cssclasses:
 # Definition
 ## I. Statement
 
->[!hint] Definition
+>[!hint] Definition 1 : True Mean
 >Let $(X_{i})_{i\in I}$ be a *sample* with *true mean value* $\hat{X}$. Then
 >$$
 \begin{split}
@@ -18,6 +18,8 @@ RMSE(X)&=\sqrt{ MSE(X)}\\
 &=\frac{1}{\sqrt{n}}\|\hat{X}-X\|_{2}\\
 \end{split}
 >$$
+
+
 # 2. Definition
 ## II. Extensions
 ### 1. Properties
