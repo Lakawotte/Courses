@@ -25,6 +25,10 @@ cssclasses:
 >Let $\tilde{f}:S\mapsto\mathrm{Im}(f)$ be a *restriction* of $f$. Then $\mathrm{Ker}(\tilde{f})=\{0\}$ by definition and $\tilde{f}$ is *injective*. Furthermore, one can see that $\mathrm{Im}(\tilde{f})=\mathrm{Im}(f)$, so $\tilde{f}$ is also *surjective* ; it's a *bijection*.
 >At the end,
 >$$
+\begin{split}
+\mathrm{dim}(S)&=t\mathrm{dim}\,\mathrm{Im}(f)
+\Longleftrightarrow
+\end{split}
 >$$
 ## II. Extensions
 ### 1. Properties
