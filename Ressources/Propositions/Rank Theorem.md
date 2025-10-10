@@ -18,7 +18,8 @@ cssclasses:
 ### 2. Proof
 
 >[!info] Proof
->Since $\mathrm{Ker}(f)$ is a *subspace* of $E$, one can find $S\subset E$ such that $\mathrm{Ker}(f)\ci S=E$.
+>Since $\mathrm{Ker}(f)$ is a *subspace* of $E$, one can find $S\subset E$ such that $\mathrm{Ker}(f)\oplus S=E$.
+>Let $\tilde{f}:S\mapsto\mathrm{Im}(f)$ be a *restriction* of $f$. Then 
 >$$
 >$$
 ## II. Extensions
