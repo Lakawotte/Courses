@@ -11,6 +11,7 @@ cssclasses:
 ### 1. Expression
 
 >[!hint] Formula
+>Let $E$ and $F$ be two vector spaces of dimension $n$. Then for $f\in
 >$$
 >$$
 ### 2. Proof
