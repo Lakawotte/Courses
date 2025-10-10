@@ -22,7 +22,7 @@ category: "[[Maths]]"
 >>$$
 >>[!info] Proof
 >>We want to prove that the *classifier* minimising $\mathbb{E}[|X-\hat{X}|]$ is $\hat{f}(y)=\mathrm{Median}(X|Y=y)$.
->>The **[[loss function for classification]]
+>>The **[[loss function for classification]]** is given by 
  
  ## II. Extensions
 ### 1. Properties
