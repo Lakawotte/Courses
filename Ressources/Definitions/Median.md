@@ -21,6 +21,7 @@ category: "[[Maths]]"
 \inf\mathbb{E}[|X-c|-|X|]
 >>$$
 >>[!info] Proof
+>>We want to prove that the *classifier* minimising
 ## II. Extensions
 ### 1. Properties
 
