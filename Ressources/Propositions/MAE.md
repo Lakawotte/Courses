@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Formula
->Let 
+>Let $X$ be a *random variable* and $\hat{X}$ a
 >$$
 \begin{split}
 MAE(\hat{X})&=\frac{1}{n}\|X-\hat{X}\|_{1}\\
