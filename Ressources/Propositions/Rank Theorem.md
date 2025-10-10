@@ -18,7 +18,7 @@ cssclasses:
 ### 2. Proof
 
 >[!info] Proof
->Since $\mathrm{Ker}(f)$ is a *subspace* of $E$, one can find $S\
+>Since $\mathrm{Ker}(f)$ is a *subspace* of $E$, one can find $S\subset E$ such that $\mathrm{Ker}(f)\ci S=E$.
 >$$
 >$$
 ## II. Extensions
