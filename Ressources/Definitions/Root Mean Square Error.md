@@ -44,6 +44,8 @@ If $\theta$ is *non-biaised*, its RMSE is its **[[Standard Deviation]]**.
 The **RMSE** is nothing but the square root of the **[[Mean Squared Error]]**.
 ## II. Use
 **RMSE** is optimal for **normal errors**.
+
+In economics, it is used to indicates if a model fits 
 # Example
 
 ---
