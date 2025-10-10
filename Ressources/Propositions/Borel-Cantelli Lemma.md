@@ -27,6 +27,7 @@ $$
 >$$
 \mu(\bigcup_{n\ge 0}B_{n})=\lim_{n}\mu(B_{n})
 >$$
+>But $B_n$ is *majorated* by the *rest* of a *convergent series* $r_n=\sum_{k\ge n}\mu(A_{k})$, so $B_n
 ## II. Extensions
 ### 1. Properties
 
