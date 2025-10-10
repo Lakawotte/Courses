@@ -9,22 +9,22 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition 1
-$$
+>$$
 \begin{split}
 \tau_{A}&=1-\frac{4\mathfrak{D}}{n(n-1)}\\
 &=\frac{2(\mathfrak{C}-\mathfrak{D})}{n(n-1)}\\
 &=\frac{\mathfrak{C}-\mathfrak{D}}{\mathfrak{C}+\mathfrak{D}}\\
 \end{split}
-$$
-Where $\mathfrak{D}$ is the number of discordant pairs and $\mathfrak{C}$ is the number of concordant pairs.
+>$$
+>Where $\mathfrak{D}$ is the number of discordant pairs and $\mathfrak{C}$ is the number of concordant pairs.
 #### Warning :
 This **tau coefficient** can only be calculated if there is no ties in the dataset.
 
 >[!tip] Definition 2
-$$
+>$$
 \tau_{B}=\frac{\mathfrak{C}-\mathfrak{D}}{\sqrt{(\mathfrak{C}+\mathfrak{D}+X_{p})(\mathfrak{C}+\mathfrak{D}+Y_{p})}}
-$$
-Where $X_p$ and $Y_p$ are the number of tied values in each variable.
+>$$
+>Where $X_p$ and $Y_p$ are the number of tied values in each variable.
 ## II. Extensions
 ### 1. Properties
 
