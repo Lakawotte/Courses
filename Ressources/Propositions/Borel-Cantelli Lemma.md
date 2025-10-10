@@ -22,8 +22,10 @@ $$
 ### 2. Proof
 
 >[!info] Proof of the Measure version
->By replacing $X$ from $A_n$, we can suppose $\mu$ finite without loss of generality. This is, let $B_n=\bigcup_{k\ge n}A_{k}$. Since $B_n=A\cup B_{n+1}$, $B_{n}$ is 
+>By replacing $X$ from $A_n$, we can suppose $\mu$ finite without loss of generality. This is, let $B_n=\bigcup_{k\ge n}A_{k}$. Since $B_n=A\cup B_{n+1}$, $B_{n}$ is decreasing for *inclusion* of elements of $\mathcal{A}$.
+>By finitude of $\mu$, we have
 >$$
+\mu(\bigcup_{n\ge 0}B_{n})=\lim_{ n \to \infty } 
 >$$
 ## II. Extensions
 ### 1. Properties
