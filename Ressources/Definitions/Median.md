@@ -41,7 +41,7 @@ category: "[[Maths]]"
 
 >[hint] Optimatily for **[[Mean Absolute Error]]**
 >>[!tldr] Proposition
->>Let 
+>>Let $X$ be a *random variable* and 
 ### 2. Other formulas
 # Application
 ## I. Meaning
