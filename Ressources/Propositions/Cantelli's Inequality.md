@@ -28,8 +28,10 @@ cssclasses:
 &=\frac{\sigma^2+u^2}{(t+u)^2}
 \end{split}
 >$$
->Let $c(u)=\frac{\sigma^2+u^2}{(t+u)^2}$. Its *minimum* is given by $c'(u)=\frac{0\Longrightarrow\sigma^2}{t}$ :
->
+>Let $c(u)=\frac{\sigma^2+u^2}{(t+u)^2}$. Its *minimum* is given by $c'(u)=0\Longrightarrow u=\frac{\sigma^2}{t}$ :
+>$$
+\mathbb{P}(X-\mathbb{E}[X]\ge\lambda)\le\frac{\sigma^2}{\sigma^2+\lambda^2}
+$$
 ## II. Extensions
 ### 1. Other formulas
 >[!hint] Higher-Moment Version
