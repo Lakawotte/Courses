@@ -11,7 +11,8 @@ cssclasses:
 ### 1. Expression
 
 >[!hint] Formula
->Let for any $n\in\mathbb{N}$ be a *sequence* $(An)_{n\ge0}$ from a *probability*
+>Let for any $n\in\mathbb{N}$ be a *sequence* $(An)_{n\ge0}$ from a *probability space* $(\Omega,\mathcal{A},\mathbb{P})$.
+>If the sum of terms from 
 >$$
 >$$
 ### 2. Proof
