@@ -22,7 +22,7 @@ cssclasses:
 >$$
 \mathrm{Ker}(f)\oplus S=E\Longrightarrow \mathrm{Ker}(f)\cap S=\{0\}
 >$$
->Let $\tilde{f}:S\mapsto\mathrm{Im}(f)$ be a *restriction* of $f$. Then $\tilde{f}$
+>Let $\tilde{f}:S\mapsto\mathrm{Im}(f)$ be a *restriction* of $f$. Then $\mathrm{Ker}(\tilde{f})=\{0\}$ by definition and $\tilde{f}$ is *injective*. Furthermore, one can see that $\mathrm{Im}(\tilde{f})=\mathrm{Im}f$
 >$$
 >$$
 ## II. Extensions
