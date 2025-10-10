@@ -45,6 +45,7 @@ There is no consensus on how to normalize the RMSE, but two ways emerged :
 # Application
 ## I. Meaning
 The **RMSE** is nothing but the square root of the **[[Mean Squared Error]]**.
+It measures *accuracy* by comparing forecasting errors among the same *dataset*.
 ## II. Use
 **RMSE** is optimal for **normal errors**.
 
