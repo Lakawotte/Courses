@@ -13,11 +13,11 @@ cssclasses:
 >[!hint] Formula
 >Let $E,F$ be two *vector spaces* of dimension $n$ and $f\in\mathcal{L}(E,F)$.
 >$$
-rg(f)+\mathrm{Ker}
+rg(f)+\mathrm{dim}\,\mathrm{Ker}(f)=\mathrm{dim}(E)
 >$$
-### 2. Proof
+### 2. Proofs
 
->[!info] Proof
+>[!info] Proof Using 
 >$$
 >$$
 ## II. Extensions
