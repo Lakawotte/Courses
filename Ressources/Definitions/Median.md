@@ -46,7 +46,7 @@ category: "[[Maths]]"
 # Application
 ## I. Meaning
 The **median** is simply the smallest value of the dataset such that the sum of all values before it and itself is $0.5$ or more when it's ordered.
-It is highly non-sensitive to abberant values, as the **[[mode]**.]
+It is highly non-sensitive to abberant values, as the **[[mode]]**.
 ## II. Use
 # Example
 We have the given dataset :
