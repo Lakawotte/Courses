@@ -21,7 +21,7 @@ category: "[[Maths]]"
 \inf\mathbb{E}[|X-c|-|X|]
 >>$$
 >>[!info] Proof
->>We want to prove that the *classifier* minimising $\mathbb{E}[|X-\hat{X}|]$ is $$\hat{f}(x)=\mathrm{Median}
+>>We want to prove that the *classifier* minimising $\mathbb{E}[|X-\hat{X}|]$ is $$\hat{f}(y)=\mathrm{Median}(X|Y=y)$
  
  ## II. Extensions
 ### 1. Properties
