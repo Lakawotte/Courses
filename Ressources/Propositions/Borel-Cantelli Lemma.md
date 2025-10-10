@@ -33,7 +33,7 @@ $$
 \mu(\limsup_{n}(A_{n}))=0
 >$$
 ## II. Extensions
-### 1. Properties
+### 1. Corrolaries
 
 >[!tldr]
 >$$
