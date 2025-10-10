@@ -20,7 +20,7 @@ cssclasses:
 >[!info] Proof
 >Since $\mathrm{Ker}(f)$ is a *subspace* of $E$, one can find $S\subset E$ such that
 >$$
-\mathrm{Ker}(f)\oplus S=E\Longrightarrow \mathrm{Ker}(f)\cup S=\{\void\}
+\mathrm{Ker}(f)\oplus S=E\Longrightarrow \mathrm{Ker}(f)\cap S=\{\void\}
 >$$
 >Let $\tilde{f}:S\mapsto\mathrm{Im}(f)$ be a *restriction* of $f$. Then 
 >$$
