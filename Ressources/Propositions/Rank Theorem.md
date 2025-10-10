@@ -26,8 +26,8 @@ cssclasses:
 >At the end,
 >$$
 \begin{split}
-\mathrm{dim}(S)&=t\mathrm{dim}\,\mathrm{Im}(f)
-\Longleftrightarrow
+\mathrm{dim}(S)&=\mathrm{dim}\,\mathrm{Im}(f)\\
+\Longleftrightarrow\mathrm{rg}(f)&=\mathrm{dim}(E)-\mathrm{dim}\,\mathrm{Ker}(f)\\
 \end{split}
 >$$
 ## II. Extensions
