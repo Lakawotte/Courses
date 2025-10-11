@@ -16,7 +16,7 @@ category: "[[Maths]]"
 \sup\{|f(a)|:a\in A\}=\sup\{|F(x)|:x\in X\}
 >$$
 #### ==*Note*==
-That is, if $f$ is *bounded*
+That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same interval.
 
 ### 2. Proof
 
