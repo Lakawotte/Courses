@@ -8,8 +8,14 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 ### 1. Expression
-
-
+>[!tip] Theorem of **Continuous Extension**
+>Let $X$ be a *normal space*, $A\subset X$ a *closed subset* of $X$ and $f:A\mapsto \mathbb{R}$ a *continuous map* carrying the *standard topology*.
+>Then there exists $F:X\mapsto\mathbb{R}$ *continuous* everywhere on $X$ such that for all $a\in A$, $F(a)=f(a)$ and
+>$$
+\sup\{|f(a)|:a\in A\}=\sup\{|F(x)|:x\in X\}
+$$
+#### ==*Note*==
+That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same interval.
 ### 2. Proof
 
 >[!info] Proof by the Unicity of the Limit
