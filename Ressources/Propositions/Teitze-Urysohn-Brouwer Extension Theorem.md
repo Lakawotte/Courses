@@ -50,7 +50,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >And by $(2)$, for all $x\in X-C$, $|g(x)|<M$.
 >
 >The proof for the general case follows :
->Let $f:A\to X$ be *co*
+>Let $f:A\to X$ be *continuous*. Let us choose a $homeomorphism* $h$ from the *real line* to $]-1;1[$ such th
 
 
 ## II. Extensions
