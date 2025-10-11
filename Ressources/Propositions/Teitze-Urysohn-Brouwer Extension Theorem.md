@@ -26,7 +26,7 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >
 >>[!info] Proof
 >>We shall prove this theorem using *biconditional proof*.
->>$\Longleftarrow$ : Suppose $C,D\subseteq X$ are *disjoint nonempty closed sets*. Then 
+>>$\Longleftarrow$ : Suppose $C,D\subseteq X$ are *disjoint nonempty closed sets*, and $f:X\to[0;1]$ a Urysohn's function. Then $C\isubseteq
 
 
 
