@@ -37,7 +37,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 \forall x\in X-A,\ g_n(x) < \frac{2^{n-1}M}{3^n} \tag{2}
 \end{align}
 >$$
->2. For all $x\in X$, let $g(x):=\sum_{k=0}^ng_{k}(x)$. Then $g$ *converges* in comparison to the *geometric series* $\frac{1}{3}\sum_{n=1}^\infty( \frac{2}{3})^{n-1}$. This is, $g$ is *normal*
+>2. For all $x\in X$, let $g(x):=\sum_{k=0}^ng_{k}(x)$. Then $g$ *converges* in comparison to the *geometric series* $\frac{1}{3}\sum_{n=1}^\infty( \frac{2}{3})^{n-1}$. This is, the *partial sum* $s_{n}$ is *normally convergent*, so *g* is *continuous* according to 
 
 
 ## II. Extensions
