@@ -62,7 +62,7 @@ It is clear that Teitze Theorem implies Urysohn's Lemma : if $A$ and $B$ are *ds
 $$
 f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in A\\1\,\,\mathrm{f}\,\,x\in B\end{cases}
 $$
-By **[[Gluing Lemma]]**, $A\cup B$ is closed in $X$ implies that $f$ is *continuous*, and so it has a *continuous extension* $F:X\to\ma. By definition, $F$
+By **[[Gluing Lemma]]**, $A\cup B$ is closed in $X$ implies that $f$ is *continuous*, and so it has a *continuous extension* $F:X\to\mathbb{R}$. By definition, $F$ is a *Urysohn function* for $A$ and $B$.
 ## II. Extensions
 ### 1. Theorems
 >[!tip] Theorem of **Continuous Extension**
