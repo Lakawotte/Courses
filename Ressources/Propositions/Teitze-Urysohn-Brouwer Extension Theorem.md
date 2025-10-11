@@ -19,7 +19,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 ### 2. Lemma
 >[!hint] Urysohn's Lemma
 >>[!tldr] Lemma
->>A *topological space* $(X,\mathcal{T}à$ is said *normal* if and only if for every pair of *disjoint nonempty closed subsets* $A,
+>>A *topological space* $(X,\mathcal{T}à$ is said *normal* if and only if for every pair of *disjoint nonempty closed subsets* $C,D\subseteq X$, there is a *continuous* function $f:X\to[0;1]$ such that 
 >
 >>[!info] Proof
 >
