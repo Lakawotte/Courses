@@ -15,7 +15,7 @@ category: "[[Maths]]"
 >$$
 \sup\{|f(a)|:a\in A\}=\sup\{|F(x)|:x\in X\}
 >$$
-### *Note*
+#### ==*Note*==
 
 ### 2. Proof
 
