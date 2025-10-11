@@ -18,7 +18,7 @@ cssclasses:
 >$$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof using **[[Markov's Inequality]]**
 >Let $Y=X-\mathbb{E}[X]$. Then $\mathbb{E}[Y]=0$ and $\mathbb{V}\mathrm{ar}[Y]=\mathbb{E}[Y^2]$. For $t,u>0$, we can use **[[Markov's Inequality]]** :
 >$$
 \begin{split}
