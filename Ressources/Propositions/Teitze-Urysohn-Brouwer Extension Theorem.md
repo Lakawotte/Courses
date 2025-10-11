@@ -38,7 +38,10 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 \end{align}
 >$$
 >2. For all $x\in X$, let $g(x):=\sum_{k=0}^ng_{k}(x)$. Then $g$ *converges* in comparison to the *geometric series* $\frac{1}{3}\sum_{n=1}^\infty( \frac{2}{3})^{n-1}$. This is, the *sequence of partial sums* from $g$ $s_{n}$ is *normally convergent*, so *g* is *continuous* according to **[[Weierstrass M-test]]**.
->3. 
+>3. Finally, we shall prove that for all $a\in A$, $g(a)=f(a)$. We have
+>$$
+|f(a)-g(a)
+>$$
 
 
 ## II. Extensions
