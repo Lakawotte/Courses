@@ -19,6 +19,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 ### 2. Lemma
 >[!hint] Urysohn's Lemma
 >>[!tldr] Lemma
+>>A *topological space* $(X,\mathcal)
 >
 >>[!info] Proof
 >
