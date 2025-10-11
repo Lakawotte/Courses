@@ -16,6 +16,7 @@ category: "[[Maths]]"
 \sup\{|f(a)|:a\in A\}=\sup\{|F(x)|:x\in X\}
 >$$
 #### ==*Note*==
+That is, if $f$ is *bounded*
 
 ### 2. Proof
 
