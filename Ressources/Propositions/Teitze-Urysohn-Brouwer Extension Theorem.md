@@ -10,7 +10,7 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!tip] Theorem of **Continuous Extension**
->Let $X$ be a *normal space*, $A\subset X$ a *closed subset* of $X$ and $f:A\mapsto
+>Let $X$ be a *normal space*, $A\subset X$ a *closed subset* of $X$ and $f:A\mapsto \mathbb{R}$ a *continuous map* carrying the *standard topology*.
 
 ### 2. Proof
 
