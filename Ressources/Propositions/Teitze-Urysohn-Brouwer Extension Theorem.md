@@ -10,13 +10,9 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!tip] Theorem of **Continuous Extension**
->Let $X$ be a *normal space*, $A\subset X$ a *closed subset* of $X$ and $f:A\mapsto \mathbb{R}$ a *continuous map* carrying the *standard topology*.
->Then there exists $F:X\mapsto\mathbb{R}$ *continuous* everywhere on $X$ such that for all $a\in A$, $F(a)=f(a)$ and
->$$
-\sup\{|f(a)|:a\in A\}=\sup\{|F(x)|:x\in X\}
->$$
-#### ==*Note*==
-That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same interval.
+>Let $f$ be a real-valuated function defined on $]a,b]$ (resp. $[a,b[$) which has a limit $l$ on $a$ (resp. $b$).
+>There is a unique function $g$ **[[Continuity|continuous]]** on $[a,b]$ and coinciding with $f$ on $]a,b]$ (resp. $[a,b[$). It satisfies $g(a)=l$ (resp. $g(b)=l$).
+>$g$ is called the **continuous extension** of $f$ on $[a,b]$.
 
 ### 2. Proof
 
