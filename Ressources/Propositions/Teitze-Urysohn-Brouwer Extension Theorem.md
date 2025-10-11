@@ -48,6 +48,9 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 \forall a\in A, |g(a)|=\sum_{k=1}^\infty|g_{k}(a)\le\sum_{k=1}^\infty M\frac{2^{n-1}}{3^n}=M
 >$$
 >And by $(2)$, for all $x\in X-C$, $|g(x)|<M$.
+>
+>The proof for the general case follows :
+>Let $f:A\to X$ be *co*
 
 
 ## II. Extensions
