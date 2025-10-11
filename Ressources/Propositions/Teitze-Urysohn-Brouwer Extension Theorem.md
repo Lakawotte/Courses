@@ -37,7 +37,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 \forall x\in X-A,\ g_n(x) < \frac{2^{n-1}M}{3^n} \tag{2}
 \end{align}
 >$$
->2. Let $g_n()
+>2. For all $x\in X$, let $g(x):=\sum_{k=0}^ng_{k}(x)$
 
 
 
