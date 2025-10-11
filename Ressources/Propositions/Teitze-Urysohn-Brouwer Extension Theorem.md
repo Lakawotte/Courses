@@ -25,9 +25,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >Now let consider the function $f-g_1$, and we define $B_2:=\{a\in A:|f(a)-g_{1}(a)\ge \frac{2M}{9}\}$ and $C_2:=\{a\in A:|f(a)-g_{1}(a)\le -\frac{2M}{9}\}$. One can apply Urysohn's Lemma again to find $g_{2}:X\mapsto[-\frac{2M}{9};\frac{2M}{9}]$ which takes the value $\frac{2M}{9}$ on $B_2$ and $-\frac{2M}{9}$ on $C_2$ and values $]-\frac{2M}{9};\frac{2M}{9}[$ elsewhere on $X$.
 >Notice that we have now
 >$$
-\begin{spl}
-
-\end{spl}
+\forall a\in A, |f(a)-g_{1}(a)|\le\frac{2M}{3}
 >$$
 
 
