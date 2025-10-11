@@ -72,8 +72,9 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >>[!info] Proof
 ### 2. Universal Continuous Property
 >[!hint] Definition
->A *space* $Y$ is said to have the *universal extension property* if for any given *normal space* $X$, any closed subset $A$ of $X$, and any continuous function f : A → Y ,
->there exists an extension of f to a continuous map of X into Y .
+>A *space* $Y$ is said to have the *universal extension property* if for any given *normal space* $X$, any closed subset $A$ of $X$, and any *continuous* function $f:A\to Y$ , there exists an *extension* of $f$ to a  *continuous map* of $X$ into $Y$.
+
+>[!hint]
 # Application
 ## I. Meaning
 ## II. Use
