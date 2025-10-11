@@ -46,12 +46,6 @@ category: "[[Maths]]"
 >\mathbb{E}[X]\mathbb{E}[Y]=\mathbb{E}[XY]
 >$$
 
->[!tldr] Greiner's Inequality
->$$
->\mathbb{E}(\tau_{A})=\frac{2}{\pi}\arcsin(\rho)
->$$
->Where $\tau_A$ is the [[Kendall's Rank Correlation Coefficient|Kendall's Tau]] and $\rho$ the [[Pearson's Product Moment Correlation Coefficient|Pearson's Rho]].
-
 >[!tip] Jensen's Inequality
 >>[!tldr] Theorem
 >>$$
