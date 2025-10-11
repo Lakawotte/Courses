@@ -60,8 +60,9 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 #### *==Note==*
 It is clear that Teitze Theorem implies Urysohn's Lemma : if $A$ and $B$ are *dsijoint closed sets* of a *normal space* $X$, one can define $f:A\cup B\to\mathbb{R}$ such that
 $$
-f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in A\\1\end{cases}
+f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in A\\1\,\,\mathrm{f}\,\,x\in B\end{cases}
 $$
+By **[[Gluing Lemma]]**, 
 ## II. Extensions
 ### 1. Theorems
 >[!tip] Theorem of **Continuous Extension**
