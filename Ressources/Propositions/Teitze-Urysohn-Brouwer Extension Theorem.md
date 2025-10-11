@@ -22,7 +22,13 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >1. We will first consider the *bounded* case, i.e for all $a\in A$, $|f(a)|\le M$.
 >Let $B_1:=\{a\in A|f(a)\ge \frac{M}{3}\}$ and $C_1:=\{a\in A|f(a)\ge -\frac{M}{3}\}$. Then both $B_1$ and $C_1$ are obviously *disjoint* and are *closed subsets* of $A$. Since $A$ is a *closed subset* of $X$, therefore $B_1$ and $C_1$ are.
 >By Urysohn's Lemma one can find a *continuous map* $g_{1}:X\mapsto[-\frac{M}{3};\frac{M}{3}]$ which takes the value $\frac{M}{3}$ on $B_1$ and $-\frac{M}{3}$ on $C_1$. Furthermore, it takes value in $]-\frac{M}{3};\frac{M}{3}[$ on $X-(B_1\cup C_1)$.
->Now let consider the function $f-g_1$, and we define $B_2:=\{a\in A:|f(a)-g_{1}(a)\ge \frac{2M}{9}\}$ and $C_2:=\{a\in A:|f(a)-g_{1}(a)\le -\frac{2M}{9}\}$. One can apply Urysohn's Lemma again to find $g_{2}:X\mapsto[-\frac{2M}{9};\frac{2M}{9}]$ which takes the value $\frac{2M}{9}$ on $B_2$ and $-\frac{2M}93}$ on $C_2$ and values $]-\frac{2M}{9};\frac{2M}{9}[$
+>Now let consider the function $f-g_1$, and we define $B_2:=\{a\in A:|f(a)-g_{1}(a)\ge \frac{2M}{9}\}$ and $C_2:=\{a\in A:|f(a)-g_{1}(a)\le -\frac{2M}{9}\}$. One can apply Urysohn's Lemma again to find $g_{2}:X\mapsto[-\frac{2M}{9};\frac{2M}{9}]$ which takes the value $\frac{2M}{9}$ on $B_2$ and $-\frac{2M}{9}$ on $C_2$ and values $]-\frac{2M}{9};\frac{2M}{9}[$ elsewhere on $X$.
+>Notice that we have now
+>$$
+\begin{spl}
+
+\end{spl}
+>$$
 
 
 ## II. Extensions
