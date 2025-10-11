@@ -20,7 +20,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >[!info] Proof by approximation
 >We shall construct a *sequence of continuous functions* defined on the entire space $X$, such that the sequence *converges uniformly*, and such that the *restriction* of each function to $A$ approximates $f$. Then the *limit function* will be *continuous*, and its restriction to $A$ will equal $f$.
 >1. We will first consider the *bounded* case, i.e for all $a\in A$, $|f(a)|\le M$.
->Let $B_1=
+>Let $B_1=\{a\in A|f(a)\ge \frac{M}{3}\}$ and $C-1$
 ## II. Extensions
 ### 1. Theorems
 >[!tip] Theorem of **Continuous Extension**
