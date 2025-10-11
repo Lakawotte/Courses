@@ -19,14 +19,15 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 ### 2. Lemma
 >[!hint] Urysohn's Lemma
 >>[!tldr] Lemma
->>A *topological space* $(X,\mathcal{T}à$ is said *normal* if and only if for every pair of *disjoint nonempty closed subsets* $C,D\subseteq X$, there is a *continuous* function $f:X\to[0;1]$ such that
+>>A *topological space* $(X,\mathcal{T})$ is said *normal* if and only if for every pair of *disjoint nonempty closed subsets* $C,D\subseteq X$, there is a *continuous* function $f:X\to[0;1]$ such that
 >>$$
 f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cases}
 >>$$
 >
 >>[!info] Proof
 >>We shall prove this theorem using *biconditional proof*.
->>$\Longleftarrow$ : Suppose $C,D\subseteq X$ are *disjoint nonempty closed sets*, and $f:X\to[0;1]$ a Urysohn's function. Then $C\subseteq f^{-1}([0;\frac{1}{2}[)$ and $D\subseteq f^{-1}(]\frac{1}{2};1])$. Those preimages are *disjoint* and *open* by *co,n*
+>>$\Longleftarrow$ : Suppose $C,D\subseteq X$ are *disjoint nonempty closed sets*, and $f:X\to[0;1]$ a Urysohn's function. Then $C\subseteq f^{-1}([0;\frac{1}{2}[)$ and $D\subseteq f^{-1}(]\frac{1}{2};1])$. Those preimages are *disjoint* and *open* by *continuity* of $f$.
+>>$\Longrightarrow$ : Suppose $(X,\mathcal{T})$ is a 
 
 
 
