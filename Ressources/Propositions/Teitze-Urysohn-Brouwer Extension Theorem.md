@@ -57,6 +57,8 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >The proof for the general case follows :
 >Let $f:A\to X$ be *continuous*. Let us choose a $homeomorphism* $h$ from the real line to $]-1;1[$.  The composition $h\circ f$ is *bounded*, therefore by the above proof we can find a real-valuated *continuous extension* $g$ on $X$, with all values comprised in $]-1;1[$.
 >The composition $h^{-1}\circ g$ is well-defined, and by construction it extends $f$ over $X$.
+#### *==Note==*
+It is clear that Teitze Theorem implies Urysohn's Lemma : if $A$ and $B$ are *dsijoij*
 ## II. Extensions
 ### 1. Theorems
 >[!tip] Theorem of **Continuous Extension**
