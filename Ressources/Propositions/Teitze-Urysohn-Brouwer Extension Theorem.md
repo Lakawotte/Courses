@@ -34,7 +34,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >$$
 >\begin{align}
 \forall a\in A, |f(a)-\sum_{k}g_{k}(a)|\le\frac{2^nM}{3^n}\\ \\
-\forall x\in X-A, 
+\forall x\in X-A,g_{n}(x)<\frac{2^{n-1}M}{3^n}
 \end{align}
 >$$
 
