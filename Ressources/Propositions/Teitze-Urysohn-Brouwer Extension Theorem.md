@@ -79,7 +79,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >>For any $n\in N^*$, the *space* $\mathbb{R}^n$ has the *universal continuous property*.
 >
 >>[!info] Proof
->>Consider a *normal space* $X$, a *closed subspace* $A$ of $X$, and a *con*
+>>Consider a *normal space* $X$, a *closed subspace* $A$ of $X$, and a *continuous function* $f:A\to\mathbb{R}^n$. Then for each $k\in
 >>
 >>
 # Application
