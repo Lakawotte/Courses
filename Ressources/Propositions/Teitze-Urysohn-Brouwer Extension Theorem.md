@@ -17,7 +17,7 @@ $$
 #### ==*Note*==
 That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same interval.
 ### 2. Proof
-
+>[!info] Proof
 ## II. Extensions
 ### 1. Theorems
 >[!tip] Theorem of **Continuous Extension**
