@@ -25,7 +25,7 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 >
 >>[!info] Proof
->>We shall prove this theorem using double im^l
+>>We shall prove this theorem using *double i*
 
 
 
