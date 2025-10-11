@@ -30,6 +30,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 &|f(a)-(g_{1}(a)+g_{2}(a))|\le\frac{4M}{9}
 \end{split}
 >$$
+>One can show using *induction* that we have for $n\in\mathb{N}
 
 
 ## II. Extensions
