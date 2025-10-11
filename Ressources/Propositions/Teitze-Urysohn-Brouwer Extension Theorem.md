@@ -45,8 +45,9 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >$$
 >It follows that $s_n\to f$, so $g$ and $f$ are identical on $A$. Furthermore, if $|g|$ is *bounded*,
 >$$
-\forall a\in A, |g(a)|=\sum_{k=1}^\infty|g_{k}(a)\le\sum_{k=1}^\infty M\frac{2^{n-1}}{3^n}
+\forall a\in A, |g(a)|=\sum_{k=1}^\infty|g_{k}(a)\le\sum_{k=1}^\infty M\frac{2^{n-1}}{3^n}=M
 >$$
+>And by $(2)$, for all $x\in X-C$, $|g(x)|<M$.
 
 
 ## II. Extensions
