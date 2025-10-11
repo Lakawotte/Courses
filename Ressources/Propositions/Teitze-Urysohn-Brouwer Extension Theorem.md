@@ -19,12 +19,12 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 ### 2. Lemma
 >[!hint] Urysohn's Lemma
 >>[!tldr] Lemma
->>A *topological space* $(X,\mathcal)
+>>A *topological space* $(X,\mathcal{T}à$ is said *normal* if and only if for every pair of *disjoint nonempty closed subsets* $A,
 >
 >>[!info] Proof
 >
-#### *==Note==*
-The proof is truly novel and interesting, involving a very clever construction of a *continuous function*  .
+ #### *==Note==*
+ The proof is truly novel and interesting, involving a very clever construction of a *continuous function*  .
 ### 3. Proof
 >[!info] Proof by approximation
 >We shall construct a *sequence of continuous functions* defined on the entire space $X$, such that the sequence *converges uniformly*, and such that the *restriction* of each function to $A$ approximates $f$. Then the *limit function* will be *continuous*, and its restriction to $A$ will equal $f$.
