@@ -52,8 +52,6 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >The proof for the general case follows :
 >Let $f:A\to X$ be *continuous*. Let us choose a $homeomorphism* $h$ from the real line to $]-1;1[$.  The composition $h\circ f$ is *bounded*, therefore by the above proof we can find a real-valuated *continuous extension* $g$ on $X$, with all values comprised in $]-1;1[$.
 >The composition $h^{-1}\circ g$ is well-defined, and by construction it extends $f$ over $X$.
-
-
 ## II. Extensions
 ### 1. Theorems
 >[!tip] Theorem of **Continuous Extension**
@@ -72,7 +70,10 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >>$$
 >
 >>[!info] Proof
-### 2. Other formulas
+### 2. Universal Continuous Property
+>[!hint] Definition
+>A *space* $Y$ is said to have the *universal extension property* if for any given *normal space* $X$, any closed subset $A$ of $X$, and any continuous function f : A → Y ,
+>there exists an extension of f to a continuous map of X into Y .
 # Application
 ## I. Meaning
 ## II. Use
