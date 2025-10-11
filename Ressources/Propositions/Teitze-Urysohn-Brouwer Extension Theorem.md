@@ -10,9 +10,7 @@ category: "[[Maths]]"
 ### 1. Expression
 
 >[!tip] Theorem of **Continuous Extension**
->Let $f$ be a real-valuated function defined on $]a,b]$ (resp. $[a,b[$) which has a limit $l$ on $a$ (resp. $b$).
->There is a unique function $g$ **[[Continuity|continuous]]** on $[a,b]$ and coinciding with $f$ on $]a,b]$ (resp. $[a,b[$). It satisfies $g(a)=l$ (resp. $g(b)=l$).
->$g$ is called the **continuous extension** of $f$ on $[a,b]$.
+>Let $X$ be a *normal space*, $A\subset X$ a *closed subset* of $X$ and $f:A\mapsto
 
 ### 2. Proof
 
