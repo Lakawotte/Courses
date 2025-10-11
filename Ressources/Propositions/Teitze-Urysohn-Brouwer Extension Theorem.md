@@ -18,7 +18,8 @@ $$
 That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same interval.
 ### 2. Proof
 >[!info] Proof by approximation
->We shall construct a *sequence of continuous functions* defined on the entire space $X$, such that the sequence converges uniformly, and such that the restriction of each function to $C$ approximates $f$. Then the limit function will be continuous, and its restriction to $C$ will equal $f$.
+>We shall construct a *sequence of continuous functions* defined on the entire space $X$, such that the sequence *converges uniformly*, and such that the *restriction* of each function to $A$ approximates $f$. Then the *limit function* will be *continuous*, and its restriction to $A$ will equal $f$.
+>1. Let 
 ## II. Extensions
 ### 1. Theorems
 >[!tip] Theorem of **Continuous Extension**
