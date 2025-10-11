@@ -26,11 +26,11 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >Notice that we have now
 >$$
 >\begin{split}
-\forall a\in A, &|f(a)-g_{1}(a)|\le\frac{2M}{3}
-&|f(a)-(g_{1}(a)+g_{2}(a))|\le\frac{4M}{9}
+\forall a\in A, &|f(a)-g_{1}(a)|\le\frac{2M}{3}\\
+&|f(a)-(g_{1}(a)+g_{2}(a))|\le\frac{4M}{9}\\
 \end{split}
 >$$
->One can show using *induction* that we have for $n\in\mathbb{N}$ $g_n\to X$
+>One can show using *induction* that we have for $n\in\mathbb{N}$ $g_n:X\to[\frac{}]$
 >$$
 >$$
 
