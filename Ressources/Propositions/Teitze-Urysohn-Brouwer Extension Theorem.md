@@ -25,17 +25,17 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >Now let consider the function $f-g_1$, and we define $B_2:=\{a\in A:|f(a)-g_{1}(a)\ge \frac{2M}{9}\}$ and $C_2:=\{a\in A:|f(a)-g_{1}(a)\le -\frac{2M}{9}\}$. One can apply Urysohn's Lemma again to find $g_{2}:X\to[-\frac{2M}{9};\frac{2M}{9}]$ which takes the value $\frac{2M}{9}$ on $B_2$ and $-\frac{2M}{9}$ on $C_2$ and values $]-\frac{2M}{9};\frac{2M}{9}[$ elsewhere on $X$.
 >Notice that we have now
 >$$
->\begin{split}
+\begin{split}
 \forall a\in A, &|f(a)-g_{1}(a)|\le\frac{2M}{3}\\
 &|f(a)-(g_{1}(a)+g_{2}(a))|\le\frac{4M}{9}\\
 \end{split}
 >$$
 >One can show using *induction* that we have for $n\in\mathbb{N}$ $g_n:X\to[-\frac{2^{n-1}M}{3^n};\frac{2^{n-1}M}{3^n}]$ satisfying
 >$$
->\begin{align}
-\forall a\in A, |f(a)-\sum_{k}g_{k}(a)|\le\frac{2^nM}{3^n}\\ \\
-\forall x\in X-A,g_{n}(x)<\frac{2^{n-1}M}{3^n}
-\end{align}
+\begin{array}
+\forall a\in A, |f(a)-\sum_{k}g_{k}(a)|\le\frac{2^nM}{3^n}\\
+\forall x\in X-A,g_{n}(x)<\frac{2^{n-1}M}{3^n}\\
+\end{array}
 >$$
 
 
