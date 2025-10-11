@@ -9,7 +9,7 @@ category: "[[Maths]]"
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
+>[!hint] Proposition
 >$$
 >\begin{split}
 >\mathbb{V}ar[\sum_{i=1}^nX_{i}]&=\sum_{i=1}^n\sum_{j=1}^n\mathrm{Cov}[X_{i},X_{j}]\\

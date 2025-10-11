@@ -8,7 +8,7 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 ### 1. Expression
->[!tip] Theorem of **Continuous Extension**
+>[!tip] Teitze-Urysohn-Brouwer Extension Theorem
 >Let $X$ be a *normal space*, $A\subset X$ a *closed subset* of $X$ and $f:A\mapsto \mathbb{R}$ a *continuous map* carrying the *standard topology*.
 >Then there exists $F:X\mapsto\mathbb{R}$ *continuous* everywhere on $X$ such that for all $a\in A$, $F(a)=f(a)$ and
 >$$
