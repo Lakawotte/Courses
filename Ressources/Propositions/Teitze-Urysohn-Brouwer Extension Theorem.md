@@ -43,7 +43,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >$$
 \forall a\in A,|f(a)-\sum_{k}h_{k}(a)|=|f(a)-s_{n}|\le\left( \frac{2}{3})^n \right)
 >$$
->It follows that $s_n\to f$, so $g$ and $f$ are identical on $A$.
+>It follows that $s_n\to f$, so $g$ and $f$ are identical on $A$. Furthermore, if $g$ is boun
 
 
 ## II. Extensions
