@@ -80,6 +80,7 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >
 >>[!info] Proof
 >>Consider a *normal space* $X$, a *closed subspace* $A$ of $X$, and a *continuous function* $f:A\to\mathbb{R}^n$. Then for each $k\in[\![1,n]\!]$, $f_k=\pi_{k}\circ f:A\to\mathbb{R}$ is *continuous* and hence has a *continuous extension* $g_k$ over $X$.
+>>Then $g=(g_k)_k\in\mathbb{R}^n$ is a *continuous extension* of $f$ over $X$.
 >>
 >>
 # Application
