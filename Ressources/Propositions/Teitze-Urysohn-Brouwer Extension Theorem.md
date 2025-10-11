@@ -18,14 +18,15 @@ $$
 That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same interval.
 ### 2. Proof
 
->[!info] Proof by the Unicity of the Limit
 ## II. Extensions
 ### 1. Theorems
 >[!tip] Theorem of **Continuous Extension**
->>[!tldr]
->Let $f$ be a real-valuated function defined on $]a,b]$ (resp. $[a,b[$) which has a limit $l$ on $a$ (resp. $b$).
->There is a unique function $g$ **[[Continuity|continuous]]** on $[a,b]$ and coinciding with $f$ on $]a,b]$ (resp. $[a,b[$). It satisfies $g(a)=l$ (resp. $g(b)=l$).
->$g$ is called the **continuous extension** of $f$ on $[a,b]$.
+>>[!tldr] Theorem
+>>Let $f$ be a real-valuated function defined on $]a,b]$ (resp. $[a,b[$) which has a limit $l$ on $a$ (resp. $b$).
+>>There is a unique function $g$ **[[Continuity|continuous]]** on $[a,b]$ and coinciding with $f$ on $]a,b]$ (resp. $[a,b[$). It satisfies $g(a)=l$ (resp. $g(b)=l$).
+>>$g$ is called the **continuous extension** of $f$ on $[a,b]$.
+>
+>>[!info] Proof by the Unicity of the Limit
 
 >[!tip] Theorem of $\mathcal{C}^n$ **[[Class of Differentiability|Class]]** by **Extension**
 >>[!tldr] Theorem
