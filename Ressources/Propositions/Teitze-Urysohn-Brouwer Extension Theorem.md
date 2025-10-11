@@ -33,7 +33,8 @@ That is, if $f$ is *bounded* then $F$ may be chosen to be *bounded* on the same 
 >One can show using *induction* that we have for $n\in\mathbb{N}$ $g_n:X\to[-\frac{2^{n-1}M}{3^n};\frac{2^{n-1}M}{3^n}]$ satisfying
 >$$
 >\begin{align}
-\forall a\in A, |f(a)-\sum_{k}g_{k}(a)|\le
+\forall a\in A, |f(a)-\sum_{k}g_{k}(a)|\le\frac{2^nM}{3^n}\\ \\
+\forall x\in X-A, 
 \end{align}
 >$$
 
