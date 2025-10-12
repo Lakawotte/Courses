@@ -32,8 +32,7 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 >$$
 \rho=2\sin(\frac{\pi}{6}\mathbb{E}(r_s))
 >$$
-### 2. Distinction between $tau_a$ and $r_s$
-
+### 2. Other formulas
 # Application
 ## I. Meaning
 The **Pearson's Rho** of two random variables denotes how linear isthe relationship between them. It can take values between $-1$ and $1$.
@@ -41,7 +40,8 @@ The **Pearson's Rho** of two random variables denotes how linear isthe relations
 - $\rho=0$ : there is no link between the variables
 - $0<\rho≤1$ : the two variables are reliated
 The more reliated the variables are, the more the **PPMCC** tends to 1. Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
-## II. Use
+## II. Distinction between $tau_a$ and $r_s$
+One can draw a representation of both *rank correlation coefficient*
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
