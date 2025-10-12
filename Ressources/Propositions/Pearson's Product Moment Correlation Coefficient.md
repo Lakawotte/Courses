@@ -43,40 +43,20 @@ The more reliated the variables are, the more the **PPMCC** tends to 1. Moreover
 ## II. Distinction between $tau_a$ and $r_s$
 One can draw a representation of both *rank correlation coefficient* and Pearson's $\rho$ :
 ```python
-# Pearson vs Spearman and Pearson vs Kendall
-# Equivalent to the original SAS script
+import pyodide_js
+await pyodide_js.loadPackage(['numpy', 'matplotlib'])
 
 import numpy as np
 import matplotlib.pyplot as plt
 
-# --- Pearson vs Spearman ---
-spearman = np.arange(-1, 1.05, 0.05)
-pearson_spearman = 2 * np.sin(np.pi / 6 * spearman)
+x = np.linspace(-1, 1, 100)
+y = 2 * np.sin(np.pi / 6 * x)
 
-plt.figure(figsize=(6, 6))
-plt.plot(spearman, pearson_spearman, color='red', label='Pearson vs Spearman')
-plt.plot([-1, 1], [-1, 1], color='lightgray', linestyle='--', label='y = x')
-plt.title("Pearson vs Spearman Correlation\nBivariate Normal Population")
+plt.plot(x, y, color='red')
+plt.title("Pearson vs Spearman Correlation")
 plt.xlabel("Spearman (s)")
 plt.ylabel("Pearson (r)")
 plt.grid(True)
-plt.legend()
-plt.axis('equal')
-plt.show()
-
-# --- Pearson vs Kendall ---
-kendall = np.arange(-1, 1.05, 0.05)
-pearson_kendall = np.sin(np.pi / 2 * kendall)
-
-plt.figure(figsize=(6, 6))
-plt.plot(kendall, pearson_kendall, color='red', label='Pearson vs Kendall')
-plt.plot([-1, 1], [-1, 1], color='lightgray', linestyle='--', label='y = x')
-plt.title("Pearson vs Kendall Correlation\nBivariate Normal Population")
-plt.xlabel("Kendall (τ)")
-plt.ylabel("Pearson (r)")
-plt.grid(True)
-plt.legend()
-plt.axis('equal')
 plt.show()
 
 ```
