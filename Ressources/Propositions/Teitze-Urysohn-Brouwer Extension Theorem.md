@@ -61,10 +61,11 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 \begin{align}
 x\in\overline{U_p}\Longrightarrow f(x)\le p\tag{2}\\
-x\notin\overline{U_p}\Longrightarrow f(x)\ge p\tag{3}\\
+x\notinU_p\Longrightarrow f(x)\ge p\tag{3}\\
 \end{align}
 >>$$
 >>In the first case, let $x\in\overline{U_p}\subset U_q$ for all $p<q\in\mathbb{Q}$ by construction. Therefore $]p,\infty[\cap\mathbb{Q}$ is a *subset* of $\mathbb{Q}(x)$ , implying that $\inf\mathbb{Q}(x)\le p$.
+>>In the second case, let $x\notin U_p
 
 
 
