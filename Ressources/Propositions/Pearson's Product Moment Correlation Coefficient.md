@@ -21,11 +21,14 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 ## II. Extensions
 ### 1. Properties
 
+>[!hint] Relationship to **[[Kendall's Rank Correlation Coefficient]]**
 >>[!tldr] Greiner's Equality
->>Let $\tau_A$ be **[[Kendall's Tau]]** and $\rho$  Pearson's Rho.
+>>Let $X$ an$\tau_A$ be **[[Kendall's Tau]]** and $\rho$  Pearson's Rho.
 >>$$
 \rho=\sin(\frac{\pi}{2}\mathbb{E}(\tau_{A}))
 >>$$
+>
+>>[!info] Proof
 ### 2. Other formulas
 # Application
 ## I. Meaning
