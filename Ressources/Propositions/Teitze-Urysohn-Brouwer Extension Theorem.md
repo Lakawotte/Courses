@@ -51,7 +51,7 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 >>Effectively,
 >>$$
-x\in C\Longrightarrow
+\forall p\in\mathbb{Q}, x\in C\subset U_0\subset U_p\Longrightarrow
 >>$$
 
 
