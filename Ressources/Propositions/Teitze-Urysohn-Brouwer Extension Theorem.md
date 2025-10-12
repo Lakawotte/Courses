@@ -64,7 +64,7 @@ x\in\overline{U_p}\Longrightarrow f(x)\le p\tag{2}\\
 x\notin\overline{U_p}\Longrightarrow f(x)\ge p\tag{3}\\
 \end{align}
 >>$$
->>
+>>In the first case, let $x\in\overline{U_p}\subset$.
 
 
 
