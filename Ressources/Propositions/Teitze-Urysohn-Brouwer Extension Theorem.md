@@ -70,7 +70,10 @@ x\notinU_p\Longrightarrow f(x)\ge p\tag{3}\\
 >>Suppose $U=]a,b[$ an arbitrary *open interval* of $\mathbb{R}$ such that $U$ *intersects* $[0,1]$.
 >>We want to show that $f^{-1}(U)$ is *open* in $X$.
 >>Let $x\in f^{-1}(U)$. Then $f(x)\in]a,b[$ and one can find $(p,q)\in\mathbb{Q}^2$ such that $a<p<f(x)<q<b$. By *contrapositive* of $(2)$, $f(x)<p\Longrightarrow x\notin\overline{U_p}$. The same way, $x\in U_q$ by *contrapositive* of $(3)$. It follows that $x\in U_q\textbackslash\overline{U_p}=:V$.
->>Let $y\in V$. Then by definition $y\in U_q\subset\overline{U_q}$ and therefore $f(y)\le q<b$ by $(2)$.
+>>Let $y\in V$. Then by definition $y\in U_q\subset\overline{U_q}$ and therefore $f(y)\le q<b$ by $(2)$. The same way, $f(y)\ge p>a$ by $(3)$. So,
+>>$$
+f(y)\in[p,q]\subseteq
+>>$$
 
 
 
