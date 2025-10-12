@@ -37,7 +37,7 @@ p<q\Longrightarrow\overline{U_{p}}\subseteq U_q \tag{1}
 >>$$
 C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 >>$$
->>Heredity : Suppose by *induction hypothesis* the existence, for all $k\in[\![0,n]\!]$ of $U_{p_k}$ satisfying $(1)$. This is, 
+>>Heredity : Suppose by *induction hypothesis* the existence, for all $k\in[\![0,n]\!]$ of $U_{p_k}$ satisfying $(1)$. For simplicity, let $P:=\{p_1,}
 
 
 
