@@ -43,7 +43,7 @@ C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 >>$$
 >>Finally, the collection $U_{p_1},\dots,U_{p_n}=U_{p_{n+1}}$ satisfies $(1)$. This was quite easy since we dealt with a finite number of elements.
 >>2. Next we shall extend our collection of open sets to $\mathbb{Q}$.
->>If $p\in]-\infty,0[\cap\mathbb{Q}$, let $U_p=\varnothing$. The other way around, let $U_p=X$ when $p\in\mathbb]1,+\infty[\cap\mathbb{Q}$. Note that $U_p$ is indeed satisfying $(1)$.
+>>If $p\in]-\infty,0[\cap\mathbb{Q}$, let $U_p=\varnothing$. The other way around, let $U_p=X$ when $p\in\mathbb]1,+\infty[\cap\mathbb{Q}$. Note that $U_p$ is indeed satisfying $(1)$. Now, let define $\mathbb{Q}:x\mapsto
 
 
 
