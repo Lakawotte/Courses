@@ -55,8 +55,9 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 >>On the other hand,
 >>$$
-\forall p\le1, x\in D\Longrightarrow x\notin U_1\Longrightarrow x\notin U_p\Longrightarrow\mathbb{Q}(x)=]1,+\infty[\cap\mathbb{Q}\Longrightarrow f(x)=0
+\forall p\le1, x\in D\Longrightarrow x\notin U_1\Longrightarrow x\notin U_p\Longrightarrow\mathbb{Q}(x)=]1,+\infty[\cap\mathbb{Q}\Longrightarrow f(x)=1
 >>$$
+>>4. 
 
 
 
