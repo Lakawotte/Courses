@@ -162,7 +162,7 @@ plt.show()
 
 ```
 ## II. Interpretation
-
+For **[[Samples]]** of size $N=100$, the *estimates* are not so far from the **[[Expected Value]]**.
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
