@@ -51,7 +51,7 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 >>Effectively,
 >>$$
-\forall p\ge 0, x\in C\subset U_0\subset U_p\Longrightarrow\mathbb{Q}(x)=[0,+\infty[\cap\mathbb{Q}\Longrightarrow f(x)=0
+\forall p\ge 0, x\in C\subset U_0\subseteq U_p\Longrightarrow\mathbb{Q}(x)=[0,+\infty[\cap\mathbb{Q}\Longrightarrow f(x)=0
 >>$$
 >>On the other hand,
 >>$$
@@ -64,16 +64,17 @@ x\in\overline{U_p}\Longrightarrow f(x)\le p\tag{2}\\
 x\notinU_p\Longrightarrow f(x)\ge p\tag{3}\\
 \end{align}
 >>$$
->>In the first case, let $x\in\overline{U_p}\subset U_q$ for all $p<q\in\mathbb{Q}$ by construction. Therefore $]p,\infty[\cap\mathbb{Q}$ is a *subset* of $\mathbb{Q}(x)$ , implying that $\inf\mathbb{Q}(x)\le p$.
+>>In the first case, let $x\in\overline{U_p}\subseteq U_q$ for all $p<q\in\mathbb{Q}$ by construction. Therefore $]p,\infty[\cap\mathbb{Q}$ is a *subset* of $\mathbb{Q}(x)$ , implying that $\inf\mathbb{Q}(x)\le p$.
 >>In the second case, let $x\notin U_p$. Then by construction $x\notin U_q$ for all $p\ge q$, i.e $]-\infty,p]\cap\mathbb{Q}(x)=\varnothing$, which implies that $\inf\mathbb{Q}(x)\ge p$.
 >>5. At the end, let prove that $f$ is *continuous*.
 >>Suppose $U=]a,b[$ an arbitrary *open interval* of $\mathbb{R}$ such that $U$ *intersects* $[0,1]$.
 >>We want to show that $f^{-1}(U)$ is *open* in $X$.
 >>Let $x\in f^{-1}(U)$. Then $f(x)\in]a,b[$ and one can find $(p,q)\in\mathbb{Q}^2$ such that $a<p<f(x)<q<b$. By *contrapositive* of $(2)$, $f(x)<p\Longrightarrow x\notin\overline{U_p}$. The same way, $x\in U_q$ by *contrapositive* of $(3)$. It follows that $x\in U_q\textbackslash\overline{U_p}=:V$.
->>Let $y\in V$. Then by definition $y\in U_q\subset\overline{U_q}$ and therefore $f(y)\le q<b$ by $(2)$. The same way, $f(y)\ge p>a$ by $(3)$. So,
+>>Let $y\in V$. Then by definition $y\in U_q\subseteqq\overline{U_q}$ and therefore $f(y)\le q<b$ by $(2)$. The same way, $f(y)\ge p>a$ by $(3)$. So,
 >>$$
-f(y)\in[p,q]\subseteq
+f(y)\in[p,q]\subseteq]a,b[
 >>$$
+>>And $f$ is *continuous*.
 
 
 
