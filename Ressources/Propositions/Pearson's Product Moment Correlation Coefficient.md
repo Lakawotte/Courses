@@ -85,7 +85,7 @@ plt.axis('equal')
 plt.show()
 ```
 
-From here, we understand why Pearson's
+From here, we understand why Pearson's and **[[Spearman's Rank Correlation Coefficient]]** are very similar when 
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
