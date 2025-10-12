@@ -35,7 +35,7 @@ p<q\Longrightarrow\overline{U_{p}}\subseteq U_q \tag{1}
 >>$$
 >>Initialization : Let $U_1:=X\textbackslash D$ and $U_0$ *open*. Since $X$ is *normal*, we have
 >>$$
-C\subseteq U_0\subseteq\overline
+C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 >>$$
 
 
