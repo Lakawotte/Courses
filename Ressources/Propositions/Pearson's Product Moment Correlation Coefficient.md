@@ -23,12 +23,13 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 
 >[!hint] Relationship to **[[Kendall's Rank Correlation Coefficient]]**
 >>[!tldr] Greiner's Equality
->>Let $X$ an$\tau_A$ be **[[Kendall's Tau]]** and $\rho$  Pearson's Rho.
+>>Let $X$ and $Y$ be *jointly normal*. Then for $\tau_A$ the **[[Kendall's Tau]]** and $\rho$ the Pearson's Rho,
 >>$$
 \rho=\sin(\frac{\pi}{2}\mathbb{E}(\tau_{A}))
 >>$$
 >
 >>[!info] Proof
+>>
 ### 2. Other formulas
 # Application
 ## I. Meaning
