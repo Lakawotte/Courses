@@ -68,6 +68,8 @@ x\notinU_p\Longrightarrow f(x)\ge p\tag{3}\\
 >>In the second case, let $x\notin U_p$. Then by construction $x\notin U_q$ for all $p\ge q$, i.e $]-\infty,p]\cap\mathbb{Q}(x)=\varnothing$, which implies that $\inf\mathbb{Q}(x)\ge p$.
 >>5. At the end, let prove that $f$ is *continuous*.
 >>Suppose $U=]a,b[$ an arbitrary *open interval* of $\mathbb{R}$ such that $U$ *intersects* $[0,1]$.
+>>We want to show that $f^{-1}(U)$ is *open* in $X$.
+>>Let $x\in f^{-1}(U)$.
 
 
 
