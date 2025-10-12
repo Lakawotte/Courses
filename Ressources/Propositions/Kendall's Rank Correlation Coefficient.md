@@ -28,8 +28,8 @@ This **tau coefficient** can only be calculated if there is no ties in the datas
 ## II. Extensions
 ### 1. Properties
 
->[!tldr] Greiner's Inequality
->Let $\tau_A$ be the Kendall's Tau and $\rho$ the [[Pearson's Product Moment Correlation Coefficient|Pearson's Rho]].
+>[!tldr] Greiner's Equality
+>Let $\tau_A$ be **[[Kendall's Tau]]** and $\rho$  Pearson's Rho.
 >$$
 >\mathbb{E}(\tau_{A})=\frac{2}{\pi}\arcsin(\rho)
 >$$
