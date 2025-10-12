@@ -21,9 +21,11 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 ## II. Extensions
 ### 1. Properties
 
->[!tldr]
->$$
->$$
+>>[!tldr] Greiner's Equality
+>>Let $\tau_A$ be **[[Kendall's Tau]]** and $\rho$  Pearson's Rho.
+>>$$
+\rho=\sin(\frac{\pi}{2}\mathbb{E}(\tau_{A}))
+>>$$
 ### 2. Other formulas
 # Application
 ## I. Meaning
