@@ -33,7 +33,10 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 p<q\Longrightarrow\overline{U_{p}}\subseteq U_q \tag{1}
 >>$$
->>Initialization : We have $U_1=X\textbackslash D$
+>>Initialization : Let $U_1:=X\textbackslash D$ and $U_0$ *open*. Since $X$ is *normal*, we have
+>>$$
+C\subseteq U_0\subseteq\overline
+>>$$
 
 
 
