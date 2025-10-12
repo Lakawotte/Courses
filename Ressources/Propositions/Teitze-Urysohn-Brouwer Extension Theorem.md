@@ -42,7 +42,8 @@ C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 \overline{U_p}\subseteq U_{p_{n+1}}\subseteq\overline{U_{p_{n+1}}}\subseteq U_q
 >>$$
 >>Finally, the collection $U_{p_1},\dots,U_{p_n}=U_{p_{n+1}}$ satisfies $(1)$. This was quite easy since we dealt with a finite number of elements.
->>2. Next we shall extend our collection of open sets to $\mathbb{Q}
+>>2. Next we shall extend our collection of open sets to $\mathbb{Q}$.
+>>If $p\in]-\infty,0[\cup\mathbb{Q}$, let $U_p=\noindent$.
 
 
 
