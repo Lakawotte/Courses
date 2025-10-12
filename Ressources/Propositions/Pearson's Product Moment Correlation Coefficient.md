@@ -111,19 +111,21 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy import stats
 
+# --- Optional: silence warnings about pyarrow ---
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
 # --- Parameters ---
-rho_values = np.arange(-0.95, 0.951, 0.05)  # rho = {-0.95, -0.9, ..., 0.9, 0.95}
+rho_values = np.arange(-0.95, 0.951, 0.05)
 mu = np.array([0, 0])
-N = 100          # sample size
-NRep = 10        # number of samples per rho
+N = 100
+NRep = 10
 rng = np.random.default_rng(12345)
 
 # --- Simulation loop ---
 records = []
-
 for rho in rho_values:
-    cov = np.array([[1, rho],
-                    [rho, 1]])
+    cov = np.array([[1, rho], [rho, 1]])
     for group in range(1, NRep + 1):
         x = rng.multivariate_normal(mu, cov, size=N)
         pearson, _ = stats.pearsonr(x[:, 0], x[:, 1])
@@ -137,11 +139,11 @@ for rho in rho_values:
             "Kendall": kendall
         })
 
-# --- Results as DataFrame ---
+# --- DataFrame ---
 BiNormalCorr = pd.DataFrame(records)
 print(BiNormalCorr.head())
 
-# --- Visualization (similar to PROC SGSCATTER) ---
+# --- Visualization ---
 fig, axes = plt.subplots(1, 2, figsize=(8, 4))
 sc1 = axes[0].scatter(BiNormalCorr["Spearman"], BiNormalCorr["Pearson"],
                       c=BiNormalCorr["rho"], cmap="coolwarm")
