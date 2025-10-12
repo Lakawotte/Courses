@@ -85,9 +85,9 @@ plt.axis('equal')
 plt.show()
 ```
 
-From here, we understand why Pearson's and **[[Spearman's Rank Correlation Coefficient]]** are very similar when comparing *bivariate normal data*. Indeed, we have the approximation $\sin(x)\approx-\frac{x^3}{6}$ :
+From here, we understand why Pearson's and **[[Spearman's Rank Correlation Coefficient]]** are very similar when comparing *bivariate normal data*. Indeed, we have the approximation $\sin(x)\approx x-\frac{x^3}{6}$ :
 $$
-2\sin(\frac{\})
+2\sin(\frac{\pi}{6})\approx\pi-\frac{\pi^3}{6}
 $$
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
