@@ -42,6 +42,7 @@ The **Pearson's Rho** of two random variables denotes how linear isthe relations
 The more reliated the variables are, the more the **PPMCC** tends to 1. Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
 ## II. Distinction between $tau_a$ and $r_s$
 One can draw a representation of both *rank correlation coefficient* and Pearson's $\rho$ :
+>
 ```python
 # --- Load packages for Pyodide environment ---
 import pyodide_js
