@@ -31,8 +31,9 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>The goal is to inductively construct a collection of *open subsets* of $X$ indexed by rational numbers.
 >>Let $Q:=[0;1]\cap\mathbb{Q}=\{p_n\in[0;1]\cap\mathbb{Q}|n\in\mathbb{N}\}$ since $\mathbb{Q}$ is *countable*. For convenience, we choose $p_0=1$ and $_1=0$. We shall construct by *induction* on the indexes of $\mathbb{Q}$ a collection $\{U_p|p\in Q\}$ verifing the property
 >>$$
-p<q\Longrightarrow\bar{U_{p}}\subseteq
+p<q\Longrightarrow\overline{U_{p}}\subseteq U_q \tag{1}
 >>$$
+>>
 
 
 
