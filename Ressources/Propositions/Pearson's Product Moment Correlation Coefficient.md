@@ -161,6 +161,8 @@ fig.suptitle("Correlations for Bivariate Normal Data (N = 100)")
 plt.show()
 
 ```
+## II. Interpretation
+
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
