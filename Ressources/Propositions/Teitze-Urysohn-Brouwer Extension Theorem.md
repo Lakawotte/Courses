@@ -51,7 +51,11 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 >>Effectively,
 >>$$
-\forall p\in\mathbb{Q}, x\in C\subset U_0\subset U_p\Longleftrightarrow\mathbb{Q}(x)=[0,+\infty[\cap\mathbb{Q}\Longleftrightarrow f(x)=0
+\forall p\ge 0, x\in C\subset U_0\subset U_p\Longleftrightarrow\mathbb{Q}(x)=[0,+\infty[\cap\mathbb{Q}\Longleftrightarrow f(x)=0
+>>$$
+>>On the other hand,
+>>$$
+\forall p\le1, x\in D\subset U_0\subset U_p\Longleftrightarrow\mathbb{Q}(x)=[0,+\infty[\cap\mathbb{Q}\Longleftrightarrow f(x)=0
 >>$$
 
 
