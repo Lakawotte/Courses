@@ -8,7 +8,7 @@ category: "[[Maths]]"
 # Definition
 ## I. Statement
 
->[!hint] Definition 1
+>[!hint] Definition 1 : tau-a
 >$$
 \begin{split}
 \tau_{A}&=1-\frac{4\mathfrak{D}}{n(n-1)}\\
@@ -20,7 +20,7 @@ category: "[[Maths]]"
 #### ==*Warning :*==
 This **tau coefficient** can only be calculated if there is no ties in the dataset.
 
->[!tip] Definition 2
+>[!tip] Definition 2 : tau-b
 >$$
 \tau_{B}=\frac{\mathfrak{C}-\mathfrak{D}}{\sqrt{(\mathfrak{C}+\mathfrak{D}+X_{p})(\mathfrak{C}+\mathfrak{D}+Y_{p})}}
 >$$
