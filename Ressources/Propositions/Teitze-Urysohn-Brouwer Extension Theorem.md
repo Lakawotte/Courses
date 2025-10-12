@@ -156,7 +156,7 @@ By **[[Gluing Lemma]]**, $A\cup B$ is closed in $X$ implies that $f$ is *continu
 # Application
 ## I. Meaning
 ## II. Use
-Urysohn's Lemma is such an important theorem is #topology , which is later used to demonstrate **[[Urysohn's Metrization Theorem]]**. This theorem furnishes an alternative way to characteri
+Urysohn's Lemma is such an important theorem is #topology , which is later used to demonstrate **[[Urysohn's Metrization Theorem]]**. This theorem furnishes an alternative way to characterize *normality* ; being able to *separate* intervals with *continuous* functions is indeed stronger 
 The theorem of of $\mathcal{C}^n$ **[[Class of Differentiability|class]]** by *extension* is generally used for functions defined on $I$. The hypothesis about the limit of the $0$-degree **[[Differentiability|derivative]]** is then replaced with the hypothesis about the **[[Continuity|continuity]]** to ensure that the function defined on $I$ is indeed the *continuous extension* of the function defined on $I\textbackslash \{x_0\}$ at which one apply the *extension theorem*.
 
 These theorems can be useful when proving that a *continuous extension* at a point is of of $\mathcal{C}^n$ **[[Class of Differentiability|class]]** $\mathcal{C}^n$.
