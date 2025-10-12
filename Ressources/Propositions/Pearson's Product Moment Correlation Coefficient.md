@@ -41,7 +41,7 @@ The **Pearson's Rho** of two random variables denotes how linear isthe relations
 - $0<\rho≤1$ : the two variables are reliated
 The more reliated the variables are, the more the **PPMCC** tends to 1. Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
 ## II. Distinction between $tau_a$ and $r_s$
-### I. **[[Expected Value]]
+### I. **[[Expected Value]]**
 One can draw a representation of **[[Expected Value]]** from both *rank correlation coefficient* and Pearson's $\rho$ :
 #### *==Code==*
 ```python
@@ -94,7 +94,9 @@ $$
 Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at most $2\%$.
 
 For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. This is, the *magnitude* of $\tau_a$ is higher than $\rho$.
-### II. 
+### II. Random **[[Samples]]**
+One can simulate a representation of **[[Expected Value]]** from both *rank correlation coefficient* and Pearson's $\rho$ :
+
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
