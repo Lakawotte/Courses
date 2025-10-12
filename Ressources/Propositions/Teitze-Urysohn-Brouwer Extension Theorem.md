@@ -57,7 +57,11 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 \forall p\le1, x\in D\Longrightarrow x\notin U_1\Longrightarrow x\notin U_p\Longrightarrow\mathbb{Q}(x)=]1,+\infty[\cap\mathbb{Q}\Longrightarrow f(x)=1
 >>$$
->>4. 
+>>4. Next, we shall demonstrate two lemmas :
+>>$$
+beg
+x\in\overline{U_p}\Longrightarrow f(x)\le p\tag{2}\\
+>>$$
 
 
 
