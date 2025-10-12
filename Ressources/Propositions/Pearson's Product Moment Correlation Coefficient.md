@@ -23,7 +23,7 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 
 >[!hint] Relationship to **[[Kendall's Rank Correlation Coefficient]]**
 >>[!tldr] Greiner's Equality
->>Let $Z={\forall i\in[\![1,n]\!]|(X_i, Y_i)}$ be a set of *independently distributed* pairs $(X_i,Y_i)$ of random variables $X_i$, $Y_i$ which Then for $\tau_A$ the **[[Kendall's Tau]]** and $\rho$ the Pearson's Rho,
+>>Let $Z={\forall i\in[\![1,n]\!]|(X_i, Y_i)}$ be a set of *independently distributed* pairs $(X_i,Y_i)$ of random variables $X_i$, $Y_i$ each of which follows a *bivariate gaussian distribution*. Then for $\tau_A$ the **[[Kendall's Tau]]** and $\rho$ the Pearson's Rho,
 >>$$
 \rho=\sin(\frac{\pi}{2}\mathbb{E}(\tau_{A}))
 >>$$
