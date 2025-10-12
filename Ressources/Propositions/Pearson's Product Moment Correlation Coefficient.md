@@ -42,7 +42,44 @@ The **Pearson's Rho** of two random variables denotes how linear isthe relations
 The more reliated the variables are, the more the **PPMCC** tends to 1. Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
 ## II. Distinction between $tau_a$ and $r_s$
 One can draw a representation of both *rank correlation coefficient* and Pearson's $\rho$ :
+```python
+# Pearson vs Spearman and Pearson vs Kendall
+# Equivalent to the original SAS script
 
+import numpy as np
+import matplotlib.pyplot as plt
+
+# --- Pearson vs Spearman ---
+spearman = np.arange(-1, 1.05, 0.05)
+pearson_spearman = 2 * np.sin(np.pi / 6 * spearman)
+
+plt.figure(figsize=(6, 6))
+plt.plot(spearman, pearson_spearman, color='red', label='Pearson vs Spearman')
+plt.plot([-1, 1], [-1, 1], color='lightgray', linestyle='--', label='y = x')
+plt.title("Pearson vs Spearman Correlation\nBivariate Normal Population")
+plt.xlabel("Spearman (s)")
+plt.ylabel("Pearson (r)")
+plt.grid(True)
+plt.legend()
+plt.axis('equal')
+plt.show()
+
+# --- Pearson vs Kendall ---
+kendall = np.arange(-1, 1.05, 0.05)
+pearson_kendall = np.sin(np.pi / 2 * kendall)
+
+plt.figure(figsize=(6, 6))
+plt.plot(kendall, pearson_kendall, color='red', label='Pearson vs Kendall')
+plt.plot([-1, 1], [-1, 1], color='lightgray', linestyle='--', label='y = x')
+plt.title("Pearson vs Kendall Correlation\nBivariate Normal Population")
+plt.xlabel("Kendall (τ)")
+plt.ylabel("Pearson (r)")
+plt.grid(True)
+plt.legend()
+plt.axis('equal')
+plt.show()
+
+```
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
