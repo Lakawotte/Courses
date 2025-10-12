@@ -84,10 +84,10 @@ C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 >And by $(2)$, for all $x\in X-C$, $|g(x)|<M$.
 >
 >The proof for the general case follows :
->Let $f:A\to X$ be *continuous*. Let us choose a $homeomorphism* $h$ from the real line to $]-1;1[$.  The composition $h\circ f$ is *bounded*, therefore by the above proof we can find a real-valuated *continuous extension* $g$ on $X$, with all values comprised in $]-1;1[$.
+>Let $f:A\to X$ be *continuous*. Let us choose a *homeomorphism* $h$ from the real line to $]-1;1[$.  The composition $h\circ f$ is *bounded*, therefore by the above proof we can find a real-valuated *continuous extension* $g$ on $X$, with all values comprised in $]-1;1[$.
 >The composition $h^{-1}\circ g$ is well-defined, and by construction it extends $f$ over $X$.
 #### *==Note==*
-It is clear that Teitze Theorem implies Urysohn's Lemma : if $A$ and $B$ are *dsijoint closed sets* of a *normal space* $X$, one can define $f:A\cup B\to\mathbb{R}$ such that
+It is clear that Teitze Theorem implies Urysohn's Lemma : if $A$ and $B$ are *disjoint closed sets* of a *normal space* $X$, one can define $f:A\cup B\to\mathbb{R}$ such that
 $$
 f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in A\\1\,\,\mathrm{f}\,\,x\in B\end{cases}
 $$
