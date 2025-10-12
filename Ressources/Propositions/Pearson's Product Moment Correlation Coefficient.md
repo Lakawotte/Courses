@@ -92,7 +92,7 @@ $$
 $$
 Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at most $2\%$.
 
-For **[[Kendall's Rank Correlation Coefficient]]
+For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. This is, the *magnitude* of $\tau_a$ is higher than $\rho$.
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
