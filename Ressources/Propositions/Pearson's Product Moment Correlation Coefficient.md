@@ -98,15 +98,12 @@ For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. T
 One can simulate *random sample* from a *bivariate normal distribution*
 #### *==Code==*
 ```python
-# --- Load required packages in Pyodide (for Code Emitter) ---
-import asyncio
-import pyodide
-
-# use the correct API name for new Pyodide versions
-await pyodide.load_package("numpy")
-await pyodide.load_package("pandas")
-await pyodide.load_package("matplotlib")
-await pyodide.load_package("scipy")
+# --- Load required packages in Obsidian (Pyodide) ---
+import micropip
+await micropip.install("numpy")
+await micropip.install("pandas")
+await micropip.install("matplotlib")
+await micropip.install("scipy")
 
 import numpy as np
 import pandas as pd
