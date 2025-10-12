@@ -96,7 +96,72 @@ Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at mo
 For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. This is, the *magnitude* of $\tau_a$ is higher than $\rho$.
 ### II. Random **[[Samples]]**
 One can simulate *random sample* from a *bivariate normal distribution*
+#### *==Code==*
+```python
+# --- Load required packages in Pyodide (for Code Emitter) ---
+import asyncio
+import pyodide
 
+# use the correct API name for new Pyodide versions
+await pyodide.load_package("numpy")
+await pyodide.load_package("pandas")
+await pyodide.load_package("matplotlib")
+await pyodide.load_package("scipy")
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from scipy import stats
+
+# --- Parameters ---
+rho_values = np.arange(-0.95, 0.951, 0.05)  # rho = {-0.95, -0.9, ..., 0.9, 0.95}
+mu = np.array([0, 0])
+N = 100          # sample size
+NRep = 10        # number of samples per rho
+rng = np.random.default_rng(12345)
+
+# --- Simulation loop ---
+records = []
+
+for rho in rho_values:
+    cov = np.array([[1, rho],
+                    [rho, 1]])
+    for group in range(1, NRep + 1):
+        x = rng.multivariate_normal(mu, cov, size=N)
+        pearson, _ = stats.pearsonr(x[:, 0], x[:, 1])
+        spearman, _ = stats.spearmanr(x[:, 0], x[:, 1])
+        kendall, _ = stats.kendalltau(x[:, 0], x[:, 1])
+        records.append({
+            "rho": rho,
+            "Group": group,
+            "Pearson": pearson,
+            "Spearman": spearman,
+            "Kendall": kendall
+        })
+
+# --- Results as DataFrame ---
+BiNormalCorr = pd.DataFrame(records)
+print(BiNormalCorr.head())
+
+# --- Visualization (similar to PROC SGSCATTER) ---
+fig, axes = plt.subplots(1, 2, figsize=(8, 4))
+sc1 = axes[0].scatter(BiNormalCorr["Spearman"], BiNormalCorr["Pearson"],
+                      c=BiNormalCorr["rho"], cmap="coolwarm")
+axes[0].set_xlabel("Spearman")
+axes[0].set_ylabel("Pearson")
+axes[0].grid(True)
+
+sc2 = axes[1].scatter(BiNormalCorr["Kendall"], BiNormalCorr["Pearson"],
+                      c=BiNormalCorr["rho"], cmap="coolwarm")
+axes[1].set_xlabel("Kendall")
+axes[1].set_ylabel("Pearson")
+axes[1].grid(True)
+
+fig.colorbar(sc2, ax=axes, orientation='vertical', label='rho')
+fig.suptitle("Correlations for Bivariate Normal Data (N = 100)")
+plt.show()
+
+```
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
