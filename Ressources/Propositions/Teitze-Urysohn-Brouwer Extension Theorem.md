@@ -37,6 +37,7 @@ p<q\Longrightarrow\overline{U_{p}}\subseteq U_q \tag{1}
 >>$$
 C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 >>$$
+>>Heredity : Suppose by *induction hypothesis* t
 
 
 
