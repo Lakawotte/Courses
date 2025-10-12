@@ -41,7 +41,7 @@ C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 >>$$
 \overline{U_p}\subseteq U_{p_{n+1}}\subseteq\overline{U_{p_{n+1}}}\subseteq U_q
 >>$$
->>Finally, the collection $U_{p_1},\dots,U_{p_n}=U_{p_{n+1}}$ satisfies $(1)$.
+>>Finally, the collection $U_{p_1},\dots,U_{p_n}=U_{p_{n+1}}$ satisfies $(1)$. This was quite easy since 
 
 
 
