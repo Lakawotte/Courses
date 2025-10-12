@@ -69,7 +69,7 @@ x\notinU_p\Longrightarrow f(x)\ge p\tag{3}\\
 >>5. At the end, let prove that $f$ is *continuous*.
 >>Suppose $U=]a,b[$ an arbitrary *open interval* of $\mathbb{R}$ such that $U$ *intersects* $[0,1]$.
 >>We want to show that $f^{-1}(U)$ is *open* in $X$.
->>Let $x\in f^{-1}(U)$. Then $f(x)\in]a,b[$ and one can find $(p,q)\in\mathbb{Q}^2$ such that $a<p<f(x)<
+>>Let $x\in f^{-1}(U)$. Then $f(x)\in]a,b[$ and one can find $(p,q)\in\mathbb{Q}^2$ such that $a<p<f(x)<q<b$. By *contrapositive* of $(2)$, $f(x)<p\Longrightarrow x\notin\overline{U_p}$.
 
 
 
