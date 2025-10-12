@@ -44,13 +44,13 @@ C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 >>Finally, the collection $U_{p_1},\dots,U_{p_n}=U_{p_{n+1}}$ satisfies $(1)$. This was quite easy since we dealt with a finite number of elements.
 >>2. Next we shall extend our collection of open sets to $\mathbb{Q}$.
 >>If $p\in]-\infty,0[\cap\mathbb{Q}$, let $U_p=\varnothing$. The other way around, let $U_p=X$ when $p\in\mathbb]1,+\infty[\cap\mathbb{Q}$. Note that $U_p$ is indeed satisfying $(1)$. Now, for each $x\in X$, let define $\mathbb{Q}:=\{p\in\mathbb{Q}|x\in U_p\}$. By doing so, $\mathbb{Q}(x)$ is *bounded below* by $0$ and $\mathbb{Q}(x)\neq\varnothing$. More precisely, it contains every rational number larger than 1, no rational numbers less than zero, and some rational numbers in between. This means that for all $x\in X$, $\mathbb{Q}(x)$ has a *greatest lower bound*, which we will use to define $f:x\mapsto\inf\mathbb{Q}(x)$.
->>This function is the 
+>>
 
 
 
 
  #### *==Note==*
- The proof is truly novel and interesting, involving a very clever construction of a *continuous function*.
+ The proof is truly novel and interesting, involving a very clever construction of a *continuous function*. Indeed, the function $f$ is such a brilliant idea.
 ### 3. Proof
 >[!info] Proof by approximation
 >We shall construct a *sequence of continuous functions* defined on the entire space $X$, such that the sequence *converges uniformly*, and such that the *restriction* of each function to $A$ approximates $f$. Then the *limit function* will be *continuous*, and its restriction to $A$ will equal $f$.
