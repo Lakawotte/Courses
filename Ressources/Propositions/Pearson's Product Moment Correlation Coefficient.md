@@ -32,7 +32,8 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 >$$
 \rho=2\sin(\frac{\pi}{6}\mathbb{E}(r_s))
 >$$
-### 2. Other formulas
+### 2. Distinction between $tau_a$ and $r_s$
+
 # Application
 ## I. Meaning
 The **Pearson's Rho** of two random variables denotes how linear isthe relationship between them. It can take values between $-1$ and $1$.
