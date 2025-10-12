@@ -95,7 +95,7 @@ Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at mo
 
 For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. This is, the *magnitude* of $\tau_a$ is higher than $\rho$.
 ### II. Random **[[Samples]]**
-One can simulate a representation of **[[Expected Value]]** from both *rank correlation coefficient* and Pearson's $\rho$ :
+One can simulate *random sample* from a *bivariate normal distribution*
 
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
