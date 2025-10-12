@@ -4,9 +4,6 @@ tags:
   - statistics/correlation
 category: "[[Maths]]"
 ---
-```
-JupyMD: Create Jupyter notebook from note
-```
 
 ---
 # Definition
