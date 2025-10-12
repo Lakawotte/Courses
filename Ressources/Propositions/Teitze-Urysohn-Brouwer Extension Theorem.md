@@ -59,9 +59,12 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$$
 >>4. Next, we shall demonstrate two lemmas :
 >>$$
-beg
+\begin{align}
 x\in\overline{U_p}\Longrightarrow f(x)\le p\tag{2}\\
+x\notin\overline{U_p}\Longrightarrow f(x)\ge p\tag{3}\\
+\end{align}
 >>$$
+>>
 
 
 
