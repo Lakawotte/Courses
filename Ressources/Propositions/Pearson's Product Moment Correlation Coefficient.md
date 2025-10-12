@@ -100,7 +100,6 @@ One can simulate *random sample* from a *bivariate normal distribution*
 ```python
 # --- Load required packages in Obsidian (Pyodide) ---
 import micropip
-await micropip.install("pyarrow")
 await micropip.install("numpy")
 await micropip.install("pandas")
 await micropip.install("matplotlib")
