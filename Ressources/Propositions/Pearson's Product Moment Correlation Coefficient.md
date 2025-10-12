@@ -90,7 +90,9 @@ From here, we understand why Pearson's and **[[Spearman's Rank Correlation Coeff
 $$
 2\sin(\frac{\pi}{6}\mathbb{E}[r_s])\approx\pi\frac{\mathbb{E}[r_s]}{3}-\frac{\pi^3}{648}\mathbb{E}[r_s]^3+\dots\approx1.05\mathbb{E}[r_s]-0.05\mathbb{E}[r_s]^3
 $$
-Since $-1\le\mathbb{E}[r_s]\le1$, the values 
+Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at most $2\%$.
+
+For **[[Kendall's Rank Correlation Coefficient]]
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
