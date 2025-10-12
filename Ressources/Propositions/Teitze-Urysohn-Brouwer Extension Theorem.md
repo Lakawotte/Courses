@@ -29,7 +29,7 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$\Longleftarrow$ : Suppose $C,D\subseteq X$ are *disjoint nonempty closed sets*, and $f:X\to[0;1]$ a Urysohn's function. Then $C\subseteq f^{-1}([0;\frac{1}{2}[)$ and $D\subseteq f^{-1}(]\frac{1}{2};1])$. Those preimages are *disjoint* and *open* by *continuity* of $f$.
 >>$\Longrightarrow$ : Suppose $(X,\mathcal{T})$ is a *normal topological space* and $C,D\subseteq X$ are *disjoint nonempty closed sets*.
 >>The goal is to inductively construct a collection of *open subsets* of $X$ indexed by rational numbers.
->>Let $Q:=[0;1]
+>>Let $Q:=[0;1]\cap\mathbb{Q}=\{p_n,n\in\in\mathbb{Q}|}
 
 
 
