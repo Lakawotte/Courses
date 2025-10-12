@@ -29,7 +29,7 @@ f(x):=\begin{cases}0\,\,\mathrm{if}\,\,x\in C\\1\,\,\mathrm{f}\,\,x\in D\end{cas
 >>$\Longleftarrow$ : Suppose $C,D\subseteq X$ are *disjoint nonempty closed sets*, and $f:X\to[0;1]$ a Urysohn's function. Then $C\subseteq f^{-1}([0;\frac{1}{2}[)$ and $D\subseteq f^{-1}(]\frac{1}{2};1])$. Those preimages are *disjoint* and *open* by *continuity* of $f$.
 >>$\Longrightarrow$ : Suppose $(X,\mathcal{T})$ is a *normal topological space* and $C,D\subseteq X$ are *disjoint nonempty closed sets*.
 >>The goal is to inductively construct a collection of *open subsets* of $X$ indexed by rational numbers.
->>Let $Q:=[0;1]\cap\mathbb{Q}=\{p_n\in[0;1]\cap\mathbb{Q}|n\in\mathbb{N}\}$ since $\mathbb{Q}$ is *countable*. For convenience, we choose $p_0=1$ and $_1=0$. We shall construct by *induction* on the indexes of $\mathbb{Q}$ a collection $\{U_p|p\in Q\}$ verifing the property
+>>1. Let $Q:=[0;1]\cap\mathbb{Q}=\{p_n\in[0;1]\cap\mathbb{Q}|n\in\mathbb{N}\}$ since $\mathbb{Q}$ is *countable*. For convenience, we choose $p_0=1$ and $_1=0$. We shall construct by *induction* on the indexes of $\mathbb{Q}$ a collection $\{U_p|p\in Q\}$ verifing the property
 >>$$
 p<q\Longrightarrow\overline{U_{p}}\subseteq U_q \tag{1}
 >>$$
@@ -42,7 +42,7 @@ C\subseteq U_0\subseteq\overline{U_0}\subseteq U_1
 \overline{U_p}\subseteq U_{p_{n+1}}\subseteq\overline{U_{p_{n+1}}}\subseteq U_q
 >>$$
 >>Finally, the collection $U_{p_1},\dots,U_{p_n}=U_{p_{n+1}}$ satisfies $(1)$. This was quite easy since we dealt with a finite number of elements.
->>
+>>2. Next we shall extend our collection of open sets to $\mathbb{Q}
 
 
 
