@@ -21,6 +21,9 @@ cssclasses:
 # Application
 ## I. Meaning
 ## II. Use
+A key feature of *proof-of-work* schemes is their asymmetry:
+1. The work (computation) must be moderately hard, yet feasible for the prover or requester side
+2. The verifying measy to check for the verifier or service provider. This idea is also known as a CPU cost function, client puzzle, computational puzzle, or CPU pricing function. Another common feature is built-in incentive-structures that reward allocating computational capacity to the network with value in the form of cryptocurrency.
 # Example
 
 ---
