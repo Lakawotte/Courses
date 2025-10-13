@@ -42,7 +42,8 @@ $$
 $$
 Now, one could use *brute force* to find the *signature* and thus access all transactions ; so *signatures* are encoded as $256$ bits long messages.
 
-Another problem arises : now messages are transcribed using solid protocol, but even if one does not know the 
+Another problem arises : now messages are transcribed using solid protocol, but even if one does not know the *private key* of the sender, they could just copy the message and still respect the $\mathrm{Ver}$ function.
+To counter this, every message is combined with a unique 
 # Example
 
 ---
