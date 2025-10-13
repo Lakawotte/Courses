@@ -38,9 +38,11 @@ Pearson's Coefficient is really the cosine between the two *vectors* $X$ and $Y$
 $$
 \begin{split}
 \cos(\theta)&=\frac{\left<x,y\right>}{\left\|x\right\|\times\left\|y \right\|}\\
-&=\frac{x_1y_1+\dots+x_ny_n}{\sqrt{x_1^2+\dots+x_n^2}\sqrt{y_1^2+\dots+y_n^2}}
+&=\frac{x_1y_1+\dots+x_ny_n}{\sqrt{x_1^2+\dots+x_n^2}\sqrt{y_1^2+\dots+y_n^2}}\\
+&=\frac{\mathrm{Cov}(X,Y)}{\sigma_X\sigma_Y}
 \end{split}
 $$
+The analogy with 
 The more related the variables are, the more $\rho$ tends to 1.
 
 Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
