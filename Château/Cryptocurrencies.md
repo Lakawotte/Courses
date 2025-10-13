@@ -31,7 +31,7 @@ When receiving to conflicting *blocks* or chain of *blocks*, the user chose the 
 ### D. Trust
 Here we arrive at a system based of ==trust of work==. Indeed, since there is no central authority to emits currencies, which are here **[[Blockchain|Ledgers]]**, Bitcoin users rely on *miners* and their very work. If all users agree to get preference to whichever **[[Blockchain]]** has the most *work* put into it, this is a fully ==decentralized consensus==.
 #### *==Example==*
-Let construct an example of 
+Let construct an example of a situation where some user $A$ is trying to fool another user $B$. To do so, $A$ is sending to $B$ a fraudulous *block* and 
 # Strategy
 
 ---
