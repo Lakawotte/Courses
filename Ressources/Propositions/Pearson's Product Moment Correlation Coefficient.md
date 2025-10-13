@@ -206,7 +206,8 @@ r=\mathbb{E}\approx r_{adj}-\frac{r_{adj}(1-r_{adj}^2)}{2n}
 $$
 From which $r_{adj}\approx r(1+\frac{1-r^2}{2n})$ is an approximate solution. It has the following properties :
 - It is *suboptimal*
-- It has minimum **[[Variance]]** of 
+- It has minimum **[[Variance]]** for large values of $n$
+- Has a *bias* of order $\mathcal{O}(\frac{1}{n-1})$
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
