@@ -10,6 +10,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
+>Let $X$ and $Y$ be two *datasets* with defined 
 $$
 \rho=\frac{cov(X,Y)}{\sigma_{X}\sigma_{Y}}
 $$
