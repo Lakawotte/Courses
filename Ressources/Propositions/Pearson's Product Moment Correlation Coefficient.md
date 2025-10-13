@@ -14,7 +14,7 @@ $$
 \rho=\frac{cov(X,Y)}{\sigma_{X}\sigma_{Y}}
 $$
 
-#### Note :
+#### Note :==
 When the **Pearson's Rho** is calculated from a set of data, we usually name the coefficient $r_{XY}$ instead of $ρ$.
 #### Warning :
 The **Pearson's Rho** can only be calculated if the two variables are **[[Normal Distribution|normally distributed]]**. Otherwise, the results won't be precise enought and we shall use either the **[[Spearman's Rank Correlation Coefficient|Spearman's coefficient]]** or the **[[Kendall's Rank Correlation Coefficient|Kendall's Tau]]**.
