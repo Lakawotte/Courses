@@ -29,7 +29,7 @@ As a user, one don't need to have an important installation for *mining*. When u
 
 When receiving to conflicting *blocks* or chain of *blocks*, the user chose the longest one, or else waits until one get longer.
 ### D. Trust
-Here we arrive at a system based of ==trust of work==. Indeed, since there is no central authority to emmits 
+Here we arrive at a system based of ==trust of work==. Indeed, since there is no central authority to emits currencies, which are here **[[Blockchain|Ledgers]]**, Bitcoin users rely on *miners* and their very work. 
 # Strategy
 
 ---
