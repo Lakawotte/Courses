@@ -39,7 +39,7 @@ All *credit* goes to the "pot", and is redistributed among individuals as *debit
 ### **[[Proof of Work]]**
 A *blockchain* is indeed a ==chain of blocks==. Here, the blocks are given by
 1. A list of transactions
-2. The corresponding **[[Proof of Work]]**. This is, a message such that the output by a 
+2. The corresponding **[[Proof of Work]]**. This is, a message such that the output by a specific **[[Cryptographic Hash Function]]** starts with a certain amount of $0$.
 ## II. Extensions
 ### 1. Properties
 
