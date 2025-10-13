@@ -101,7 +101,7 @@ Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at mo
 >$$
 >We chose $a=\frac{\sqrt{3}}{3}$ since the other solution is away from $[0;1]$. By pluging this value of $a$ in the tangent, we get a line parallel from $\mathrm{Id}$ and one can calculate the average distance between both by taking the *integral* :
 >$$
-\int
+\int_0^1[(1.05-0.15\frac{1}{3})(x-\frac{\sqrt{3}}{3})+1.05\frac{\sqrt{3}}{3}-0.05\frac{\sqrt{3}}{9}-x]dx\approx
 >$$
 
 
