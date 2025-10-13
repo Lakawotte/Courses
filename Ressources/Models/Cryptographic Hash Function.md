@@ -13,7 +13,7 @@ cssclasses:
 >$$
 >$$
 ### ==*Example*==
-Let assume that four individuals
+Let assume that four individuals recorded transaction data on a **[[Blockchain|Ledger]]**. Then, to prevent any false record, individuals sh
 ## II. Extensions
 ### 1. Properties
 
