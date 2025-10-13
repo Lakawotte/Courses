@@ -99,7 +99,7 @@ Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at mo
 \Longleftrightarrow&a=\pm\frac{\sqrt{3}}{3}
 \end{split}
 >$$
->We ch
+>We chose $a=\frac{\sqrt{3}}{3}$ since the other solution is away from $[0;1]$. By pluging this value of $a$ in the tangent, we get a line parallel from
 
 
 For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. This is, the *magnitude* of $\tau_a$ is higher than $\rho$.
