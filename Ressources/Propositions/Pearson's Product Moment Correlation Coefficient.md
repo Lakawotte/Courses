@@ -183,7 +183,9 @@ plt.show()
 ```
 ## B. Interpretation
 For **[[Samples]]** of size $N=100$, the *estimates* are not so far from the **[[Expected Value]]**. Furthermore, *composing* by a *linear* function won't change the results that much.
-## 
+## III. Use
+### A. Normalization
+In general, it is irrelevant to compare two *datasets* which does not share the same units. 
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
