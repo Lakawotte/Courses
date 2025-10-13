@@ -35,7 +35,8 @@ So are the results at the end of the experiment :
 | $B$  | 40$   |        |
 | $C$  |       | 10$    |
 | $D$  |       | 10$    |
-All *credit* goes to the
+All *credit* goes to the "pot", and is redistributed among individuals as *debit*.
+
 ## II. Extensions
 ### 1. Properties
 
