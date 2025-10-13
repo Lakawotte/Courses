@@ -34,7 +34,10 @@ The **Pearson's Rho** of two random variables denotes how linear is the relation
 - $-1≤\rho<0$ : the two variables are inversely related
 - $\rho=0$ : there is no link between the variables
 - $0<\rho≤1$ : the two variables are related
-The more related the variables are, the more $\rho$ tends to 1. Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
+Pearson's Coefficient is really the cosine between the two *vectors* $X$ and $Y$. Indeed, one have
+The more related the variables are, the more $\rho$ tends to 1.
+
+Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
 ## II. Distinction between $tau_a$ and $r_s$
 ### I. **[[Expected Value]]**
 One can draw a representation of **[[Expected Value]]** from both *rank correlation coefficient* and Pearson's $\rho$ :
