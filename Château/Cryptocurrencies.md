@@ -24,6 +24,8 @@ To resume, the role of the *miner* is to collect information about transactions 
 To reward the amount of time and energy spent finding the *message*, the *miner* gets a ==reward== :
 1. There is no sender nor *signature* ; the *reward* is literally ==created==
 2. The total of *bitcoins* increase by this value
+### C. Using Bitcoin
+As a user, one don't need to have an important installation for *mining*. When using Bi
 # Strategy
 
 ---
