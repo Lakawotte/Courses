@@ -36,7 +36,7 @@ Let construct an example of a situation where some user $A$ is trying to fool an
 2. Secondly, $A$ needs to keep doing it until their **[[Blockchain]]** is the longest
 As $1$ might be probable, $2$ is statistically impossible.
 ### D. Trust
-As a c
+As a conclusion of this example, a user should not trust a ==single== *block*, but the whole chain. The more a single chain is long, the more it is safe.
 # Strategy
 
 ---
