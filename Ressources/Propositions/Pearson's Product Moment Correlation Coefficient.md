@@ -187,7 +187,10 @@ For **[[Samples]]** of size $N=100$, the *estimates* are not so far from the **[
 ### A. Normalization
 In general, it is irrelevant to compare two *datasets* which does not share the same units. In addition, one shouldn't use **[[Covariance]]** alone since it is *scale-dependent* and has other downsides. Here, by dividing by the product of the **[[Standard Deviation]]**, we normalize the data and bound the *correlation* between $-1$ and $1$.
 ### B. Distributions
-Note that for some distributions, such as **[[Cauchy Distribution]]** or **[[Heavy-Tailed Distribution]]**, The existence of the correlation coefficient is usually not a concern; for instance, if the range of the distribution is bounded, $\rho$ is always defined.
+Note that for some distributions, such as **[[Cauchy Distribution]]** or **[[Heavy-Tailed Distribution]]**, $\rho$ may not be defined.
+The existence of the correlation coefficient is usually not a concern; for instance, if the range of the distribution is bounded, $\rho$ is always defined.
+
+For a *normal bivariate distribution*, $\rho$ is the *maximum lik*
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
