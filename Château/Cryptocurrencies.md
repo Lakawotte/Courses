@@ -19,7 +19,7 @@ In order to record all the transactions, every one should be broadcasted to all 
 ### A. What is Bitcoin ?
 This is, one needs to use a **[[Proof of Work]]**.
 ### B. Mining
-
+==Mining== a block is basically do a **[[Proof of Work]]** as a requester. After receiving the "broad"
 # Strategy
 
 ---
