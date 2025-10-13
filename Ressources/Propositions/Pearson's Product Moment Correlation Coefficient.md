@@ -198,8 +198,9 @@ Consider a large or moderate sample size :
 ### C. Adjusted Correlation Coefficient
 We just saw that $r$ is a *biased estimator* of $\rho$. Indeed,
 $$
-\mathbb{E}[r]
+\mathbb{E}[r]=\rho-\frac{1-\rho^2}{2n}+\dots
 $$
+
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
