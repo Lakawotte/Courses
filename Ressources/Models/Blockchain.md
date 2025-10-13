@@ -19,7 +19,14 @@ In contrast to a *centralized database*, a *distributed ledger* does not require
 >$$
 >$$
 #### *==Example==*
-Let four individuals, $A$, $B$, $C$ and $D$ make transactions. At the end of the month, every transactions is now written on a *ledger*
+Let four individuals, $A$, $B$, $C$ and $D$ make transactions. At the end of the month, every transactions is now written on a *ledger* :
+
+| $A$ |     |
+| --- | --- |
+| $B$ |     |
+| $C$ |     |
+| $D$ |     |
+
 ## II. Extensions
 ### 1. Properties
 
