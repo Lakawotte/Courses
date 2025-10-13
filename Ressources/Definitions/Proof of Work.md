@@ -29,7 +29,7 @@ A key feature of *proof-of-work* schemes is their asymmetry:
 #### *==Example==*
 We will base our reasoning on the **[[Cryptographic Hash Function]]** $\mathrm{SHA256}$. To find a message such that the first $30$ numbers of the *output* are $0$, it takes the user $2^{-30}$ tries. In other words, the *probability* to find an *output* starting with $n$ zeros is $2^{-n}$ which *converges* at a rate of $\frac{1}{2}$.
 So, the verifier can be assured for a large $n$ that the prover did indeed the work ; this is very a ==proof of work== by the low probability of randomly obtaining the right combination.
-Furthermore, since all transactions are encrypted in the similar way of **[[Cryptographic Hash Function]]**, each one of those is not only unique and so
+Furthermore, since all transactions are encrypted in the similar way of **[[Cryptographic Hash Function]]**, each one of those is unique and so it is impossible to apply more than one time the same output as a result of "work".
 
 # Example
 
