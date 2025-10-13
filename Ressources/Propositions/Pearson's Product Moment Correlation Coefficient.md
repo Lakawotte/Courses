@@ -214,7 +214,7 @@ $$
 d_{X,Y}:=1-|\rho_{X,Y}|
 $$
 Which is used in *cluster analysis* and data detection for communications and storage with unknown gain and offset.
-This distance consider both negative and positive *correlation*, and distinction between both can be 
+This distance consider both negative and positive *correlation*, and distinction between both can be computed later.
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
