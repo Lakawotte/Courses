@@ -32,7 +32,11 @@ To make *signatures* foolproof, the idea is to store a ==*private key*== and a =
 For *signatures* to work, they shall respect two principles :
 1. The *signature* is different for each transaction made by the owner
 2. The *signature* is based on the *private key*
-This is, we can define the function $\mathrm{Sign}$ such that $\mathrm{Sign}(\mathrm{Message,Private Key}=\mathrm{Signature}$
+This is, we can define the function $\mathrm{Sign}$ such that
+$$
+\mathrm{Sign}(\mathrm{Message,Private Key})=\mathrm{Signature}
+$$
+To ==verify== the *signature*, one shall use the transaction message, 
 # Example
 
 ---
