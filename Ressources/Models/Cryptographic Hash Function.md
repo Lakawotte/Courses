@@ -40,7 +40,7 @@ To ==verify== the *signature*, one shall use the transaction message and the pub
 $$
 \mathrm{Ver}(\mathrm{Message,Signature,PublicKey})=\begin{cases}1\,\,\mathrm{if\,Signature\,is\,true}\\0\,\,\mathrm{else}\end{cases}
 $$
-
+Now, one could use *brute force* to find 
 # Example
 
 ---
