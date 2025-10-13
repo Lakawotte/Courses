@@ -27,7 +27,7 @@ A key feature of *proof-of-work* schemes is their asymmetry:
 1. The work (computation) must be moderately hard, yet feasible for the prover or requester side
 2. The verifying must be easy to check for the verifier or service provider.
 #### *==Example==*
-We will base our reasoning on the **[[Cryptographic Hash Function]]** $\mathrm{SHA256}$. To find a message such that the first 
+We will base our reasoning on the **[[Cryptographic Hash Function]]** $\mathrm{SHA256}$. To find a message such that the first $30$ numbers of the *output* are $0$, it takes the user $2^-{30}$ tries. In other words, the *probability* to find 
 
 # Example
 
