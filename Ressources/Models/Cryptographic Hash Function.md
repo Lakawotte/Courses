@@ -12,8 +12,7 @@ cssclasses:
 >[!hint] Definition
 >$$
 >$$
-### ==*Example*==
-Let assume that four individuals recorded transaction data on a **[[Blockchain|Ledger]]**. Then, to prevent any false record, individuals sh
+
 ## II. Extensions
 ### 1. Properties
 
@@ -24,6 +23,9 @@ Let assume that four individuals recorded transaction data on a **[[Blockchain|L
 # Application
 ## I. Meaning
 ## II. Use
+### ==*Example*==
+Let assume that four individuals recorded transaction data on a **[[Blockchain|Ledger]]**. Then, to prevent any false record, individuals should really "sign" their transactions.
+One pro
 # Example
 
 ---
