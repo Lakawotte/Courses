@@ -91,7 +91,13 @@ $$
 Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at most $2\%$.
 
 >[!info] Proof
->We want to find $a\in[0;1]$ such that the distance between $f(a)$ and $x$ is maximized. To do so, we shall so
+>We want to find $a\in[0;1]$ such that the distance between $f(a)$ and $x$ is maximized. To do so, we shall solve, for $T_a(x)$ the *tangent* from to curve of $f$ at a point $a$,
+>$$
+\begin{split}
+&T_a(x)=x\\
+\Longleftrighta
+\end{split}
+>$$
 
 For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. This is, the *magnitude* of $\tau_a$ is higher than $\rho$.
 ### II. Random **[[Samples]]**
