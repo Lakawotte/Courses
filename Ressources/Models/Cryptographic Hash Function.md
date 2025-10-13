@@ -12,17 +12,8 @@ cssclasses:
 >[!hint] Definition
 >$$
 >$$
-
-## II. Extensions
-### 1. Properties
-
->[!tldr]
->$$
->$$
-### 2. Other formulas
 # Application
-## I. Meaning
-## II. Use
+## I. Use
 ### A. Keys
 ### ==*Example*==
 Let assume that four individuals recorded transaction data on a **[[Blockchain|Ledger]]**. Then, to prevent any false record, individuals should really "sign" their transactions.
@@ -44,7 +35,7 @@ Now, one could use *brute force* to find the *signature* and thus access all tra
 
 Another problem arises : now messages are transcribed using solid protocol, but even if one does not know the *private key* of the sender, they could just copy the message and still respect the $\mathrm{Ver}$ function.
 To counter this, every message is combined with a unique ID, which enters as an argument of the $\mathrm{Sign}$ function.
-### B. 
+### B. Functions
 The heart of *hash functions* is that they are "discontinuous". This is, a slight change in the input, and the output is completely different.
 #### *==Example==*
 Here we will use the $\mathrm{SHA256}$ function. First, let "hello world" be $m_1$ and "hello w0lrd" be $m_2$ :
@@ -55,7 +46,7 @@ $$
 \end{split}
 $$
 Note how different each output is.
-### B.
+### B. Functions
 This is very powerful. The only option for finding the input based on the output is by *brute force*.
 #### *==Note==*
 In fact, it is theoretically possible to *reverse-engineer* the *hash function*, but this seems highly difficult.
