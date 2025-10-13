@@ -14,10 +14,8 @@ $$
 \rho=\frac{cov(X,Y)}{\sigma_{X}\sigma_{Y}}
 $$
 
-#### Note :==
+#### ==*Note :*==
 When the **Pearson's Rho** is calculated from a set of data, we usually name the coefficient $r_{XY}$ instead of $ρ$.
-#### Warning :
-The **Pearson's Rho** can only be calculated if the two variables are **[[Normal Distribution|normally distributed]]**. Otherwise, the results won't be precise enought and we shall use either the **[[Spearman's Rank Correlation Coefficient|Spearman's coefficient]]** or the **[[Kendall's Rank Correlation Coefficient|Kendall's Tau]]**.
 ## II. Extensions
 ### 1. Properties
 
@@ -32,11 +30,11 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 ### 2. Other formulas
 # Application
 ## I. Meaning
-The **Pearson's Rho** of two random variables denotes how linear isthe relationship between them. It can take values between $-1$ and $1$.
-- $-1≤\rho<0$ : the two variables are inversely reliated
+The **Pearson's Rho** of two random variables denotes how linear is the relationship between them. It can take values between $-1$ and $1$.
+- $-1≤\rho<0$ : the two variables are inversely related
 - $\rho=0$ : there is no link between the variables
-- $0<\rho≤1$ : the two variables are reliated
-The more reliated the variables are, the more the **PPMCC** tends to 1. Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
+- $0<\rho≤1$ : the two variables are related
+The more related the variables are, the more $\rho$ tends to 1. Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
 ## II. Distinction between $tau_a$ and $r_s$
 ### I. **[[Expected Value]]**
 One can draw a representation of **[[Expected Value]]** from both *rank correlation coefficient* and Pearson's $\rho$ :
