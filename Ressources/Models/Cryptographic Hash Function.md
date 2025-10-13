@@ -41,6 +41,8 @@ $$
 \mathrm{Ver}(\mathrm{Message,Signature,PublicKey})=\begin{cases}1\,\,\mathrm{if\,Signature\,is\,true}\\0\,\,\mathrm{else}\end{cases}
 $$
 Now, one could use *brute force* to find the *signature* and thus access all transactions ; so *signatures* are encoded as $256$ bits long messages.
+
+Another problem arises : now messages are transcribed using solid protocol, but even if one does not know the 
 # Example
 
 ---
