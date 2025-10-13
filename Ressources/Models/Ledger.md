@@ -2,6 +2,8 @@
 tags:
   - cryptocurrencies
 category: "[[Finance]]"
+cssclasses:
+  - hide-meta
 ---
 
 ---
@@ -9,6 +11,7 @@ category: "[[Finance]]"
 ## I. Statement
 
 >[!hint] Definition
+>A distributed ledger is a system whereby 
 >$$
 >$$
 ## II. Extensions
