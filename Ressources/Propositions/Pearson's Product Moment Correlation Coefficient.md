@@ -10,7 +10,7 @@ category: "[[Maths]]"
 ## I. Statement
 
 >[!hint] Definition
->Let $X$ and $Y$ be two *datasets* with defined 
+>Let $X$ and $Y$ be two *datasets* with defined **[[Covariance]]** and **[[Variance]]** from a *bivariate distribution*.
 $$
 \rho=\frac{cov(X,Y)}{\sigma_{X}\sigma_{Y}}
 $$
