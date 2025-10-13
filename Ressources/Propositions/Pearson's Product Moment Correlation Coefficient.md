@@ -191,7 +191,7 @@ Note that for some distributions, such as **[[Cauchy Distribution]]** or **[[Hea
 The existence of the correlation coefficient is usually not a concern; for instance, if the range of the distribution is bounded, $\rho$ is always defined.
 
 Consider a large or moderate sample size :
-- $\rho$ is *consistent* 
+- $\rho$ is *consistent* as long as the **[[Law of Large Numbers]]** can be applied
 - *Bivariate distribution* : $\rho$ is approximately *unbiased*, but may not be *efficient*
 - *Normal bivariate distribution* : $\rho$ is the *maximum likelihood estimate*, and is *asymptotically unbiased* and *efficient*
 # Example
