@@ -33,7 +33,10 @@ Here we arrive at a system based of ==trust of work==. Indeed, since there is no
 #### *==Example==*
 Let construct an example of a situation where some user $A$ is trying to fool another user $B$. To do so, $A$ is sending to only $B$ a fraudulous *block*, so all the other users are not aware of the fraud.
 1. First, $A$ needs to find a **[[Proof of Work]]** faster than all the other *miners* gathered
-2. Secondly, nd keep doing it until their **[[Blockchain]]** is the longest.
+2. Secondly, $A$ needs to keep doing it until their **[[Blockchain]]** is the longest
+As $1$ might be probable, $2$ is statistically impossible.
+### D. Trust
+As a c
 # Strategy
 
 ---
