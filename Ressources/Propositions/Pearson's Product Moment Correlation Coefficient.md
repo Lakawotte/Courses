@@ -190,11 +190,11 @@ In general, it is irrelevant to compare two *datasets* which does not share the 
 Note that for some distributions, such as **[[Cauchy Distribution]]** or **[[Heavy-Tailed Distribution]]**, $\rho$ may not be defined.
 The existence of the correlation coefficient is usually not a concern; for instance, if the range of the distribution is bounded, $\rho$ is always defined.
 
-One wants to now if the *sample coefficient corre*
+One wants to now if the *sample correlation coefficient* $r$ is an *unbiased estimate* of $\rho$.
 Consider a large or moderate sample size :
-- $\rho$ is *consistent* as long as the **[[Law of Large Numbers]]** can be applied
-- *Bivariate distribution* : $\rho$ is approximately *unbiased*, but may not be *efficient*
-- *Normal bivariate distribution* : $\rho$ is the *maximum likelihood estimate*, and is *asymptotically unbiased* and *efficient*
+- $r$ is *consistent* as long as the **[[Law of Large Numbers]]** can be applied
+- *Bivariate distribution* : $r$ is approximately *unbiased*, but may not be *efficient*
+- *Normal bivariate distribution* : $r$ is the *maximum likelihood estimate*, and is *asymptotically unbiased* and *efficient*
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
