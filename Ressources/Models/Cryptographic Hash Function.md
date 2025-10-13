@@ -47,7 +47,9 @@ To counter this, every message is combined with a unique ID, which enters as an 
 ### B. 
 The heart of *hash functions* is that they are "discontinuous". This is, a slight change in the input, and the output is completely different.
 #### *==Example==*
-Here we will use the $\mathrm{SHA256}$ function.
-1. 
+Here we will use the $\mathrm{SHA256}$ function. First, let "hello world" be $m_1$ and "hello w0lrd" be $m_2$ :
+$$
+\mathrm{SHA256}(m_ 1)=d59b1e3bd000b1884b836dda7af86cc4142ad05168cd42db5c788769222a90a9
+$$
 
 ---
