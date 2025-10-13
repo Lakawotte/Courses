@@ -21,16 +21,19 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 ## II. Extensions
 ### 1. Properties
 
->[!hint] Greiner's Equality
->Let $Z={\forall i\in[\![1,n]\!]|(X_i, Y_i)}$ be a set of *independently distributed* pairs $(X_i,Y_i)$ of random variables $X_i$, $Y_i$ each of which follows a *bivariate gaussian distribution*. Then for $\tau_A$ the **[[Kendall's Rank Correlation Coefficient]]** and $\rho$ the Pearson's Rho,
+>[!hint] Greiner's Equalities
+>Let $Z={\forall i\in[\![1,n]\!]|(X_i, Y_i)}$ be a set of *independently distributed* pairs $(X_i,Y_i)$ of random variables $X_i$, $Y_i$ each of which follows a *bivariate gaussian distribution*. Then for $\tau_A$ the **[[Kendall's Rank Correlation Coefficient]]**, $r_s$ the **[[Spearman's Rank Correlation Coefficient]]** and $\rho$ the Pearson's Rho,
 >$$
-\rho=\sin(\frac{\pi}{2}\mathbb{E}(\tau_{A}))
+\begin{align}
+\rho=\sin(\frac{\pi}{2}\mathbb{E}(\tau_{A}))\\
+\rho=2\sin(\frac{\pi}{6}\mathbb{E}(r_s))
+\end{align}
 >$$
 
 >[!hint] Corolary of Greiner's Equality
 >Let $Z={\forall i\in[\![1,n]\!]|(X_i, Y_i)}$ be a set of *independently distributed* pairs $(X_i,Y_i)$ of random variables $X_i$, $Y_i$ each of which follows a *bivariate gaussian distribution*. Then for $r_s$ the **[[Spearman's Rank Correlation Coefficient]]** and $\rho$ the Pearson's Rho,
 >$$
-\rho=2\sin(\frac{\pi}{6}\mathbb{E}(r_s))
+
 >$$
 ### 2. Other formulas
 # Application
