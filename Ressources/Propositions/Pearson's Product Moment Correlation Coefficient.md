@@ -36,7 +36,10 @@ The **Pearson's Rho** of two random variables denotes how linear is the relation
 - $0<\rho≤1$ : the two variables are related
 Pearson's Coefficient is really the cosine between the two *vectors* $X$ and $Y$. Indeed, one have $X=(x_1,\dots x_n)$ and $Y=(y_1,\dots y_n)$ two *datasets*, from which the angle can be calculated by :
 $$
-\cos(\theta)=\frac{\left<x,y\right>}{\left\|x\right\|\times\left\|y \right\|}=\frac{x_1y_1+\dots+x_ny_n}{\qr}
+\begin{split}
+\cos(\theta)&=\frac{\left<x,y\right>}{\left\|x\right\|\times\left\|y \right\|}\\
+&=\frac{x_1y_1+\dots+x_ny_n}{\sqrt{x_1^2+\dots+x_n^2}\sqrt{y_1^2+\dots+y_n^2}}
+\end{split}
 $$
 The more related the variables are, the more $\rho$ tends to 1.
 
