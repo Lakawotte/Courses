@@ -21,12 +21,20 @@ In contrast to a *centralized database*, a *distributed ledger* does not require
 #### *==Example==*
 Let four individuals, $A$, $B$, $C$ and $D$ make transactions. At the end of the month, every transactions is now written on a *ledger* :
 
-| Sender | Action | Price |     |
-| ------ | ------ | ----- | --- |
-| $A$    | pays   |       |     |
-| $B$    |        |       |     |
-| $C$    |        |       |     |
-| $D$    |        |       |     |
+| Sender | Action | Price | Recipient |
+| ------ | ------ | ----- | --------- |
+| $A$    | pays   | 50$   | $B$       |
+| $B$    | pays   | 10$   | $A$       |
+| $C$    | pays   | 30$   | $D$       |
+| $D$    | pays   | 20$   | $C$       |
+So are the results :
+
+| Sender | Action | Price | Recipient |
+| ------ | ------ | ----- | --------- |
+| $A$    | pays   | 50$   | $B$       |
+| $B$    | pays   | 10$   | $A$       |
+| $C$    | pays   | 30$   | $D$       |
+| $D$    | pays   | 20$   | $C$       |
 
 ## II. Extensions
 ### 1. Properties
@@ -41,3 +49,5 @@ Let four individuals, $A$, $B$, $C$ and $D$ make transactions. At the end of the
 # Example
 
 ---
+
+[^1]: 
