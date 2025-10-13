@@ -36,7 +36,10 @@ This is, we can define the function $\mathrm{Sign}$ such that
 $$
 \mathrm{Sign}(\mathrm{Message,Private Key})=\mathrm{Signature}
 $$
-To ==verify== the *signature*, one shall use the transaction message, 
+To ==verify== the *signature*, one shall use the transaction message and the public key and signature of the sender to recognize them. Thus we have
+$$
+\mathrm{Ver}(\mathrm{Message,Signature,PublicKey})=
+$$
 # Example
 
 ---
