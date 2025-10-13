@@ -23,9 +23,9 @@ This is, one needs to use a **[[Proof of Work]]**.
 To resume, the role of the *miner* is to collect information about transactions and place them in a block with a **[[Proof of Work]]**.
 To reward the amount of time and energy spent finding the *message*, the *miner* gets a ==reward== :
 1. There is no sender nor *signature* ; the *reward* is literally ==created==
-2. The total of *bitcoins* increase by this value
+2. The total of Bitcoins increase by this value
 ### C. Using Bitcoin
-As a user, one don't need to have an important installation for *mining*. When using Bi
+As a user, one don't need to have an important installation for *mining*. When using Bitcoins, they simply collect *blocks* instead of transactions, in order to uptade their **[[blck]]
 # Strategy
 
 ---
