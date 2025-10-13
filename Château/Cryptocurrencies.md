@@ -1,18 +1,11 @@
 ---
-aliases:
 tags:
-category:
-progress:
+  - cryptocurrencies
+category: "[[Finance]]"
 cssclasses:
   - hide-meta
 ---
----
-properties
-aliases: 
-tags:
-  - probability/law
-category: "[[Maths]]"
----
+
 ---
 # Theory
 ## I. The case of Bitcoin
