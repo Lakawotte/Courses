@@ -36,7 +36,8 @@ So are the results at the end of the experiment :
 | $C$  |       | 10$    |
 | $D$  |       | 10$    |
 All *credit* goes to the "pot", and is redistributed among individuals as *debit*.
-
+### **[[Proof of Work]]**
+A *blockchain* is indeed a ==chain of blocks==. Here, the blocks are given b
 ## II. Extensions
 ### 1. Properties
 
