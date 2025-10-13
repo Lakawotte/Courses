@@ -27,7 +27,9 @@ To reward the amount of time and energy spent finding the *message*, the *miner*
 ### C. Using Bitcoin
 As a user, one don't need to have an important installation for *mining*. When using Bitcoins, they simply collect *blocks* instead of transactions, in order to update their **[[Blockchain]]**.
 
-When receiving to conflicting *blocks* or chain of *blocks*, the user chose the longest one, 
+When receiving to conflicting *blocks* or chain of *blocks*, the user chose the longest one, or else waits until one get longer.
+### D. Trust
+Here we arrive at a system based of ==trust of work==. Indeed, since there is no central authority to emmits 
 # Strategy
 
 ---
