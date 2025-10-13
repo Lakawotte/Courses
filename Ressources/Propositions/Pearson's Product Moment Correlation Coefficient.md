@@ -195,7 +195,11 @@ Consider a large or moderate sample size :
 - $r$ is *consistent* as long as the **[[Law of Large Numbers]]** can be applied
 - *Bivariate distribution* : $r$ is approximately *unbiased*, but may not be *efficient*
 - *Normal bivariate distribution* : $r$ is the *maximum likelihood estimate*, and is *asymptotically unbiased* and *efficient*
-### IV. Adj
+### C. Adjusted Correlation Coefficient
+We just saw that $r$ is a *biased estimator* of $\rho$. Indeed,
+$$
+\mathbb{E}[r]
+$$
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
