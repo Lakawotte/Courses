@@ -202,7 +202,7 @@ $$
 $$
 The unique *minimum variance unbiased estimator* $r_{adj}$ is given by $r_{adj}=r\mathbf{_2F_1}(\frac{1}{2},\frac{1}{2};\frac{n-1}{2},1-r^2)$. By *truncating* $\mathbb{E}[r]$, one can obtain an *approximately unbiased estimator* :
 $$
-r\approx\mathbb{E}r_{adj}
+r=\mathbb{E}\approx r_{adj}-\frac{r_{adj}(1-r_{adj}^2)}{2n}
 $$
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
