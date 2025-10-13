@@ -24,16 +24,10 @@ The **Pearson's Rho** can only be calculated if the two variables are **[[Normal
 >[!hint] Greiner's Equalities
 >Let $Z={\forall i\in[\![1,n]\!]|(X_i, Y_i)}$ be a set of *independently distributed* pairs $(X_i,Y_i)$ of random variables $X_i$, $Y_i$ each of which follows a *bivariate gaussian distribution*. Then for $\tau_A$ the **[[Kendall's Rank Correlation Coefficient]]**, $r_s$ the **[[Spearman's Rank Correlation Coefficient]]** and $\rho$ the Pearson's Rho,
 >$$
-\begin{align}
-\rho=\sin(\frac{\pi}{2}\mathbb{E}(\tau_{A}))\\
-\rho=2\sin(\frac{\pi}{6}\mathbb{E}(r_s))
-\end{align}
->$$
-
->[!hint] Corolary of Greiner's Equality
->Let $Z={\forall i\in[\![1,n]\!]|(X_i, Y_i)}$ be a set of *independently distributed* pairs $(X_i,Y_i)$ of random variables $X_i$, $Y_i$ each of which follows a *bivariate gaussian distribution*. Then for $r_s$ the **[[Spearman's Rank Correlation Coefficient]]** and $\rho$ the Pearson's Rho,
->$$
-
+\begin{split}
+\rho&=\sin(\frac{\pi}{2}\mathbb{E}(\tau_{A}))\\
+&=2\sin(\frac{\pi}{6}\mathbb{E}(r_s))
+\end{split}
 >$$
 ### 2. Other formulas
 # Application
@@ -165,7 +159,7 @@ plt.show()
 
 ```
 ## II. Interpretation
-For **[[Samples]]** of size $N=100$, the *estimates* are not so far from the **[[Expected Value]]**.
+For **[[Samples]]** of size $N=100$, the *estimates* are not so far from the **[[Expected Value]]**. Furthermore, *composing* by a *linear* function won't change the results that much.
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
