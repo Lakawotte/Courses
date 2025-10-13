@@ -49,7 +49,10 @@ The heart of *hash functions* is that they are "discontinuous". This is, a sligh
 #### *==Example==*
 Here we will use the $\mathrm{SHA256}$ function. First, let "hello world" be $m_1$ and "hello w0lrd" be $m_2$ :
 $$
-\mathrm{SHA256}(m_ 1)=d59b1e3bd000b1884b836dda7af86cc4142ad05168cd42db5c788769222a90a9
+\begin{split}
+\mathrm{SHA256}(m_ 1)_{64}&=\mathrm{d59b1e3bd000b1884b836dda7af86cc4142ad05168cd42db5c788769222a90a9}\\
+\mathrm{SHA256}(m_ 2)_{64}&=\mathrm{cd7644d357db04cc63b48f9ccbfe5d2b18df720a128c41664a8c4f1951d3f201}\\
+\end{split}
 $$
 
 ---
