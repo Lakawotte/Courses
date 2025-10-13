@@ -16,6 +16,7 @@ The fundal downside of **[[Blockchain]]** is that everyone can add an informatio
 Now a transaction might be secured, but it needs to be ==recorded== as a *decentralized system* operates without a central **[[Blockchain|Ledger]]**.
 #### *==Example==*
 In order to record all the transactions, every one should be broadcasted to all users, who keep a copy of the **[[Blockchain|Ledger]]** ; this is fundamentally ==decentralization==. But, "broadcasting" here means that from a single user, all others shall record the transaction ; this is absurd. How can a user be certain he received an information, and that he is not alone doing so ? How can a protocol compares **[[Blockchain|Ledgers]]** and chose the right one ?
+### A. What is Bitcoin ?
 This is, one needs to use a **[[Proof of Work]]**.
 # Strategy
 
