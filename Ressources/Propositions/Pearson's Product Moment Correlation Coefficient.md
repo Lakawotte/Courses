@@ -95,9 +95,12 @@ Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at mo
 >$$
 \begin{split}
 &T_a(x)=x\\
-\Longleftrighta
+\Longleftrightarrow &(1.05-0.15a^2)(x-a)+1.05a-0.05a^3=x\\
+\Longleftrightarrow&a=\pm\frac{\sqrt{3}}{3}
 \end{split}
 >$$
+>We ch
+
 
 For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. This is, the *magnitude* of $\tau_a$ is higher than $\rho$.
 ### II. Random **[[Samples]]**
