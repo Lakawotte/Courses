@@ -200,7 +200,7 @@ We just saw that $r$ is a *biased estimator* of $\rho$. Indeed,
 $$
 \mathbb{E}[r]=\rho-\frac{1-\rho^2}{2n}+\dots
 $$
-
+The unique *minimum variance unbiased estimator* 
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
