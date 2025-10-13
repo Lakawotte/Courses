@@ -7,6 +7,13 @@ cssclasses:
   - hide-meta
 ---
 ---
+properties
+aliases: 
+tags:
+  - probability/law
+category: "[[Maths]]"
+---
+---
 # Theory
 ## I. The case of Bitcoin
 ### A. What is Bitcoin ?
