@@ -22,7 +22,8 @@ This is, one needs to use a **[[Proof of Work]]**.
 ==Mining== a block is basically do a **[[Proof of Work]]** as a requester. After receiving the "broadcast", i.e all the transactions done in a specific time frame, the *miner* creates a new *block* from them and assign a **[[Proof of Work]]**. After the work done, the block is then sent to all users.
 To resume, the role of the *miner* is to collect information about transactions and place them in a block with a **[[Proof of Work]]**.
 To reward the amount of time and energy spent finding the *message*, the *miner* gets a ==reward== :
-1. There is no sender nor *signature* ; the *reward* is litteraly c
+1. There is no sender nor *signature* ; the *reward* is literally ==created==
+2. The total of *bitcoins* increase by this value
 # Strategy
 
 ---
