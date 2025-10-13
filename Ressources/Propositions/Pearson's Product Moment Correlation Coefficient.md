@@ -208,6 +208,11 @@ From which $r_{adj}\approx r(1+\frac{1-r^2}{2n})$ is an approximate solution. It
 - It is *suboptimal*
 - It has minimum **[[Variance]]** for large values of $n$
 - Has a *bias* of order $\mathcal{O}(\frac{1}{n-1})$
+### D. Pearson's Distance
+One can define a *distance* using $\rho$ :
+$$
+d_{X,Y}:=1-|\rho_{X,Y}
+$$
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
