@@ -1,10 +1,9 @@
 ---
-aliases:
 tags:
-category:
-cssclasses:
-  - hide-meta
+  - cryptocurrencies
+category: "[[Finance]]"
 ---
+
 ---
 # Definition
 ## I. Statement
