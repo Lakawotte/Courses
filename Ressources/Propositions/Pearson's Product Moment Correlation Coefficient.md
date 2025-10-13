@@ -213,6 +213,7 @@ One can define a *distance* using $\rho$ :
 $$
 d_{X,Y}:=1-|\rho_{X,Y}|
 $$
+Which is used in *cluster analysis* and data detection for communications and storage with unknown gain and offset.
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
