@@ -24,17 +24,17 @@ Let four individuals, $A$, $B$, $C$ and $D$ make transactions. At the end of the
 | Sender | Action | Price | Recipient |
 | ------ | ------ | ----- | --------- |
 | $A$    | pays   | 50$   | $B$       |
-| $B$    | pays   | 10$   | $A$       |
-| $C$    | pays   | 30$   | $D$       |
+| $B$    | pays   | 10$   | $D$       |
+| $C$    | pays   | 30$   | $A$       |
 | $D$    | pays   | 20$   | $C$       |
 So are the results :
 
-| Sender | Action | Price | Recipient |
-| ------ | ------ | ----- | --------- |
-| $A$    | pays   | 50$   | $B$       |
-| $B$    | pays   | 10$   | $A$       |
-| $C$    | pays   | 30$   | $D$       |
-| $D$    | pays   | 20$   | $C$       |
+| Name | Debit | Credit |
+| ---- | ----- | ------ |
+| $A$  |       | 20$    |
+| $B$  | 40$   |        |
+| $C$  |       | 10$    |
+| $D$  | pays  | 20$    |
 
 ## II. Extensions
 ### 1. Properties
@@ -50,4 +50,3 @@ So are the results :
 
 ---
 
-[^1]: 
