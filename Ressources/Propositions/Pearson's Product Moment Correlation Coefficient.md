@@ -46,7 +46,7 @@ The analogy with the cosine function is very intuitive though ; the more related
 
 Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
 ## II. Distinction between $tau_a$ and $r_s$
-### I. **[[Expected Value]]**
+### A. **[[Expected Value]]**
 One can draw a representation of **[[Expected Value]]** from both *rank correlation coefficient* and Pearson's $\rho$ :
 #### *==Code==*
 ```python
@@ -91,7 +91,7 @@ plt.axis('equal')
 plt.show()
 ```
 
-### I. Interpretation
+### A. Interpretation
 From here, we understand why Pearson's and **[[Spearman's Rank Correlation Coefficient]]** are very similar when comparing *bivariate normal data*. Indeed, we have the approximation $\sin(x)\approx x-\frac{x^3}{6}$ :
 $$
 2\sin(\frac{\pi}{6}\mathbb{E}[r_s])\approx\pi\frac{\mathbb{E}[r_s]}{3}-\frac{\pi^3}{648}\mathbb{E}[r_s]^3+\dots\approx1.05\mathbb{E}[r_s]-0.05\mathbb{E}[r_s]^3
@@ -114,7 +114,7 @@ Since $-1\le\mathbb{E}[r_s]\le1$, the values differs from $\mathrm{Id}$ by at mo
 
 
 For **[[Kendall's Rank Correlation Coefficient]]**, the results are different. This is, the *magnitude* of $\tau_a$ is higher than $\rho$.
-### II. Random **[[Samples]]**
+### B. Random **[[Samples]]**
 One can simulate *random sample* from a *bivariate normal distribution*
 #### *==Code==*
 ```python
@@ -181,8 +181,9 @@ fig.suptitle("Correlations for Bivariate Normal Data (N = 100)")
 plt.show()
 
 ```
-## II. Interpretation
+## B. Interpretation
 For **[[Samples]]** of size $N=100$, the *estimates* are not so far from the **[[Expected Value]]**. Furthermore, *composing* by a *linear* function won't change the results that much.
+## 
 # Example
 For this example, we'll use the same data as the example in **[[Covariance]]** :
 We had
