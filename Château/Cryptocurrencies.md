@@ -25,7 +25,9 @@ To reward the amount of time and energy spent finding the *message*, the *miner*
 1. There is no sender nor *signature* ; the *reward* is literally ==created==
 2. The total of Bitcoins increase by this value
 ### C. Using Bitcoin
-As a user, one don't need to have an important installation for *mining*. When using Bitcoins, they simply collect *blocks* instead of transactions, in order to uptade their **[[blck]]
+As a user, one don't need to have an important installation for *mining*. When using Bitcoins, they simply collect *blocks* instead of transactions, in order to update their **[[Blockchain]]**.
+
+When receiving to conflicting *blocks* or chain of *blocks*, the user chose the longest one, 
 # Strategy
 
 ---
