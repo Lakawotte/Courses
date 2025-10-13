@@ -54,5 +54,8 @@ $$
 \mathrm{SHA256}(m_ 2)_{64}&=\mathrm{cd7644d357db04cc63b48f9ccbfe5d2b18df720a128c41664a8c4f1951d3f201}\\
 \end{split}
 $$
+Note how different each output is.
+### B.
+This is very powerful. The only option for 
 
 ---
