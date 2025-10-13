@@ -11,10 +11,9 @@ category: "[[Maths]]"
 
 >[!hint] Definition
 >Let $X$ and $Y$ be two *datasets* with defined **[[Covariance]]** and **[[Variance]]** from a *bivariate distribution*.
-$$
+>$$
 \rho=\frac{cov(X,Y)}{\sigma_{X}\sigma_{Y}}
-$$
-
+>$$
 #### ==*Note :*==
 When the **Pearson's Rho** is calculated from a set of data, we usually name the coefficient $r_{XY}$ instead of $ρ$.
 ## II. Extensions
