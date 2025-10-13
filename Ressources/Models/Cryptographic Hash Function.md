@@ -38,7 +38,7 @@ $$
 $$
 To ==verify== the *signature*, one shall use the transaction message and the public key and signature of the sender to recognize them. Thus we have
 $$
-\mathrm{Ver}(\mathrm{Message,Signature,PublicKey})=
+\mathrm{Ver}(\mathrm{Message,Signature,PublicKey})=\begin{cases}1\,\,\mathrm{if}
 $$
 # Example
 
