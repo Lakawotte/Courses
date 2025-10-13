@@ -15,7 +15,7 @@ cssclasses:
 In contrast to a *centralized database*, a *distributed ledger* does not require a central administrator, and consequently does not have a single (central) *point-of-failure*.
 
 >[!hint] Definition
->A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via **[[Hashecryptographic hashes.
+>A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via **[[Cryptographic Hash Function]]**.
 >$$
 >$$
 ## II. Extensions
