@@ -56,6 +56,8 @@ $$
 $$
 Note how different each output is.
 ### B.
-This is very powerful. The only option for 
+This is very powerful. The only option for finding the input based on the output is by *brute force*.
+#### *==Note==*
+In fact, it is theorically poss
 
 ---
