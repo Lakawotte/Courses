@@ -27,8 +27,9 @@ cssclasses:
 
 >[!info] Proof using *Cauchy*
 >Let us consider the *sequence* of functions $S_n(x)\sum_{k=1}^nf_k(x)$.
->Since $\sum_{k=1}^\infty M_k$ *converges* $(2)$ and by the *Cauchy criterion*, we have
+>Since $\sum_{k=1}^\infty M_k$ *converges* $(2)$ and for every $n\in\mathbb{N}$, $M_n\ge 0$, by the *Cauchy criterion* we have
 >$$
+\forall\epsilon>0,\exists n
 >$$
 ## II. Extensions
 ### 1. Properties
