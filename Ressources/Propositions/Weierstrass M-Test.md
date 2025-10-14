@@ -33,7 +33,7 @@ cssclasses:
 >$$
 >Now by *Triangle inequality* we have
 >$$
-|S_m(x)-S_n(x)|\
+|S_m(x)-S_n(x)|=|\sum_{k=n+1}^mf_k(x)|\le\sum_{k=n+1}^m|f_k(x)|\le\sum_{k=n+1}^mM<\epsilon
 >$$
 ## II. Extensions
 ### 1. Properties
