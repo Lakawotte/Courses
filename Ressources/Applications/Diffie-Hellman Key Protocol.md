@@ -32,7 +32,8 @@ One can use this algorithm to build a *public key infrastructure*.
 > $$
  A_k=(g^a\,\,\mathrm{mod}\,\,p, g,p)
  >$$
- >Then Bob send Alice, for $1<b<p$, $g^b\,\,\mathrm{mod}\,\,p$ unencrypted along with the *symmetric key* $(g^a)^b)\,\,
+ >Then Bob send Alice, for $1<b<p$, $g^b\,\,\mathrm{mod}\,\,p$ unencrypted along with the *symmetric key* $(g^a)^b)\,\,\mathrm{mod}\,\,p$.
+ >All Alice needs to do is 
 
 ## II. Extensions
 ### 1. Properties
