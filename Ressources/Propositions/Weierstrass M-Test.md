@@ -24,7 +24,8 @@ cssclasses:
 \sum_{k=1}^\infty f_k(x)\,\,\mathrm{converges\,normally}
 >$$
 #### *==Example==*
-
+We give here an example which is crucial for *Fourier series*.
+Let $k\in\mathbb{N}$ and $f_k:
 ### 2. Proof
 
 >[!info] Proof using *Cauchy*
