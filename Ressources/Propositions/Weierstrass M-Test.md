@@ -35,10 +35,11 @@ cssclasses:
 >$$
 |S_m(x)-S_n(x)|=|\sum_{k=n+1}^mf_k(x)|\le\sum_{k=n+1}^m|f_k(x)|\le\sum_{k=n+1}^mM<\epsilon
 >$$
->Thus, for each $x\in A$, $S_n(x)$ is a *Cauchy sequence* in $\mathbb{K}$. This is, by *completeness* it converges to $S(x)$ :
+>Thus, for each $x\in A$, $S_n(x)$ is a *Cauchy sequence* in $\mathbb{K}$. This is, by *completeness* it converges to $S(x)$. For $n>N$ we have
 >$$
-|S(x)-S_n(x)|=|\lim_{m\to\infty}S_m(x)-S_n(x)|\le
+|S(x)-S_n(x)|=|\lim_{m\to\infty}S_m(x)-S_n(x)|=\lim_{m\to\infty}|S_m(x)-S_n(x)|\le\epsilon
 >$$
+>One can remark that $N$ does not depend on $x$ ; 
 ## II. Extensions
 ### 1. Properties
 
