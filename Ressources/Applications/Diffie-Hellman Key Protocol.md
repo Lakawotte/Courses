@@ -25,7 +25,10 @@ Exchange :
 4. Bob : $(g^a)^b\equiv3^2\,\,\mathrm{mod}\,\,5\equiv4\,\,\mathrm{mod}\,\,5$
 Finally, Alice and Bob shares a secret number $s=4$.
 ### B. Keys
-One can use this algorithm to build a *public key infrastructure*. To do so, let Alice's key be $A_k=(g^a\,\,\mathrm{mod}\,\,p)
+One can use this algorithm to build a *public key infrastructure*.
+
+>[!hint]
+ For $G$ a *cyclic group with $g\in G$, and Let Alice's key be $A_k=(g^a\,\,\mathrm{mod}\,\,p)
 ## II. Extensions
 ### 1. Properties
 
