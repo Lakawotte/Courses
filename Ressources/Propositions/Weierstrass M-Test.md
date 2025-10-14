@@ -62,7 +62,7 @@ But we know that the *series* $\sum_{k=1}^\infty\frac{1}{k^2}<\infty$, so by *We
 >>[!tldr] Theorem
 >>Let $X$ be a *topological space* and $Y$ a *metric space*. Then for $n\in\mathbb{N}$, we define $f_n:X\to Y$. Thus,
 >>$$
-f_n\in\mathcal{C}^0(X)\Longrightarrow
+f_n\in\mathcal{C}^0(X,Y)\Longrightarrowf_n\in\mathcal{C}^0(X,Y)
 >>$$
 # Application
 ## I. Meaning
