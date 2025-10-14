@@ -106,6 +106,6 @@ Notice that the $M_n$ are defined for their respective function $|f_n|$. This is
 # Example
 Let us prove that the *series development* of $\exp$ is *uniformly convergent* on any *bounded subset* $S\in\mathbb{C}$.
 We define for $z\in\mathbb{C}$ and $N\in\mathbb{N}$ the *series* $S_n(z)=\sum_{n=0}^\infty\frac{z^n}{n!}$.
-Any *bounded subset* is also a *subset* of a  
+Any *bounded subset* is also a *subset* of a disc $D_R$ of radius $R$ centered on the origin of the *complex plane*. Let find $M_n$, an *upper bound* of the terms of the *series* 
 
 ---
