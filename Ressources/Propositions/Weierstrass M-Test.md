@@ -117,7 +117,10 @@ $$
 And hence $M_n:=\frac{R^n}{n!}$.
 By the *ratio test* we have :
 $$
-\lim_{n\to\infty}\frac{M_{n+1}}{M_n}=
+\begin{split}
+\lim_{n\to\infty}\frac{M_{n+1}}{M_n}&=\frac{R^{n+1}}{R^n}\frac{n!}{(n+1)!}\\
+&=
+\end{split}
 $$
 
 ---
