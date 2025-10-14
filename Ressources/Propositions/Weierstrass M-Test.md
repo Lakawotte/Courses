@@ -16,8 +16,12 @@ cssclasses:
 >$$
 \begin{align}
 \forall n\ge 1,\forall x\in A,|f_n(x)|\le M_n\tag{1}\\
-sum_{k=1}^\infty M_k\,\,\mathrm{converges}\tag{2}\\
+\sum_{k=1}^\infty M_k\,\,\mathrm{converges}\tag{2}\\
 \end{align}
+>$$
+>Then, we have
+>$$
+\sum_{k=1}^\infty f_k(x)
 >$$
 ### 2. Proof
 
