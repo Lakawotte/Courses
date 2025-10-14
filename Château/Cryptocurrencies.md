@@ -26,7 +26,7 @@ To reward the amount of time and energy spent finding the *message*, the *miner*
 2. The total of Bitcoins increase by this value
 The **[[Mean]]** time for *mining* a Bitcoin is set to be $10$min. The *difficulty* is automatically adjusted every $2016$ *blocks* ($2$ weeks) in order to balance the *computational power* put in the **[[Blockchain]]**.
 
-This concurential process increases the general safety of the **[[Blockchain]]** by the increase of *hashrate* ; the more *miners*n the more s
+This concurential process increases the general safety of the **[[Blockchain]]** by the increase of *hashrate* ; the more *miners*n the more secure the network is.
 ### C. Using Bitcoin
 As a user, one don't need to have an important installation for *mining*. When using Bitcoins, they simply collect *blocks* instead of transactions, in order to update their **[[Blockchain]]**.
 
