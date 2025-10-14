@@ -17,8 +17,10 @@ cssclasses:
 >At the end of the operation, Alice and Bob both are in possession of the same key.
 #### *==Example==*
 Alice and Bob agree on a public key $\mathrm{PublicKey}=(G=\mathbb{Z}\textbackslash 5\mathbb{Z}, g=4)$.
-1. Alice : $a=2$ ; $g^a=4^2\,\,\mathrm{mod}\,\,5=3$
-2. Bob : $b=4$ ; $g^b=4^4\,\,\mathrm{mod}\,\,5=1
+1. Alice : $a=2$ ; $g^a\equiv4^2\,\,\mathrm{mod}\,\,5\equiv3$
+2. Bob : $b=4$ ; $g^b\equiv4^4\,\,\mathrm{mod}\,\,5\equiv1$
+Exchange :
+3. Alice : $(g^b)^a\equiv$
 ## II. Extensions
 ### 1. Properties
 
