@@ -110,6 +110,10 @@ Any *bounded subset* is also a *subset* of a disc $D_R$ of radius $R$ centered o
 $$
 \forall z\in D_R,|\frac{z^n}{n!}|\le M_n
 $$
-One ca
+Geometrically, it is easy to understand that
+$$
+\forall z\in D_R,|\frac{z^n}{n!}|\\frac{|z|^n}{n!}\le\frac{R^n}{n!}
+$$
+And hence $M_n:=\frac
 
 ---
