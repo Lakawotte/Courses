@@ -10,7 +10,7 @@ cssclasses:
 ## I. Statement
 ### 1. Expression
 
->[!hint] Formula
+>[!hint] Theorem
 >Here $\mathbb{K}$ is either $\mathbb{R}$ or $\mathbb{C}$.
 >For $A\subset\mathbb{K}$ and $k\in\mathbb{N}$, let $f_k:A\to\mathbb{K}$ be a *sequence* of functions. Let also for all $n\in\mathbb{N}$ be $M_n\in\mathbb{R}^{\mathbb{N}}$ a *sequence* of non-negative numbers satisfying
 >$$
@@ -44,8 +44,8 @@ cssclasses:
 ## II. Extensions
 ### 1. Generalization
 
->[!tldr] M-Test on *Banach Space*
->
+>[!tldr] M-Test on a *Banach Space*
+>We take th
 >$$
 >$$
 ### 2. Other formulas
