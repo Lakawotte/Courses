@@ -45,8 +45,9 @@ cssclasses:
 ### 1. Generalization
 
 >[!tldr] M-Test on a *Banach Space*
->If the *codomain* of $f_k$ is a *Banach space*, $(1)$ shall be replace
+>If the *codomain* of $f_k$ is a *Banach space*, $(1)$ shall be replaced with
 >$$
+\forall n\ge 1,\forall x\in A,\left\|f_n(x)\right\|\le M_n\tag{1*}
 >$$
 ### 2. Other formulas
 # Application
