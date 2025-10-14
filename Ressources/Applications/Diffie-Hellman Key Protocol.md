@@ -21,7 +21,8 @@ Alice and Bob agree on a public key $\mathrm{PublicKey}=(G=\mathbb{Z}\textbacksl
 2. Bob : $b=3$ ; $g^b\equiv4^3\,\,\mathrm{mod}\,\,5\equiv2\,\,\mathrm{mod}\,\,5$
 Exchange :
 3. Alice : $(g^b)^a\equiv2^2\,\,\mathrm{mod}\,\,5\equiv4\,\,\mathrm{mod}\,\,5$
-4. 
+4. Bob : $(g^a)^b\equiv3^2\,\,\mathrm{mod}\,\,5\equiv4\,\,\mathrm{mod}\,\,5$
+Finally, $\mathrm{PrivateKey}=4$.
 ## II. Extensions
 ### 1. Properties
 
