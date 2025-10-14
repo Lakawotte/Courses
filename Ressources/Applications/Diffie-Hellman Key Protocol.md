@@ -8,6 +8,7 @@ cssclasses:
 ---
 # Definition
 ## I. Statement
+### A. Cryptogr
 
 >[!hint] Construction for $2$ users
 >Both users agree on a number $n\in G$ and on a *finite cyclic group* $G$. They then generate $g\in G$ which is supposed to be know by attackers.
