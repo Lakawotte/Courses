@@ -60,7 +60,10 @@ But we know that the *series* $\sum_{k=1}^\infty\frac{1}{k^2}<\infty$, so by *We
 
 >[!hint] Uniform Limit Theorem
 >>[!tldr] Theorem
->>Let $X$ be a *topological space* a,d 
+>>Let $X$ be a *topological space* and $Y$ a *metric space*. Then for $n\in\mathbb{N}$, we define $f_n:X\to Y$. Thus,
+>>$$
+
+>>$$
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
