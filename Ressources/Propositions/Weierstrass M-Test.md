@@ -86,6 +86,7 @@ d_Y(f(x),f(y))&\le d_Y(f_N(x),f(y))+d_Y(f(x),f_N(y))+d_Y(f_N(x),f_N(y))\\
 &=3\times\frac{\epsilon}{3}=\epsilon\\
 \end{split}
 >>$$
+#### *==*
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
