@@ -123,6 +123,6 @@ $$
 &=0
 \end{split}
 $$
-So $|\frac{z^n}{n!}$ is *convergent*, and by *Weierstrass M-test* $S_n$ is *normally convergent*.
+So $|\frac{z^n}{n!}$ is *convergent*, and by *Weierstrass M-test* $S_n$ is *normally convergent* for all $z\in D_R$, and since $S\subset D_R$ we have the result.
 
 ---
