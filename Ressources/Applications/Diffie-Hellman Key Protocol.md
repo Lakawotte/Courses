@@ -17,14 +17,15 @@ cssclasses:
 >3. After the exchange, they again compute : Alice makes $(g^{a})^b\in G$ and Bob makes $(g^{b})^a\in G$
 >At the end of the operation, Alice and Bob both are in possession of the same key.
 #### *==Example==*
-Alice and Bob agree on a public key $\mathrm{PublicKey}=(G=\mathbb{Z}\textbackslash 5\mathbb{Z}, g=4)$.
+Alice and Bob agree on a starting setup $S=(G=\mathbb{Z}\textbackslash 5\mathbb{Z}, g=4)$.
 1. Alice : $a=2$ ; $g^a\equiv4^2\,\,\mathrm{mod}\,\,5\equiv3\,\,\mathrm{mod}\,\,5$
 2. Bob : $b=3$ ; $g^b\equiv4^3\,\,\mathrm{mod}\,\,5\equiv2\,\,\mathrm{mod}\,\,5$
 Exchange :
 3. Alice : $(g^b)^a\equiv2^2\,\,\mathrm{mod}\,\,5\equiv4\,\,\mathrm{mod}\,\,5$
 4. Bob : $(g^a)^b\equiv3^2\,\,\mathrm{mod}\,\,5\equiv4\,\,\mathrm{mod}\,\,5$
-Finally, $\mathrm{PrivateKey}=4$.
+Finally, Alice and Bob shares a secret number $s=4$.
 ### B. Keys
+One can use this algorithm to ensure 
 ## II. Extensions
 ### 1. Properties
 
