@@ -14,7 +14,9 @@ cssclasses:
 >1. Alice chose $1<a<n$ in $\mathbb{F}_n$ and compute $g^a\in\mathbb{F}_n$, which is sent to Bob
 >2. Bob chose $1<b<n$ in $\mathbb{F}_n$ and compute $g^b\in\mathbb{F}_n$, which is sent to Bob
 >3. After the exchange, they again compute : Alice makes $(g^{a})^b\in\mathbb{F}_n$ and Bob makes $(g^{b})^a\in\mathbb{F}_n$
->At the end of the operation, 
+>At the end of the operation, Alice and Bob both are in possession of the same key.
+#### *==Example==*
+Alice and Bob agree on a public key $\mathrm{PublicKey}=()
 ## II. Extensions
 ### 1. Properties
 
