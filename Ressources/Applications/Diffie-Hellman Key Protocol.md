@@ -28,7 +28,7 @@ Finally, Alice and Bob shares a secret number $s=4$.
 One can use this algorithm to build a *public key infrastructure*.
 
 >[!hint]
- For $G$ a *cyclic group with $g\in G$, and Let Alice's key be $A_k=(g^a\,\,\mathrm{mod}\,\,p)
+ For $G$ a *cyclic group *isomorphic* to $\mathbb{Z}\textbackslash p\mathbb{Z}$, with $g\in G$, Let Alice's key be $A_k=(g^a\,\,\mathrm{mod}\,\,p, g,p)$.
 ## II. Extensions
 ### 1. Properties
 
