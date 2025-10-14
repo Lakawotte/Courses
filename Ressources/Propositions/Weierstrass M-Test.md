@@ -21,7 +21,7 @@ cssclasses:
 >$$
 >Then, we have
 >$$
-\sum_{k=1}^\infty f_k(x)
+\sum_{k=1}^\infty f_k(x)\,\,\mathrm{converges\,normally}
 >$$
 ### 2. Proof
 
