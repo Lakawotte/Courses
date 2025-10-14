@@ -16,7 +16,7 @@ cssclasses:
 >3. After the exchange, they again compute : Alice makes $(g^{a})^b\in\mathbb{F}_n$ and Bob makes $(g^{b})^a\in\mathbb{F}_n$
 >At the end of the operation, Alice and Bob both are in possession of the same key.
 #### *==Example==*
-Alice and Bob agree on a public key $\mathrm{PublicKey}=()
+Alice and Bob agree on a public key $\mathrm{PublicKey}=(\mathbb{F}_3, )
 ## II. Extensions
 ### 1. Properties
 
