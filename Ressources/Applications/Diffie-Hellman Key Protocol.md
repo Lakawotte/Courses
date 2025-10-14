@@ -8,7 +8,7 @@ cssclasses:
 ---
 # Definition
 ## I. Statement
-### A. Cryptogr
+### A. Cryptography
 
 >[!hint] Construction for $2$ users
 >Both users agree on a number $n\in G$ and on a *finite cyclic group* $G$. They then generate $g\in G$ which is supposed to be know by attackers.
@@ -24,6 +24,7 @@ Exchange :
 3. Alice : $(g^b)^a\equiv2^2\,\,\mathrm{mod}\,\,5\equiv4\,\,\mathrm{mod}\,\,5$
 4. Bob : $(g^a)^b\equiv3^2\,\,\mathrm{mod}\,\,5\equiv4\,\,\mathrm{mod}\,\,5$
 Finally, $\mathrm{PrivateKey}=4$.
+### B. Keys
 ## II. Extensions
 ### 1. Properties
 
