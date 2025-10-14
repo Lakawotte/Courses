@@ -27,8 +27,9 @@ cssclasses:
 We give here an example which is crucial for *Fourier series*.
 Let $k\in\mathbb{N}$ and $f_k:\begin{cases}\mathbb{R}\to\mathbb{R}\\x\mapsto\frac{\cos(kx)}{k^2}\\\end{cases}$ a *series* of functions. One can remark that for all $k$ we have :
 $$
-\forall k\in\mathbb{N}
+\forall x\in\mathbb{R},|f_k(x)|\le\frac{1}{k^2}
 $$
+But we know that the *series* $\sum_{k=1}^\infty\frac{1}
 ### 2. Proof
 
 >[!info] Proof using *Cauchy*
