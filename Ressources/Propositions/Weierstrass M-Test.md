@@ -88,7 +88,10 @@ d_Y(f(x),f(y))&\le d_Y(f_N(x),f(y))+d_Y(f(x),f_N(y))+d_Y(f_N(x),f_N(y))\\
 >>$$
 #### *==Example==*
 Consider the highly-*oscillatory* function $f:\mathbb{R}\to\mathbb{R}$ defined for all $n\in\mathbb{N}$ by $f(x)=\sum_{n=1}^\infty2^{-n}\cos(2^nx)$.
-First, we shall prove that $f_
+First, we shall prove that $f_n$ *converges*. Indeed, by *Weierstrass M-test*, we have
+$$
+|2^{-n}\cos(2^nx)|\le2^{-n}
+$$
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
