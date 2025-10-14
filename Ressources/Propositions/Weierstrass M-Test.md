@@ -123,6 +123,6 @@ $$
 &=0
 \end{split}
 $$
-So $|f_n
+So $|\frac{z^n}{n!}$ is *convergent*, and by *Weierstrass M-test* $S_n$ is *normally convergent*.
 
 ---
