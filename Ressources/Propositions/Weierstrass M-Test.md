@@ -87,7 +87,7 @@ d_Y(f(x),f(y))&\le d_Y(f_N(x),f(y))+d_Y(f(x),f_N(y))+d_Y(f_N(x),f_N(y))\\
 \end{split}
 >>$$
 #### *==Note :==*
-The proof uses the "3-$\epsilon$"
+The proof uses the "$\epsilon/3$ trick", and is the archetype of its use. More precisely, when dealing with *continuity* inequalities, an idea is to separate the inqua
 #### *==Example==*
 Consider the highly-*oscillatory* function $f:\mathbb{R}\to\mathbb{R}$ defined for all $n\in\mathbb{N}$ by $f(x)=\sum_{n=1}^\infty2^{-n}\cos(2^nx)$.
 First, we shall prove that $f_n$ *converges*. Indeed, by *Weierstrass M-test*, we have on one side
