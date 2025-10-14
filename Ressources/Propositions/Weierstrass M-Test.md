@@ -60,9 +60,10 @@ But we know that the *series* $\sum_{k=1}^\infty\frac{1}{k^2}<\infty$, so by *We
 
 >[!hint] Uniform Limit Theorem
 >>[!tldr] Theorem
->>Let $X$ be a *topological space* and $Y$ a *metric space*. Then for $n\in\mathbb{N}$, we define $f_n:X\to Y$. Thus,
+>>Let $X$ be a *topological space* and $Y$ a *metric space*. Then for $n\in\mathbb{N}$, we define $f_n:X\to Y$ such that $f_n\in\mathcal{C}^0(X,Y)$. Thus,
 >>$$
-f_n\in\mathcal{C}^0(X,Y)\Longrightarrowf_n\in\mathcal{C}^0(X,Y)
+f_n\xrightarrow[n\to\infty]{}1
+\Longrightarrowf_n\in\mathcal{C}^0(X,Y)
 >>$$
 # Application
 ## I. Meaning
