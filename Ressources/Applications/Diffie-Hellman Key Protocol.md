@@ -47,7 +47,8 @@ One can use this algorithm to build a *public key infrastructure*.
 ## II. Use
 For the Diffie-Hellman protocol, $G$ is said to be ==secure== if there is no efficient algorithm for determining $g^ab$ given $g$, $g^a$ and $g^b$.
 
-In reality, Diffie-Hellman Protocol is not used, with **[[RSA]]** being the proeminent algorithm. 
+In reality, Diffie-Hellman Protocol is not used, with **[[RSA]]** being the proeminent algorithm.
+Moreover, **[[ElGamal]]** is mathematically related to Diffie-Hellman.
 # Example
 
 ---
