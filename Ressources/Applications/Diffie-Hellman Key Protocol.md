@@ -33,7 +33,7 @@ Finally, $\mathrm{PrivateKey}=4$.
 # Application
 ## I. Meaning
 ## II. Use
-For the Diffie-Hellman protocol, $G$ is said to be ==secure== if there is no 
+For the Diffie-Hellman protocol, $G$ is said to be ==secure== if there is no efficient algorithm for determining $g^ab$ given $g$, $g^a$ and $g^b$.
 # Example
 
 ---
