@@ -114,6 +114,10 @@ Geometrically, it is easy to understand that
 $$
 \forall z\in D_R,|\frac{z^n}{n!}|\\frac{|z|^n}{n!}\le\frac{R^n}{n!}
 $$
-And hence $M_n:=\frac
+And hence $M_n:=\frac{R^n}{n!}$.
+By the *ratio test* we have :
+$$
+\lim_{n\to\infty}\frac{M_{n+1}}{M_n}=
+$$
 
 ---
