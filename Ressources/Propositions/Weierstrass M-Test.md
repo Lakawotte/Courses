@@ -119,8 +119,10 @@ By the *ratio test* we have :
 $$
 \begin{split}
 \lim_{n\to\infty}\frac{M_{n+1}}{M_n}&=\frac{R^{n+1}}{R^n}\frac{n!}{(n+1)!}\\
-&=
+&=\lim_{n\to\infty}\frac{R}{n+1}\\
+&=0
 \end{split}
 $$
+So $|f_n
 
 ---
