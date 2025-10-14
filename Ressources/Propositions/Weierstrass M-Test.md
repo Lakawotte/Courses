@@ -56,9 +56,11 @@ But we know that the *series* $\sum_{k=1}^\infty\frac{1}{k^2}<\infty$, so by *We
 >$$
 \forall n\ge 1,\forall x\in A,\left\|f_n(x)\right\|\le M_n\tag{1*}
 >$$
-### 2. Corrolaries
+### 2. Related Theorems
 
->[!hint]
+>[!hint] Uniform Limit Theorem
+>>[!tldr] Theorem
+>>Let $X$ be a *topological space* a,d 
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
