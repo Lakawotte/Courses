@@ -105,7 +105,7 @@ Here, we discussed of the *continuity* of $f$, but one can remark that its *deri
 ## I. Meaning
 In *Weierstrass M-test*, one can notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
 
-The *uniform limit theorem* states that in order to preserve *continuity* in the limit function, a st
+The *uniform limit theorem* states that in order to preserve *continuity* in the limit function, a stronger form of *convergence* that 
 ## II. Use
 # Example
 Let us prove that the *series development* of $\exp$ is *uniformly convergent* on any *bounded subset* $S\in\mathbb{C}$.
