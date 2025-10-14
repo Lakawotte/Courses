@@ -72,7 +72,10 @@ f_n\xrightarrow[n\to\infty]{}f\Longrightarrow f_n\in\mathcal{C}^0(X,Y)
 >>$$
 >>Where $V$ is a *neighborhood* of $X$.
 >>Let $\epsilon>0$. Then by hypothesis $f_n$ is *uniformly convergent*, one can find $N\in\mathbb{N}$ such that
->>
+>>$$
+\forall t\in X,d_Y(f_N(t),f(t))<\frac{\epsilon}{3}
+>>$$
+>>But $f_N
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
