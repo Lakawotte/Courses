@@ -25,7 +25,7 @@ cssclasses:
 >$$
 #### *==Example==*
 We give here an example which is crucial for *Fourier series*.
-Let $k\in\mathbb{N}$ and $f_k:
+Let $k\in\mathbb{N}$ and $f_k:\begin{cases}\mathbb{R}\to\mathbb{R}\\$ a *series* of functions.
 ### 2. Proof
 
 >[!info] Proof using *Cauchy*
