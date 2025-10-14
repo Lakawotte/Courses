@@ -23,6 +23,8 @@ cssclasses:
 >$$
 \sum_{k=1}^\infty f_k(x)\,\,\mathrm{converges\,normally}
 >$$
+#### *==Example==*
+
 ### 2. Proof
 
 >[!info] Proof using *Cauchy*
