@@ -96,9 +96,9 @@ And on the other side
 $$
 \sum_{n=1}^\infty2^{-n}<\infty\tag{2}
 $$
-By $(1)$ and $(2)$ $f_n$ is *normally convergent*.
+By $(1)$ and $(2)$ $f$ is *normally convergent*.
 Secondly, since $f_n$ is *continuous* by the *uniform limit theorem* $f$ is also *continuous*.
-Here, we discussed of the *continuity*
+Here, we discussed of the *continuity* of $f$, but one can remark that its *derivative* is nowhere *continuous*.
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
