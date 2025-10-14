@@ -86,7 +86,7 @@ d_Y(f(x),f(y))&\le d_Y(f_N(x),f(y))+d_Y(f(x),f_N(y))+d_Y(f_N(x),f_N(y))\\
 &=3\times\frac{\epsilon}{3}=\epsilon\\
 \end{split}
 >>$$
-#### *==Note :==*
+#### *==Note 1 :==*
 The proof uses the "$\epsilon/3$ trick", and is the archetype of its use. More precisely, when dealing with *continuity* inequalities, an idea is to separate the inequalities in smaller ones that can be proven easily, and the use the *triangle inequality*.
 #### *==Example==*
 Consider the highly-*oscillatory* function $f:\mathbb{R}\to\mathbb{R}$ defined for all $n\in\mathbb{N}$ by $f(x)=\sum_{n=1}^\infty2^{-n}\cos(2^nx)$.
