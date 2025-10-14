@@ -59,7 +59,7 @@ But we know that the *series* $\sum_{k=1}^\infty\frac{1}{k^2}<\infty$, so by *We
 ### 2. Other formulas
 # Application
 ## I. Meaning
-Notice that the $M_n$ are defined for 
+Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
 ## II. Use
 # Example
 
