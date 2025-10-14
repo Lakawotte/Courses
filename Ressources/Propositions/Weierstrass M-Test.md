@@ -26,7 +26,8 @@ cssclasses:
 ### 2. Proof
 
 >[!info] Proof using *Cauchy*
->Let us consider the *sequence* of functions $S_n(x)\sum_{k=1}^nf_k(x)$
+>Let us consider the *sequence* of functions $S_n(x)\sum_{k=1}^nf_k(x)$.
+>Since $\sum_{k=1}^\infty M_k$ *converges* $(2)$ and by the *Cauchy criterion*, we have
 >$$
 >$$
 ## II. Extensions
