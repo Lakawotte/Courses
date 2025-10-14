@@ -40,6 +40,7 @@ cssclasses:
 |S(x)-S_n(x)|=|\lim_{m\to\infty}S_m(x)-S_n(x)|=\lim_{m\to\infty}|S_m(x)-S_n(x)|\le\epsilon
 >$$
 >One can remark that $N$ does not depend on $x$, thus $S_n$ *converges uniformly* to $S$.
+>Hence, by definition, $\sum_{k=1}^\inftyf_k(x)$ *converges uniformly*, and one can show that it is also th
 ## II. Extensions
 ### 1. Properties
 
