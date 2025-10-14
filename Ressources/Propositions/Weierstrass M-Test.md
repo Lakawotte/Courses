@@ -40,11 +40,12 @@ cssclasses:
 |S(x)-S_n(x)|=|\lim_{m\to\infty}S_m(x)-S_n(x)|=\lim_{m\to\infty}|S_m(x)-S_n(x)|\le\epsilon
 >$$
 >One can remark that $N$ does not depend on $x$, thus $S_n$ *converges uniformly* to $S$.
->Hence, by definition, $\sum_{k=1}^\inftyf_k(x)$ *converges uniformly*, and one can show that it is also th
+>Hence, by definition, $\sum_{k=1}^\infty f_k(x)$ *converges uniformly*, and one can show that it is also the case for $\sum_{k=1}^\infty|f_k(x)|$. In conclusion, $\sum_{k=1}^\infty f_k(x)$ *converges normally*.
 ## II. Extensions
-### 1. Properties
+### 1. Generalization
 
->[!tldr]
+>[!tldr] M-Test on *Banach Space*
+>
 >$$
 >$$
 ### 2. Other formulas
