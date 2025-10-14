@@ -25,7 +25,10 @@ cssclasses:
 >$$
 #### *==Example==*
 We give here an example which is crucial for *Fourier series*.
-Let $k\in\mathbb{N}$ and $f_k:\begin{cases}\mathbb{R}\to\mathbb{R}\\$ a *series* of functions.
+Let $k\in\mathbb{N}$ and $f_k:\begin{cases}\mathbb{R}\to\mathbb{R}\\x\mapsto\frac{\cos(kx)}{k^2}\\\end{cases}$ a *series* of functions. One can remark that for all $k$ we have :
+$$
+\forall k\in\mathbb{N}
+$$
 ### 2. Proof
 
 >[!info] Proof using *Cauchy*
