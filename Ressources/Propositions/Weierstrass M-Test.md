@@ -29,7 +29,7 @@ cssclasses:
 >Let us consider the *sequence* of functions $S_n(x)\sum_{k=1}^nf_k(x)$.
 >Since $\sum_{k=1}^\infty M_k$ *converges* $(2)$ and for every $n\in\mathbb{N}$, $M_n\ge 0$, by the *Cauchy criterion* we have
 >$$
-\forall\epsilon>0,\exists n
+\forall\epsilon>0,\exists N\in\mathbb{N},\forall m, m>n>N\Longrightarrow\sum_{k=n+1}^mM_k<\epsilon
 >$$
 ## II. Extensions
 ### 1. Properties
