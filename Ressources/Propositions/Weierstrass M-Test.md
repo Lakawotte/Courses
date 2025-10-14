@@ -31,6 +31,10 @@ cssclasses:
 >$$
 \forall\epsilon>0,\exists N\in\mathbb{N},\forall m, m>n>N\Longrightarrow\sum_{k=n+1}^mM_k<\epsilon
 >$$
+>Now by *Triangle inequality* we have
+>$$
+|S_m(x)-S_n(x)|\
+>$$
 ## II. Extensions
 ### 1. Properties
 
