@@ -75,7 +75,10 @@ f_n\xrightarrow[n\to\infty]{}f\Longrightarrow f_n\in\mathcal{C}^0(X,Y)
 >>$$
 \forall t\in X,d_Y(f_N(t),f(t))<\frac{\epsilon}{3}
 >>$$
->>But $f_N
+>>But $f_N$ is *continuous* on $X$, so for each $x\in X$ there exist a *neighborhood* $V$ such that
+>>$$
+
+>>$$
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
