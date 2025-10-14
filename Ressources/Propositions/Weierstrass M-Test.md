@@ -25,7 +25,7 @@ cssclasses:
 >$$
 ### 2. Proof
 
->[!info] Proof
+>[!info] Proof using *Cau*
 >$$
 >$$
 ## II. Extensions
