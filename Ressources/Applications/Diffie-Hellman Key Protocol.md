@@ -36,7 +36,7 @@ One can use this algorithm to build a *public key infrastructure*.
  >All Alice needs to do is to compute $(g^b)^a\,\,\mathrm{mod}\,\,p$, since she is the only one to know $a$ and hence decrypt Bob's message. 
 
 ## II. Extensions
-### 1. Properties
+### 1. Elliptic Curve Diffie-Hellman
 
 >[!tldr]
 >$$
