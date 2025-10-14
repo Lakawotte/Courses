@@ -62,9 +62,11 @@ But we know that the *series* $\sum_{k=1}^\infty\frac{1}{k^2}<\infty$, so by *We
 >>[!tldr] Theorem
 >>Let $X$ be a *topological space* and $Y$ a *metric space*. Then for $n\in\mathbb{N}$, we define $f_n:X\to Y$ such that $f_n\in\mathcal{C}^0(X,Y)$. Thus,
 >>$$
-f_n\xrightarrow[n\to\infty]{}1
-\Longrightarrowf_n\in\mathcal{C}^0(X,Y)
+f_n\xrightarrow[n\to\infty]{}f\Longrightarrow f_n\in\mathcal{C}^0(X,Y)
 >>$$
+>
+>>[!info] Proof
+>>*Continuity* in the case of *topological spaces* can be defined
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
