@@ -29,7 +29,7 @@ Let $k\in\mathbb{N}$ and $f_k:\begin{cases}\mathbb{R}\to\mathbb{R}\\x\mapsto\fra
 $$
 \forall x\in\mathbb{R},|f_k(x)|\le\frac{1}{k^2}
 $$
-But we know that the *series* $\sum_{k=1}^\infty\frac{1}
+But we know that the *series* $\sum_{k=1}^\infty\frac{1}{k^2}<\infty$, so by *Weierstrass M-test* $\sum_{k= 1}^\infty f_k(x)$ *converges normally*.
 ### 2. Proof
 
 >[!info] Proof using *Cauchy*
