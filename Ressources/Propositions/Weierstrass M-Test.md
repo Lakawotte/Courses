@@ -105,6 +105,7 @@ Notice that the $M_n$ are defined for their respective function $|f_n|$. This is
 ## II. Use
 # Example
 Let us prove that the *series development* of $\exp$ is *uniformly convergent* on any *bounded subset* $S\in\mathbb{C}$.
-We define for $z\in\mathbb{C}$ and $N\in\mathbb{N}$ the *series* $S_n(z)=\sum_{n=0}^\infty
+We define for $z\in\mathbb{C}$ and $N\in\mathbb{N}$ the *series* $S_n(z)=\sum_{n=0}^\infty\frac{z^n}{n!}$.
+Any *bounded subset* is also a *subset* of a  
 
 ---
