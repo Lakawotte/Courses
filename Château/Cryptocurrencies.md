@@ -10,7 +10,7 @@ cssclasses:
 # Theory
 ## I. The case of Bitcoin
 ### A. What is Bitcoin ?
-The fundamental goal of Bitcoin is to create a trustless, decentralized exchange system. It is based on **[[Blockchain|ledgers]]**, [[Cryptographic Hash Function|digital signatures]]*, and **[[Proof of Work|cryptography]]**.
+The fundamental goal of Bitcoin is to create a trustless, decentralized exchange system. It is based on **[[Blockchain|ledgers]]**, **[[Cryptographic Hash Function|digital signatures]]***, and **[[Proof of Work|cryptography]]**.
 
 The fundal downside of **[[Blockchain]]** is that everyone can add an information on it, especially a false payment. To prevent this, **[[Blockchain]]** is developed around **[[Cryptographic Hash Function]]**. This method ensures that every transaction is secured.
 Now a transaction might be secured, but it needs to be ==recorded== as a *decentralized system* operates without a central **[[Blockchain|Ledger]]**.
@@ -24,6 +24,7 @@ To resume, the role of the *miner* is to collect information about transactions 
 To reward the amount of time and energy spent finding the *message*, the *miner* gets a ==reward== :
 1. There is no sender nor *signature* ; the *reward* is literally ==created==
 2. The total of Bitcoins increase by this value
+
 ### C. Using Bitcoin
 As a user, one don't need to have an important installation for *mining*. When using Bitcoins, they simply collect *blocks* instead of transactions, in order to update their **[[Blockchain]]**.
 
@@ -37,6 +38,5 @@ Let construct an example of a situation where some user $A$ is trying to fool an
 As $1$ might be probable, $2$ is statistically impossible.
 ### D. Trust
 As a conclusion of this example, a user should not trust a ==single== *block*, but the whole chain. The more a single chain is long, the more it is safe.
-# Strategy
 
 ---
