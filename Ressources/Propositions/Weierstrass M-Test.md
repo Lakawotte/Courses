@@ -39,7 +39,7 @@ cssclasses:
 >$$
 |S(x)-S_n(x)|=|\lim_{m\to\infty}S_m(x)-S_n(x)|=\lim_{m\to\infty}|S_m(x)-S_n(x)|\le\epsilon
 >$$
->One can remark that $N$ does not depend on $x$ ; 
+>One can remark that $N$ does not depend on $x$, thus $S_n$ *converges uniformly* to $S$.
 ## II. Extensions
 ### 1. Properties
 
