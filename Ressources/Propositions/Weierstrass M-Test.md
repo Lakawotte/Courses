@@ -70,7 +70,9 @@ f_n\xrightarrow[n\to\infty]{}f\Longrightarrow f_n\in\mathcal{C}^0(X,Y)
 >>$$
 \forall\epsilon>0,\forall y\in V,d_Y((f(x),f(y))<\epsilon
 >>$$
->>Where $V$ is a *neighborhood* of 
+>>Where $V$ is a *neighborhood* of $X$.
+>>Let $\epsilon>0$. Then by hypothesis $f_n$ is *uniformly convergent*, one can find $N\in\mathbb{N}$ such that
+>>
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
