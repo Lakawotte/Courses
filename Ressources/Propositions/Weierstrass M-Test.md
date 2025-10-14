@@ -68,8 +68,9 @@ f_n\xrightarrow[n\to\infty]{}f\Longrightarrow f_n\in\mathcal{C}^0(X,Y)
 >>[!info] Proof
 >>*Continuity* in the case of *topological spaces* can be defined as a requirement for $f$ :
 >>$$
-d_Y
+\forall\epsilon>0,\forall y\in V,d_Y((f(x),f(y))<\epsilon
 >>$$
+>>Where $V$ is a *neighborhood* of 
 # Application
 ## I. Meaning
 Notice that the $M_n$ are defined for their respective function $|f_n|$. This is, each function is *bounded* but the *bounds* vary from a function to another.
