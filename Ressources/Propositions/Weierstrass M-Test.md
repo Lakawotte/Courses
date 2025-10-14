@@ -81,7 +81,10 @@ f_n\xrightarrow[n\to\infty]{}f\Longrightarrow f_n\in\mathcal{C}^0(X,Y)
 >>$$
 >>Finally, we have the *triangle inequality* :
 >>$$
-d_Y(f(x),f(y))\le d_Y(f_N(x),f(y))+d_Y(f(x),f_N(y))+d_Y(f_N(x),f_N(y))=
+\begin{split}
+d_Y(f(x),f(y))&\le d_Y(f_N(x),f(y))+d_Y(f(x),f_N(y))+d_Y(f_N(x),f_N(y))\\
+&=3\times\frac{\epsilon}{3}=\epsilon\\
+\end{split}
 >>$$
 # Application
 ## I. Meaning
