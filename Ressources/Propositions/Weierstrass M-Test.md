@@ -45,7 +45,7 @@ cssclasses:
 ### 1. Generalization
 
 >[!tldr] M-Test on a *Banach Space*
->We take th
+>If the *codomain* of $f_k$ is a *Banach space*, $(1)$ shall be replace
 >$$
 >$$
 ### 2. Other formulas
