@@ -77,7 +77,11 @@ f_n\xrightarrow[n\to\infty]{}f\Longrightarrow f_n\in\mathcal{C}^0(X,Y)
 >>$$
 >>But $f_N$ is *continuous* on $X$, so for each $x\in X$ there exist a *neighborhood* $V$ such that
 >>$$
-
+\forall y\in V,d_Y((f_N(x),f_N(y))<\frac{\epsilon}{3}
+>>$$
+>>Finally, we have the *triangle inequality* :
+>>$$
+d_Y((f(x),f(y))\le
 >>$$
 # Application
 ## I. Meaning
