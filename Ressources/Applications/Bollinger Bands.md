@@ -15,7 +15,8 @@ progress:
 - The top of the band is considered as a *resistance level*
 - The bottom of the band is considered as a *support level*
 - The center of the *cylinder* is the **[[[Moving Average]]**
-In *range phases*, prices bounces up and down inside the *cylinder*.
+### A. Range phases
+In *range phases*, prices bounces up and down inside the *cylinder*. This is, it is a period of low-**[[Volatility]]** when 
 # Strategy
 
 ---
