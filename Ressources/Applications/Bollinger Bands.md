@@ -42,12 +42,15 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>$$
 >>This is simply the proportion of the *cylinder* that is filled.
 
->[!hint] Bandwith
+>[!hint] Bandwidth
 >>[!tldr] Definition
 >>Let $\mathrm{BB}_l$ be the *lower Bollinger band* and $\mathrm{BB}_u$ be the *upper Bollinger band*. Then for $\mathrm{AM}$ the **[[Moving Average]]**, one have
 >>$$
-\mathrm{Bandwith}=\frac{\mathrm{BB_{u}}-\mathrm{BB_{l}}}{\mathrm{AM}}
+\mathrm{Bandwidth}=\frac{\mathrm{BB_{u}}-\mathrm{BB_{l}}}{\mathrm{AM}}
 >>$$
+>
+>>[!example] Properties
+>>$\mathrm{Bandwidth}$ is used to determine the *normalized* widht of the *bands*
 # Interpretation
 ## I. Idea
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
