@@ -46,6 +46,6 @@ Since the **[[Volatility]]** is getting less important, prices get closer to the
 Here the *bounds* are closing to each other and thus the market stabilizes for a few days.
 # Strategy
 ## 1. Bands
-If the bands respect the conditions of **proposition 1** and **proposition 2**, we have a *sinusoïd* 
+If the bands respect the conditions of **proposition 1** and **proposition 2**, we have a *sinusoïd* trend *bounded*. We should enter either at the mid-range or a little higher than the *lower bound*. 
 
 ---
