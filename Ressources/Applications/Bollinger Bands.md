@@ -26,6 +26,10 @@ When prices are maintaining between the **[[Moving Average]]** and the bands for
 Here one can see the increasing **[[Volatility]]** letting to a breakout.
 ### C. Regression Phases
 In the opposite way, if bands are converging, this may indicate a decrease of *momentum*. Since the **[[Volatility]]** is getting less important, prices get closer to the **[[Moving Average]]**.
+#### *==Example==*
+
+![[ETHUSD_2025-10-15_17-42-15_15466.png]]
+Here the *bounds* are closing t
 # Strategy
 
 ---
