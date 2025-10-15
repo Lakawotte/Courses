@@ -26,8 +26,13 @@ Here the same $N$ is used for calculating both **[[Moving Average]]** and **[[St
 The purpose of *Bollinger bands* is to contain prices and provide a relative definition of low and high prices. By definition, prices are high at the upper band and low at the lower band.
 ### III. Derived Indicators
 >[!hint] $\%b$
+>>[!tldr] Definition
 >Let $\mathrm{BB}_l$ be the *lower Bolling band*, $\mathrm{BB}_u$ be the *upper Bollinger band* and $p_t$ the latest price. Then,
->
+>$$
+\%b:=\frac{p_t-\mathrm{BB}_l}{\mathrm{BB}_u-\mathrm{BB}_l}
+>$$
+
+By this definition, 
 
 # Interpretation
 ## I. Idea
