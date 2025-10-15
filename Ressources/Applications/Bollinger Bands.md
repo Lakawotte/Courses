@@ -13,7 +13,11 @@ progress:
 >[!hint] Definition
 >A Bollinger band is made of two components :
 >1. An $N$-period **[[Moving Average]]**
->2. 
+>2. Two $k\sigma$ *bands*
+>Thus we have for **
+>$$
+BB(N,k)=
+>$$
 # Interpretation
 ## I. Idea
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
