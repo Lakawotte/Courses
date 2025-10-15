@@ -46,7 +46,7 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>[!tldr] Definition
 >>Let $\mathrm{BB}_l$ be the *lower Bollinger band* and $\mathrm{BB}_u$ be the *upper Bollinger band*. Then for $\mathrm{AM}$ the **[[Moving Average]]**, one have
 >>$$
-\mathrm{Ban dwith}
+\mathrm{Bandwith}=\frac{\mathrm{BB_{u}}-\mathrm{BB_{l}}}{\mathrm{AM}}
 >>$$
 # Interpretation
 ## I. Idea
