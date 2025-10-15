@@ -59,7 +59,7 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>$$
 ## III. Sustainability
 Since the data is not *normalized* mainly because of the low time period ($20$ days for most), one cannot use *normality* properties such as a *Gaussian curve* representation.
-This is, while we should find approximately $95\%$ of the data inside the *cyl*
+This is, while we should find approximately $95\%$ of the data inside the *cylinder*, studies have shown that it is more about $88\%$ for security prices.
 # Interpretation
 ## I. Idea
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
