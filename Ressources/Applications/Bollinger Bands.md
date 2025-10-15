@@ -32,8 +32,13 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 \%b:=\frac{p_t-\mathrm{BB}_l}{\mathrm{BB}_u-\mathrm{BB}_l}
 >>$$
 >
->>[!example] Proposition
->>By this definition, 
+>>[!example] Properties
+>>By this definition,
+>>$$
+\begin{align}
+\%b=1\Longleftrigharrow p_t=\mathrm{BB}_u
+\end{align}
+>>$$
 
 # Interpretation
 ## I. Idea
