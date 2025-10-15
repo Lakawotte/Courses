@@ -16,18 +16,18 @@ progress:
 - The bottom of the band is considered as a *support level*
 - The center of the *cylinder* is the **[[[Moving Average]]**
 ### A. Range Phases
->[!example] Proposition 1
+>[!example] Proposition 1 : Bounces
 >In *range phases*, prices bounces up and down inside the *cylinder*. It is a period of low-**[[Volatility]]** when the upper and lower bands lie together.
 
 When the bands have a slight slope and track approximately parallel for an extended time, the price will generally oscillate between the bands as though in a channel.
 
->[!example] Proposition 2
->If the distance between the *bounds* are roughly the same repeatedly, no matter if the *bounds* are parallel, the **[[[Volatility]]** is still very low.
+>[!example] Proposition 2 : Distance
+>If the distance between the *bounds* are roughly the same repeatedly, no matter if the *bounds* are parallel, the **[[Volatility]]** is still very low.
 ### B. Expansion Phases
->[!example] Proposition 3
+>[!example] Proposition 3 : Expansion
 >On a given time period, if the bands are moving away from each other, an increase in price **[[Volatility]]** is to be confirmed. The market is inclined to enter a *bullish* or *bearish* trend. The more the bands expand, the more the **[[Volatility]]** will be important.
 
->[!example] Proposition 4
+>[!example] Proposition 4 : Testing
 >When prices are maintaining between the **[[Moving Average]]** and the bands for days, this may indicate a future breaking of the tendency.
 
 Indeed, if prices are continuously *testing* the *support* or *resistance* levels, they are more inclined to brake.
@@ -35,7 +35,7 @@ Indeed, if prices are continuously *testing* the *support* or *resistance* level
 ![[ETHUSD_2025-10-15_17-40-19_257db.png]]
 Here one can see the increasing **[[Volatility]]** letting to a breakout.
 ### C. Regression Phases
->[!example] Proposition 5
+>[!example] Proposition 5 : Convergence
 >If bands are converging, this may indicate a decrease of *momentum*.
 >
 
@@ -46,6 +46,6 @@ Since the **[[Volatility]]** is getting less important, prices get closer to the
 Here the *bounds* are closing to each other and thus the market stabilizes for a few days.
 # Strategy
 ## 1. Bands
-If the bands respect **pro
+If the bands respect **proposition 1** 
 
 ---
