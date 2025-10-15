@@ -27,12 +27,13 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 ### III. Derived Indicators
 >[!hint] $\%b$
 >>[!tldr] Definition
->Let $\mathrm{BB}_l$ be the *lower Bolling band*, $\mathrm{BB}_u$ be the *upper Bollinger band* and $p_t$ the latest price. Then,
->$$
+>>Let $\mathrm{BB}_l$ be the *lower Bolling band*, $\mathrm{BB}_u$ be the *upper >Bollinger band* and $p_t$ the latest price. Then,
+>>W$$
 \%b:=\frac{p_t-\mathrm{BB}_l}{\mathrm{BB}_u-\mathrm{BB}_l}
->$$
-
-By this definition, 
+>>$$
+>
+>>[!example] Proposition
+>>By this definition, 
 
 # Interpretation
 ## I. Idea
