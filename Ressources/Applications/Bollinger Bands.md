@@ -106,5 +106,7 @@ Another strategy is to wait for the prices to fall over or under *bounds*, in su
 In this strategy, we only assume that charts will not go out of the *cylinder*. The idea is to counter the market by :
 - Selling when prices hits the *upper bound*
 - Buying when prices hits the *lower bound*
+## 3. **[[Volatility]]**
+This indicator may be used to determine prices **[[Volatility]]** using 
 
 ---
