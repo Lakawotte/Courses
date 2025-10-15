@@ -16,8 +16,10 @@ progress:
 - The bottom of the band is considered as a *support level*
 - The center of the *cylinder* is the **[[[Moving Average]]**
 ### A. Range Phases
-In *range phases*, prices bounces up and down inside the *cylinder*. This is, it is a period of low-**[[Volatility]]** when the upper and lower bands lie together.
-When the bands have only a slight slope and track approximately parallel for an extended time, the price will generally be found to oscillate between the bands as though in a channel.
+In *range phases*, prices bounces up and down inside the *cylinder*. It is a period of low-**[[Volatility]]** when the upper and lower bands lie together.
+
+>[!example] Proposition 1
+>When the bands have a slight slope and track approximately parallel for an extended time, the price will generally oscillate between the bands as though in a channel.
 
 Furthermore, if the distance between the *bounds* are roughly the same repeatedly, no matter if the *bounds* are parallel, the **[[[Volatility]]** is still very low.
 ### B. Expansion Phases
