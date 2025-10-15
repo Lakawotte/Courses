@@ -96,8 +96,8 @@ Here the *bounds* are closing to each other and thus the market stabilizes for a
 ## 1. Bands
 If the bands respect the conditions of **proposition 1** and **proposition 2**, we have a *sinusoïd* trend *bounded*. We should enter either at the mid-range or a little higher than the *lower bound*.
 
-Another strategy is to wait for the prices to fall over or under *bounds*, in such a 
+Another strategy is to wait for the prices to fall over or under *bounds*, in such a way that if **proposition 4** is ensured, the market will enter in a *reversal*.
 
-Notice that
+#### Notice that
 
 ---
