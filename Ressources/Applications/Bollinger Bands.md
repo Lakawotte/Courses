@@ -14,9 +14,9 @@ progress:
 >A Bollinger band is made of two components :
 >1. An $N$-period **[[Moving Average]]**
 >2. Two $k\sigma$ *bands*
->Thus we have for **
+>Thus we have for *parameters* $N,k\in\\mathbb{N}\times\mathbb{R}$
 >$$
-BB(N,k)=
+\mathrm{BB}(N,k)=\mathrm{MA}(N)\pm k\sigma
 >$$
 # Interpretation
 ## I. Idea
