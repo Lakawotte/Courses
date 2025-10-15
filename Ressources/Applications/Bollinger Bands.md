@@ -36,9 +36,11 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>By this definition,
 >>$$
 \begin{align}
-\%b=1\Longleftrigharrow p_t=\mathrm{BB}_u
+\%b=1\Longleftrightarrow p_t=\mathrm{BB}_u\\
+\%b=0\Longleftrightarrow p_t=\mathrm{BB}_l\\
 \end{align}
 >>$$
+>>This is simply the proportion of the *cylinder* that is filled.
 
 # Interpretation
 ## I. Idea
