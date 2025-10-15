@@ -24,6 +24,9 @@ Typical values of $N$ and $k$ are $20$ and $2$ respectively. They are the values
 Here the same $N$ is used for calculating both **[[Moving Average]]** and **[[Standard Deviation]]**. Since we are dealing with *population*, the divider is $n$.
 ## II. Purpose
 The purpose of *Bollinger bands* is to contain prices and provide a relative definition of low and high prices. By definition, prices are high at the upper band and low at the lower band.
+### III. Derived Indicators
+>[!hint] $\%b$
+>Let $\mathrm{BB}_l$ 
 
 # Interpretation
 ## I. Idea
