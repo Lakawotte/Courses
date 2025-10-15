@@ -11,7 +11,7 @@ progress:
 ## I.
 # Interpretation
 ## I. Idea
-*Bollinger bands* acts like a *moving average]]
+*Bollinger bands* acts like a **[[Moving Average]]** 
 # Strategy
 
 ---
