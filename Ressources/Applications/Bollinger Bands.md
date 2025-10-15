@@ -9,6 +9,7 @@ progress:
 ---
 # Theory
 ## I.
+## 1. Cons
 # Interpretation
 ## I. Idea
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
