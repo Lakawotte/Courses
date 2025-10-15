@@ -24,7 +24,7 @@ When prices are maintaining between the **[[Moving Average]]** and the bands for
 ### C. Regression Phases
 In the opposite way, if bands are converging, this may indicate a decrease of *momentum*. Since the **[[Volatility]]** is getting less important, prices get closer to the **[[Moving Average]]**.
 #### *==Example==*
-
+![[TradingView.msix]]
 # Strategy
 
 ---
