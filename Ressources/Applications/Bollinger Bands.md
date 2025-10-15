@@ -19,7 +19,8 @@ progress:
 \mathrm{BB}(N,k)=\mathrm{MA}(N)\pm k\sigma
 >$$
 
-Typical values of $N$ and $k$ are $20$ and $2$ respectively. They are the values introduced by Bollinger in the $1980s$.
+Typical values of $N$ and $k$ are $20$ and $2$ respectively. They are the values introduced by Bollinger in the $1980s$. Moreover, one commonly uses the simple **[[Moving Average]]**, but some uses the **[[Moving Average|Exponential moving average]]**
+
 # Interpretation
 ## I. Idea
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
