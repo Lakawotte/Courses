@@ -19,7 +19,7 @@ progress:
 In *range phases*, prices bounces up and down inside the *cylinder*. This is, it is a period of low-**[[Volatility]]** when the upper and lower bands lie together.
 When the bands have only a slight slope and track approximately parallel for an extended time, the price will generally be found to oscillate between the bands as though in a channel.
 ### B. Expansion Phases
-On a given time period, if the bands are moving away from each other
+On a given time period, if the bands are moving away from each other, an increase in price **[[Volatility]]** is to be confirmed. The market is inclined to enter a *bullish* or *bearish* trend.
 # Strategy
 
 ---
