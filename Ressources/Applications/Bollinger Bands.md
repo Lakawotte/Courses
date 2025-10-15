@@ -21,10 +21,13 @@ When the bands have only a slight slope and track approximately parallel for an 
 
 Furthermore, if the distance between the *bounds* are roughly the same repeatedly, no matter if the *bounds* are parallel, the **[[[Volatility]]** is still very low.
 ### B. Expansion Phases
->[!tip] Proposition 1
+>[!example] Proposition 1
 >On a given time period, if the bands are moving away from each other, an increase in price **[[Volatility]]** is to be confirmed. The market is inclined to enter a *bullish* or *bearish* trend. The more the bands expand, the more the **[[Volatility]]** will be important.
 
-When prices are maintaining between the **[[Moving Average]]** and the bands for days, this may indicate a future breaking of the tendency. Indeed, if prices are continuously *testing* the *support* or *resistance* levels, they are more inclined to brake.
+>[!example] Proposition 2
+>When prices are maintaining between the **[[Moving Average]]** and the bands for days, this may indicate a future breaking of the tendency.
+
+Indeed, if prices are continuously *testing* the *support* or *resistance* levels, they are more inclined to brake.
 #### *==Example==*
 ![[ETHUSD_2025-10-15_17-40-19_257db.png]]
 Here one can see the increasing **[[Volatility]]** letting to a breakout.
