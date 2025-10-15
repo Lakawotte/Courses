@@ -17,6 +17,8 @@ progress:
 - The center of the *cylinder* is the **[[[Moving Average]]**
 ### A. Range phases
 In *range phases*, prices bounces up and down inside the *cylinder*. This is, it is a period of low-**[[Volatility]]** when the upper and lower bands lie together.
+When the bands have only a slight slope and track approximately parallel for an extended time, the price will generally be found to oscillate between the bands as though in a channel.
+### B. Expansion P
 # Strategy
 
 ---
