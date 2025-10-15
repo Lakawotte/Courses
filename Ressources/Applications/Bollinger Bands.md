@@ -55,7 +55,7 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>[!example] Proposition : **[[Root Mean Square Error]]**
 >>Using parameter $N=20$ and $k=2$ for the *Bollinger bands*, we have
 >>$$
-\mathrm{Bandwidth}}
+\mathrm{Bandwidth}=4\mathrm{NRMSE}
 >>$$
 # Interpretation
 ## I. Idea
