@@ -107,6 +107,7 @@ In this strategy, we only assume that charts will not go out of the *cylinder*. 
 - Selling when prices hits the *upper bound*
 - Buying when prices hits the *lower bound*
 ## 3. **[[Volatility]]**
-This indicator may be used to determine prices **[[Volatility]]** using 
+This indicator may be used to determine prices **[[Volatility]]** using **property 3** and **property 5**.
+By identifying a *convergence* of prices, they are expected to break out.
 
 ---
