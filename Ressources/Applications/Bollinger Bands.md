@@ -4,24 +4,14 @@ tags:
 category:
 cssclasses:
   - hide-meta
+progress:
 ---
 ---
-# Definition
-## I. Statement
-
->[!hint] Definition
->$$
->$$
-## II. Extensions
-### 1. Properties
-
->[!tldr]
->$$
->$$
-### 2. Other formulas
-# Application
-## I. Meaning
-## II. Use
-# Example
+# Theory
+## I.
+# Interpretation
+## I. Idea
+*Bollinger bands* acts like 
+# Strategy
 
 ---
