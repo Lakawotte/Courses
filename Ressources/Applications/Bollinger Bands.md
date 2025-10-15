@@ -20,6 +20,7 @@ In *range phases*, prices bounces up and down inside the *cylinder*. This is, it
 When the bands have only a slight slope and track approximately parallel for an extended time, the price will generally be found to oscillate between the bands as though in a channel.
 ### B. Expansion Phases
 On a given time period, if the bands are moving away from each other, an increase in price **[[Volatility]]** is to be confirmed. The market is inclined to enter a *bullish* or *bearish* trend. The more the bands expand, the more the **[[Volatility]]** will be important.
+When prices are maintaining between the **[[Moving Average]]** and the bands of
 # Strategy
 
 ---
