@@ -27,7 +27,7 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 ### III. Derived Indicators
 >[!hint] $\%b$
 >>[!tldr] Definition
->>Let $\mathrm{BB}_l$ be the *lower Bolling band*, $\mathrm{BB}_u$ be the *upper >Bollinger band* and $p_t$ the latest price. Then,
+>>Let $\mathrm{BB}_l$ be the *lower Bollinger band*, $\mathrm{BB}_u$ be the *upper >Bollinger band* and $p_t$ the latest price. Then,
 >>W$$
 \%b:=\frac{p_t-\mathrm{BB}_l}{\mathrm{BB}_u-\mathrm{BB}_l}
 >>$$
@@ -42,6 +42,9 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>$$
 >>This is simply the proportion of the *cylinder* that is filled.
 
+>[!hint] Bandwith
+>>[!tldr] Definition
+>>Let $\mathrm{BB}_m$ be the 
 # Interpretation
 ## I. Idea
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
