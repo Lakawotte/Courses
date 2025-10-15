@@ -36,7 +36,7 @@ Indeed, if prices are continuously *testing* the *support* or *resistance* level
 Here one can see the increasing **[[Volatility]]** letting to a breakout.
 ### C. Regression Phases
 >[!example] Proposition 5 : Convergence
->If bands are converging, this may indicate a decrease of *momentum*.
+>If bands are converging to the **[[Moving Average]]**, this may indicate a decrease of *momentum* and **[[Volatility]]**.
 >
 
 Since the **[[Volatility]]** is getting less important, prices get closer to the **[[Moving Average]]**.
@@ -46,6 +46,6 @@ Since the **[[Volatility]]** is getting less important, prices get closer to the
 Here the *bounds* are closing to each other and thus the market stabilizes for a few days.
 # Strategy
 ## 1. Bands
-If the bands respect **proposition 1** 
+If the bands respect the conditions of **proposition 1** and **proposition 2**, we have a *sinusoïd* 
 
 ---
