@@ -21,7 +21,7 @@ progress:
 
 Typical values of $N$ and $k$ are $20$ and $2$ respectively. They are the values introduced by Bollinger in the $1980s$. Moreover, one commonly uses the simple **[[Moving Average]]**, but some uses the **[[Moving Average|Exponential moving average]]**.
 #### *==Note :==*
-Here the same $N$ applies for both *bands* and **[[Standard Error]] This is
+Here the same $N$ is used for calculating both **[[Moving Average]]** and **[[Standard Deviation]]**. Since we are dealing with *population*, the divider is $n$.
 
 # Interpretation
 ## I. Idea
