@@ -57,6 +57,8 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>$$
 \mathrm{Bandwidth}=4\times\mathrm{NRMSE}
 >>$$
+## III. Sustainability
+Since the data is not *normalized* mainly because of the low time period ($20$ days for most), one cannot use *norma
 # Interpretation
 ## I. Idea
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
@@ -97,7 +99,5 @@ Here the *bounds* are closing to each other and thus the market stabilizes for a
 If the bands respect the conditions of **proposition 1** and **proposition 2**, we have a *sinusoïd* trend *bounded*. We should enter either at the mid-range or a little higher than the *lower bound*.
 
 Another strategy is to wait for the prices to fall over or under *bounds*, in such a way that if **proposition 4** is ensured, the market will enter in a *reversal*.
-
-#### Notice that
 
 ---
