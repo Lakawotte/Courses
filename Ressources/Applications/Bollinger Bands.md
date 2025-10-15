@@ -29,7 +29,7 @@ In the opposite way, if bands are converging, this may indicate a decrease of *m
 #### *==Example==*
 
 ![[ETHUSD_2025-10-15_17-42-15_15466.png]]
-Here the *bounds* are closing t
+Here the *bounds* are closing to each other and thus the market stabilizes for a few days.
 # Strategy
 
 ---
