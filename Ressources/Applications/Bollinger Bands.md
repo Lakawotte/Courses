@@ -53,7 +53,7 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>$\mathrm{Bandwidth}$ is used to determine the *normalized* width of the *bands*.
 >
 >>[!example] Proposition : **[[Root Mean Square Error]]**
->>Using parameter $N=20$ and $k=2$ for the *Bollinger bands*, we have
+>>Using parameter $N=20$ and $k=2$ for the *Bollinger bands*, we have for $\mathrm{NRMSE}$ the **[[Root Mean Square Error|normalized root mean square error]]** of the $20$-period data.
 >>$$
 \mathrm{Bandwidth}=4\mathrm{NRMSE}
 >>$$
