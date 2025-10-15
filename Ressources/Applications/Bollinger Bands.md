@@ -58,7 +58,8 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 \mathrm{Bandwidth}=4\times\mathrm{NRMSE}
 >>$$
 ## III. Sustainability
-Since the data is not *normalized* mainly because of the low time period ($20$ days for most), one cannot use *norma
+Since the data is not *normalized* mainly because of the low time period ($20$ days for most), one cannot use *normality* properties such as a *Gaussian curve* representation.
+This is, while we should find approximately $95\%$ of the data inside the *cyl*
 # Interpretation
 ## I. Idea
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
