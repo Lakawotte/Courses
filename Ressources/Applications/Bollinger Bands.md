@@ -16,17 +16,18 @@ progress:
 - The bottom of the band is considered as a *support level*
 - The center of the *cylinder* is the **[[[Moving Average]]**
 ### A. Range Phases
-In *range phases*, prices bounces up and down inside the *cylinder*. It is a period of low-**[[Volatility]]** when the upper and lower bands lie together.
-
 >[!example] Proposition 1
->When the bands have a slight slope and track approximately parallel for an extended time, the price will generally oscillate between the bands as though in a channel.
+>In *range phases*, prices bounces up and down inside the *cylinder*. It is a period of low-**[[Volatility]]** when the upper and lower bands lie together.
 
-Furthermore, if the distance between the *bounds* are roughly the same repeatedly, no matter if the *bounds* are parallel, the **[[[Volatility]]** is still very low.
-### B. Expansion Phases
->[!example] Proposition 1
->On a given time period, if the bands are moving away from each other, an increase in price **[[Volatility]]** is to be confirmed. The market is inclined to enter a *bullish* or *bearish* trend. The more the bands expand, the more the **[[Volatility]]** will be important.
+When the bands have a slight slope and track approximately parallel for an extended time, the price will generally oscillate between the bands as though in a channel.
 
 >[!example] Proposition 2
+>If the distance between the *bounds* are roughly the same repeatedly, no matter if the *bounds* are parallel, the **[[[Volatility]]** is still very low.
+### B. Expansion Phases
+>[!example] Proposition 3
+>On a given time period, if the bands are moving away from each other, an increase in price **[[Volatility]]** is to be confirmed. The market is inclined to enter a *bullish* or *bearish* trend. The more the bands expand, the more the **[[Volatility]]** will be important.
+
+>[!example] Proposition 4
 >When prices are maintaining between the **[[Moving Average]]** and the bands for days, this may indicate a future breaking of the tendency.
 
 Indeed, if prices are continuously *testing* the *support* or *resistance* levels, they are more inclined to brake.
@@ -34,13 +35,17 @@ Indeed, if prices are continuously *testing* the *support* or *resistance* level
 ![[ETHUSD_2025-10-15_17-40-19_257db.png]]
 Here one can see the increasing **[[Volatility]]** letting to a breakout.
 ### C. Regression Phases
-In the opposite way, if bands are converging, this may indicate a decrease of *momentum*. Since the **[[Volatility]]** is getting less important, prices get closer to the **[[Moving Average]]**.
+>[!example] Proposition 5
+>If bands are converging, this may indicate a decrease of *momentum*.
+>
+
+Since the **[[Volatility]]** is getting less important, prices get closer to the **[[Moving Average]]**.
 #### *==Example==*
 
 ![[ETHUSD_2025-10-15_17-42-15_15466.png]]
 Here the *bounds* are closing to each other and thus the market stabilizes for a few days.
 # Strategy
 ## 1. Bands
-If the bands respect the 
+If the bands respect **pro
 
 ---
