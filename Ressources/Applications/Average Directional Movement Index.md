@@ -51,7 +51,7 @@ cssclasses:
 >[!example] Proposition : 
 # Strategy
 ## 1. $\pm\mathrm{DI}$
-One of the best buy signals is when $\mathrm{ADX}$ turns up when below both Directional Lines and +DI is above -DI.
+One of the best buy signals is when $\mathrm{ADX}$ turns up when below both *directional lines* and $+\mathrm{DI}$ is above $-\mathrm{DI}$.
 One would sell when $\mathrm{ADX}$ turns back down.
 
 ---
