@@ -38,7 +38,8 @@ cssclasses:
 \mathrm{ADX}_{N}=\mathrm{MA}_{N}(\mathrm{DX}_{N})
 >$$
 #### *==Note :==*
-Most time, we use $N=1
+Most of the time, we use $N=14$.
+For the **[[Moving Average]]**, the **[[Moving Average|exponential moving average]]** may be appropriate in some cases.
 
 ## II. Purpose
 
