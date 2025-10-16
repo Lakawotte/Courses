@@ -10,6 +10,7 @@ cssclasses:
 ## I. Construction
 
 >[!hint] Definition
+>The $\mathrm{ADX}$ is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *ne*
 >$$
 >$$
 ## II. Extensions
