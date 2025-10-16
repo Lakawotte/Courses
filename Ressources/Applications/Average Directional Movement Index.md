@@ -30,7 +30,9 @@ cssclasses:
 
 >[!hint] Definition 2 : $\mathrm{ADX}$
 >The $\mathrm{ADX}$ is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *negative directional indicator* $\mathrm{-DI}$ :
->
+>$$
+\mathrm{ADX}=\frac{}
+>$$
 ## II. Extensions
 ### 1. Properties
 
