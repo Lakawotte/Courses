@@ -31,7 +31,11 @@ cssclasses:
 >[!hint] Definition 2 : $\mathrm{ADX}$
 >One can define the $\mathrm{DX}$, which is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *negative directional indicator* $\mathrm{-DI}$ :
 >$$
-\mathrm{DX}=\frac{}
+\mathrm{DX}=\frac{|\mathrm{+DI}-\mathrm{-DI}}{\mathrm{+DI}+\mathrm{-DI}}\times 100
+>$$
+>Thus, its **[[Mean]]** is given by
+>$$
+>
 >$$
 ## II. Extensions
 ### 1. Properties
