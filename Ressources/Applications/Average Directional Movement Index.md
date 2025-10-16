@@ -33,9 +33,9 @@ cssclasses:
 >$$
 \mathrm{DX}_{N}=\frac{|\mathrm{+DI}-\mathrm{-DI}}{\mathrm{+DI}+\mathrm{-DI}}\times 100
 >$$
->Thus, its **[[Mean]]** is given, for $M\in\mathbb{N}$, by
+>Thus, its **[[Mean]]** is given by
 >$$
-\mathrm{ADX}_{M}=\mathrm{MA}_{M}(\mathrm{DX}_{N})
+\mathrm{ADX}_{N}=\mathrm{MA}_{N}(\mathrm{DX}_{N})
 >$$
 ## II. Extensions
 ### 1. Properties
