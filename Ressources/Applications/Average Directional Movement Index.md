@@ -17,12 +17,14 @@ cssclasses:
 \mathrm{+DM}:=\begin{cases}H_{t}-H_{t-1}\,\,\mathrm{if}\,\,H_{t}-H_{t-1}>L_{t-1}-L_{t}>0\\0\,\,\mathrm{else}\end{cases}
 >$$
 >where $H$ and $L$ are describing the higher and lower prices, respectively, for a date $t$.
->Similarely, we define $\mathrm{-DM}$ as>$$
-\mathrm{+DM}=\begin{cases}H_{t}-H_{t-1}\,\,\mathrm{if}\,\,(L_{t-1}-L_{t}>H_{t}-H_{t-1})\wedge()0\\0\,\,\mathrm{else}\end{cases}
+>Similarely, we define $\mathrm{-DM}$ as
+>$$
+\mathrm{+DM}:=\begin{cases}H_{t}-H_{t-1}\,\,\mathrm{if}\,\,(L_{t-1}-L_{t}>H_{t}-H_{t-1})\wedge(L_{t-1}-L_{t}>0)\\0\,\,\mathrm{else}\end{cases}
+>$$
+>Now one have
 >$$
 \begin{align} \\
-
-
+\mathrm{+DI}:=\frac{MA_{N}()}
 \end{align}
 >$$
 ## II. Extensions
