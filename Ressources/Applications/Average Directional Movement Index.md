@@ -12,8 +12,10 @@ cssclasses:
 >[!hint] Definition
 >The $\mathrm{ADX}$ is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *negative directional indicator* $\mathrm{-DI}$.
 >
->For $N\in\mathbb{N}$, $\mathrm{MA}$ the **[[Moving Average]]** and $\mathrm{ATR}$
->$$,
+>For $N\in\mathbb{N}$, $\mathrm{MA}$ the **[[Moving Average]]** and $\mathrm{ATR}$, we define $\mathrm{+DM}$ as 
+>$$
+\mathrm{+DM}=\begin{cases}\end{cases}
+>$$
 \begin{align} \\
 
 
