@@ -10,8 +10,12 @@ cssclasses:
 ## I. Construction
 
 >[!hint] Definition
->The $\mathrm{ADX}$ is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *ne*
+>The $\mathrm{ADX}$ is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *negative directional indicator* $\mathrm{-DI}$ :
 >$$
+\begin{align} \\
+
+
+\end{align}
 >$$
 ## II. Extensions
 ### 1. Properties
