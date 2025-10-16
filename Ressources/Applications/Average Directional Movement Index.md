@@ -50,8 +50,8 @@ cssclasses:
 
 >[!example] Proposition : 
 # Strategy
-## 1. $\pm\mathrm{DI}$
+## 1. Timing and $\pm\mathrm{DI}$
 One of the best buy signals is when $\mathrm{ADX}$ turns up when below both *directional lines* and $+\mathrm{DI}$ is above $-\mathrm{DI}$.
-One would sell when $\mathrm{ADX}$ turns back down.
+In this scenario, one would sell when $\mathrm{ADX}$ turns back down.
 
 ---
