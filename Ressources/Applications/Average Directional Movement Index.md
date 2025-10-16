@@ -45,7 +45,10 @@ cssclasses:
 >$$
 ### 2. Other formulas
 # Interpretation
-## I. Combination with $\mathrm{}$
+## I. Idea
+### A. Combination with $\pm\mathrm{DI}$
+
+>[!example] Proposition : 
 # Example
 
 ---
