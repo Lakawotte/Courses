@@ -37,7 +37,8 @@ cssclasses:
 >$$
 \mathrm{ADX}_{N}=\mathrm{MA}_{N}(\mathrm{DX}_{N})
 >$$
-## II. Extensions
+## II. Purpose
+
 ### 1. Properties
 
 >[!tldr]
@@ -46,9 +47,10 @@ cssclasses:
 ### 2. Other formulas
 # Interpretation
 ## I. Idea
-### A. Combination with $\pm\mathrm{DI}$
+### A. Strenght
 
 >[!example] Proposition : 
+>
 # Strategy
 ## 1. Timing and $\pm\mathrm{DI}$
 One of the best buy signals is when $\mathrm{ADX}$ turns up when below both *directional lines* and $+\mathrm{DI}$ is above $-\mathrm{DI}$.
