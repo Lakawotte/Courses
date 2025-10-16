@@ -24,7 +24,8 @@ cssclasses:
 >Now one have
 >$$
 \begin{align} \\
-\mathrm{+DI}:=\frac{MA_{N}()}
+\mathrm{+DI}:=\frac{MA_{N}(\mathrm{+DM})}{ATR_{N}}\times 100\\ \\
+\mathrm{-DI}:=\frac{MA_{N}(\mathrm{-DM})}{ATR_{N}}\times 100\\
 \end{align}
 >$$
 ## II. Extensions
