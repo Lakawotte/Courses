@@ -49,6 +49,9 @@ cssclasses:
 ### A. Combination with $\pm\mathrm{DI}$
 
 >[!example] Proposition : 
-# Example
+# Strategy
+## 1. $\pm\mathrm{DI}$
+One of the best buy signals is when $\mathrm{ADX}$ turns up when below both Directional Lines and +DI is above -DI.
+One would sell when $\mathrm{ADX}$ turns back down.
 
 ---
