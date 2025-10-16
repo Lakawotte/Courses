@@ -54,7 +54,8 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established before the $\mathrm{ADX}$ can indicates a signal that a trend is under way.
 ### A. Strenght
 
->[!example] Proposition : 
+>[!example] Proposition 1 : Strenght
+>There is four main distinctions of the values 
 >
 # Strategy
 ## 1. Timing and $\pm\mathrm{DI}$
