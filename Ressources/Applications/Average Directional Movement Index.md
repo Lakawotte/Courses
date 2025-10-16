@@ -37,6 +37,9 @@ cssclasses:
 >$$
 \mathrm{ADX}_{N}=\mathrm{MA}_{N}(\mathrm{DX}_{N})
 >$$
+#### *==Note :==*
+Most time, we use $N=1
+
 ## II. Purpose
 
 ### 1. Properties
@@ -47,7 +50,7 @@ cssclasses:
 ### 2. Other formulas
 # Interpretation
 ## I. Idea
-The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established 
+The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established before the $\mathrm{ADX}$ can indicates a signal that a trend is under way.
 ### A. Strenght
 
 >[!example] Proposition : 
