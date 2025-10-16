@@ -13,7 +13,7 @@ cssclasses:
 >
 >For $N\in\mathbb{N}$, $\mathrm{MA}$ the **[[Moving Average]]** and $\mathrm{ATR}$, we define the *positive directional indicator* $\mathrm{+DM}$ as 
 >$$
-\mathrm{+DM}:=\begin{cases}H_{t}-H_{t-1}\,\,\mathrm{if}\,\,H_{t}-H_{t-1}>L_{t-1}-L_{t}>0\\0\,\,\mathrm{else}\end{cases}
+\mathrm{+DM}:=\begin{cases}H_{t}-H_{t-1}\,\,\mathrm{if}\,\,(H_{t}-H_{t-1}>L_{t-1}-L_{t})\wedge(H_{t}-H_{t-1}>0)\\0\,\,\mathrm{else}\end{cases}
 >$$
 >where $H$ and $L$ are describing the higher and lower prices, respectively, for a date $t$.
 >Similarely, we define the *negative directional indicator* $\mathrm{-DM}$ as
