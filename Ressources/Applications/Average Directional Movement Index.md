@@ -47,6 +47,7 @@ cssclasses:
 ### 2. Other formulas
 # Interpretation
 ## I. Idea
+The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established 
 ### A. Strenght
 
 >[!example] Proposition : 
