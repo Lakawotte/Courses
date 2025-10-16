@@ -29,9 +29,9 @@ cssclasses:
 >$$
 
 >[!hint] Definition 2 : $\mathrm{ADX}$
->The $\mathrm{ADX}$ is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *negative directional indicator* $\mathrm{-DI}$ :
+>One can define the $\mathrm{DX}$, which is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *negative directional indicator* $\mathrm{-DI}$ :
 >$$
-\mathrm{ADX}=\frac{}
+\mathrm{DX}=\frac{}
 >$$
 ## II. Extensions
 ### 1. Properties
