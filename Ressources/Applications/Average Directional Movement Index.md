@@ -14,7 +14,7 @@ cssclasses:
 >
 >For $N\in\mathbb{N}$, $\mathrm{MA}$ the **[[Moving Average]]** and $\mathrm{ATR}$, we define $\mathrm{+DM}$ as 
 >$$
-\mathrm{+DM}=\begin{cases}\end{cases}
+\mathrm{+DM}=\begin{cases}H_{t}-H_{t-1}\,\,\mathrm{if}\,\,H_{t}>H_{t-1}\end{cases}
 >$$
 \begin{align} \\
 
