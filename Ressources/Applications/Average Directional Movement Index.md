@@ -44,9 +44,8 @@ cssclasses:
 >$$
 >$$
 ### 2. Other formulas
-# Application
-## I. Meaning
-## II. Use
+# Interpretation
+## I. Combination with $\mathrm{}$
 # Example
 
 ---
