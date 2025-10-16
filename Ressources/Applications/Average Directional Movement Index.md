@@ -9,8 +9,7 @@ cssclasses:
 # Definition
 ## I. Construction
 
->[!hint] Definition
->The $\mathrm{ADX}$ is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *negative directional indicator* $\mathrm{-DI}$.
+>[!hint] Definition 1 : $\pm\mathrm{DM}$
 >
 >For $N\in\mathbb{N}$, $\mathrm{MA}$ the **[[Moving Average]]** and $\mathrm{ATR}$, we define $\mathrm{+DM}$ as 
 >$$

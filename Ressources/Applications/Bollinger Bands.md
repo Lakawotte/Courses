@@ -14,9 +14,9 @@ progress:
 >A Bollinger band is made of two components :
 >1. An $N$-period **[[Moving Average]]**
 >2. Two $k\sigma$ *bands*
->Thus we have for *parameters* $N,k\in\mathbb{N}\times\mathbb{R}$
+>Thus we have for *parameters* $N,k\in\mathbb{N}\times\mathbb{R}$ and $P$ the prices
 >$$
-\mathrm{BB}(N,k)=\mathrm{MA}_{N}(N)\pm k\sigma
+\mathrm{BB}(N,k)=\mathrm{MA}_{N}(P)\pm k\sigma
 >$$
 
 Typical values of $N$ and $k$ are $20$ and $2$ respectively. They are the values introduced by Bollinger in the $1980s$. Moreover, one commonly uses the simple **[[Moving Average]]**, but some uses the **[[Moving Average|Exponential moving average]]**.
