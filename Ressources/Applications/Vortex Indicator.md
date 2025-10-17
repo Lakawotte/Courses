@@ -32,8 +32,11 @@ As it has been shown, one can define the *vortex indicator* for any timeframe. N
 ## I. Idea
 ### A. Trend
 >[!example] Proposition 1 : Intersection
->If $+\mathrm{VI}$ and $+\mathrm{VI}$ are seen intersecting each other, it may indicate a reversal.
->The more the lines diverges after then, the mor
+>If $+\mathrm{VI}$ and $-\mathrm{VI}$ are seen intersecting each other, it may indicate a reversal.
+>The more the lines diverges after then, the more likely the trend is to pursue.
+
+>[!example] Proposition 2 : Comparison
+>When VI+ is larger and above VI−, the market is likely to be trending up. Conversely, when VI− is bigger and above VI+, the market is trending down.
 # Strategy
 
 ---
