@@ -50,6 +50,10 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 >$$
 \mathrm{ADX}\propto\frac{\Delta P_{t}}{\Delta t}
 >$$
+>And by *differentiation*
+>$$
+\frac{\Delta\mathrm{ADX}}{\Delta t}\propto\frac{\Delta P_{t}}{\Delta t}
+>$$
 ### 2. Other formulas
 # Interpretation
 ## I. Idea
