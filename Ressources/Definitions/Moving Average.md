@@ -16,8 +16,9 @@ cssclasses:
 ### 1. First Computation
 
 >[!tldr]
->Let $n\in\mathbb{N}$ be the length of a period
+>Let $n\in\mathbb{N}$ be the length of a period, and $X. Thus
 >$$
+\mathrm{SME}=\frac{\mathrm{}}
 >$$
 ### 2. Other formulas
 # Application
