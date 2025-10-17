@@ -66,5 +66,7 @@ It shows how much the evolution of the price of an asset is strong. This is, it 
 # Strategy
 ## 1. Uptrends and Downtrends
 Cardwell noticed that **proposition 3** leaded to a brief correction instead of a reversal, and similarly with **proposition 4**. This is, *bearish divergence* is confirming an *uptrend*, and *bullish divergence* is confirming a *downtrend*.
+## 2. Territories
+When in a *overbought territory*, the trend is more likely to
 
 ---
