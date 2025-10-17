@@ -28,6 +28,8 @@ cssclasses:
 >$$
 \mathrm{RSI}=100(1-\frac{1}{1+\mathrm{RS}})
 >$$
+#### *==Note :*==
+
 # Interpretation
 ## I. Idea
 The *relative strength index* is a measure of 
