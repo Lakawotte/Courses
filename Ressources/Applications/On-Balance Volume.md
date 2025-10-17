@@ -24,7 +24,8 @@ $\mathrm{OBV}$ is generally used to confirm price moves. The idea is that **[[Vo
 #### ==*Example :*==
 In a strong *uptrend*, there is more **[[Volume]]** on up days than down days, so the $\mathrm{OBV}$ is higher.
 ### A. Prices
-A higher close results in the volume for that day to get a positive value, while a lower close results in negative value.[3] So, when prices are going up, OBV should be going up too, and when prices make a new rally high, then OBV should too. If OBV fails to go past its previous rally high, then this is a negative divergence, suggesting a weak move.
+A higher close results in the volume for that day to get a positive value, while a lower close results in negative value.
+When prices are going up, $\mathrm{OBV}$ should be going up too, and when prices make a new rally high, then $\mathrm{OBV}$ should too. If $\mathrm{OBV}$ fails to go past its previous rally high, then this is a *negative divergence*, suggesting a weak move.
 # Strategy
 
 ---
