@@ -48,7 +48,8 @@ It shows how much the evolution of the price of an asset is strong. This is, it 
 >[!example] Proposition 2 : Overselling
 >Suppose a fast decreasing of prices indicates an oversold. Then if  $\mathrm{RSI}<30$, it is an *oversold* territory.
 ### B. Divergence
->[!example] Proposition 3 : 
+>[!example] Proposition 3 : Bearish Divergence
+>Suppose that the $\mathrm{RSI}$ made a new low, and prices make a new high. Then it is a 
 # Strategy
 
 ---
