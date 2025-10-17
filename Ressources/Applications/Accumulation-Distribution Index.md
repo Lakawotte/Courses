@@ -16,7 +16,7 @@ cssclasses:
 \mathrm{CLV}:=\frac{(C-L)-(H-C)}{H-L}
 >$$
 #### *==Note :==*
-The $\mathrm{CLV}$ is ranged between $-1$, when $C=L$, and $1$, when $C=H$.
+The $\mathrm{CLV}$ is ranged between $-1$, when $C=L$, and $1$, when $C=H$. If the closing price is in the upper half of the *High-Low*, then the multiplier is positive, and vice-versa.
 >[!tip] Definition 2 : $\mathrm{ADI}$
 >One can then define, for $t$ a time and $V$ the **[[Volume]]**, the *accumulation/distribution index* as a *recursive sequence*
 >$$
