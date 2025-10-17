@@ -38,5 +38,7 @@ So, when prices are going up, $\mathrm{OBV}$ should be going up too, and when pr
 >[!example] Proposition 2 : Divergence
 >If $\mathrm{OBV}$ fails to go past its previous rally high, then this is a *negative divergence*, suggesting a weak move.
 # Strategy
+## 1. Breakouts
+One can draw *support* and *resistance* 
 
 ---
