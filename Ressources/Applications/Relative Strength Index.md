@@ -18,9 +18,9 @@ cssclasses:
 \mathrm{Down}:=\begin{cases}C_{t-1}-C_{t}\,\,\mathrm{if}\,\,C_{t-1}>C_{t}\\0\,\,\mathrm{else}\end{cases}
 \end{align}
 >$$
->With this two values, we now compute the *relative strength* $\mathrm{RS}$ :
+>With this two values, we now compute the *relative strength* $\mathrm{RS}$ for $N\in\mathbb{N}$ :
 >$$
-
+\mathrm{RS}:=\frac{{SMA}_{N}(\mathrm{Up}){\mathrm{SMA}_{N}(\mathrm{Down})}
 >$$
 # Interpretation
 ## I.
