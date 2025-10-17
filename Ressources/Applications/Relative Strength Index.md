@@ -8,7 +8,7 @@ cssclasses:
 ---
 ---
 # Theory
-## I. Construction
+## 1. Construction
 
 >[!tip] Definiton 1 : Strength Index
 >Let $C_t$ be the close price at time $t$, and $\mathrm{SMA}$ the **[[Moving Average|smoothed moving average]]**. Then we define
@@ -30,7 +30,7 @@ cssclasses:
 >$$
 #### *==Note :*==
 Here $\mathrm{RSI}$ is *bounded* between $[0,1[$.
-## II. Extensions
+## 2. Extensions
 ### A. Other Definition
 >[!tip] Definition 3 : Slope
 >Considering $P$ the prices and $t$ the dates, one have
@@ -38,7 +38,7 @@ Here $\mathrm{RSI}$ is *bounded* between $[0,1[$.
 \frac{\Delta\mathrm{RSI}}{\Delta t}\propto\frac{\Delta P_{t}}{\Delta t}
 >$$
 # Interpretation
-## I. Idea
+## 1. Idea
 The *relative strength index* is a measure of the *momentum*. More, it is a *momentum oscillator*, measuring the velocity and magnitude of price movements.
 It shows how much the evolution of the price of an asset is strong. This is, it represents the strength of increases relative to decreases.
 ### A. Pressure

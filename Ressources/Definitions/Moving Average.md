@@ -7,13 +7,13 @@ cssclasses:
 ---
 ---
 # Definition
-## I. Statement
+## 1. Statement
 
 >[!hint] Definition
 >$$
 >$$
-## II. Extensions
-### 1. First Computation
+## 2. Extensions
+### A. First Computation
 
 >[!tldr]
 >Let $n\in\mathbb{N}$ be the length of a period, and $X_t$ the value at time $t$. Thus
@@ -22,10 +22,10 @@ cssclasses:
 >$$
 #### *==Note :==*
 One can easily see that it is the current formula when $\alpha=\frac{1}{n}$.
-### 2. Other formulas
+### B. Other formulas
 # Application
-## I. Meaning
-## II. Use
+## 1. Meaning
+## 2. Use
 # Example
 
 ---

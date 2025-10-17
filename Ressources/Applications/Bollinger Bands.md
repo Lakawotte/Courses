@@ -8,7 +8,7 @@ progress:
 ---
 ---
 # Theory
-## I. Construction
+## 1. Construction
 >[!hint] Definition
 >A Bollinger band is made of two components :
 >1. An $N$-period **[[Moving Average]]**
@@ -21,9 +21,9 @@ progress:
 Typical values of $N$ and $k$ are $20$ and $2$ respectively. They are the values introduced by Bollinger in the $1980s$. Moreover, one commonly uses the simple **[[Moving Average]]**, but some uses the **[[Moving Average|Exponential moving average]]**.
 #### *==Note :==*
 Here the same $N$ is used for calculating both **[[Moving Average]]** and **[[Standard Deviation]]**. Since we are dealing with *population*, the divider is $n$.
-## II. Purpose
+## 2. Purpose
 The purpose of *Bollinger bands* is to contain prices and provide a relative definition of low and high prices. By definition, prices are high at the upper band and low at the lower band.
-### III. Derived Indicators
+### 3. Derived Indicators
 >[!hint] $\%b$
 >>[!tldr] Definition
 >>Let $\mathrm{BB}_l$ be the *lower Bollinger band*, $\mathrm{BB}_u$ be the *upper Bollinger band* and $p_t$ the latest price. Then,
@@ -56,7 +56,7 @@ The purpose of *Bollinger bands* is to contain prices and provide a relative def
 >>$$
 \mathrm{Bandwidth}=4\times\mathrm{NRMSE}
 >>$$
-## III. Sustainability
+## 4. Sustainability
 Since the data is not *normalized* mainly because of the low time period ($20$ days for most), one cannot use *normality* properties such as a *Gaussian curve* representation.
 This is, while we should find approximately $95\%$ of the data inside the *cylinder*, studies have shown that it is more about $88\%$ for security prices.
 #### *==Note==*
