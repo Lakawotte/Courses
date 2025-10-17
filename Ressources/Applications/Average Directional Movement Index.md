@@ -58,9 +58,9 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 # Interpretation
 ## I. Idea
 The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established before the $\mathrm{ADX}$ can indicates a signal that a trend is under way.
-### A. Strenght
+### A. Strength
 
->[!example] Proposition 1 : Strenght
+>[!example] Proposition 1 : Strength
 >There is different interpretations for values $\mathrm{ADX}$ can take :
 >1. $\mathrm{ADX}<20$ : The tendency is very low, there might me be a reversel signal., there might me be a reversel signal.
 >2. $20<\mathrm{ADX}<40$ : The tendency is low
