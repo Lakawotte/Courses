@@ -67,6 +67,8 @@ The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established before the
 >3. $40<\mathrm{ADX}<50$ : The tendency is strong
 >4. $50<\mathrm{ADX}<70$ : The tendency is very strong
 >5. $\mathrm{ADX}>70$ : The tendency is too strong, there might me be a reversal signal.
+### B. Smoothing
+$\mathrm{ADX}$ is the combination and smoothing of both $\mathrm{-DI}$ and $\mathrm{+DI}$.
 # Strategy
 ## 1. Timing and $\pm\mathrm{DI}$
 One of the best buy signals is when $\mathrm{ADX}$ turns up when below both *directional lines* and $+\mathrm{DI}$ is above $-\mathrm{DI}$.
