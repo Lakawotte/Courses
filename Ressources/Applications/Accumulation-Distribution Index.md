@@ -28,6 +28,7 @@ Since we only care about the shape of this curve, the actual value $\mathrm{ADI}
 ## I. Idea
 The name accumulation/distribution comes from the idea that during *accumulation*, buyers are in control and the price will be bid up through the day, or will make a recovery if sold down. In either case the closure price will more often finish near the day's high than the low.
 Conversely, in a *distribution*, sellers are stronger and the prices are decreasing especially at the end of the day.
+Hence, based on the *supply and demand* pressure of a stock, one can predict the stock’s future price trend.
 # Strategy
 
 ---
