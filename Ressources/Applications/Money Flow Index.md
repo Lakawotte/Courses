@@ -37,7 +37,12 @@ cssclasses:
 $\mathrm{MFI}$ is a measure of ==*enthusiasm==*. It describes how much a stock was traded.
 ### A. Overselling and Overbuying
 >[!example] Proposition 1 : Overselling
->If the $\mathrm{MFI}$ is above $80$
+>If the $\mathrm{MFI}$ is under $20$, it is considered as *oversell*.
+
+>[!example] Proposition 2 : Overbuying
+>If the $\mathrm{MFI}$ is above $80$, it is considered as *overbought*.
+### B. Divergence
+>[!exampl]
 # Strategy
 
 ---
