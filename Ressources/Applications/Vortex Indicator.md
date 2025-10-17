@@ -27,9 +27,11 @@ cssclasses:
 >$$
 >
 #### *==Note :==*
-As it has been shown, one can define the *vortex indicator* for any timeframe.
+As it has been shown, one can define the *vortex indicator* for any timeframe. Notice than the shorter the timeframe is, the longer the period should be in order to prevent false signals.
 # Interpretation
-## I.
+## I. Idea
+### A. Trend
+
 # Strategy
 
 ---
