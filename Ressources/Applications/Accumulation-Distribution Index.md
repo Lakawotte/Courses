@@ -30,6 +30,9 @@ The name accumulation/distribution comes from the idea that during *accumulation
 Conversely, in a *distribution*, sellers are stronger and the prices are decreasing especially at the end of the day.
 
 Hence, based on the *supply and demand* pressure of a stock, one can predict the stock’s future price trend.
+### A. Hypothesis
+>[!example] Hypothesis 1 : **[[Volume]]** and Prices
+>A significant increase of **[[Volume]]** for an asset is conducting a higher *demand*, and so the prices are likely to go up.
 # Strategy
 
 ---
