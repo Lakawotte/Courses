@@ -31,7 +31,9 @@ As it has been shown, one can define the *vortex indicator* for any timeframe. N
 # Interpretation
 ## I. Idea
 ### A. Trend
-
+>[!example] Proposition 1 : Intersection
+>If $+\mathrm{VI}$ and $+\mathrm{VI}$ are seen intersecting each other, it may indicate a reversal.
+>The more the lines diverges after then, the mor
 # Strategy
 
 ---
