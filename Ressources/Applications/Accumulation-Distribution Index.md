@@ -47,11 +47,8 @@ Hence, based on the *supply and demand* pressure of a stock, one can predict the
 >For a given period, if the $\mathrm{ADI}$ is falling, then *distribution* may be higher and is a sign of the future downward breakout.
 
 ### C. Divergence
->[!example] Proposition 5 : Negative divergence
->When prices continues to rise while $\mathrm{ADI}$ falls, the *upward trend* is likely to stall.
-
->[!example] Proposition 6 : Positive divergence
->When prices continues to fall while accumulation distribution rises, the downward trend is likely to stall. It is called positive divergence.
+>[!example] Proposition 5 : *Stall*
+>When prices and $\mathrm{ADI}$ are diverging, the *trend* is likely to *stall*.
 # Strategy
 
 ---
