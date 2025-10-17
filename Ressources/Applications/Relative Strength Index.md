@@ -72,4 +72,6 @@ One can distinguish two neutral territories
 - *Uptrend* territory : $50<\mathrm{RSI}<70$ : the more the $\mathrm{RSI}$ stays in that territory, the more prices are increasing
 - *Downtrend* territory : $30<\mathrm{RSI}<50$ : the more the $\mathrm{RSI}$ stays in that territory, the more prices are decreasing
 
+Here $\mathrm{RSI}$ only helps us identifying possible long-term 
+
 ---
