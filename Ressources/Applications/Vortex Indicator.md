@@ -14,7 +14,7 @@ cssclasses:
 >Here $\mathrm{TR}$ is denoted for **[[True Range]]**. We write $H$ and $L$ for current high and current low, and for a time $t$ $C_{t-1}$ the previous close price. Thus
 >$$
 \begin{align}
-
++\mathrm{VM}=|H_{t}-L_{t-1}|
 \end{align}
 >$$
 # Interpretation
