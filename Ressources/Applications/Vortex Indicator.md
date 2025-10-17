@@ -30,6 +30,8 @@ cssclasses:
 As it has been shown, one can define the *vortex indicator* for any timeframe. Notice than the shorter the timeframe is, the longer the period should be in order to prevent false signals.
 # Interpretation
 ## I. Idea
+A *vortex pattern* may be observed in any market by connecting the lows of that market's price bars with the consecutive bars’ highs, and then price bar highs with consecutive lows.
+The greater the distance between the low of a price bar and the subsequent bar's high, the greater the upward or positive Vortex movement (VM+). Similarly, the greater the distance between a price bar's high and the subsequent bar's low, the greater the downward or negative Vortex movement (VM-).
 ### A. Trend
 >[!example] Proposition 1 : Intersection
 >If $+\mathrm{VI}$ and $-\mathrm{VI}$ are seen intersecting each other, it may indicate a reversal.
