@@ -46,6 +46,7 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 ### 1. Other Definition
 
 >[!tldr]
+>Considering $P$ the prices and $t$ the dates
 >$$
 >$$
 ### 2. Other formulas
