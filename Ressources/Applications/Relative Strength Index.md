@@ -30,7 +30,7 @@ cssclasses:
 >$$
 # Interpretation
 ## I. Idea
-The *relative strength index* is a mea
+The *relative strength index* is a measure of 
 # Strategy
 
 ---
