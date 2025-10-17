@@ -41,5 +41,8 @@ So, when prices are going up, $\mathrm{OBV}$ should be going up too, and when pr
 ## 1. Breakouts
 One can draw *support* and *resistance* lines as a standard chart.
 If the $\mathrm{OBV}$ is breaking a *resistance* level, one should take a *long position*.
+If the $\mathrm{OBV}$ is breaking a *support* level, one should take a *short position*.
+
+Furthermore, a **[[Aver]]
 
 ---
