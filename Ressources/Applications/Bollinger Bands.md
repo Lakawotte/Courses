@@ -63,6 +63,7 @@ This is, while we should find approximately $95\%$ of the data inside the *cylin
 The user is free to chose parameters such that a specific proportion of the data fits inside the *cylinder*.
 # Interpretation
 ## I. Idea
+*Bollinger bands* are a ==**[[Volatility]]**== index.
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
 - The top of the band is considered as a *resistance level*
 - The bottom of the band is considered as a *support level*
