@@ -35,6 +35,9 @@ cssclasses:
 # Interpretation
 ## I. Idea
 $\mathrm{MFI}$ is a measure of ==*enthusiasm==*. It describes how much a stock was traded.
+### A. Overselling and Overbuying
+>[!example] Proposition 1 : Overselling
+>If the $\mathrm{MFI}$ is above $80$
 # Strategy
 
 ---
