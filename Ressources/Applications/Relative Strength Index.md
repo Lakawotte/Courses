@@ -29,7 +29,8 @@ cssclasses:
 \mathrm{RSI}=100(1-\frac{1}{1+\mathrm{RS}})
 >$$
 # Interpretation
-## I.
+## I. Idea
+The *relative strength index* is a mea
 # Strategy
 
 ---

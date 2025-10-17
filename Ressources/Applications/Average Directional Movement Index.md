@@ -41,7 +41,7 @@ cssclasses:
 Most of the time, we use $N=14$.
 For the **[[Moving Average]]**, the **[[Moving Average|exponential moving average]]** may be appropriate in some cases.
 
-## II. Purpose
+## II. Extensions
 
 ### 1. Other Definition
 
@@ -54,7 +54,6 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 >$$
 \frac{\Delta\mathrm{ADX}}{\Delta t}\propto\frac{\Delta^2P_{t}}{\Delta t^2}
 >$$
-### 2. Other formulas
 # Interpretation
 ## I. Idea
 The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established before the $\mathrm{ADX}$ can indicates a signal that a trend is under way.
