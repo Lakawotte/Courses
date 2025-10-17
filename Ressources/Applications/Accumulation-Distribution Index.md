@@ -33,10 +33,13 @@ The name accumulation/distribution comes from the idea that during *accumulation
 Conversely, in a *distribution*, sellers are stronger and the prices are decreasing especially at the end of the day.
 
 Hence, based on the *supply and demand* pressure of a stock, one can predict the stock’s future price trend.
-### A. Prices
+### A. Trends
 >[!example] Proposition 1 : Increase
->When the prices and $\mathrm{ADI}$ both make high peaks and high troughs, the *upward trend* is likely to continue.
-When the stock price and A/D indicator both make low peaks and low troughs, the downward trend is likely to continue.
+>In an *upward trend*, when the prices and $\mathrm{ADI}$ both make high peaks and high troughs, the *upward trend* is likely to continue.
+
+>[!example] Proposition 2 : Decrease
+>In an *upward trend*, when the prices and $\mathrm{ADI}$ both make low peaks and low troughs, the *downward trend* is likely to continue.
+### B. Accumul
 For a given period, if the A/D indicator is rising, then accumulation (buying pressure) may be higher and is a sign of the future upward breakout.
 For a given period, if the A/D indicator is falling, then distribution (selling pressure) may be higher and is a sign of the future downward breakout.
 # Strategy
