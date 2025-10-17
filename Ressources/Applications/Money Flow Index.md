@@ -21,7 +21,10 @@ cssclasses:
 >$$
 \mathrm{MFI}=\mathrm{TP}_{t}\times V_{t}
 >$$
->Then let us constrruc
+>Then let us construct $\mathrm{MFI}$ as a *recursive sequence* :
+>$$
+\mathrm{MFI}_{t}=\mathrm{MFI}_{t-1}+\begin{cases}V\,\,\mathrm{if}\,\,C_{t}>C_{t-1}\\0\,\,\mathrm{if}\,\,C_{t}=C_{t-1}\\-V\,\,\mathrm{if}\,\,C_{t}<C_{t-1}\end{cases}
+>$$
 # Interpretation
 ## I.
 # Strategy
