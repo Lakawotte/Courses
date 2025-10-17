@@ -20,7 +20,9 @@ cssclasses:
 By definition, the $\mathrm{OBV}$ depends on the starting point of computation.
 # Interpretation
 ## I. Idea
-$\mathrm{OBV}$ is generally used to confirm price moves. The idea is that **[[Volume]]** is higher on days where the price move is in the dominant direction. for example in a strong uptrend there is more volume on up days than down days.
+$\mathrm{OBV}$ is generally used to confirm price moves. The idea is that **[[Volume]]** is higher on days where the price move is in the dominant direction.
+#### ==*Example :*==
+In a strong *uptrend*, there is more **[[Volume]]** on up days than down days, so the $\mathrm{OBV}$ is higher.
 # Strategy
 
 ---
