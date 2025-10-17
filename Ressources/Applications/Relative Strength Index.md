@@ -23,7 +23,8 @@ cssclasses:
 \mathrm{RS}:=\frac{\mathrm{SMA}_{N}(\mathrm{Up})}{\mathrm{SMA}_{N}(\mathrm{Down})}
 >$$
 
->{}
+>[!tip] Definition 2 : $\mathrm{RSI}$
+>Usi
 # Interpretation
 ## I.
 # Strategy
