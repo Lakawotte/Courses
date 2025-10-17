@@ -8,7 +8,6 @@ progress:
 ---
 ---
 # Theory
-## I.
 ## I. Construction
 >[!hint] Definition
 >A Bollinger band is made of two components :
@@ -101,10 +100,10 @@ Here the *bounds* are closing to each other and thus the market stabilizes for a
 ## 1. Bands
 One strategy is to wait for the prices to fall over or under *bounds*, in such a way that if **proposition 4** is ensured, the market will enter in a *reversal*.
 ## 2. Contrarian Strategy
-In this strategy, we only assume that charts will not go out of the *cylinder*. The idea is to counter the market by :
+If the bands respect the conditions of **proposition 1** and **proposition 2**, and we assume that charts will not go out of the *cylinder*, we thus have a *sinusoïd* trend *bounded*. We should enter either at the mid-range or a little higher than the *lower bound*.
+The idea is to counter the market by :
 - Selling when prices hits the *upper bound*
 - Buying when prices hits the *lower bound*
-If the bands respect the conditions of **proposition 1** and **proposition 2**, we have a *sinusoïd* trend *bounded*. We should enter either at the mid-range or a little higher than the *lower bound*.
 ## 3. **[[Volatility]]**
 This indicator may be used to determine prices **[[Volatility]]** using **property 3** and **property 5**.
 By identifying a *convergence* of prices, they are expected to break out.
