@@ -27,7 +27,7 @@ cssclasses:
 >$$
 >
 #### *==Note :==*
-As explicited, 
+As it has been shown, one can define the *vortex indicator* for any timeframe.
 # Interpretation
 ## I.
 # Strategy
