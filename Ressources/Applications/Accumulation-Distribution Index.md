@@ -16,7 +16,7 @@ cssclasses:
 \mathrm{CLV}:=\frac{(C-L)-(H-C)}{H-L}
 >$$
 #### *==Note :==*
-The $\mathrm{CLV}$ is ranged between $-1$, when $C=L$, and $1$, when 
+The $\mathrm{CLV}$ is ranged between $-1$, when $C=L$, and $1$, when $C=H$.
 # Interpretation
 ## I.
 # Strategy
