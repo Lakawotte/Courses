@@ -33,7 +33,8 @@ cssclasses:
 \mathrm{MFI}=100\times\frac{\mathrm{MF}^-}{\mathrm{MF}^+-\mathrm{MF}^-}
 >$$
 # Interpretation
-## I.
+## I. Idea
+$\mathrm{MFI}$ is a measure of ==*enthusiasm==*. It describes how much a stock was traded.
 # Strategy
 
 ---
