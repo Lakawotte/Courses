@@ -11,7 +11,7 @@ cssclasses:
 ## I. Construction
 ### A. Definition
 >[!] $\mathrm{+VI}$ and $-\mathrm{VI}$
->Here $\mathrm{TR}$ is denoted for **[[Aver]]
+>Here $\mathrm{TR}$ is denoted for **[[True Range]]**.
 # Interpretation
 ## I.
 # Strategy
