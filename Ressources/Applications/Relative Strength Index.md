@@ -33,7 +33,7 @@ Here $\mathrm{RSI}$ is *bounded* between $[0,1[$.
 # Interpretation
 ## I. Idea
 The *relative strength index* is a measure of the *momentum*. More, it is a *momentum oscillator*, measuring the velocity and magnitude of price movements.
-It shows 
+It shows how much the evolution of the price of an asset is strong. This is, it represents 
 # Strategy
 
 ---
