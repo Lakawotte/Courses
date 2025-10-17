@@ -24,13 +24,13 @@ cssclasses:
 >Then let us divide $\mathrm{MF}$ as two *recursive sequences* :
 >$$
 \begin{align}
-\forall t>0,\mathrm{TP}_{t}>\mathrm{TP}_{t-1}, +\mathrm{MF}=\sum_{t} \mathrm{TP}\\ \\
-\forall t>0,\mathrm{TP}_{t-1}>\mathrm{TP}_{t}, -\mathrm{MF}=\sum_{t} \mathrm{TP}\\
+\forall t>0,\mathrm{TP}_{t}>\mathrm{TP}_{t-1}, \mathrm{MF}^+=\sum_{t} \mathrm{TP}\\ \\
+\forall t>0,\mathrm{TP}_{t-1}>\mathrm{TP}_{t}, \mathrm{MF}^-=\sum_{t} \mathrm{TP}\\
 \end{align}
 >$$
 >Thus, we define the $\mathrm{MFI}$ as
 >$$
-\mathrm{MFI}=100\times\frac{+\mathrm{MF}}{+\mathrm{MF}--\mathrm{MF}}
+\mathrm{MFI}=100\times\frac{\mathrm{MF}^-}{\mathrm{MF}^+-\mathrm{MF}^-}
 >$$
 # Interpretation
 ## I.
