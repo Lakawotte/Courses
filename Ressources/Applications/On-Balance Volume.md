@@ -11,7 +11,8 @@ cssclasses:
 ## I. Construction
 ### A. Definition
 
->[!tip] 
+>[!tip] On-Balance Volume
+>Let $\mathrm{OBV}$ be the *on-balance volume* and $t$ a 
 # Interpretation
 ## I.
 # Strategy
