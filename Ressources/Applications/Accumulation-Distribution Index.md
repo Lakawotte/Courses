@@ -26,8 +26,8 @@ The $\mathrm{CLV}$ is ranged between $-1$, when $C=L$, and $1$, when $C=H$.
 Since we only care about the shape of this curve, the actual value $\mathrm{ADI}_{0}$ does not matter.
 # Interpretation
 ## I. Idea
-The name accumulation/distribution comes from the idea that during *accumulation*, buyers are in control and the price will be bid up through the day, or will make a recovery if sold down. In either case more often finishing near the day's high than the low.
-Conversely, in a *distribution*, sellers are stronger and the prices are The opposite applies during distribution.
+The name accumulation/distribution comes from the idea that during *accumulation*, buyers are in control and the price will be bid up through the day, or will make a recovery if sold down. In either case the closure price will more often finish near the day's high than the low.
+Conversely, in a *distribution*, sellers are stronger and the prices are decreasing especially at the end of the day.
 # Strategy
 
 ---
