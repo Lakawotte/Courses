@@ -20,7 +20,7 @@ cssclasses:
 >$$
 >With this two values, we now compute the *relative strength* $\mathrm{RS}$ for $N\in\mathbb{N}$ :
 >$$
-\mathrm{RS}:=\frac{{SMA}_{N}(\mathrm{Up}){\mathrm{SMA}_{N}(\mathrm{Down})}
+\mathrm{RS}:=\frac{\mathrm{SMA}_{N}(\mathrm{Up})}{\mathrm{SMA}_{N}(\mathrm{Down})}
 >$$
 # Interpretation
 ## I.
