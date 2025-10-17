@@ -45,7 +45,7 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 
 ### 1. Other Definition
 
->[!tldr]
+>[!tldr] Definition Slopes
 >Considering $P$ the prices and $t$ the dates, one have
 >$$
 \mathrm{ADX}\propto\frac{\Delta P_{t}}{\Delta t}

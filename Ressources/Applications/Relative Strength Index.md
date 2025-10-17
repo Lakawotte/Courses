@@ -30,6 +30,9 @@ cssclasses:
 >$$
 #### *==Note :*==
 Here $\mathrm{RSI}$ is *bounded* between $[0,1[$.
+## II. Extensions
+### A. Other Definition
+>[!tip] 
 # Interpretation
 ## I. Idea
 The *relative strength index* is a measure of the *momentum*. More, it is a *momentum oscillator*, measuring the velocity and magnitude of price movements.
