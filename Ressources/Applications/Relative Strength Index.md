@@ -58,7 +58,9 @@ It shows how much the evolution of the price of an asset is strong. This is, it 
 >[!example] Proposition 5 : Hidden Divergence
 >Say that prices made a lower high and $\mathrm{RSI}$ made a higher high. Then it is a *bearish divergence*.
 >Say now that prices made a higher low, but $\mathrm{RSI}$ made a lower low. Then it is a *bullish divergence*.*
-### C. **[Failure Swings]]**
+### C. **[[Failure Swings]]**
+>[!example] Proposition 6 :
+>When **[[Failure Swings]]** occurs a the sensitive zones of the $\mathrm{RSI}$ which are $70$ and $30$, it is a strong re
 # Strategy
 
 ---
