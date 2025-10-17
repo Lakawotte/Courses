@@ -44,6 +44,6 @@ The greater the distance between the low of a price bar and the subsequent bar's
 >Conversely, when $\mathrm{VI}^-$ is bigger and above $+\mathrm{VI}$, the market is trending down.
 # Strategy
 ### 1. Crossing points
-One should focus on crossing points of the two curves, indicating either a *long-term position* if $\mathrm{VI}^+>-\mathrm{VI}$ or a *short-term position* if $\mathrm{VI}^->\mathrm{VI}^+$.
+One should focus on crossing points of the two curves, indicating either a *long-term position* if $\mathrm{VI}^+>\mathrm{VI}^-$ or a *short-term position* if $\mathrm{VI}^->\mathrm{VI}^+$.
 
 ---

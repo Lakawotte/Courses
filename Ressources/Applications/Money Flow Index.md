@@ -24,8 +24,8 @@ cssclasses:
 >Then let us divide $\mathrm{MF}$ as two *recursive sequences* :
 >$$
 \begin{align}
-\forall t>0,\mathrm{TP}_{t}>\mathrm{TP}_{t-1}, \mathrm{MF}^+=\sum_{t} \mathrm{TP}\\ \\
-\forall t>0,\mathrm{TP}_{t-1}>\mathrm{TP}_{t}, \mathrm{MF}^-=\sum_{t} \mathrm{TP}\\
+\forall t>0,\mathrm{TP}_{t}>\mathrm{TP}_{t-1}, \mathrm{MF}^+=\sum_{t} \mathrm{MF}\\ \\
+\forall t>0,\mathrm{TP}_{t-1}>\mathrm{TP}_{t}, \mathrm{MF}^-=\sum_{t} \mathrm{MF}\\
 \end{align}
 >$$
 >Thus, we define the $\mathrm{MFI}$ as
