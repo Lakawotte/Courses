@@ -65,13 +65,14 @@ It shows how much the evolution of the price of an asset is strong. This is, it 
 >When **[[Failure Swings]]** occurs a the sensitive zones of the $\mathrm{RSI}$ which are $70$ and $30$, it is a strong reversal signal.
 # Strategy
 ## 1. Uptrends and Downtrends
-Cardwell noticed that **proposition 3** leaded to a brief correction instead of a reversal, and similarly with **proposition 4**. This is, *bearish divergence* is confirming an *uptrend*, and *bullish divergence* is confirming a *downtrend*.
+Cardwell noticed that **proposition 3** leaded to a brief correction instead of a reversal, and similarly with **proposition 4**. This is, *bearish divergence* could be confirming an *uptrend*, and *bullish divergence* could be confirming a *downtrend*.
+Here $\mathrm{RSI}$ only helps us identifying possible *uptrends*
 ## 2. Territories
 When in a *overbought territory*, the *uptrend* is more likely to stop or fatigues.
 One can distinguish two neutral territories
 - *Uptrend* territory : $50<\mathrm{RSI}<70$ : the more the $\mathrm{RSI}$ stays in that territory, the more prices are increasing
 - *Downtrend* territory : $30<\mathrm{RSI}<50$ : the more the $\mathrm{RSI}$ stays in that territory, the more prices are decreasing
 
-Here $\mathrm{RSI}$ only helps us identifying possible long-term 
+
 
 ---
