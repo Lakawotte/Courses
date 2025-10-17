@@ -36,7 +36,10 @@ As it has been shown, one can define the *vortex indicator* for any timeframe. N
 >The more the lines diverges after then, the more likely the trend is to pursue.
 
 >[!example] Proposition 2 : Comparison
->When VI+ is larger and above VI−, the market is likely to be trending up. Conversely, when VI− is bigger and above VI+, the market is trending down.
+>When $+\mathrm{VI}$ is larger and above $-\mathrm{VI}$, the market is likely to be trending up.
+>Conversely, when $-\mathrm{VI}$ is bigger and above $+\mathrm{VI}$, the market is trending down.
 # Strategy
+### 1. Crossing points
+One should focus on crossing points of the two curves, indicating either a *long-term position* if 
 
 ---
