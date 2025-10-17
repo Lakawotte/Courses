@@ -28,7 +28,7 @@ $\mathrm{OBV}$ is generally used to confirm price moves. The idea is that **[[Vo
 #### ==*Example :*==
 In a strong *uptrend*, there is more **[[Volume]]** on up days than down days, so the $\mathrm{OBV}$ is higher.
 #### ==*Note :==*
-Since $\mathrm{OBV}$ is computed on close prices of the day, it is not very useful
+Since $\mathrm{OBV}$ is computed on close prices of the day, it is not very useful in *daytrading*.
 ### A. Trends
 
 >[!example] Proposition 1 : Trends
