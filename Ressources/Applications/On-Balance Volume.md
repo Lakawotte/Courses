@@ -21,13 +21,13 @@ By definition, the $\mathrm{OBV}$ depends on the starting point of computation.
 ### B. Hypothesis
 
 >[!example] Hypothesis 1 : **[[Volume]]** and Prices
->A significant increase of 
+>A significant increase of **[[Volume]]** for an asset is conducting a higher *demand*, and so the prices are likely to go up.
 # Interpretation
 ## I. Idea
 $\mathrm{OBV}$ is generally used to confirm price moves. The idea is that **[[Volume]]** is higher on days where the price move is in the dominant direction.
 #### ==*Example :*==
 In a strong *uptrend*, there is more **[[Volume]]** on up days than down days, so the $\mathrm{OBV}$ is higher.
-### A. Prices
+### A. Trends
 A higher close results in the volume for that day to get a positive value, while a lower close results in negative value.
 When prices are going up, $\mathrm{OBV}$ should be going up too, and when prices make a new rally high, then $\mathrm{OBV}$ should too. If $\mathrm{OBV}$ fails to go past its previous rally high, then this is a *negative divergence*, suggesting a weak move.
 # Strategy
