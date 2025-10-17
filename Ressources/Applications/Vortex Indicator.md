@@ -9,7 +9,8 @@ cssclasses:
 ---
 # Theory
 ## I. Construction
-
+### A. Definition
+>[!]
 # Interpretation
 ## I.
 # Strategy
