@@ -22,7 +22,8 @@ The $\mathrm{CLV}$ is ranged between $-1$, when $C=L$, and $1$, when $C=H$.
 >$$
 \mathrm{ADI}_{t}=\mathrm{ADI}_{t-1}+V\times CLV
 >$$
-#### 
+#### *==Note :==*
+Since we only care about the shape of this curve, the actual value $\mathrm{ADI}_{0}$ does not matter.
 # Interpretation
 ## I.
 # Strategy
