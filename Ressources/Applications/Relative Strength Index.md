@@ -10,6 +10,8 @@ cssclasses:
 # Theory
 ## I. Construction
 
+>[!tip] Strength Index
+>
 # Interpretation
 ## I.
 # Strategy
