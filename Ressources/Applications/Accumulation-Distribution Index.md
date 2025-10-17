@@ -35,7 +35,7 @@ Conversely, in a *distribution*, sellers are stronger and the prices are decreas
 Hence, based on the *supply and demand* pressure of a stock, one can predict the stock’s future price trend.
 ### A. Prices
 >[!example] Proposition 1 : Increase
->When the stock price and A/D indicator both make high peaks and high troughs, the upward trend is likely to continue.
+>When the prices and $\mathrm{ADI}$ both make high peaks and high troughs, the *upward trend* is likely to continue.
 When the stock price and A/D indicator both make low peaks and low troughs, the downward trend is likely to continue.
 For a given period, if the A/D indicator is rising, then accumulation (buying pressure) may be higher and is a sign of the future upward breakout.
 For a given period, if the A/D indicator is falling, then distribution (selling pressure) may be higher and is a sign of the future downward breakout.
