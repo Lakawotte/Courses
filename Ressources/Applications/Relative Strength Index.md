@@ -51,7 +51,8 @@ It shows how much the evolution of the price of an asset is strong. This is, it 
 
 >[!example] Proposition 3 : Bearish Divergence
 >Suppose that prices make a new high and the $\mathrm{RSI}$ made a lower high. Then it is a very strong reversal signal ; the turning point is imminent.
-
+#### *==Note :*==
+*Bearish divergence* only appears on an *uptrend*.
 >[!example] Proposition 4 : Bullish Divergence
 >Suppose that prices make a new low and the $\mathrm{RSI}$ made a higher low. Thus the $\mathrm{RSI}$ has failed to confirm and the trend is very likely to reverse.
 
