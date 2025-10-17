@@ -31,7 +31,7 @@ cssclasses:
 >[!hint] Definition 2 : $\mathrm{ADX}$
 >One can define the $\mathrm{DX}$, which is composed by the *positive directional indicator*, $\mathrm{+DI}$, and the *negative directional indicator* $\mathrm{-DI}$ :
 >$$
-\mathrm{DX}_{N}=\frac{|\mathrm{+DI}-\mathrm{-DI}}{\mathrm{+DI}+\mathrm{-DI}}\times 100
+\mathrm{DX}_{N}=\frac{|\mathrm{+DI}-\mathrm{-DI}|}{\mathrm{+DI}+\mathrm{-DI}}\times 100
 >$$
 >Thus, its **[[Mean]]** is given by
 >$$
@@ -52,7 +52,7 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 >$$
 >And by *differentiation*
 >$$
-\frac{\Delta\mathrm{ADX}}{\Delta t}\propto\frac{\Delta P_{t}}{\Delta t}
+\frac{\Delta\mathrm{ADX}}{\Delta t}\propto\frac{\Delta^2P_{t}}{\Delta t^2}
 >$$
 ### 2. Other formulas
 # Interpretation
