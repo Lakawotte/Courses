@@ -20,7 +20,10 @@ cssclasses:
 >$$
 >For a given period $N$, we then compute $\sum_{N}\mathrm{TR}$ and $\sum_{N}\pm\mathrm{VM}$ :
 >$$
-
+\begin{align}
++\mathrm{VI}=\frac{\sum_{N}+\mathrm{VM}}{\sum_{N}\mathrm{TR}}\\
++\mathrm{VI}=\frac{\sum_{N}+\mathrm{VM}}{\sum_{N}\mathrm{TR}}\\
+\end{align}
 >$$
 >
 # Interpretation
