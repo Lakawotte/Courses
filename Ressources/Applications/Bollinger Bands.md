@@ -67,7 +67,7 @@ The user is free to chose parameters such that a specific proportion of the data
 *Bollinger bands* acts like a **[[Moving Average]]** with a kind of *cylinder* around the *chart*. This *cylinder* contains most of the chart in such a way that :
 - The top of the band is considered as a *resistance level*
 - The bottom of the band is considered as a *support level*
-- The center of the *cylinder* is the **[[[Moving Average]]**
+- The center of the *cylinder* is the **[[Moving Average]]**
 ### A. Range Phases
 >[!example] Proposition 1 : Bounces
 >In *range phases*, prices bounces up and down inside the *cylinder*. It is a period of low-**[[Volatility]]** when the upper and lower bands lie together.
