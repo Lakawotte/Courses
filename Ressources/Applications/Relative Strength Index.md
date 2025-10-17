@@ -36,7 +36,10 @@ The *relative strength index* is a measure of the *momentum*. More, it is a *mom
 It shows how much the evolution of the price of an asset is strong. This is, it represents the strength of increases relative to decreases.
 ### A. Pressure
 >[!example] Proposition 1 : Overbuying
->Suppose a fast evolution of prices indicates an over
+>Suppose a fast evolution of prices indicates an overbought. Then if  $\mathrm{RSI}>70$, it is an *overbought* territory.
+
+>[!example] Proposition 2 : Overbuying
+>Suppose a fast evolution of prices indicates an overbought. Then if  $\mathrm{RSI}>70$, it is an *overbought* territory.
 # Strategy
 
 ---
