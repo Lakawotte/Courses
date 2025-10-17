@@ -29,7 +29,7 @@ cssclasses:
 \mathrm{RSI}=100(1-\frac{1}{1+\mathrm{RS}})
 >$$
 #### *==Note :*==
-
+Here $\mathrm{RSI}$ is *bounded* between $[0,1[$.
 # Interpretation
 ## I. Idea
 The *relative strength index* is a measure of 
