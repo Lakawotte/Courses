@@ -39,7 +39,8 @@ Here $\mathrm{RSI}$ is *bounded* between $[0,1[$.
 >$$
 # Interpretation
 ## 1. Idea
-The *relative strength index* is a measure of the *momentum*. More, it is a *momentum oscillator*, measuring the velocity and magnitude of price movements.
+The *relative strength index* is a measure of the ==*momentum*==.
+More, it is a *momentum oscillator*, measuring the velocity and magnitude of price movements.
 It shows how much the evolution of the price of an asset is strong. This is, it represents the strength of increases relative to decreases.
 ### A. Pressure
 >[!example] Proposition 1 : Overbuying
