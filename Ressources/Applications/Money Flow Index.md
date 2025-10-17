@@ -42,7 +42,8 @@ $\mathrm{MFI}$ is a measure of ==*enthusiasm==*. It describes how much a stock w
 >[!example] Proposition 2 : Overbuying
 >If the $\mathrm{MFI}$ is above $80$, it is considered as *overbought*.
 ### B. Divergence
->[!exampl]
+>[!example] Proposition 3 : Divergence
+>If prices make a new rally high but the $\mathrm{MFI}$ high is less than its previous high, then that may indicate a weak advance that is likely to reverse.
 # Strategy
 
 ---
