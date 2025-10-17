@@ -19,13 +19,13 @@ cssclasses:
 >[!tip] Definition 2 : Money Flow Index
 >For $t$ a time, we have
 >$$
-\mathrm{MFI}=\mathrm{TP}_{t}\times V_{t}
+\mathrm{MF}=\mathrm{TP}_{t}\times V_{t}
 >$$
 >Then let us construct $\mathrm{MFI}$ as a *recursive sequence* :
 >$$
 \begin{align}
-\forall t>0,\mathrm{TP}_{t}>\mathrm{TP}_{t-1} +\mathrm{MFI}=\sum_{t} \mathrm{TP}\\ \\
-\forall t>0,\mathrm{TP}_{t-1}>\mathrm{TP}_{t} +\mathrm{MFI}=\sum_{t} \mathrm{TP}\\
+\forall t>0,\mathrm{TP}_{t}>\mathrm{TP}_{t-1}, +\mathrm{MF}=\sum_{t} \mathrm{TP}\\ \\
+\forall t>0,\mathrm{TP}_{t-1}>\mathrm{TP}_{t}, -\mathrm{MF}=\sum_{t} \mathrm{TP}\\
 \end{align}
 >$$
 # Interpretation
