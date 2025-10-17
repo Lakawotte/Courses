@@ -24,7 +24,8 @@ cssclasses:
 >Then let us construct $\mathrm{MFI}$ as a *recursive sequence* :
 >$$
 \begin{align}
-\forall t>0, +\mathrm{MFI}=\sum
+\forall t>0,\mathrm{TP}_{t}>\mathrm{TP}_{t-1} +\mathrm{MFI}=\sum_{t} \mathrm{TP}\\ \\
+\forall t>0,\mathrm{TP}_{t-1}>\mathrm{TP}_{t} +\mathrm{MFI}=\sum_{t} \mathrm{TP}\\
 \end{align}
 >$$
 # Interpretation
