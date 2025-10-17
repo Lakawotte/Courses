@@ -28,9 +28,12 @@ $\mathrm{OBV}$ is generally used to confirm price moves. The idea is that **[[Vo
 #### ==*Example :*==
 In a strong *uptrend*, there is more **[[Volume]]** on up days than down days, so the $\mathrm{OBV}$ is higher.
 ### A. Trends
-If the *trend* is evolving in the same direction as the $\mathrm{OBV}$, this enhances the df
+
+>[!example]Proposition 1 : TrendsIf the *trend* is evolving in the same direction as the $\mathrm{OBV}$, this enhances the fact that the trend may be strong.
 ### B. Divergence
-When prices are going up, $\mathrm{OBV}$ should be going up too, and when prices make a new rally high, then $\mathrm{OBV}$ should too. If $\mathrm{OBV}$ fails to go past its previous rally high, then this is a *negative divergence*, suggesting a weak move.
+
+>[!example] Proposition 2 : Divergence
+>If $\mathrm{OBV}$ fails to go past its previous rally high, then this is a *negative divergence*, suggesting a weak move.
 # Strategy
 
 ---
