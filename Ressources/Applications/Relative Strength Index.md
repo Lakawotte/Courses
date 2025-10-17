@@ -11,7 +11,7 @@ cssclasses:
 ## I. Construction
 
 >[!tip] Strength Index
->
+>Let $
 # Interpretation
 ## I.
 # Strategy
