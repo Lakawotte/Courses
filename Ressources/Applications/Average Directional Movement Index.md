@@ -55,7 +55,11 @@ The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established before the
 ### A. Strenght
 
 >[!example] Proposition 1 : Strenght
->There is four main distinctions of the values 
+>There is four main distinctions of the values $\mathrm{ADX}$ can take :
+>1. $\mathrm{ADX}<20$ : The tendency is low
+>2. 20<$\mathrm{ADX}<20$ :
+>3. $\mathrm{ADX}<20$ :
+>4. $\mathrm{ADX}<20$ :
 >
 # Strategy
 ## 1. Timing and $\pm\mathrm{DI}$
