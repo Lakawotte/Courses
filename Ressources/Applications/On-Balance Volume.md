@@ -39,6 +39,7 @@ So, when prices are going up, $\mathrm{OBV}$ should be going up too, and when pr
 >If $\mathrm{OBV}$ fails to go past its previous rally high, then this is a *negative divergence*, suggesting a weak move.
 # Strategy
 ## 1. Breakouts
-One can draw *support* and *resistance* 
+One can draw *support* and *resistance* lines as a standard chart.
+If the $\mathrm{OBV}$ is breaking a *resistance* level, one should take a *long position*.
 
 ---
