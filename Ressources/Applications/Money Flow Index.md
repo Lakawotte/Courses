@@ -11,7 +11,7 @@ cssclasses:
 ## I. Construction
 ### A. Definition
 >[!tip] Definition 1 : Typical Price
->Let $H$ be the highest price of the day, $L$ the lowest and $C$ the closure price. Then the *typical price* is the **[[Mean]]** of the three values :
+>Let $H$ be the highest price of the day, $L$ the lowest and $C$ the closure price. Then the *typical price* on day $t$ is the **[[Mean]]** of the three values :
 >$$
 \mathrm{TP}=\frac{H+L+C}{3}
 >$$
@@ -23,7 +23,9 @@ cssclasses:
 >$$
 >Then let us construct $\mathrm{MFI}$ as a *recursive sequence* :
 >$$
-\mathrm{MFI}_{t}=\mathrm{MFI}_{t-1}+\begin{cases}V\,\,\mathrm{if}\,\,C_{t}>C_{t-1}\\0\,\,\mathrm{if}\,\,C_{t}=C_{t-1}\\-V\,\,\mathrm{if}\,\,C_{t}<C_{t-1}\end{cases}
+\begin{align}
+\forall t>0, +\mathrm{MFI}=\sum
+\end{align}
 >$$
 # Interpretation
 ## I.
