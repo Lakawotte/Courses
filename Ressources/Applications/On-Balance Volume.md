@@ -43,6 +43,6 @@ One can draw *support* and *resistance* lines as a standard chart.
 If the $\mathrm{OBV}$ is breaking a *resistance* level, one should take a *long position*.
 If the $\mathrm{OBV}$ is breaking a *support* level, one should take a *short position*.
 
-Furthermore, a **[[Aver]]
+Furthermore, a **[[Moving Average]]** of the $\mathrm{OBV}$ could indicate whether an *uptrend* or a *down*
 
 ---
