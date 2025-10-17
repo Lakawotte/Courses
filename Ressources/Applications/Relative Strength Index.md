@@ -73,7 +73,7 @@ When in a *overbought territory*, the *uptrend* is more likely to stop or fatigu
 One can distinguish two neutral territories
 - *Uptrend* territory : $50<\mathrm{RSI}<70$ : the more the $\mathrm{RSI}$ stays in that territory, the more prices are increasing
 - *Downtrend* territory : $30<\mathrm{RSI}<50$ : the more the $\mathrm{RSI}$ stays in that territory, the more prices are decreasing
-If p
+If prices are increasing and the $\mathrm{RSI}$ is on an *uptrend territory*, this might be a good entry, and vice-versa.
 
 
 ---
