@@ -41,10 +41,13 @@ Hence, based on the *supply and demand* pressure of a stock, one can predict the
 >In an *upward trend*, when the prices and $\mathrm{ADI}$ both make low peaks and low troughs, the *downward trend* is likely to continue.
 ### B. Breakout
 >[!example] Proposition 3 : *Accumulation*
->For a given period, if the $\mathrm{ADI}$ is rising, then accumulation (buying pressure) may be higher and is a sign of the future upward breakout.
+>For a given period, if the $\mathrm{ADI}$ is rising, then *accumulation* may be higher and is a sign of the future upward breakout.
 
 >[!example] Proposition 4 : *Distrbution*
->For a given period, if the $\mathrm{ADI}$ is falling, then distribution (selling pressure) may be higher and is a sign of the future downward breakout.
+>For a given period, if the $\mathrm{ADI}$ is falling, then *distribution* may be higher and is a sign of the future downward breakout.
+
+### C. Divergence
+
 # Strategy
 
 ---
