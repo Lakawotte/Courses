@@ -40,6 +40,6 @@ As it has been shown, one can define the *vortex indicator* for any timeframe. N
 >Conversely, when $-\mathrm{VI}$ is bigger and above $+\mathrm{VI}$, the market is trending down.
 # Strategy
 ### 1. Crossing points
-One should focus on crossing points of the two curves, indicating either a *long-term position* if 
+One should focus on crossing points of the two curves, indicating either a *long-term position* if $+\mathrm{VI}>-\mathrm{VI}$ or a *short-term position* if $-\mathrm{VI}>+\mathrm{VI}$.
 
 ---
