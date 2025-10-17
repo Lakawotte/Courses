@@ -43,7 +43,7 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 
 ## II. Purpose
 
-### 1. Properties
+### 1. Other Definition
 
 >[!tldr]
 >$$
@@ -55,13 +55,12 @@ The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established before the
 ### A. Strenght
 
 >[!example] Proposition 1 : Strenght
->There is four main distinctions of the values $\mathrm{ADX}$ can take :
+>There is different interpretations for values $\mathrm{ADX}$ can take :
 >1. $\mathrm{ADX}<20$ : The tendency is very low, there might me be a reversel signal., there might me be a reversel signal.
 >2. $20<\mathrm{ADX}<40$ : The tendency is low
 >3. $40<\mathrm{ADX}<50$ : The tendency is strong
 >4. $50<\mathrm{ADX}<70$ : The tendency is very strong
->5. $\mathrm{ADX}>70$ : The tendency is too strong, there might me be a reversel signal.
->
+>5. $\mathrm{ADX}>70$ : The tendency is too strong, there might me be a reversal signal.
 # Strategy
 ## 1. Timing and $\pm\mathrm{DI}$
 One of the best buy signals is when $\mathrm{ADX}$ turns up when below both *directional lines* and $+\mathrm{DI}$ is above $-\mathrm{DI}$.
