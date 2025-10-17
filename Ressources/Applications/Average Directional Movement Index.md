@@ -46,8 +46,9 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 ### 1. Other Definition
 
 >[!tldr]
->Considering $P$ the prices and $t$ the dates
+>Considering $P$ the prices and $t$ the dates, one have
 >$$
+\mathrm{ADX}\propto\frac{\Delta P_{t}}{\Delta t}
 >$$
 ### 2. Other formulas
 # Interpretation
