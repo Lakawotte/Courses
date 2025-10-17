@@ -20,10 +20,10 @@ The $\mathrm{CLV}$ is ranged between $-1$, when $C=L$, and $1$, when $C=H$. If t
 >[!tip] Definition 2 : $\mathrm{ADI}$
 >One can then define, for $t$ a time and $V$ the **[[Volume]]**, the *accumulation/distribution index* as a *recursive sequence*
 >$$
-\mathrm{ADI}_{t}=\mathrm{ADI}_{t-1}+V\times CLV
+\mathrm{ADI}_{t}=\mathrm{ADI}_{t-1}+V_{t}\times CLV
 >$$
 #### *==Note :==*
-Since we only care about the shape of this curve, the actual value $\mathrm{ADI}_{0}$ does not matter.
+Since we only care about the shape of this curve, the actual value $\mathrm{ADI}_{0}$ does not matter. Furthermore, it is commonly defined as $0$.
 # Interpretation
 ## I. Idea
 The name accumulation/distribution comes from the idea that during *accumulation*, buyers are in control and the price will be bid up through the day, or will make a recovery if sold down. In either case the closure price will more often finish near the day's high than the low.
