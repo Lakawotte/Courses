@@ -56,7 +56,8 @@ It shows how much the evolution of the price of an asset is strong. This is, it 
 >Suppose that prices make a new low and the $\mathrm{RSI}$ made a higher low. Thus the $\mathrm{RSI}$ has failed to confirm and the trend is very likely to reverse.
 
 >[!example] Proposition 5 : Hidden Divergence
->Say that prices made a lower high
+>Say that prices made a lower high and $\mathrm{RSI}$ made a higher high. Then it is a *bearish divergence*.
+>Say now that prices made a higher low, but $\mathrm{RSI}$ made a higher high. Then it is a *bearish divergence*.
 # Strategy
 
 ---
