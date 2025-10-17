@@ -56,6 +56,7 @@ For the **[[Moving Average]]**, the **[[Moving Average|exponential moving averag
 >$$
 # Interpretation
 ## 1. Idea
+$\mathrm{ADX}$ is a *==trend==* id
 The $\mathrm{ADX}$ is ==lagging== : the trend needs to be established before the $\mathrm{ADX}$ can indicates a signal that a trend is under way.
 ### A. Strength
 
