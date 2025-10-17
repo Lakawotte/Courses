@@ -10,7 +10,7 @@ cssclasses:
 # Theory
 ## I. Construction
 
->[!tip] Strength Index
+>[!tip] Definiton 1 : Strength Index
 >Let $C_t$ be the close price at time $t$, and $\mathrm{SMA}$ the **[[Moving Average|smoothed moving average]]**. Then we define
 >$$
 \begin{align}
@@ -22,6 +22,8 @@ cssclasses:
 >$$
 \mathrm{RS}:=\frac{\mathrm{SMA}_{N}(\mathrm{Up})}{\mathrm{SMA}_{N}(\mathrm{Down})}
 >$$
+
+>{}
 # Interpretation
 ## I.
 # Strategy

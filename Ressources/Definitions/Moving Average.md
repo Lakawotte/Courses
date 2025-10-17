@@ -21,7 +21,7 @@ cssclasses:
 \mathrm{SME}=\frac{X_{t-1}(n-1)+X_{t}}{n}
 >$$
 #### *==Note :==*
-One can easily see that it is the cur
+One can easily see that it is the current formula when $\alpha=\frac{1}{n}$.
 ### 2. Other formulas
 # Application
 ## I. Meaning
