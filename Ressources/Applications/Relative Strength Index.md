@@ -48,13 +48,14 @@ It shows how much the evolution of the price of an asset is strong. This is, it 
 >[!example] Proposition 2 : Overselling
 >Suppose a fast decreasing of prices indicates an oversold. Then if  $\mathrm{RSI}<30$, it is an *oversold* territory.
 ### B. Divergence
+
 >[!example] Proposition 3 : Bearish Divergence
 >Suppose that prices make a new high and the $\mathrm{RSI}$ made a lower high. Then it is a very strong reversal signal ; the turning point is imminent.
 
 >[!example] Proposition 4 : Bullish Divergence
 >Suppose that prices make a new low and the $\mathrm{RSI}$ made a higher low. Thus the $\mathrm{RSI}$ has failed to confirm and the trend is very likely to reverse.
 
-
+>[!example] Proposition 5 : Hidden Divergence
 # Strategy
 
 ---
