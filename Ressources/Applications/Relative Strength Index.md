@@ -24,7 +24,10 @@ cssclasses:
 >$$
 
 >[!tip] Definition 2 : $\mathrm{RSI}$
->Usi
+>Using $\mathrm{RS}$ we thus get
+>$$
+\mathrm{RSI}=100(1-\frac{1}{1+\mathrm{RS}})
+>$$
 # Interpretation
 ## I.
 # Strategy
