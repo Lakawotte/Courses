@@ -64,5 +64,6 @@ It shows how much the evolution of the price of an asset is strong. This is, it 
 >[!example] Proposition 6 :
 >When **[[Failure Swings]]** occurs a the sensitive zones of the $\mathrm{RSI}$ which are $70$ and $30$, it is a strong reversal signal.
 # Strategy
+## 1.
 
 ---
