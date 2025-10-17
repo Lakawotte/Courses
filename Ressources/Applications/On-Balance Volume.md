@@ -27,6 +27,8 @@ By definition, the $\mathrm{OBV}$ depends on the starting point of computation.
 $\mathrm{OBV}$ is generally used to confirm price moves. The idea is that **[[Volume]]** is higher on days where the price move is in the dominant direction.
 #### ==*Example :*==
 In a strong *uptrend*, there is more **[[Volume]]** on up days than down days, so the $\mathrm{OBV}$ is higher.
+#### ==*Note :==*
+Since $\mathrm{OBV}$ is computed on close prices of the day, it is not very useful
 ### A. Trends
 
 >[!example] Proposition 1 : Trends
@@ -43,6 +45,6 @@ One can draw *support* and *resistance* lines as a standard chart.
 If the $\mathrm{OBV}$ is breaking a *resistance* level, one should take a *long position*.
 If the $\mathrm{OBV}$ is breaking a *support* level, one should take a *short position*.
 
-Furthermore, a **[[Moving Average]]** of the $\mathrm{OBV}$ could indicate whether an *uptrend* or a *down*
+Furthermore, a **[[Moving Average]]** of the $\mathrm{OBV}$ could indicate whether an *uptrend* or a *downtrend* may be on its way.
 
 ---
