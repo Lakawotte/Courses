@@ -18,14 +18,16 @@ cssclasses:
 -\mathrm{VM}=|L_{t}-H_{t-1}|\\
 \end{align}
 >$$
->For a given period $N$, we then compute $\sum_{N}\mathrm{TR}$ and $\sum_{N}\pm\mathrm{VM}$ :
+>For a given period $N$, we then compute :
 >$$
 \begin{align}
-+\mathrm{VI}=\frac{\sum_{N}+\mathrm{VM}}{\sum_{N}\mathrm{TR}}\\
-+\mathrm{VI}=\frac{\sum_{N}+\mathrm{VM}}{\sum_{N}\mathrm{TR}}\\
++\mathrm{VI}=\frac{\sum_{N}+\mathrm{VM}}{\sum_{N}\mathrm{TR}_{N}}\\
+-\mathrm{VI}=\frac{\sum_{N}-\mathrm{VM}}{\sum_{N}\mathrm{TR}_{N}}\\
 \end{align}
 >$$
 >
+#### *==Note :==*
+As explicited, 
 # Interpretation
 ## I.
 # Strategy
