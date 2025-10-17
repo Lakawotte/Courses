@@ -35,7 +35,7 @@ Here $\mathrm{RSI}$ is *bounded* between $[0,1[$.
 >[!tip] Definition 3 : Slope
 >Considering $P$ the prices and $t$ the dates, one have
 >$$
-\mathrm{RSI}\propto\frac{\Delta P_{t}}{\Delta t}
+\frac{\Delta\mathrm{RSI}}{\Delta t}\propto\frac{\Delta P_{t}}{\Delta t}
 >$$
 # Interpretation
 ## I. Idea
