@@ -1,6 +1,7 @@
 Développer un patrimoine afin de lancer un fond dans 2/3 ans.
 Objectif : $200\,000$€ en 3ans.
-Capital : 
+Capital : $1\,000$€
+Rentabilité par mois :
 
 Structure : Accroissement du capital ; Soutiens pour avoir une certaine stabilité.
 
