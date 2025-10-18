@@ -45,7 +45,7 @@ The $\mathrm{ADI}$ is a mean to assess the ==*volume force*== behind the pricing
 >[!example] Proposition 3 : *Accumulation*
 >For a given period, if the $\mathrm{ADI}$ is rising, then *accumulation* may be higher and is a sign of the future upward breakout.
 
->[!example] Proposition 4 : *Distrbution*
+>[!example] Proposition 4 : *Distribution*
 >For a given period, if the $\mathrm{ADI}$ is falling, then *distribution* may be higher and is a sign of the future downward breakout.
 
 ### C. Divergence
