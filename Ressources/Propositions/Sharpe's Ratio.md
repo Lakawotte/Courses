@@ -22,7 +22,7 @@ S=\frac{R-r}{\sigma}
 ### 2. Other formulas
 # Application
 ## I. Meaning
-The Sharpe's ratio represents the profitability of gained per unit of risk in comparison from the referential. If the ratio is below $0$, the risky investment is worse than the usual. Otherwise, we have :
+The Sharpe's ratio represents the profitability gained per unit of risk in comparison from the referential. If the ratio is below $0$, the risky investment is worse than the usual. Otherwise, we have :
 - $0\le S\le 1$ : the risk taken is too much for the profitability expected
 - $S\ge 1$ : the over-performance is worth compared to the risks taken
 ## II. Use
