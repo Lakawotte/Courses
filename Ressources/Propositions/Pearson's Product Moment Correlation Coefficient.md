@@ -45,7 +45,7 @@ $$
 The analogy with the cosine function is very intuitive though ; the more related the variables are, the more their angle is small and so $\rho$ tends to 1.
 
 Moreover, it's a *parametric test*, which means that it will be difficult to use it with *aberrant values*.
-## II. Distinction between $tau_a$ and $r_s$
+## II. Distinction between $\tau_a$ and $r_s$
 ### A. **[[Expected Value]]**
 One can draw a representation of **[[Expected Value]]** from both *rank correlation coefficient* and Pearson's $\rho$ :
 #### *==Code==*
